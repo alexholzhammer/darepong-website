@@ -30,7 +30,7 @@ ogType: article
   {% if image %}
   <div class="post__hero-img">
     <div class="container">
-      <img src="{{ image }}" alt="{{ imageAlt or title }}" loading="eager">
+      <img src="{{ image | url }}" alt="{{ imageAlt or title }}" loading="eager">
     </div>
   </div>
   {% endif %}

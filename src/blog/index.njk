@@ -20,7 +20,7 @@ permalink: /blog/
       <a href="{{ post.url | url }}" class="post-card">
         {% if post.data.image %}
         <div class="post-card__img">
-          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+          <img src="{{ post.data.image | url }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
         </div>
         {% else %}
         <div class="post-card__img post-card__img--placeholder">
