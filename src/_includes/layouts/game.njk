@@ -1,0 +1,115 @@
+---
+layout: layouts/base.njk
+pageCSS: game.css
+---
+
+<main class="game">
+
+  {# ── Header ── #}
+  <div class="game__header">
+    <div class="container">
+      <div class="game__stats">
+        <span class="game__stat">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="6" cy="4" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="11" cy="5.5" r="2" stroke="currentColor" stroke-width="1.5"/><path d="M1 13c0-2.8 2.2-5 5-5s5 2.2 5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M11 10.5c1.4.4 2.5 1.7 2.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+          {{ players.min }}–{{ players.max }} Spieler
+        </span>
+        <span class="game__stat">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="8" cy="8" r="6.25" stroke="currentColor" stroke-width="1.5"/><path d="M8 5v3.5l2 1.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          {{ duration.min }}–{{ duration.max }} Min.
+        </span>
+        <span class="game__stat game__stat--energy-{{ energyLevel }}">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M9 2L4 9h4l-1 5 5-7H8l1-5z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>
+          {% if energyLevel == "high" %}Viel Energie{% elif energyLevel == "medium" %}Mittlere Energie{% else %}Entspannt{% endif %}
+        </span>
+        <span class="game__stat">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M8 1.5C5.5 1.5 3 3.7 3 6.5c0 3.8 5 8 5 8s5-4.2 5-8c0-2.8-2.5-5-5-5z" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="6.5" r="1.5" stroke="currentColor" stroke-width="1.5"/></svg>
+          {{ location | capitalize }}
+        </span>
+      </div>
+
+      <h1 class="game__title">{{ name }}</h1>
+      <p class="game__lede">{{ shortDescription }}</p>
+
+      <div class="game__tags">
+        {% for tag in tags %}
+        <span class="game__tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="game__layout">
+
+      {# ── Main column ── #}
+      <div class="game__main">
+
+        {# Body copy #}
+        <div class="game__body">
+          {{ content | safe }}
+        </div>
+
+        {# Rules #}
+        <section class="game__section">
+          <h2 class="game__section-title">Regeln</h2>
+          <ol class="game__rules">
+            {% for rule in rules %}
+            <li class="game__rule">
+              <span class="game__rule-num">{{ loop.index }}</span>
+              <p>{{ rule }}</p>
+            </li>
+            {% endfor %}
+          </ol>
+        </section>
+
+        {# Tips #}
+        {% if tips %}
+        <section class="game__section">
+          <h2 class="game__section-title">Tipps</h2>
+          <ul class="game__tips">
+            {% for tip in tips %}
+            <li class="game__tip">
+              <span class="game__tip-icon" aria-hidden="true">💡</span>
+              <p>{{ tip }}</p>
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+        {% endif %}
+
+      </div>
+
+      {# ── Sidebar ── #}
+      <aside class="game__sidebar">
+        <div class="game__equipment-card">
+          <h2 class="game__equipment-title">Equipment</h2>
+          <ul class="game__equipment-list">
+            {% for item in equipment %}
+            <li class="game__equipment-item">
+              <span class="game__equipment-check" aria-hidden="true">✓</span>
+              <div class="game__equipment-info">
+                {% if item.url %}
+                <a href="{{ item.url }}" class="game__equipment-name" target="_blank" rel="noopener sponsored">{{ item.name }}</a>
+                {% else %}
+                <span class="game__equipment-name">{{ item.name }}</span>
+                {% endif %}
+                {% if item.note %}
+                <span class="game__equipment-note">{{ item.note }}</span>
+                {% endif %}
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="game__cta-card">
+          <span class="eyebrow" style="color: var(--dp-beer)">Noch kein Dare Pong?</span>
+          <p>Bringt 120 Dare-Karten in eure nächste Runde Beer Pong.</p>
+          <a href="https://amzn.to/4nA0xYQ" class="btn-primary" target="_blank" rel="noopener">Auf Amazon — €19,99</a>
+        </div>
+      </aside>
+
+    </div>
+  </div>
+
+</main>

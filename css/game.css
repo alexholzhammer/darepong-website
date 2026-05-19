@@ -1,0 +1,325 @@
+/* =========================================================
+   DARE PONG — Game Page
+   ========================================================= */
+
+/* ---- Header ---- */
+
+.game__header {
+  background: var(--dp-black);
+  color: var(--dp-paper);
+  padding: 48px 0 56px;
+}
+
+.game__stats {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+}
+
+.game__stat {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255,255,255,.08);
+  border: 1px solid rgba(255,255,255,.1);
+  border-radius: var(--r-pill);
+  padding: 7px 13px;
+  font: 600 13px/1 var(--font-body);
+  color: var(--dp-bone);
+}
+
+.game__stat--energy-high {
+  background: rgba(225, 52, 43, .15);
+  border-color: rgba(225, 52, 43, .3);
+  color: #ff7a74;
+}
+
+.game__stat--energy-medium {
+  background: rgba(242, 184, 41, .15);
+  border-color: rgba(242, 184, 41, .3);
+  color: var(--dp-beer);
+}
+
+.game__title {
+  font: 400 clamp(40px, 6vw, 80px)/.9 var(--font-display);
+  letter-spacing: -.02em;
+  text-transform: uppercase;
+  -webkit-text-stroke: var(--display-stroke) currentColor;
+  margin-bottom: 16px;
+}
+
+.game__lede {
+  font: 400 19px/1.55 var(--font-body);
+  color: var(--dp-stone);
+  max-width: 58ch;
+  margin-bottom: 24px;
+}
+
+.game__tags {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.game__tag {
+  font: 600 11px/1 var(--font-body);
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--dp-beer);
+  background: rgba(242, 184, 41, .12);
+  border: 1px solid rgba(242, 184, 41, .2);
+  padding: 4px 10px;
+  border-radius: var(--r-1);
+}
+
+/* ---- Two-column layout ---- */
+
+.game__layout {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 56px;
+  padding: 56px 0 80px;
+  align-items: start;
+}
+
+/* ---- Main column ---- */
+
+.game__body {
+  font: 400 18px/1.7 var(--font-body);
+  color: var(--fg);
+  margin-bottom: 48px;
+  max-width: 66ch;
+}
+
+.game__body p { margin-bottom: 18px; }
+.game__body p:last-child { margin-bottom: 0; }
+
+.game__section {
+  margin-bottom: 48px;
+}
+
+.game__section-title {
+  font: 400 clamp(24px, 3vw, 36px)/1.05 var(--font-display);
+  letter-spacing: -.01em;
+  text-transform: uppercase;
+  color: var(--dp-black);
+  -webkit-text-stroke: var(--display-stroke) currentColor;
+  margin-bottom: 24px;
+  padding-bottom: 14px;
+  border-bottom: 2px solid var(--dp-black);
+}
+
+/* Rules */
+
+.game__rules {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.game__rule {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  gap: 16px;
+  align-items: start;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 20px 16px 16px;
+}
+
+.game__rule-num {
+  width: 40px;
+  height: 40px;
+  background: var(--dp-black);
+  color: #fff;
+  border-radius: 50%;
+  font: 700 16px/40px var(--font-display);
+  text-align: center;
+  flex-shrink: 0;
+  display: block;
+  -webkit-text-stroke: 0;
+}
+
+.game__rule p {
+  font: 400 16px/1.6 var(--font-body);
+  color: var(--fg-muted);
+  padding-top: 9px;
+}
+
+/* Tips */
+
+.game__tips {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.game__tip {
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  gap: 12px;
+  align-items: start;
+  background: var(--dp-foam);
+  border: 1px solid rgba(242, 184, 41, .25);
+  border-radius: 10px;
+  padding: 14px 18px 14px 14px;
+}
+
+.game__tip-icon {
+  font-size: 16px;
+  line-height: 1.6;
+  display: block;
+}
+
+.game__tip p {
+  font: 400 15px/1.6 var(--font-body);
+  color: var(--fg-muted);
+}
+
+/* ---- Sidebar ---- */
+
+.game__sidebar {
+  position: sticky;
+  top: 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.game__equipment-card {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-strong);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: var(--shadow-1);
+}
+
+.game__equipment-title {
+  font: 400 20px/1 var(--font-display);
+  letter-spacing: -.01em;
+  text-transform: uppercase;
+  color: var(--dp-black);
+  -webkit-text-stroke: var(--display-stroke) currentColor;
+  margin-bottom: 18px;
+}
+
+.game__equipment-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.game__equipment-item {
+  display: grid;
+  grid-template-columns: 22px 1fr;
+  gap: 10px;
+  align-items: start;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.game__equipment-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.game__equipment-check {
+  font: 700 13px/1.5 var(--font-body);
+  color: var(--dp-red);
+  display: block;
+  margin-top: 1px;
+}
+
+.game__equipment-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.game__equipment-name {
+  font: 600 14px/1.4 var(--font-body);
+  color: var(--dp-black);
+}
+
+a.game__equipment-name {
+  color: var(--dp-red);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+a.game__equipment-name:hover {
+  color: var(--dp-red-deep);
+}
+
+.game__equipment-note {
+  font: 400 12px/1.45 var(--font-body);
+  color: var(--dp-ash);
+}
+
+.game__cta-card {
+  background: var(--dp-black);
+  color: var(--dp-paper);
+  border-radius: 16px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.game__cta-card p {
+  font: 400 14px/1.5 var(--font-body);
+  color: var(--dp-stone);
+}
+
+.game__cta-card .btn-primary {
+  width: 100%;
+  margin-top: 4px;
+  font-size: 14px;
+  padding: 13px 16px;
+}
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 960px) {
+  .game__layout {
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding: 40px 0 60px;
+  }
+
+  .game__sidebar {
+    position: static;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+}
+
+@media (max-width: 600px) {
+  .game__sidebar {
+    grid-template-columns: 1fr;
+  }
+
+  .game__rule {
+    grid-template-columns: 36px 1fr;
+    gap: 12px;
+  }
+
+  .game__rule-num {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    font-size: 14px;
+  }
+
+  .game__body {
+    font-size: 17px;
+  }
+}
