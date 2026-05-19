@@ -21,6 +21,8 @@ faq:
 
 Du suchst nach einem Trinkspiel, das schnell, laut und einfach nur verrückt ist? Dann bist du beim **Rage Cage** genau richtig. Das Spiel bringt Chaos, Spaß und jede Menge Action auf jede Party. Kein Wunder, dass das **Rage Cage Trinkspiel** bei Studenten, in WGs und auf Festivals so beliebt ist.
 
+{% gamePreview "rage-cage" %}
+
 ## Was ist Rage Cage und was braucht man für das Spiel?
 
 Fragst du dich: **Was ist Rage Cage eigentlich?** Dann stell dir ein Trinkspiel vor, das Geschwindigkeit, Chaos und jede Menge Gelächter vereint. Manche nennen es auch „Stack Cup" oder „Boom Cup", aber am Ende läuft es immer auf dasselbe hinaus: viele Becher, ein paar Ping-Pong-Bälle und der Versuch, schneller zu treffen als dein Nebenmann.
