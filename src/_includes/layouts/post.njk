@@ -1,0 +1,69 @@
+---
+layout: layouts/base.njk
+pageCSS: post.css
+ogType: article
+---
+
+<main class="post">
+  <div class="post__header">
+    <div class="container">
+      <a href="/blog" class="post__back">&larr; Alle Artikel</a>
+      <div class="post__meta">
+        {% if tags %}
+        <div class="post__tags">
+          {% for tag in tags %}
+          {% if tag != "post" %}
+          <span class="post__tag">{{ tag }}</span>
+          {% endif %}
+          {% endfor %}
+        </div>
+        {% endif %}
+        <time class="post__date" datetime="{{ date | dateISO }}">{{ date | dateDE }}</time>
+      </div>
+      <h1 class="post__title">{{ title }}</h1>
+      {% if summary %}
+      <p class="post__summary">{{ summary }}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if image %}
+  <div class="post__hero-img">
+    <div class="container">
+      <img src="{{ image }}" alt="{{ imageAlt or title }}" loading="eager">
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="container">
+    <div class="post__body">
+      {{ content | safe }}
+    </div>
+
+    {% if faq %}
+    <div class="post__faq">
+      <h2 class="post__faq-title">Häufige Fragen</h2>
+      <div class="faq__list">
+        {% for item in faq %}
+        <div class="faq__item{% if loop.first %} is-open{% endif %}">
+          <button class="faq__question" onclick="toggleFaq(this)">
+            <span>{{ item.q }}</span>
+            <span class="faq__chevron">+</span>
+          </button>
+          <div class="faq__answer"><p>{{ item.a }}</p></div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    <div class="post__footer">
+      <div class="post__cta-box">
+        <span class="eyebrow">Noch kein Dare Pong?</span>
+        <p>120 wasserfeste Dares für Eure nächste Runde.</p>
+        <a href="https://www.amazon.de" class="btn-primary" target="_blank" rel="noopener">Jetzt auf Amazon sichern &mdash; &euro;19,99</a>
+      </div>
+      <a href="/blog" class="post__back-bottom">&larr; Zurück zum Blog</a>
+    </div>
+  </div>
+</main>

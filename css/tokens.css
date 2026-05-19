@@ -1,0 +1,107 @@
+/* =========================================================
+   DARE PONG — Design Tokens
+   ========================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Graduate&family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap');
+
+:root {
+  --dp-black:        #0E0E10;
+  --dp-charcoal:     #1A1A1D;
+  --dp-graphite:     #2A2A2E;
+  --dp-iron:         #3D3D42;
+  --dp-ash:          #6B6B72;
+  --dp-stone:        #A8A8AE;
+  --dp-bone:         #E5E1D8;
+  --dp-paper:        #F6F4EF;
+  --dp-white:        #FFFFFF;
+
+  --dp-red:          #E1342B;
+  --dp-red-deep:     #B82822;
+  --dp-red-bright:   #FF463C;
+
+  --dp-beer:         #F2B829;
+  --dp-beer-deep:    #C8911A;
+  --dp-foam:         #FFF7E3;
+
+  --dp-ember:        #FFB347;
+
+  --bg:              var(--dp-paper);
+  --bg-elevated:     var(--dp-white);
+  --bg-inset:        #ECE9E1;
+
+  --fg:              var(--dp-black);
+  --fg-muted:        #4A4A4F;
+  --fg-subtle:       var(--dp-ash);
+  --fg-on-accent:    var(--dp-white);
+
+  --border:          #1A1A1D14;
+  --border-strong:   #1A1A1D33;
+  --border-heavy:    var(--dp-black);
+
+  --accent:          var(--dp-red);
+  --accent-hover:    var(--dp-red-deep);
+  --accent-fg:       var(--dp-white);
+
+  --highlight:       var(--dp-beer);
+  --highlight-fg:    var(--dp-black);
+
+  --font-display:    'Graduate', 'Rockwell', Georgia, serif;
+  --font-impact:     'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --font-body:       'Inter', system-ui, -apple-system, Segoe UI, sans-serif;
+  --font-mono:       'JetBrains Mono', ui-monospace, Menlo, monospace;
+
+  --space-0:  0;
+  --space-1:  4px;
+  --space-2:  8px;
+  --space-3:  12px;
+  --space-4:  16px;
+  --space-5:  24px;
+  --space-6:  32px;
+  --space-7:  48px;
+  --space-8:  64px;
+  --space-9:  96px;
+  --space-10: 128px;
+
+  --r-0:  0px;
+  --r-1:  2px;
+  --r-2:  4px;
+  --r-3:  8px;
+  --r-pill: 999px;
+
+  --shadow-1: 0 1px 0 0 #1A1A1D14, 0 1px 2px -1px #1A1A1D33;
+  --shadow-2: 0 2px 0 0 #1A1A1D, 0 4px 0 -2px #1A1A1D14;
+  --shadow-3: 0 6px 0 0 #1A1A1D;
+  --shadow-press: 0 1px 0 0 #1A1A1D;
+
+  --ring-dashed: 1.5px dashed var(--dp-bone);
+
+  --ease-snap:  cubic-bezier(.2, .9, .2, 1);
+  --ease-thud:  cubic-bezier(.6, 0, .9, .4);
+  --dur-fast:   120ms;
+  --dur:        200ms;
+  --dur-slow:   320ms;
+
+  --container:  1200px;
+  --gutter:     24px;
+
+  /* Graduate bold simulation — font has one weight, stroke thickens it */
+  --display-stroke: 0.6px;
+}
+
+/* Apply to every element using the display font */
+[style*="--font-display"],
+.hero__title,
+.hero__bubble,
+.dares__title,
+.buy__title,
+.section-title,
+.blog-index__title,
+.post__title,
+.cta-banner__title,
+.site-header__brand,
+.site-footer__brand,
+.how__card-num,
+.buy__price,
+.faq .section-title {
+  -webkit-text-stroke: var(--display-stroke) currentColor;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "darepong-website",
+  "version": "1.0.0",
+  "description": "Dare Pong — Official Website",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^5.0.0"
+  }
+}

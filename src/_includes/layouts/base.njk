@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <meta name="robots" content="{{ robots or 'index, follow' }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:type" content="{{ ogType or 'website' }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ ogImage or site.ogImage }}">
+  <meta property="og:locale" content="{{ site.locale }}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ site.twitterHandle }}">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description or site.description }}">
+  <meta name="twitter:image" content="{{ ogImage or site.ogImage }}">
+
+  <!-- Structured Data -->
+  {% if jsonLdType == "product" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Product",
+        "name": "{{ site.product.name }}",
+        "description": "{{ site.product.description }}",
+        "sku": "{{ site.product.sku }}",
+        "brand": {
+          "@type": "Brand",
+          "name": "{{ site.product.brand }}"
+        },
+        "image": "{{ site.ogImage }}",
+        "offers": {
+          "@type": "Offer",
+          "price": "{{ site.product.price }}",
+          "priceCurrency": "{{ site.product.currency }}",
+          "availability": "{{ site.product.availability }}",
+          "url": "{{ site.product.amazonUrl }}",
+          "seller": {
+            "@type": "Organization",
+            "name": "{{ site.product.brand }}"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "{{ site.product.rating.value }}",
+          "reviewCount": "{{ site.product.rating.count }}",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {% for item in faq %}
+          {
+            "@type": "Question",
+            "name": {{ item.q | dump }},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{ item.a | dump }}
+            }
+          }{% if not loop.last %},{% endif %}
+          {% endfor %}
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "url": "{{ site.url }}",
+        "name": "{{ site.name }}"
+      }
+    ]
+  }
+  </script>
+  {% elif jsonLdType == "article" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "headline": {{ title | dump }},
+        "description": {{ (description or summary) | dump }},
+        "datePublished": "{{ date | dateISO }}",
+        "dateModified": "{{ date | dateISO }}",
+        "image": "{{ ogImage or site.ogImage }}",
+        "url": "{{ site.url }}{{ page.url }}",
+        "publisher": {
+          "@type": "Organization",
+          "name": "{{ site.name }}",
+          "url": "{{ site.url }}"
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "{{ site.url }}{{ page.url }}"
+        }
+      }{% if faq %},
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {% for item in faq %}
+          {
+            "@type": "Question",
+            "name": {{ item.q | dump }},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{ item.a | dump }}
+            }
+          }{% if not loop.last %},{% endif %}
+          {% endfor %}
+        ]
+      }{% endif %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KXSBKFDX');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Shared styles -->
+  <link rel="stylesheet" href="/css/global.css">
+  <!-- Page-specific styles -->
+  {% if pageCSS %}
+  <link rel="stylesheet" href="/css/{{ pageCSS }}">
+  {% endif %}
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXSBKFDX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="/" class="site-header__brand">Dare Pong</a>
+      <button class="site-header__toggle" aria-label="Menu" onclick="document.querySelector('.site-header__nav').classList.toggle('is-open')">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-header__nav">
+        <a href="/#how">So geht's</a>
+        <a href="/#dares">Dares</a>
+        <a href="/#buy">Kaufen</a>
+        <a href="/blog">Blog</a>
+        <a href="/#faq">FAQ</a>
+      </nav>
+      <a href="https://www.amazon.de" class="site-header__cta" target="_blank" rel="noopener">
+        <span>Auf Amazon kaufen</span>
+        <span class="site-header__cta-dot">&#8594;</span>
+      </a>
+    </div>
+  </header>
+
+  {{ content | safe }}
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <div class="site-footer__brand-col">
+        <span class="site-footer__brand">Dare Pong</span>
+        <span class="site-footer__tagline">Raus aus der Komfortzone!</span>
+        <span class="site-footer__legal">&copy; 2026 Spielleute GmbH &middot; Bremen, Deutschland</span>
+      </div>
+      <div class="site-footer__cols">
+        <div class="site-footer__col">
+          <span class="site-footer__col-head">Spiel</span>
+          <a href="/#how">So geht's</a>
+          <a href="/#dares">Dares</a>
+          <a href="/#buy">Kaufen</a>
+        </div>
+        <div class="site-footer__col">
+          <span class="site-footer__col-head">Hilfe</span>
+          <a href="/#faq">FAQ</a>
+          <a href="#">Versand</a>
+          <a href="/kontakt/">Kontakt</a>
+        </div>
+        <div class="site-footer__col">
+          <span class="site-footer__col-head">Folgen</span>
+          <a href="#">Instagram</a>
+          <a href="#">Facebook</a>
+          <a href="#">TikTok</a>
+        </div>
+        <div class="site-footer__col">
+          <span class="site-footer__col-head">Blog</span>
+          <a href="/blog">Alle Artikel</a>
+        </div>
+      </div>
+    </div>
+    <div class="site-footer__bottom">
+      <div class="site-footer__bottom-links">
+        <a href="/impressum/">Impressum</a>
+        <a href="/datenschutz/">Datenschutz</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/js/global.js"></script>
+  {% if pageJS %}
+  <script src="/js/{{ pageJS }}"></script>
+  {% endif %}
+
+</body>
+</html>

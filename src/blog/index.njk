@@ -1,0 +1,59 @@
+---
+layout: layouts/blog.njk
+title: Blog — Dare Pong
+description: Party-Tipps, Spielregeln und alles rund um Beer Pong und Dare Pong.
+permalink: /blog/
+---
+
+<main class="blog-index">
+  <div class="blog-index__header">
+    <div class="container">
+      <span class="eyebrow">Blog</span>
+      <h1 class="blog-index__title">Party-Wissen.<br>Direkt aus Bremen.</h1>
+      <p class="blog-index__lede">Spielregeln, Trinkspieltipps und alles, was Eure nächste Runde unvergesslich macht.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="blog-index__grid">
+      {% for post in collections.posts %}
+      <a href="{{ post.url }}" class="post-card">
+        {% if post.data.image %}
+        <div class="post-card__img">
+          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" loading="lazy">
+        </div>
+        {% else %}
+        <div class="post-card__img post-card__img--placeholder">
+          <svg width="48" height="56" viewBox="0 0 120 140" aria-hidden="true">
+            <ellipse cx="60" cy="34" rx="44" ry="8" fill="#FFF7E3" opacity=".4"/>
+            <path d="M22 34 L98 34 L88 130 L32 130 Z" fill="#E1342B" opacity=".4"/>
+            <path d="M22 34 L98 34 L96 42 L24 42 Z" fill="#B82822" opacity=".4"/>
+          </svg>
+        </div>
+        {% endif %}
+        <div class="post-card__body">
+          {% if post.data.tags %}
+          <div class="post-card__tags">
+            {% for tag in post.data.tags %}
+            {% if tag != "post" %}
+            <span class="post-card__tag">{{ tag }}</span>
+            {% endif %}
+            {% endfor %}
+          </div>
+          {% endif %}
+          <h2 class="post-card__title">{{ post.data.title }}</h2>
+          {% if post.data.summary %}
+          <p class="post-card__summary">{{ post.data.summary }}</p>
+          {% endif %}
+          <div class="post-card__meta">
+            <time datetime="{{ post.date | dateISO }}">{{ post.date | dateDE }}</time>
+            <span class="post-card__arrow">&rarr;</span>
+          </div>
+        </div>
+      </a>
+      {% else %}
+      <p class="blog-index__empty">Bald kommen neue Artikel. Schau wieder vorbei!</p>
+      {% endfor %}
+    </div>
+  </div>
+</main>
