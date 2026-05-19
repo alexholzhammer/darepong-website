@@ -1,0 +1,12 @@
+# Build output
+_site/
+
+# Dependencies
+node_modules/
+
+# macOS metadata
+.DS_Store
+
+# Eleventy cache
+.cache/
+.11ty-cache/
