@@ -390,6 +390,98 @@ button { font-family: inherit; cursor: pointer; }
 }
 
 /* =========================================================
+   GAME PREVIEW CARD — embeddable in blog posts
+   ========================================================= */
+
+.gp {
+  border: 2px solid var(--dp-black);
+  border-radius: 16px;
+  overflow: hidden;
+  margin: 32px 0;
+}
+
+.gp__inner {
+  padding: 24px 24px 20px;
+}
+
+.gp__meta {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+.gp__stat {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--bg-inset);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--r-pill);
+  padding: 5px 11px;
+  font: 600 12px/1 var(--font-body);
+  color: var(--fg-muted);
+}
+
+.gp__stat--energy-high {
+  background: rgba(225, 52, 43, .08);
+  border-color: rgba(225, 52, 43, .25);
+  color: var(--dp-red-deep);
+}
+
+.gp__stat--energy-medium {
+  background: rgba(242, 184, 41, .1);
+  border-color: rgba(242, 184, 41, .3);
+  color: var(--dp-beer-deep);
+}
+
+.gp__title {
+  font: 400 clamp(22px, 3vw, 30px)/1 var(--font-display);
+  letter-spacing: -.01em;
+  text-transform: uppercase;
+  color: var(--dp-black);
+  -webkit-text-stroke: var(--display-stroke) currentColor;
+  margin-bottom: 10px;
+}
+
+.gp__desc {
+  font: 400 15px/1.55 var(--font-body);
+  color: var(--fg-muted);
+  margin-bottom: 14px;
+}
+
+.gp__tags {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.gp__tag {
+  font: 600 10px/1 var(--font-body);
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--dp-beer-deep);
+  background: rgba(242, 184, 41, .1);
+  border: 1px solid rgba(242, 184, 41, .2);
+  padding: 3px 8px;
+  border-radius: var(--r-1);
+}
+
+.gp__cta {
+  display: block;
+  background: var(--dp-black);
+  color: var(--dp-paper);
+  padding: 16px 24px;
+  font: 700 14px/1 var(--font-body);
+  transition: background var(--dur-fast);
+  text-align: center;
+}
+
+.gp__cta:hover {
+  background: var(--dp-red);
+}
+
+/* =========================================================
    FAQ COMPONENT — shared across home + posts
    ========================================================= */
 

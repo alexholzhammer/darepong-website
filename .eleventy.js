@@ -55,6 +55,43 @@ module.exports = function (eleventyConfig) {
     return api.getFilteredByTag("post").sort((a, b) => b.date - a.date);
   });
 
+  // Games collection
+  eleventyConfig.addCollection("games", function (api) {
+    return api.getFilteredByTag("game");
+  });
+
+  // Game preview card shortcode — usage: {% gamePreview "rage-cage" %}
+  eleventyConfig.addShortcode("gamePreview", function (slug) {
+    const games = this.ctx && this.ctx.collections && this.ctx.collections.games || [];
+    const game = games.find(g => g.fileSlug === slug || (g.data && g.data.slug === slug));
+    if (!game) return "";
+
+    const d = game.data;
+    const pathPrefix = process.env.ELEVENTY_PATH_PREFIX || "/";
+    const url = pathPrefix.replace(/\/$/, "") + game.url;
+
+    const energyLabel = d.energyLevel === "high" ? "Viel Energie"
+      : d.energyLevel === "medium" ? "Mittlere Energie" : "Entspannt";
+
+    const tagsHtml = (d.tags || [])
+      .map(t => `<span class="gp__tag">${t}</span>`)
+      .join("");
+
+    return `<div class="gp">
+  <div class="gp__inner">
+    <div class="gp__meta">
+      <span class="gp__stat"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="6" cy="4" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="11" cy="5.5" r="2" stroke="currentColor" stroke-width="1.5"/><path d="M1 13c0-2.8 2.2-5 5-5s5 2.2 5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M11 10.5c1.4.4 2.5 1.7 2.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>${d.players.min}–${d.players.max} Spieler</span>
+      <span class="gp__stat"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="8" cy="8" r="6.25" stroke="currentColor" stroke-width="1.5"/><path d="M8 5v3.5l2 1.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>${d.duration.min}–${d.duration.max} Min.</span>
+      <span class="gp__stat gp__stat--energy-${d.energyLevel}"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M9 2L4 9h4l-1 5 5-7H8l1-5z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>${energyLabel}</span>
+    </div>
+    <h3 class="gp__title">${d.name}</h3>
+    <p class="gp__desc">${d.shortDescription}</p>
+    ${tagsHtml ? `<div class="gp__tags">${tagsHtml}</div>` : ""}
+  </div>
+  <a href="${url}" class="gp__cta">Spielanleitung lesen &rarr;</a>
+</div>`;
+  });
+
   // German date filter: "12. Mai 2026"
   eleventyConfig.addFilter("dateDE", function (date) {
     return new Date(date).toLocaleDateString("de-DE", {
