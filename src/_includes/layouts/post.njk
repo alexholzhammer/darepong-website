@@ -30,7 +30,7 @@ ogType: article
   {% if image %}
   <div class="post__hero-img">
     <div class="container">
-      <img src="{{ image | url }}" alt="{{ imageAlt or title }}" loading="eager">
+      {% responsiveImage image, (imageAlt or title), "(max-width: 1200px) 100vw, 1200px", "eager" %}
     </div>
   </div>
   {% endif %}
