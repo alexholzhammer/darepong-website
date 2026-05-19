@@ -33,7 +33,7 @@ Die Aufgaben haben wir über viele Jahre perfektioniert und immer wieder geteste
 
 Falls du noch eine besonders lustige Idee für das nächste Festival suchst, ist die Festivalversion von Dare Pong perfekt geeignet. Das Prinzip ist identisch, allerdings sind die Dares auf Festivals ausgerichtet und passen ideal in diese Welt.
 
-[Dare Pong - die beste Beer Pong Erweiterung](https://www.amazon.de/Dare-Pong%C2%AE-Trinkspiel-Vorgl%C3%BChen-Festivals/dp/B07SQGZG9W)
+[Dare Pong - die beste Beer Pong Erweiterung](https://amzn.to/4nA0xYQ)
 
 *Dare Pong - die beste Beer Pong Erweiterung*
 
