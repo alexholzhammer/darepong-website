@@ -134,10 +134,10 @@
   <!-- End Google Tag Manager -->
 
   <!-- Shared styles -->
-  <link rel="stylesheet" href="/css/global.css">
+  <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
   <!-- Page-specific styles -->
   {% if pageCSS %}
-  <link rel="stylesheet" href="/css/{{ pageCSS }}">
+  <link rel="stylesheet" href="{{ ('/css/' + pageCSS) | url }}">
   {% endif %}
 </head>
 <body>
@@ -148,16 +148,16 @@
 
   <header class="site-header">
     <div class="site-header__inner">
-      <a href="/" class="site-header__brand">Dare Pong</a>
+      <a href="{{ '/' | url }}" class="site-header__brand">Dare Pong</a>
       <button class="site-header__toggle" aria-label="Menu" onclick="document.querySelector('.site-header__nav').classList.toggle('is-open')">
         <span></span><span></span><span></span>
       </button>
       <nav class="site-header__nav">
-        <a href="/#how">So geht's</a>
-        <a href="/#dares">Dares</a>
-        <a href="/#buy">Kaufen</a>
-        <a href="/blog">Blog</a>
-        <a href="/#faq">FAQ</a>
+        <a href="{{ '/#how' | url }}">So geht's</a>
+        <a href="{{ '/#dares' | url }}">Dares</a>
+        <a href="{{ '/#buy' | url }}">Kaufen</a>
+        <a href="{{ '/blog' | url }}">Blog</a>
+        <a href="{{ '/#faq' | url }}">FAQ</a>
       </nav>
       <a href="https://www.amazon.de" class="site-header__cta" target="_blank" rel="noopener">
         <span>Auf Amazon kaufen</span>
@@ -178,15 +178,15 @@
       <div class="site-footer__cols">
         <div class="site-footer__col">
           <span class="site-footer__col-head">Spiel</span>
-          <a href="/#how">So geht's</a>
-          <a href="/#dares">Dares</a>
-          <a href="/#buy">Kaufen</a>
+          <a href="{{ '/#how' | url }}">So geht's</a>
+          <a href="{{ '/#dares' | url }}">Dares</a>
+          <a href="{{ '/#buy' | url }}">Kaufen</a>
         </div>
         <div class="site-footer__col">
           <span class="site-footer__col-head">Hilfe</span>
-          <a href="/#faq">FAQ</a>
+          <a href="{{ '/#faq' | url }}">FAQ</a>
           <a href="#">Versand</a>
-          <a href="/kontakt/">Kontakt</a>
+          <a href="{{ '/kontakt/' | url }}">Kontakt</a>
         </div>
         <div class="site-footer__col">
           <span class="site-footer__col-head">Folgen</span>
@@ -196,21 +196,21 @@
         </div>
         <div class="site-footer__col">
           <span class="site-footer__col-head">Blog</span>
-          <a href="/blog">Alle Artikel</a>
+          <a href="{{ '/blog' | url }}">Alle Artikel</a>
         </div>
       </div>
     </div>
     <div class="site-footer__bottom">
       <div class="site-footer__bottom-links">
-        <a href="/impressum/">Impressum</a>
-        <a href="/datenschutz/">Datenschutz</a>
+        <a href="{{ '/impressum/' | url }}">Impressum</a>
+        <a href="{{ '/datenschutz/' | url }}">Datenschutz</a>
       </div>
     </div>
   </footer>
 
-  <script src="/js/global.js"></script>
+  <script src="{{ '/js/global.js' | url }}"></script>
   {% if pageJS %}
-  <script src="/js/{{ pageJS }}"></script>
+  <script src="{{ ('/js/' + pageJS) | url }}"></script>
   {% endif %}
 
 </body>

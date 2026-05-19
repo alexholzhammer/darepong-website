@@ -29,6 +29,8 @@ jobs:
       - run: npm ci
 
       - run: npm run build
+        env:
+          ELEVENTY_PATH_PREFIX: /darepong-website/
 
       - uses: actions/configure-pages@v5
 
