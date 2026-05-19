@@ -7,7 +7,7 @@ ogType: article
 <main class="post">
   <div class="post__header">
     <div class="container">
-      <a href="/blog" class="post__back">&larr; Alle Artikel</a>
+      <a href="{{ '/blog' | url }}" class="post__back">&larr; Alle Artikel</a>
       <div class="post__meta">
         {% if tags %}
         <div class="post__tags">
@@ -63,7 +63,7 @@ ogType: article
         <p>120 wasserfeste Dares für Eure nächste Runde.</p>
         <a href="https://www.amazon.de" class="btn-primary" target="_blank" rel="noopener">Jetzt auf Amazon sichern &mdash; &euro;19,99</a>
       </div>
-      <a href="/blog" class="post__back-bottom">&larr; Zurück zum Blog</a>
+      <a href="{{ '/blog' | url }}" class="post__back-bottom">&larr; Zurück zum Blog</a>
     </div>
   </div>
 </main>
