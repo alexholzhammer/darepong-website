@@ -25,6 +25,10 @@ async function responsiveImage(src, alt, sizes, loading) {
     formats: ["webp", "jpeg"],
     outputDir: "./_site/img/",
     urlPath: pathPrefix + "img/",
+    filenameFormat: function (id, src, width, format) {
+      const name = path.basename(src, path.extname(src));
+      return `${name}-${width}.${format}`;
+    },
   });
 
   return Image.generateHTML(metadata, {
