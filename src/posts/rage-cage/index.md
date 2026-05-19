@@ -2,7 +2,7 @@
 title: "Rage Cage: Das Trinkspiel für legendäre Abende"
 date: 2025-09-18
 summary: "Erfahre alles über Rage Cage. Regeln (mit Video), Aufbau, die besten Lieder und Erweiterungen. Danach weißt du wie es geht und du viel Spaß damit hast!"
-image: /post/rage-cage/rage-cage-regeln-trinkspiel-anleitung.avif
+image: /post/rage-cage/rage-cage.avif
 imageAlt: "Rage Cage Trinkspiel Aufbau mit Bechern und Ping-Pong-Bällen auf einem Tisch"
 tags:
   - post
