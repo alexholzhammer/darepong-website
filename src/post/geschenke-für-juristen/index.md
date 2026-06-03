@@ -2,7 +2,7 @@
 title: "Geschenke für Juristen: Die 26 besten Ideen"
 date: 2023-10-25
 summary: "Du suchst Geschenke für Juristen? Hier findest du 26 erprobte und ausgfallene Ideen für jeden Geldbeutel. Freude und Anklang garantiert!"
-image: /post/geschenke-fuer-juristen/geschenke-fuer-juristen-beste-ideen.avif
+image: /post/geschenke-für-juristen/geschenke-fuer-juristen-beste-ideen.avif
 imageAlt: "Geschenke für Juristen – die 26 besten Ideen für jeden Anlass und Geldbeutel"
 tags:
   - post
