@@ -25,8 +25,6 @@ Du suchst andere [lustige Trinkspiele](/post/lustige-trinkspiele-f%C3%BCr-jede-s
 
 ## Das Film-Trinkspiel | Regeln und Inspirationen
 
-![Film Trinkspiel - teilweise wahnsinnige Regeln](film-trinkspiel-regeln-inspirationen.avif)
-
 Das Prinzip von Film Trinkspielen ist simpel: Wähle einen Film aus und legt gemeinsam fest, bei welchen Ereignissen, Aussagen oder Szenen getrunken werden muss. Zum Beispiel:
 
 - Jedes Mal, wenn ein bestimmtes Wort gesagt wird,
@@ -174,7 +172,5 @@ Diese Filme sind perfekt dafür geeignet, euren Filmabend in ein unterhaltsames 
 Schau dir jetzt die besten [Trinkspiele für Geburtstage](/post/trinkspiele-geburtstag) an!
 
 ## Abschließende Worte
-
-![Ein Trinkspiel mit Film ist ein toller Zeitvertreib](film-trinkspiel-zeitvertreib-freunde.avif)
 
 Film Trinkspiele sind eine fantastische Möglichkeit, um einen Filmabend mit Freunden in eine unvergessliche Erfahrung zu verwandeln. Sie bringen Spaß, Lacher und vielleicht auch ein wenig Wettbewerb. Wählt euren Film, setzt die Regeln und macht euch bereit für einen Abend voller Unterhaltung. Vergesst nicht, verantwortungsvoll zu trinken und sicherzustellen, dass alle Teilnehmenden Spaß haben. Schnappt euch eure Getränke, wählt einen Film aus dieser Liste aus, und lasst das Spiel beginnen!
