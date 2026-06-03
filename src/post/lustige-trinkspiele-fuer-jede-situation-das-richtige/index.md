@@ -2,7 +2,7 @@
 title: "Lustige Trinkspiele - für jede Situation das Richtige"
 date: 2024-01-26
 summary: "Wir haben die lustigsten Trinkspiele jeder Kategorie zusammengestellt. Egal ob zu zweit, in kleiner Runde oder auf einer großen Party – hier findest du das passende Spiel."
-image: /post/lustige-trinkspiele-für-jede-situation-das-richtige/lustige-trinkspiele-jede-situation.avif
+image: /post/lustige-trinkspiele-fuer-jede-situation-das-richtige/lustige-trinkspiele-jede-situation.avif
 imageAlt: "Lustige Trinkspiele für jede Situation - Freunde lachen beim Spielen"
 tags:
   - post
