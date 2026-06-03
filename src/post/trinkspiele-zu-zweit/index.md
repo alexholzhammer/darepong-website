@@ -35,8 +35,6 @@ Neugierig? Dann lest auf jeden Fall weiter!
 
 ## Die 10 besten Trinkspiele zu zweit mit Material: Klassiker & Neuheiten
 
-![Trinkspiele zu zweit machen große Freude](trinkspiele-zu-zweit-klassiker-neuheiten.avif)
-
 Mit diesen 10 Trinkspielen könnt ihr euch einen tollen Abend machen und Spaß haben, egal ob ihr Trinkspiele für Pärchen oder beste Freunde sucht.
 
 Es kommen spontan noch weitere Freunde? Kein Problem.
