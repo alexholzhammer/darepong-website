@@ -29,8 +29,6 @@ Also, lass die Korken knallen, sammle deine Freunde und tauche ein in die Welt d
 
 ## Trikspiele Geburtstag | Was macht die guten aus?
 
-![Die 10 besten Trinkspiele für Geburtstage](trinkspiele-geburtstag-beste-spiele.avif)
-
 Ein gutes Trinkspiel für Geburtstage zeichnet sich durch mehrere Schlüsselfaktoren aus, die es zu einem unvergesslichen und unterhaltsamen Erlebnis für alle Beteiligten machen.
 
 ### **Einfachheit der Regeln:**
@@ -262,8 +260,6 @@ Das Spiel hat kein formelles Ende und kann so lange fortgesetzt werden, wie die 
 - **Anpassung der Schwierigkeit**: Die Schwierigkeit des Spiels kann angepasst werden, indem die Entfernung zwischen dem Becher und der Kante, von der geschnippt wird, verändert wird.
 
 ### Buzz
-
-![Geburtstags-Trinkspiele sind ein echter Hit](trinkspiele-geburtstag-buzz-spiel.avif)
 
 #### Benötigte Materialien:
 
