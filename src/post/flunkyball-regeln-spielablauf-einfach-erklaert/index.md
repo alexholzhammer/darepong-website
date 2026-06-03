@@ -2,8 +2,8 @@
 title: "Flunkyball Regeln: Spielablauf einfach erklärt"
 date: 2026-05-10
 summary: "Flunkyball gehört zu den bekanntesten Trinkspielen Deutschlands. Hier lernt Ihr die offiziellen Regeln, typische Varianten und wie Ihr das Spiel mit Dare Pong auf ein neues Level hebt."
-image: /post/flunkyball.avif
-imageAlt: "Flunkyball Ausrüstung: Ball, Flaschen und Getränke auf dem Rasen"
+image: /post/flunkyball-regeln-spielablauf-einfach-erklaert/flunkyball.avif
+imageAlt: "Flunkyball spielt man mit Tennisball und einer Wasserflasche"
 tags:
   - post
   - Trinkspiele
