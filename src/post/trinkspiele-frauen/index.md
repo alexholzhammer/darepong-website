@@ -21,8 +21,6 @@ faq:
 
 Ein guter Mädelsabend braucht keine aufwendige Planung — aber die richtigen Spiele machen den Unterschied zwischen einem netten Abend und einer Nacht, über die Ihr noch Jahre später lacht. Hier kommen 9 Trinkspiele, die genau das liefern.
 
-![Gruppe Frauen lacht beim Trinkspiel auf dem Sofa mit Getränken](trinkspiele-frauen-maedelsabend.avif)
-
 ## Was macht Trinkspiele für Frauen aus?
 
 Die besten Spiele für Mädelsabende verbinden drei Dinge: sie bringen Euch zum Reden, zum Lachen und zum Staunen, was Ihr übereinander noch nicht wusstet. Kein Wettkampf, keine Verlierer — nur eine gute Zeit.
