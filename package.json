@@ -4,11 +4,14 @@
   "description": "Dare Pong — Official Website",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "deploy": "npm run build && wrangler deploy",
+    "preview": "npm run build && wrangler dev"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
-    "@11ty/eleventy-img": "^5.0.0"
+    "@11ty/eleventy-img": "^5.0.0",
+    "wrangler": "^4.97.0"
   },
   "dependencies": {
     "sharp": "^0.34.5"
