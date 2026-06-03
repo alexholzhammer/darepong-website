@@ -101,8 +101,6 @@ Ebenfalls interessant: [Trinkspiele mit Karten](/post/trinkspiele-mit-karten)!
 
 ## Lustiges Trinkspiel für Draußen: "Flunkyball"
 
-![Lustige Trinkspiele für Drei](lustige-trinkspiele-draussen-flunkyball.avif)
-
 "Flunkyball" ist ein fantastisches Outdoor-Trinkspiel, das Teamgeist und Zielgenauigkeit verbindet. Hier ist die "Ultimate Edition" mit zusätzlichen Regeln und Variationen:
 
 1. **Grundregeln**: Zwei Teams stehen sich in einiger Entfernung gegenüber, zwischen ihnen steht eine Flasche. Jeder Spieler hat ein gefülltes Getränk vor sich.
