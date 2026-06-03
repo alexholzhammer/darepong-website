@@ -71,7 +71,7 @@ Bei Partys mit vielen Leuten einfach die Teams vergrößern und mehrere Flaschen
 
 ## Flunkyball + Dare Pong: Die perfekte Kombination
 
-Wenn Ihr schon mal eine Flunkyball-Runde hinter Euch habt und die Stimmung noch weiter anheizen wollt, ist [Dare Pong](/post/darepong-vs-bier-pong-was-ist-der-unterschied/) die logische Erweiterung.
+Wenn Ihr schon mal eine Flunkyball-Runde hinter Euch habt und die Stimmung noch weiter anheizen wollt, ist [Dare Pong](https://www.darepong.eu/) die logische Erweiterung.
 
 Statt einfach nur zu trinken, wenn Euer Becher getroffen wird, müsst Ihr eine Dare erfüllen — oder trinken. 120 sorgfältig ausgewählte Karten, alle 100% wasserfest, damit auch der unvermeidliche Bierverschüttunfall kein Problem ist.
 
