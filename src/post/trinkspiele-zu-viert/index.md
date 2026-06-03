@@ -2,7 +2,7 @@
 title: "Trinkspiele zu viert - die besten 25+"
 date: 2025-11-08
 summary: "Hier findest du die besten Trinkspiele für 4 Personen. Trinspiele zu viert - gründlich getestet und für gut befunden!"
-image: /post/trinkspiele-zu-viert-die-beste-25/trinkspiele-zu-viert.avif
+image: /post/trinkspiele-zu-viert/trinkspiele-zu-viert.avif
 imageAlt: "Trinkspiele zu viert - die besten 25 Spiele für 4 Personen"
 tags:
   - post
