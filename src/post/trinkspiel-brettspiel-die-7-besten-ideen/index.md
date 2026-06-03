@@ -1,6 +1,6 @@
 ---
 title: "Trinkspiel Brettspiel - Die 7 besten Ideen!"
-date: 2024-01-30
+date: 2026-01-30
 summary: "Wir präsentieren die besten Trinkspiel-Brettspiele, die garantiert für Lacher und unvergessliche Momente sorgen. Perfekte Mischung aus Spaß und Herausforderung!"
 image: /post/trinkspiel-brettspiel-die-7-besten-ideen/trinkspiel-brettspiel-ideen-spieleabend.avif
 imageAlt: "Trinkspiel Brettspiel - kreative Ideen für den Spieleabend"
@@ -24,8 +24,6 @@ Hey, du!
 Suchst du nach einer spaßigen Möglichkeit, deinen Spieleabend aufzupeppen? Dann bist du hier genau richtig! Wir präsentieren dir die besten Trinkspiel-Brettspiele, die garantiert für Lacher und unvergessliche Momente sorgen. Egal, ob du ein Fan von klassischen Brettspielen oder auf der Suche nach etwas Neuem bist, hier findest du die perfekte Mischung aus Spaß und Herausforderung.
 
 ## Wieso sind Brettspiel-Trinkspiele so beliebt?
-
-![Trinkspiel Brettspiel - kreative Ideen für Jeden](trinkspiel-brettspiel-ideen-spieleabend.avif)
 
 **Trinkspiel-Brettspiele** haben einen besonderen Reiz, der weit über das bloße Zusammenspiel von Brettspiel und Alkohol hinausgeht. Sie vereinen die nostalgische Liebe zu Brettspielen aus unserer Kindheit mit einer Prise Erwachsenenhumor und geselligem Beisammensein. Diese Spiele bieten eine perfekte Balance zwischen vertrauter Strategie und unvorhersehbarem Spaß. Tipp: Besonders [lustige Trinkspiele](/post/lustige-trinkspiele-f%C3%BCr-jede-situation-das-richtige) findest du hier!
 
