@@ -31,6 +31,7 @@ function flipDare(index) {
     dareState[index] = null;
     cell.classList.remove('is-flipped');
     cell.innerHTML = CUP_SVG;
+    cell.setAttribute('aria-label', `Becher ${index + 1} umdrehen und Aufgabe aufdecken`);
     return;
   }
 
@@ -41,6 +42,7 @@ function flipDare(index) {
   const dare = free[Math.floor(Math.random() * free.length)];
   dareState[index] = dare;
   cell.classList.add('is-flipped');
+  cell.setAttribute('aria-label', `Dare ${dare.id}/120: ${dare.text}`);
   cell.innerHTML = `
     <div class="dare-cell__content">
       <span class="dare-cell__id">DARE ${dare.id}/120</span>
@@ -51,9 +53,10 @@ function flipDare(index) {
 function resetDares() {
   dareState = [null, null, null, null];
   const cells = document.querySelectorAll('.dare-cell');
-  cells.forEach(cell => {
+  cells.forEach((cell, index) => {
     cell.classList.remove('is-flipped');
     cell.innerHTML = CUP_SVG;
+    cell.setAttribute('aria-label', `Becher ${index + 1} umdrehen und Aufgabe aufdecken`);
   });
 }
 
