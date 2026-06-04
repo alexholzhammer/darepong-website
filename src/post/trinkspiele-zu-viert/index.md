@@ -23,8 +23,6 @@ Stell dir vor, es ist Wochenende, und du bist mit deinen drei besten Freunden zu
 
 ## Die 25 besten Trinkspiele zu viert - mit Erläuterungen
 
-![Trinkspiele zu viert - die besten Spiele für 4 Personen](trinkspiele-zu-viert-beste-spiele-4-personen.avif)
-
 1. **Kings Cup**: Ein Kartenspiel, bei dem jede Karte eine bestimmte Aktion bedeutet. Zum Beispiel: "2" für "Du", "3" für "Ich" und so weiter. Jede Regel löst eine Trinkaktion aus, bis der "King's Cup" getrunken werden muss.
 
 2. **Beer Pong**: Zwei Teams stehen sich an einem Tisch gegenüber, auf beiden Enden sind Becher in Pyramidenform aufgestellt. Ziel ist es, Tischtennisbälle in die gegnerischen Becher zu werfen. Trifft man, muss der Gegner den Becherinhalt trinken. Tipp: Mit [Dare Pong](https://www.darepong.eu) wird das Spiel noch geiler!
@@ -80,8 +78,6 @@ Denk daran, dass bei all diesen Spielen der Spaß im Vordergrund stehen sollte u
 Lesetipp: Finde hier die [besten Trinkspiele für Draußen](/post/trinkspiele-draussen)!
 
 ## Trinkspiele zu viert - was macht sie erfolgreich?
-
-![Ein Trinkspiel zu viert macht immer große Freude](trinkspiele-zu-viert-grosse-freude.avif)
 
 Die Magie von Trinkspielen zu viert liegt in ihrer Fähigkeit, eine Atmosphäre zu schaffen, in der sich alle wohlfühlen, miteinander lachen und neue Seiten aneinander entdecken können. Aber was genau sorgt dafür, dass Trinkspiele zu viert bei jungen Erwachsenen so beliebt sind?
 
