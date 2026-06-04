@@ -20,7 +20,7 @@ permalink: /blog/
       <a href="{{ post.url | url }}" class="post-card">
         {% if post.data.image %}
         <div class="post-card__img">
-          {% responsiveImage post.data.image, (post.data.imageAlt or post.data.title), "(max-width: 600px) 100vw, 400px" %}
+          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" sizes="(max-width: 600px) 100vw, 400px" loading="lazy">
         </div>
         {% else %}
         <div class="post-card__img post-card__img--placeholder">

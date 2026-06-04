@@ -501,7 +501,7 @@
   align-items: flex-start;
 }
 
-.reviews__head .eyebrow { color: var(--dp-red); }
+.reviews__head .eyebrow { color: var(--dp-red-deep); }
 
 .reviews__grid {
   display: grid;

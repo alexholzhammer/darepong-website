@@ -216,9 +216,9 @@
     </div>
   </footer>
 
-  <script src="{{ '/js/global.js' | url }}"></script>
+  <script src="{{ '/js/global.js' | url }}" defer></script>
   {% if pageJS %}
-  <script src="{{ ('/js/' + pageJS) | url }}"></script>
+  <script src="{{ ('/js/' + pageJS) | url }}" defer></script>
   {% endif %}
 
 </body>
