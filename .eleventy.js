@@ -2,7 +2,7 @@ const Image = require("@11ty/eleventy-img");
 const path = require("path");
 const fs = require("fs");
 
-async function responsiveImage(src, alt, sizes, loading) {
+async function responsiveImage(src, alt, sizes, loading, attrs = {}) {
   if (!src) return "";
 
   // Map output URL path to source file path
@@ -22,7 +22,7 @@ async function responsiveImage(src, alt, sizes, loading) {
   const pathPrefix = process.env.ELEVENTY_PATH_PREFIX || "/";
   const metadata = await Image(filePath, {
     widths: [400, 800, 1200, "auto"],
-    formats: ["webp", "jpeg"],
+    formats: ["avif", "webp", "jpeg"],
     outputDir: "./_site/img/",
     urlPath: pathPrefix + "img/",
     filenameFormat: function (id, src, width, format) {
@@ -31,11 +31,13 @@ async function responsiveImage(src, alt, sizes, loading) {
     },
   });
 
+  // Extra attributes (e.g. class, fetchpriority) can be passed as a final object argument.
   return Image.generateHTML(metadata, {
     alt: alt || "",
     sizes: sizes || "(max-width: 800px) 100vw, 800px",
     loading: loading || "lazy",
     decoding: "async",
+    ...attrs,
   });
 }
 
