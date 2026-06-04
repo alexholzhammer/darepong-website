@@ -1,48 +1,57 @@
-const Image = require("@11ty/eleventy-img");
-const path = require("path");
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 const fs = require("fs");
+const path = require("path");
 
-async function responsiveImage(src, alt, sizes, loading, attrs = {}) {
-  if (!src) return "";
+const INPUT_DIR = "src";
 
-  // Map output URL path to source file path
-  let filePath = src;
-  if (src.startsWith("/post/")) {
-    filePath = "src/post/" + src.slice("/post/".length);
-  } else if (src.startsWith("/assets/")) {
-    filePath = "src/assets/" + src.slice("/assets/".length);
-  } else if (src.startsWith("/")) {
-    filePath = "src" + src;
-  }
-
-  if (!fs.existsSync(filePath)) {
-    return `<img src="${src}" alt="${alt || ""}" loading="${loading || "lazy"}" decoding="async">`;
-  }
-
-  const pathPrefix = process.env.ELEVENTY_PATH_PREFIX || "/";
-  const metadata = await Image(filePath, {
-    widths: [400, 800, 1200, "auto"],
-    formats: ["avif", "webp", "jpeg"],
-    outputDir: "./_site/img/",
-    urlPath: pathPrefix + "img/",
-    filenameFormat: function (id, src, width, format) {
-      const name = path.basename(src, path.extname(src));
-      return `${name}-${width}.${format}`;
-    },
-  });
-
-  // Extra attributes (e.g. class, fetchpriority) can be passed as a final object argument.
-  return Image.generateHTML(metadata, {
-    alt: alt || "",
-    sizes: sizes || "(max-width: 800px) 100vw, 800px",
-    loading: loading || "lazy",
-    decoding: "async",
-    ...attrs,
-  });
+// Resolve an <img src> to its source file path (mirrors eleventy-img's logic):
+// absolute paths are relative to the content dir, relative paths to the template.
+function resolveImageSource(src, inputPath) {
+  if (!src || /^https?:\/\//i.test(src) || src.startsWith("data:")) return null;
+  if (path.isAbsolute(src)) return path.join(INPUT_DIR, src);
+  if (inputPath) return path.join(path.dirname(inputPath), src);
+  return null;
 }
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addAsyncShortcode("responsiveImage", responsiveImage);
+  // Guard (runs before the image transform via higher priority): if an <img>
+  // points at a missing local source, mark it `eleventy:ignore` so one broken
+  // content link can't fail the whole build/deploy. The tag is left untouched
+  // (renders as-is) and a warning is logged.
+  eleventyConfig.htmlTransformer.addPosthtmlPlugin(
+    "html",
+    (context) => (tree) => {
+      tree.match({ tag: "img" }, (node) => {
+        if (!node.attrs || node.attrs["eleventy:ignore"] !== undefined) return node;
+        const file = resolveImageSource(node.attrs.src, context.page && context.page.inputPath);
+        if (file && !fs.existsSync(file)) {
+          node.attrs["eleventy:ignore"] = "";
+          console.warn(`[images] Quelle fehlt, übersprungen: ${node.attrs.src} (in ${context.page && context.page.inputPath})`);
+        }
+        return node;
+      });
+      return tree;
+    },
+    { priority: 100 }
+  );
+
+  // Optimize every <img> in the rendered HTML automatically: generates AVIF/WebP
+  // + srcset and adds intrinsic width/height (prevents CLS). No per-image markup
+  // needed — plain <img src> tags and Markdown images are handled.
+  // Opt a single image out with the `eleventy:ignore` attribute (e.g. the
+  // hand-tuned LCP hero, which is already a pre-optimized AVIF).
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    formats: ["avif", "webp", "jpeg"],
+    widths: [400, 800, 1200, "auto"],
+    urlPath: "/img/",
+    outputDir: "./_site/img/",
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+      sizes: "(max-width: 800px) 100vw, 800px",
+    },
+  });
 
   // Pass through static files unchanged
   eleventyConfig.addPassthroughCopy("css");
