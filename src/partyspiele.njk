@@ -1,8 +1,9 @@
 ---
 layout: layouts/base.njk
 pageCSS: partyspiele.css
+pageJS: partyspiele.js
 title: Partyspiele — Regeln & Anleitungen | Dare Pong
-description: Die besten Partyspiele und Trinkspiele mit klaren Regeln, Equipment-Listen und Tipps. Von Beer Pong über Rage Cage bis Kings Cup — direkt von Dare Pong.
+description: Die besten Partyspiele und Trinkspiele mit klaren Regeln, Equipment-Listen und Tipps. Filtere nach Spieleranzahl, Intensität und Spiel-Art. Von Beer Pong über Rage Cage bis Kings Cup.
 permalink: /partyspiele/
 ---
 
@@ -11,17 +12,68 @@ permalink: /partyspiele/
     <div class="container">
       <span class="eyebrow">Partyspiele</span>
       <h1 class="games-hub__title">Partyspiele.<br>Regeln &amp; Anleitungen.</h1>
-      <p class="games-hub__lede">Die besten Trink- und Partyspiele für jede Runde — mit klaren Regeln, Equipment-Liste und Tipps. Sucht euch ein Spiel aus und legt los.</p>
+      <p class="games-hub__lede">Die besten Trink- und Partyspiele für jede Runde — mit klaren Regeln, Equipment-Liste und Tipps. Filtere nach Spieleranzahl, Intensität und Art und finde das passende Spiel.</p>
     </div>
   </div>
 
   <div class="container">
-    <div class="games-hub__grid">
+    {# ── Filter bar ── #}
+    <form class="games-filter" id="games-filter" aria-label="Spiele filtern">
+      <div class="games-filter__group">
+        <span class="games-filter__label">Spieleranzahl</span>
+        <div class="games-filter__chips">
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="players" data-min="2" data-max="2">Zu zweit</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="players" data-min="3" data-max="5">Kleine Runde (3–5)</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="players" data-min="6" data-max="99">Große Gruppe (6+)</button>
+        </div>
+      </div>
+
+      <div class="games-filter__group">
+        <span class="games-filter__label">Intensität</span>
+        <div class="games-filter__chips">
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="energy" data-energy="low">Entspannt</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="energy" data-energy="medium">Mittel</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="energy" data-energy="high">Viel Energie</button>
+        </div>
+      </div>
+
+      <div class="games-filter__group">
+        <span class="games-filter__label">Spiel-Art</span>
+        <div class="games-filter__chips">
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="art" data-tag="kartenspiel">Karten</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="art" data-tag="würfelspiel">Würfel</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="art" data-tag="tischspiel">Becher &amp; Tisch</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="art" data-tag="geschicklichkeit">Geschicklichkeit</button>
+        </div>
+      </div>
+
+      <div class="games-filter__group">
+        <span class="games-filter__label">Eigenschaften</span>
+        <div class="games-filter__chips">
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="eigenschaft" data-tag="ohne-material">Ohne Material</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="eigenschaft" data-tag="bier">Bier</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="eigenschaft" data-tag="klassiker">Klassiker</button>
+          <button type="button" class="games-filter__chip" aria-pressed="false" data-group="eigenschaft" data-tag="schnell">Schnell</button>
+        </div>
+      </div>
+
+      <div class="games-filter__bar">
+        <p class="games-filter__count" id="games-count" aria-live="polite"></p>
+        <button type="button" class="games-filter__reset" id="games-reset" hidden>Filter zurücksetzen</button>
+      </div>
+    </form>
+
+    {# ── Grid ── #}
+    <div class="games-hub__grid" id="games-grid">
       {% for game in collections.games %}
       {% gamePreview game.fileSlug %}
       {% else %}
       <p class="games-hub__empty">Bald kommen neue Spiele. Schau wieder vorbei!</p>
       {% endfor %}
     </div>
+
+    <p class="games-hub__noresults" id="games-noresults" hidden>
+      Keine Spiele passen zu dieser Auswahl. <button type="button" class="games-hub__noresults-reset">Filter zurücksetzen</button>
+    </p>
   </div>
 </div>

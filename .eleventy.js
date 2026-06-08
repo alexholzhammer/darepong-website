@@ -84,11 +84,20 @@ module.exports = function (eleventyConfig) {
     const energyLabel = d.energyLevel === "high" ? "Viel Energie"
       : d.energyLevel === "medium" ? "Mittlere Energie" : "Entspannt";
 
-    const tagsHtml = (d.tags || [])
+    // Exclude the "game" collection tag (added via games.json) — it's
+    // plumbing, not a user-facing category.
+    const tags = (d.tags || []).filter(t => t !== "game");
+    const tagsHtml = tags
       .map(t => `<span class="gp__tag">${t}</span>`)
       .join("");
 
-    return `<div class="gp">
+    // Data attributes power the filter on the Partyspiele hub. Harmless
+    // (ignored) when the card is embedded elsewhere, e.g. in blog posts.
+    const filterAttrs = `data-energy="${d.energyLevel}" `
+      + `data-players-min="${d.players.min}" data-players-max="${d.players.max}" `
+      + `data-tags="${tags.join(" ")}"`;
+
+    return `<div class="gp" ${filterAttrs}>
   <div class="gp__inner">
     <div class="gp__meta">
       <span class="gp__stat"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="6" cy="4" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="11" cy="5.5" r="2" stroke="currentColor" stroke-width="1.5"/><path d="M1 13c0-2.8 2.2-5 5-5s5 2.2 5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M11 10.5c1.4.4 2.5 1.7 2.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>${d.players.min}–${d.players.max} Spieler</span>
