@@ -75,7 +75,7 @@ Manchmal braucht man nur ein unkompliziertes Spiel, das trotzdem jede Menge Spa�
 
 [Stadt, Land, Vollpfosten Party-Edition](https://amzn.to/3BfU5CF)
 
-*Stadt, Land, Vollpfosten* ist die moderne (und oft viel lustigere) Version des bekannten Schreibspiels. Mit zusätzlichen Kategorien wie „Peinlichstes Tinder-Profil" oder „Dinge, die man niemals im Hörsaal tun sollte", sorgt es für jede Menge Gelächter.
+*Stadt, Land, Vollpfosten* ist die moderne (und oft viel lustigere) Version des bekannten Schreibspiels. Mit zusätzlichen Kategorien wie „Peinlichstes Tinder-Profil“ oder „Dinge, die man niemals im Hörsaal tun sollte“, sorgt es für jede Menge Gelächter.
 
 💡 **Warum es ein Must-have ist:** Es ist schnell zu verstehen, für alle Studienrichtungen geeignet und ideal, um sich mit neuen Freunden aus der Uni besser kennenzulernen.
 
@@ -83,7 +83,7 @@ Manchmal braucht man nur ein unkompliziertes Spiel, das trotzdem jede Menge Spa�
 
 [Secret Hitler für Politikstudenten](https://amzn.to/41me4Kt)
 
-In *Secret Hitler* geht es darum, heimlich Allianzen zu schmieden, um politische Macht zu erlangen – oder zu verhindern, dass der geheime „Hitler" an die Macht kommt. Dieses strategische Spiel bietet Spannung, Täuschung und jede Menge Diskussionen.
+In *Secret Hitler* geht es darum, heimlich Allianzen zu schmieden, um politische Macht zu erlangen – oder zu verhindern, dass der geheime „Hitler“ an die Macht kommt. Dieses strategische Spiel bietet Spannung, Täuschung und jede Menge Diskussionen.
 
 💡 **Warum Studenten es lieben:** Perfekt für Politikwissenschaftler, Kommunikationsstudenten oder alle, die Freude daran haben, ihre Freunde zu durchschauen.
 
@@ -109,7 +109,7 @@ Du fährst auf ein Festival? Hier findest du [die besten Festival Spiele für Er
 
 [Studentenspiele - Tabu ist der Klassiker](https://amzn.to/4fZ2Sbm)
 
-*Tabu* ist ein Klassiker, bei dem du Begriffe beschreiben musst, ohne bestimmte „verbotene" Wörter zu verwenden. Es sorgt für viele lustige Momente und Missverständnisse.
+*Tabu* ist ein Klassiker, bei dem du Begriffe beschreiben musst, ohne bestimmte „verbotene“ Wörter zu verwenden. Es sorgt für viele lustige Momente und Missverständnisse.
 
 💡 **Warum es ein Dauerbrenner ist:** Es fördert kreative Kommunikation und eignet sich hervorragend, um in gemischten Gruppen richtig Spaß zu haben.
 

@@ -25,9 +25,9 @@ equipment:
     note: Sorgt für eine zufällige und faire Auswahl, wer als Nächstes an der Reihe ist.
 rules:
   - Alle Spieler sitzen im Kreis. Reihum – oder per gedrehter Flasche – wird ein Spieler ausgewählt.
-  - Der Ausgewählte wird gefragt: „Wahrheit oder Pflicht?".
-  - Bei „Wahrheit" muss er eine ihm gestellte Frage ehrlich beantworten.
-  - Bei „Pflicht" muss er eine ihm gestellte Aufgabe ausführen.
+  - Der Ausgewählte wird gefragt: „Wahrheit oder Pflicht?“.
+  - Bei „Wahrheit“ muss er eine ihm gestellte Frage ehrlich beantworten.
+  - Bei „Pflicht“ muss er eine ihm gestellte Aufgabe ausführen.
   - Wer die Frage nicht beantworten oder die Aufgabe nicht erfüllen möchte, muss als Strafe trinken.
   - Anschließend ist der nächste Spieler an der Reihe, eine Frage oder Aufgabe zu stellen.
 tips:
@@ -38,7 +38,7 @@ tips:
   - Haltet ein paar Fragen und Aufgaben in Reserve, damit das Spiel im Fluss bleibt.
 ---
 
-Wahrheit oder Pflicht – international als „Truth or Dare" bekannt – ist wohl der bekannteste Klassiker unter den geselligen Partyspielen und in der Trinkspiel-Variante ein echter Stimmungsmacher. Das Prinzip ist zeitlos einfach: Jeder Spieler entscheidet sich, ob er lieber eine ehrliche Antwort gibt oder eine Aufgabe übernimmt – und wer sich vor beidem drücken will, muss zur Strafe trinken.
+Wahrheit oder Pflicht – international als „Truth or Dare“ bekannt – ist wohl der bekannteste Klassiker unter den geselligen Partyspielen und in der Trinkspiel-Variante ein echter Stimmungsmacher. Das Prinzip ist zeitlos einfach: Jeder Spieler entscheidet sich, ob er lieber eine ehrliche Antwort gibt oder eine Aufgabe übernimmt – und wer sich vor beidem drücken will, muss zur Strafe trinken.
 
 Das Besondere an Wahrheit oder Pflicht ist die Spannung vor jeder Entscheidung. Wählt man die vermeintlich harmlose Wahrheit und riskiert eine unangenehme Frage, oder doch lieber die Pflicht mit einer ungewissen Aufgabe? Genau dieses kleine Dilemma sorgt für Lacher, überraschende Geständnisse und mutige Momente – und macht das Spiel auch nach Jahren immer wieder neu unterhaltsam.
 

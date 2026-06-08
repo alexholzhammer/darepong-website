@@ -19,9 +19,9 @@ tags:
   - gesellig
   - ohne-material
 rules:
-  - Ein Spieler stellt eine „Was würdest du eher …?"-Frage mit zwei Möglichkeiten – zum Beispiel „… nie wieder Kaffee oder nie wieder Schokolade?".
+  - Ein Spieler stellt eine „Was würdest du eher …?“-Frage mit zwei Möglichkeiten – zum Beispiel „… nie wieder Kaffee oder nie wieder Schokolade?“.
   - Alle Mitspieler entscheiden sich heimlich für Option A oder Option B.
-  - Auf „Drei!" zeigen oder nennen alle gleichzeitig ihre Wahl.
+  - Auf „Drei!“ zeigen oder nennen alle gleichzeitig ihre Wahl.
   - Wer sich in der Minderheit befindet, muss trinken; sind beide Lager gleich groß, trinken alle.
   - Optional muss jeder seine Wahl kurz begründen – das sorgt für Diskussionen und Gelächter.
   - Danach ist der nächste Spieler mit einer neuen Entweder-oder-Frage an der Reihe.
@@ -33,7 +33,7 @@ tips:
   - Spielt mit leichten Getränken, da pro Frage immer ein Teil der Gruppe trinken muss.
 ---
 
-Was würdest du eher – im Englischen „Would You Rather", im Deutschen auch schlicht „Entweder oder" genannt – ist ein cleveres Dilemmaspiel, das jede Runde vor zwei knifflige Optionen stellt. Statt auf Geschicklichkeit kommt es hier auf die Entscheidung selbst an: Jeder muss sich zwischen zwei Möglichkeiten festlegen, und wer am Ende auf der weniger gewählten Seite steht, muss trinken.
+Was würdest du eher – im Englischen „Would You Rather“, im Deutschen auch schlicht „Entweder oder“ genannt – ist ein cleveres Dilemmaspiel, das jede Runde vor zwei knifflige Optionen stellt. Statt auf Geschicklichkeit kommt es hier auf die Entscheidung selbst an: Jeder muss sich zwischen zwei Möglichkeiten festlegen, und wer am Ende auf der weniger gewählten Seite steht, muss trinken.
 
 Das Besondere an Was würdest du eher ist die Diskussion, die fast jede Frage auslöst. Manche Dilemmata sind albern, andere überraschend tiefgründig – und oft entbrennt am Tisch ein hitziges Hin und Her darüber, welche Wahl denn nun die vernünftigere ist. Genau dieser Mix aus schneller Entscheidung und anschließender Debatte macht das Spiel so unterhaltsam und sorgt für überraschende Einblicke in die Mitspieler.
 

@@ -1,0 +1,151 @@
+/* =========================================================
+   DARE PONG — Partyspiele Hub
+   ========================================================= */
+
+.games-hub__header {
+  background: var(--dp-black);
+  color: var(--dp-paper);
+  padding: 64px 0 56px;
+}
+
+.games-hub__header .eyebrow {
+  color: var(--dp-beer);
+  display: block;
+  margin-bottom: 12px;
+}
+
+.games-hub__title {
+  font: 400 clamp(40px, 6vw, 80px)/.92 var(--font-display);
+  letter-spacing: -.02em;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+
+.games-hub__lede {
+  font: 400 18px/1.55 var(--font-body);
+  color: var(--dp-stone);
+  max-width: 52ch;
+}
+
+/* ---- Filter bar ---- */
+.games-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 40px;
+  padding: 32px 0 8px;
+}
+
+.games-filter__group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.games-filter__label {
+  font: 700 12px/1 var(--font-body);
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+}
+
+.games-filter__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.games-filter__chip {
+  background: var(--dp-white);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--r-pill);
+  padding: 8px 14px;
+  font: 600 13px/1 var(--font-body);
+  color: var(--dp-black);
+  transition: background var(--dur-fast), border-color var(--dur-fast),
+    color var(--dur-fast), transform var(--dur-fast);
+}
+
+.games-filter__chip:hover {
+  border-color: var(--dp-black);
+}
+
+.games-filter__chip[aria-pressed="true"] {
+  background: var(--dp-black);
+  border-color: var(--dp-black);
+  color: var(--dp-paper);
+}
+
+.games-filter__bar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.games-filter__count {
+  font: 600 14px/1 var(--font-body);
+  color: var(--fg-muted);
+}
+
+.games-filter__reset {
+  background: none;
+  border: 0;
+  padding: 0;
+  font: 600 14px/1 var(--font-body);
+  color: var(--dp-red);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.games-hub__noresults {
+  padding: 48px 0 64px;
+  text-align: center;
+  color: var(--fg-muted);
+  font: 400 18px/1.5 var(--font-body);
+}
+
+.games-hub__noresults-reset {
+  background: none;
+  border: 0;
+  padding: 0;
+  font: 600 18px/1.5 var(--font-body);
+  color: var(--dp-red);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.games-hub__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding: 24px 0 56px;
+  align-items: start;
+}
+
+/* Cards reuse the shared .gp component, but drop its blog-embed margin
+   so the grid gap controls spacing. */
+.games-hub__grid .gp {
+  margin: 0;
+}
+
+.games-hub__empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: var(--dp-iron);
+  padding: 48px 0;
+  font: 400 18px/1.5 var(--font-body);
+}
+
+@media (max-width: 960px) {
+  .games-hub__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .games-hub__grid {
+    grid-template-columns: 1fr;
+  }
+}
