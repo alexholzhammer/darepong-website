@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+pageCSS: partyspiele.css
+title: Partyspiele — Regeln & Anleitungen | Dare Pong
+description: Die besten Partyspiele und Trinkspiele mit klaren Regeln, Equipment-Listen und Tipps. Von Beer Pong über Rage Cage bis Kings Cup — direkt von Dare Pong.
+permalink: /partyspiele/
+---
+
+<div class="games-hub">
+  <div class="games-hub__header">
+    <div class="container">
+      <span class="eyebrow">Partyspiele</span>
+      <h1 class="games-hub__title">Partyspiele.<br>Regeln &amp; Anleitungen.</h1>
+      <p class="games-hub__lede">Die besten Trink- und Partyspiele für jede Runde — mit klaren Regeln, Equipment-Liste und Tipps. Sucht euch ein Spiel aus und legt los.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="games-hub__grid">
+      {% for game in collections.games %}
+      {% gamePreview game.fileSlug %}
+      {% else %}
+      <p class="games-hub__empty">Bald kommen neue Spiele. Schau wieder vorbei!</p>
+      {% endfor %}
+    </div>
+  </div>
+</div>

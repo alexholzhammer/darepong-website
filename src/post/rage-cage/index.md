@@ -25,7 +25,7 @@ Du suchst nach einem Trinkspiel, das schnell, laut und einfach nur verrückt ist
 
 ## Was ist Rage Cage und was braucht man für das Spiel?
 
-Fragst du dich: **Was ist Rage Cage eigentlich?** Dann stell dir ein Trinkspiel vor, das Geschwindigkeit, Chaos und jede Menge Gelächter vereint. Manche nennen es auch „Stack Cup" oder „Boom Cup", aber am Ende läuft es immer auf dasselbe hinaus: viele Becher, ein paar Ping-Pong-Bälle und der Versuch, schneller zu treffen als dein Nebenmann.
+Fragst du dich: **Was ist Rage Cage eigentlich?** Dann stell dir ein Trinkspiel vor, das Geschwindigkeit, Chaos und jede Menge Gelächter vereint. Manche nennen es auch „Stack Cup“ oder „Boom Cup“, aber am Ende läuft es immer auf dasselbe hinaus: viele Becher, ein paar Ping-Pong-Bälle und der Versuch, schneller zu treffen als dein Nebenmann.
 
 ![Rage Cage Regeln, Trinkspiel Aufbau und Anleitung](rage-cage-was-du-brauchst.webp)
 
@@ -34,7 +34,7 @@ Das Schöne am **Rage Cage Trinkspiel**: Du brauchst kein kompliziertes Equipmen
 Das gehört auf jeden Fall dazu:
 
 - **Plastikbecher** (Red Cups) – am besten 20 bis 30 Stück. Die werden im Kreis aufgestellt und mit einem Schluck Bier oder Mischgetränk gefüllt.
-- **Ein großer Becher in der Mitte** – er ist das „Endziel", gerne auch Bitch-Cup genannt. Meist wird er bis zum Rand gefüllt und sorgt für die spannendste (und oft unangenehmste) Überraschung am Schluss. Solltet ihr nur eine Bechergröße haben, müsst ihr hier mehr Bier einfüllen, oder mit Schnaps & Co arbeiten.
+- **Ein großer Becher in der Mitte** – er ist das „Endziel“, gerne auch Bitch-Cup genannt. Meist wird er bis zum Rand gefüllt und sorgt für die spannendste (und oft unangenehmste) Überraschung am Schluss. Solltet ihr nur eine Bechergröße haben, müsst ihr hier mehr Bier einfüllen, oder mit Schnaps & Co arbeiten.
 - **Ping-Pong-Bälle** – mindestens zwei Stück. Ohne sie läuft gar nichts.
 - **Getränke deiner Wahl** – klassisch ist Bier, aber du kannst auch Radler, Cider oder leichte Mischgetränke nehmen.
 
@@ -46,15 +46,15 @@ Jetzt wird's wild – hier kommen die offiziellen **Rage Cage Regeln**, so wie s
 
 ### 🔥 So funktioniert's – Schritt für Schritt
 
-1. **Startaufstellung** Zwei Spieler stehen sich gegenüber. Beide bekommen je einen Ping-Pong-Ball. Der Tisch ist voll mit gefüllten Bechern in der Mitte – einer davon ist der große „King's Cup".
+1. **Startaufstellung** Zwei Spieler stehen sich gegenüber. Beide bekommen je einen Ping-Pong-Ball. Der Tisch ist voll mit gefüllten Bechern in der Mitte – einer davon ist der große „King's Cup“.
 
-2. **„3, 2, 1 – Rage Cage!"** Die beiden starten gleichzeitig. Erst wird ein Becher aus der Mitte gegriffen und geext. Danach versucht man, den Ball mit einem Aufsetzer (also einmal auf dem Tisch auftippen lassen) in den leeren Becher zu treffen.
+2. **„3, 2, 1 – Rage Cage!“** Die beiden starten gleichzeitig. Erst wird ein Becher aus der Mitte gegriffen und geext. Danach versucht man, den Ball mit einem Aufsetzer (also einmal auf dem Tisch auftippen lassen) in den leeren Becher zu treffen.
 
 3. **Treffer? Nächster!** Triffst du, gibst du Becher + Ball **nach links** weiter. Wirfst du **beim allerersten Versuch direkt rein**, darfst du ihn sogar **an eine beliebige Person** weitergeben – das bringt extra Tempo ins Spiel.
 
 4. **Becher-Showdown** Kommt es dazu, dass zwei Becher direkt hintereinander unterwegs sind und der hintere trifft, **muss er seinen Becher in den des Spielers vor ihm reinstellen**. Das ist ein Rage-Moment – und sorgt für Chaos.
 
-5. **Gefangen? Trink!** Wurdest du „eingeholt" (also hat der hinter dir getroffen, bevor du es geschafft hast), musst du einen neuen Becher aus der Mitte exen und ab sofort mit diesem weiterspielen. Der Ball bleibt bei dir, der Stapel geht an den linken Nachbarn.
+5. **Gefangen? Trink!** Wurdest du „eingeholt“ (also hat der hinter dir getroffen, bevor du es geschafft hast), musst du einen neuen Becher aus der Mitte exen und ab sofort mit diesem weiterspielen. Der Ball bleibt bei dir, der Stapel geht an den linken Nachbarn.
 
 6. **Wichtig beim Nachbarn links** Wenn du direkt **links neben jemandem** sitzt und triffst beim ersten Versuch: **Du darfst den Becher nicht irgendwohin geben**, sondern **musst ihn in seinen Becher reinstellen**. Trifft er zuerst, geht's für ihn normal weiter.
 
@@ -125,13 +125,13 @@ Einige Becher in der Mitte kannst du mit besonderen Drinks füllen:
 
 - z. B. **Shots mit Hochprozentigem**,
 - ein **sehr saurer Drink**,
-- ein Mix aus allem (der „Schreckensbecher").
+- ein Mix aus allem (der „Schreckensbecher“).
 
 Wer diesen Becher erwischt, muss durch. Das sorgt garantiert für Reaktionen – und für noch mehr Spannung, wenn's zum nächsten Becher geht.
 
 ### 🎭 2. Aufgaben für Verlierer
 
-Wem der Becher in den Becher gestellt wird (also wer „eingeholt" wird), der muss nicht nur trinken, sondern zusätzlich eine kleine Aufgabe erledigen. Zum Beispiel:
+Wem der Becher in den Becher gestellt wird (also wer „eingeholt“ wird), der muss nicht nur trinken, sondern zusätzlich eine kleine Aufgabe erledigen. Zum Beispiel:
 
 - einen Witz erzählen,
 - eine Runde tanzen,
@@ -161,12 +161,12 @@ Wenn ihr viele Leute seid: Spielt in Teams! Zwei Spieler teilen sich einen Ball 
 
 Bereite vorher kleine Karten vor, auf denen Sonderregeln stehen. Ziehen darf man z. B. wenn man zum dritten Mal in Folge eingeholt wird. Beispiele:
 
-- „Du darfst deinen nächsten Becher weitergeben"
-- „Beim nächsten Wurf musst du mit der schwachen Hand werfen"
-- „Trinke doppelt, aber bestimme einen Mitspieler, der mittrinkt"
+- „Du darfst deinen nächsten Becher weitergeben“
+- „Beim nächsten Wurf musst du mit der schwachen Hand werfen“
+- „Trinke doppelt, aber bestimme einen Mitspieler, der mittrinkt“
 
 Das bringt neuen Schwung rein – besonders bei Gruppen, die das Spiel schon oft gespielt haben.
 
 ### 📷 6. Live-Kommentar & Highlights
 
-Schnappt euch eine Kamera oder macht Insta-Stories. Noch besser: Lasst einen Mitspieler das Spiel als „Sport-Kommentator" begleiten. Sätze wie „Oh, da zittert der Becher!", „Mutiger Wurf – und er geht rein!" machen das Ganze noch absurder – aber genau das ist der Spaß.
+Schnappt euch eine Kamera oder macht Insta-Stories. Noch besser: Lasst einen Mitspieler das Spiel als „Sport-Kommentator“ begleiten. Sätze wie „Oh, da zittert der Becher!“, „Mutiger Wurf – und er geht rein!“ machen das Ganze noch absurder – aber genau das ist der Spaß.

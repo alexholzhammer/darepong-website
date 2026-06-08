@@ -45,7 +45,7 @@ Beide Teams stellen sich in einer Reihe gegenüber auf, etwa 10–15 Meter ausei
 
 1. **Ein Spieler wirft** den Ball und versucht, die Zielflasche umzuwerfen.
 2. **Flasche umgeworfen?** Das gesamte werfende Team darf sofort trinken.
-3. **Gegnerisches Team rennt** zur Flasche, stellt sie wieder auf und ruft laut: **„STOPP!"**
+3. **Gegnerisches Team rennt** zur Flasche, stellt sie wieder auf und ruft laut: **„STOPP!“**
 4. Ab dem Stopp-Ruf **muss das Trinkteam sofort aufhören** zu trinken.
 5. Dann ist das andere Team an der Reihe zu werfen.
 6. **Gewonnen hat das Team**, dessen alle Spieler ihr Getränk als erstes geleert haben.
@@ -60,11 +60,11 @@ Beide Teams stellen sich in einer Reihe gegenüber auf, etwa 10–15 Meter ausei
 
 ## Häufige Varianten
 
-### „Biathlon-Flunkyball"
+### „Biathlon-Flunkyball“
 Trifft ein Spieler nicht, muss er eine Strafrunde trinken, bevor er das nächste Mal werfen darf. Erhöht den Druck deutlich.
 
-### „King Flunkyball"
-Wer die Flasche umwirft, darf sofort eine Regel festlegen — z. B. „alle trinken mit links" oder „kein Lachen beim Trinken". Regeln gelten für den Rest des Spiels.
+### „King Flunkyball“
+Wer die Flasche umwirft, darf sofort eine Regel festlegen — z. B. „alle trinken mit links“ oder „kein Lachen beim Trinken“. Regeln gelten für den Rest des Spiels.
 
 ### Teamgröße anpassen
 Bei Partys mit vielen Leuten einfach die Teams vergrößern und mehrere Flaschen in die Mitte stellen. Für jede umgeworfene Flasche gibt es eine Trinkphase.

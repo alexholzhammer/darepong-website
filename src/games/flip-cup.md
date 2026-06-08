@@ -31,7 +31,7 @@ equipment:
 rules:
   - Bildet zwei gleich große Teams, die sich an den Längsseiten des Tisches gegenüberstehen – jeder Spieler steht direkt gegenüber einem Gegner.
   - Jeder Spieler bekommt einen Becher, der mit der gleichen, kleinen Menge Bier gefüllt wird.
-  - Auf „Los!" starten die beiden ersten Spieler jedes Teams gleichzeitig und trinken ihren Becher komplett leer.
+  - Auf „Los!“ starten die beiden ersten Spieler jedes Teams gleichzeitig und trinken ihren Becher komplett leer.
   - Anschließend stellen sie den leeren Becher mit der Öffnung nach oben an die Tischkante, sodass er etwas übersteht.
   - Mit einem Schnipp von unten gegen den Becherrand muss der Becher so gedreht werden, dass er kopfüber auf dem Tisch stehen bleibt.
   - Erst wenn der Flip sitzt, darf der nächste Spieler im Team starten – so geht es die Reihe entlang.
@@ -45,7 +45,7 @@ tips:
   - Spielt mit leichtem Bier – durch das schnelle Austrinken geht Flip Cup ordentlich ins Tempo.
 ---
 
-Flip Cup – im deutschsprachigen Raum manchmal auch „Becher-Flippen" genannt – ist ein rasantes Team-Trinkspiel, das ebenfalls aus den USA stammt und dort zu den absoluten Party-Standards gehört. Im Gegensatz zu Beer Pong, bei dem es auf Treffsicherheit ankommt, ist Flip Cup eine reine Geschwindigkeits-Staffel: Es geht darum, möglichst schnell auszutrinken und den Becher mit einem geschickten Schnipp umzudrehen.
+Flip Cup – im deutschsprachigen Raum manchmal auch „Becher-Flippen“ genannt – ist ein rasantes Team-Trinkspiel, das ebenfalls aus den USA stammt und dort zu den absoluten Party-Standards gehört. Im Gegensatz zu Beer Pong, bei dem es auf Treffsicherheit ankommt, ist Flip Cup eine reine Geschwindigkeits-Staffel: Es geht darum, möglichst schnell auszutrinken und den Becher mit einem geschickten Schnipp umzudrehen.
 
 Das Besondere an Flip Cup ist der Staffel-Charakter und der unmittelbare Wettkampf Kopf an Kopf. Da immer nur ein Spieler pro Team gleichzeitig an der Reihe ist, fiebert die ganze Gruppe mit – ein einziger misslungener Flip kann ein Team von der Spitze zurückwerfen. Genau dieser Druck sorgt für lautstarken Anfeuerungschaos und macht das Spiel innerhalb von Sekunden zum Stimmungsmacher. Eine Runde dauert oft nur eine Minute, weshalb gleich mehrere Durchgänge hintereinander gespielt werden.
 

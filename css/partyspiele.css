@@ -1,0 +1,62 @@
+/* =========================================================
+   DARE PONG — Partyspiele Hub
+   ========================================================= */
+
+.games-hub__header {
+  background: var(--dp-black);
+  color: var(--dp-paper);
+  padding: 64px 0 56px;
+}
+
+.games-hub__header .eyebrow {
+  color: var(--dp-beer);
+  display: block;
+  margin-bottom: 12px;
+}
+
+.games-hub__title {
+  font: 400 clamp(40px, 6vw, 80px)/.92 var(--font-display);
+  letter-spacing: -.02em;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+
+.games-hub__lede {
+  font: 400 18px/1.55 var(--font-body);
+  color: var(--dp-stone);
+  max-width: 52ch;
+}
+
+.games-hub__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding: 56px 0;
+  align-items: start;
+}
+
+/* Cards reuse the shared .gp component, but drop its blog-embed margin
+   so the grid gap controls spacing. */
+.games-hub__grid .gp {
+  margin: 0;
+}
+
+.games-hub__empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: var(--dp-iron);
+  padding: 48px 0;
+  font: 400 18px/1.5 var(--font-body);
+}
+
+@media (max-width: 960px) {
+  .games-hub__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .games-hub__grid {
+    grid-template-columns: 1fr;
+  }
+}

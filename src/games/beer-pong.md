@@ -37,17 +37,17 @@ rules:
   - Füllt jeden Becher etwa zu einem Drittel mit Bier und stellt an jede Tischseite einen Wasserbecher zum Abspülen der Bälle.
   - Zwei Teams stehen sich an den Tischenden gegenüber und werfen abwechselnd – pro Runde wirft jeder Spieler eines Teams einen Ball.
   - Landet ein Ball in einem Becher, muss das gegnerische Team diesen Becher austrinken und vom Tisch nehmen.
-  - Treffen beide Teamkollegen in derselben Runde, gibt es die Bälle zurück („Balls Back") und das Team darf erneut werfen.
-  - Ein Ball, der zuerst aufspringt und dann im Becher landet („Bounce Shot"), zählt doppelt – darf vom Gegner aber mit der Hand abgewehrt werden.
-  - Sind nur noch wenige Becher übrig, darf das werfende Team einmal pro Spiel ein „Re-Rack" verlangen und die Becher neu anordnen lassen.
+  - Treffen beide Teamkollegen in derselben Runde, gibt es die Bälle zurück („Balls Back“) und das Team darf erneut werfen.
+  - Ein Ball, der zuerst aufspringt und dann im Becher landet („Bounce Shot“), zählt doppelt – darf vom Gegner aber mit der Hand abgewehrt werden.
+  - Sind nur noch wenige Becher übrig, darf das werfende Team einmal pro Spiel ein „Re-Rack“ verlangen und die Becher neu anordnen lassen.
   - Wer alle gegnerischen Becher zuerst trifft, gewinnt – das Verliererteam trinkt die übrigen Becher aus.
-  - Optional gilt die „Rebuttal"-Regel: Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal nachwerfen und bei Treffer in die Verlängerung gehen.
+  - Optional gilt die „Rebuttal“-Regel: Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal nachwerfen und bei Treffer in die Verlängerung gehen.
 tips:
   - Spielt mit leichtem Bier oder Wasser-Bier-Mix – über ein ganzes Spiel summieren sich die Becher schnell.
   - Spült die Bälle nach jedem Wurf im Wasserbecher ab, das hält das Spiel halbwegs hygienisch.
   - Ein gleichmäßiger Bogenwurf trifft deutlich zuverlässiger als ein flacher, harter Wurf.
   - Legt die Hausregeln (Bounce, Re-Rack, Rebuttal) vor dem ersten Wurf gemeinsam fest, das vermeidet Diskussionen.
-  - Achtet darauf, dass die Ellbogen beim Wurf hinter der Tischkante bleiben – die klassische „Ellbogen-Regel".
+  - Achtet darauf, dass die Ellbogen beim Wurf hinter der Tischkante bleiben – die klassische „Ellbogen-Regel“.
 ---
 
 Beer Pong ist der wohl bekannteste Vertreter unter allen Trinkspielen und gilt als absoluter Klassiker auf jeder Party. Ursprünglich an US-amerikanischen Colleges entstanden, hat sich das Spiel längst weltweit etabliert – es gibt sogar offizielle Turniere und Meisterschaften. Das Prinzip ist denkbar einfach: Zwei Teams stehen sich an einem langen Tisch gegenüber und versuchen abwechselnd, einen Tischtennisball in die Becherpyramide des Gegners zu werfen.

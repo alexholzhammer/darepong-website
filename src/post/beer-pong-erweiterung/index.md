@@ -41,7 +41,7 @@ Falls du noch eine besonders lustige Idee für das nächste Festival suchst, ist
 
 Riesen-Beerpong bringt das klassische Beer Pong auf ein völlig neues Niveau – im wahrsten Sinne des Wortes! Bei dieser überdimensionalen Variante des beliebten Partyspiels werden die kleinen Becher durch große Eimer ersetzt, während der Ball durch einen Volleyball, Fußball oder sogar einen Wasserball ausgetauscht wird. Diese Beer Pong Erweiterung ist ideal für Outdoor-Partys, Strandbesuche, Gartenfeste oder Sommer-Events, bei denen genügend Platz für die XXL-Version vorhanden ist.
 
-Das Prinzip bleibt gleich: Zwei Teams versuchen, den Ball in die gegnerischen „Becher" (Eimer) zu werfen, die strategisch aufgestellt werden. Trifft ein Team einen Eimer, muss dieser aus dem Spiel genommen werden – und die Gegner trinken. Die Herausforderung bei Riesen-Beerpong liegt in der Größe und Distanz: Präzision und ein gutes Ballgefühl sind entscheidend, um die Eimer aus der Ferne zu treffen.
+Das Prinzip bleibt gleich: Zwei Teams versuchen, den Ball in die gegnerischen „Becher“ (Eimer) zu werfen, die strategisch aufgestellt werden. Trifft ein Team einen Eimer, muss dieser aus dem Spiel genommen werden – und die Gegner trinken. Die Herausforderung bei Riesen-Beerpong liegt in der Größe und Distanz: Präzision und ein gutes Ballgefühl sind entscheidend, um die Eimer aus der Ferne zu treffen.
 
 Diese Variante sorgt nicht nur für jede Menge Spaß, sondern auch für Bewegung. Gleichzeitig bietet sie eine großartige Möglichkeit, die Spannung und Dynamik von Beer Pong auf größere Gruppen auszuweiten. Besonders lustig wird es, wenn der Ball im Spiel umherrollt und alle versuchen, ihn wieder unter Kontrolle zu bringen!
 
@@ -96,7 +96,7 @@ Bei dieser Version bleibt das Grundprinzip von Beer Pong gleich: Zwei Teams vers
 **So funktioniert es:**
 
 - Richte Hindernisse auf der Spielfläche ein, die den Ballwurf erschweren. Beispiele sind Rampen, schmale Durchgänge oder abschüssige Flächen.
-- Erlaube spezielle Regeln wie „Trickwürfe" oder „Bank Shots", um die Becher zu treffen.
+- Erlaube spezielle Regeln wie „Trickwürfe“ oder „Bank Shots“, um die Becher zu treffen.
 - Passe die Schwierigkeit an die Fähigkeiten der Spieler an, damit Anfänger und Profis gleichermaßen Spaß haben.
 
 Profi-Beerpong mit Hindernissen ist nicht nur herausfordernd, sondern auch extrem abwechslungsreich. Es erfordert Geschick, Präzision und taktisches Denken, was jede Runde einzigartig macht.
@@ -151,7 +151,7 @@ Diese Variante erfordert nicht nur Präzision beim Werfen, sondern auch schnelle
 **Optionale Regeln für noch mehr Spaß:**
 
 - **Hindernisse:** Spieler müssen vor ihrem Wurf eine kleine Herausforderung meistern, z. B. einen Ball dribbeln oder eine Drehung machen.
-- **Spezialwürfe:** Spieler dürfen nur Trickwürfe ausführen, wie „Bank Shots" oder Würfe mit der schwächeren Hand.
+- **Spezialwürfe:** Spieler dürfen nur Trickwürfe ausführen, wie „Bank Shots“ oder Würfe mit der schwächeren Hand.
 
 **Tipp:** Team Relay Pong ist besonders unterhaltsam mit thematischer Musik im Hintergrund, die das Wettkampfgefühl verstärkt. Diese Variante garantiert Lacher, Action und jede Menge Teamgeist!
 

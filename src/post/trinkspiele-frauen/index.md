@@ -34,9 +34,9 @@ Alle Spiele hier lassen sich flexibel anpassen: Gruppengrößen, Getränkepräfe
 Der Klassiker, aber richtig gemacht. Eine Flasche wird gedreht, die Spielerin, auf die sie zeigt, wählt: **Wahrheit** oder **Pflicht**.
 
 **Beispiel-Wahrheit-Fragen:**
-- „Was war Dein peinlichstes Date-Erlebnis?"
-- „Über welche Eigenschaft an Dir bist Du heimlich stolz?"
-- „Gibt es etwas, das Du schon immer mal tun wolltest, Dich aber nie getraut hast?"
+- „Was war Dein peinlichstes Date-Erlebnis?“
+- „Über welche Eigenschaft an Dir bist Du heimlich stolz?“
+- „Gibt es etwas, das Du schon immer mal tun wolltest, Dich aber nie getraut hast?“
 
 **Beispiel-Pflichten:**
 - Tanzperformance zum aktuellen Lieblingslied
@@ -49,13 +49,13 @@ Der Klassiker, aber richtig gemacht. Eine Flasche wird gedreht, die Spielerin, a
 
 ### 2. Ich hab noch nie – ein Spiel voller Geständnisse
 
-Alle halten ihr Getränk. Eine Spielerin beginnt einen Satz mit „Ich hab noch nie…". Wer das Genannte schon getan hat, trinkt.
+Alle halten ihr Getränk. Eine Spielerin beginnt einen Satz mit „Ich hab noch nie…“. Wer das Genannte schon getan hat, trinkt.
 
 **Beispiele:**
-- „Ich hab noch nie online gedatet."
-- „Ich hab noch nie einen ganzen Tag ohne Handy verbracht."
-- „Ich hab noch nie bei einem Film geweint."
-- „Ich hab noch nie eine heimliche Bewunderung für jemanden aus dieser Runde gehabt."
+- „Ich hab noch nie online gedatet.“
+- „Ich hab noch nie einen ganzen Tag ohne Handy verbracht.“
+- „Ich hab noch nie bei einem Film geweint.“
+- „Ich hab noch nie eine heimliche Bewunderung für jemanden aus dieser Runde gehabt.“
 
 **Tipp:** Je ehrlicher die Antworten, desto besser das Spiel. Klärt vorher, wie persönlich die Aussagen werden sollen — das setzt den Ton für den Abend.
 
@@ -81,7 +81,7 @@ Einen Film einlegen und Trinkregeln für bestimmte Szenen, Phrasen oder Handlung
 
 **Regelbeispiele:**
 - **Harry Potter:** Trinken bei jedem Zauberspruch
-- **Der Teufel trägt Prada:** Trinken bei „Das ist alles" oder einer neuen Aufgabe für Andy
+- **Der Teufel trägt Prada:** Trinken bei „Das ist alles“ oder einer neuen Aufgabe für Andy
 - **Bridget Jones:** Trinken bei jedem Tagebucheintrag oder Gewichtsdiskussion
 
 **Tipp:** Wählt einen Film, den alle schon kennen — dann ist die Aufmerksamkeit eher auf dem Spiel als auf der Handlung.
@@ -90,12 +90,12 @@ Einen Film einlegen und Trinkregeln für bestimmte Szenen, Phrasen oder Handlung
 
 ### 5. Wer würde eher – spekulative Enthüllungen
 
-Eine Frage wird gestellt: „Wer würde eher…?" Alle zeigen gleichzeitig auf die Person, die sie tippen. Die meistgenannte Person trinkt (oder darf erklären, warum die anderen Unrecht haben).
+Eine Frage wird gestellt: „Wer würde eher…?“ Alle zeigen gleichzeitig auf die Person, die sie tippen. Die meistgenannte Person trinkt (oder darf erklären, warum die anderen Unrecht haben).
 
 **Beispiele:**
-- „Wer würde eher bei einer Reality-TV-Show mitmachen?"
-- „Wer würde eher spontan einen Roadtrip starten?"
-- „Wer würde eher das letzte Stück Kuchen nehmen, ohne zu fragen?"
+- „Wer würde eher bei einer Reality-TV-Show mitmachen?“
+- „Wer würde eher spontan einen Roadtrip starten?“
+- „Wer würde eher das letzte Stück Kuchen nehmen, ohne zu fragen?“
 
 ---
 
@@ -106,7 +106,7 @@ Jede Spielerin bekommt einen Zettel auf die Stirn geklebt — für alle sichtbar
 **Ideen für Zettel:**
 - Berühmte Frauen: Frida Kahlo, Cleopatra, Hermine Granger, Katniss Everdeen
 - Filmfiguren, Sängerinnen, Charaktere aus gemeinsamen Serien
-- Abstrakte Begriffe für Fortgeschrittene: „Montag", „WLAN", „Fernweh"
+- Abstrakte Begriffe für Fortgeschrittene: „Montag“, „WLAN“, „Fernweh“
 
 **Trinkregel:** Falsche Vermutung → trinken. Wer als erste errät, darf bestimmen, wer trinkt.
 
@@ -122,7 +122,7 @@ Zwei Teams, Becher in Dreiecksformation aufstellen, Tischtennisbälle in die geg
 - Persönliche Regeln: Trickwurf aus der Distanz → doppelte Trinkpflicht
 
 **Varianten:**
-- **Themen-Beerpong:** Jeder Becher steht für ein Land/eine Stadt — wer trifft, trinkt das entsprechende „Landesgetränk"
+- **Themen-Beerpong:** Jeder Becher steht für ein Land/eine Stadt — wer trifft, trinkt das entsprechende „Landesgetränk“
 - **Dare Pong:** Statt nur zu trinken, liegt unter jedem Becher eine Aufgabenkarte → mehr dazu gleich
 
 ![Beer Pong Aufbau mit farbigen Bechern und Lichterketten für Mädelsabend](beerpong-maedelsabend-aufbau.avif)
