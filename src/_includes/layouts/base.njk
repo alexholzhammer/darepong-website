@@ -50,13 +50,6 @@
             "@type": "Organization",
             "name": "{{ site.product.brand }}"
           }
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "{{ site.product.rating.value }}",
-          "reviewCount": "{{ site.product.rating.count }}",
-          "bestRating": "5",
-          "worstRating": "1"
         }
       },
       {
@@ -65,10 +58,10 @@
           {% for item in faq %}
           {
             "@type": "Question",
-            "name": {{ item.q | dump }},
+            "name": {{ item.q | dump | safe }},
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": {{ item.a | dump }}
+              "text": {{ item.a | dump | safe }}
             }
           }{% if not loop.last %},{% endif %}
           {% endfor %}
@@ -89,8 +82,8 @@
     "@graph": [
       {
         "@type": "Article",
-        "headline": {{ title | dump }},
-        "description": {{ (description or summary) | dump }},
+        "headline": {{ title | dump | safe }},
+        "description": {{ (description or summary) | dump | safe }},
         "datePublished": "{{ date | dateISO }}",
         "dateModified": "{{ date | dateISO }}",
         "image": "{{ ogImage or site.ogImage }}",
@@ -111,10 +104,10 @@
           {% for item in faq %}
           {
             "@type": "Question",
-            "name": {{ item.q | dump }},
+            "name": {{ item.q | dump | safe }},
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": {{ item.a | dump }}
+              "text": {{ item.a | dump | safe }}
             }
           }{% if not loop.last %},{% endif %}
           {% endfor %}

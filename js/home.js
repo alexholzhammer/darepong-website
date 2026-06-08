@@ -67,7 +67,7 @@ let buyQty = 1;
 function changeQty(delta) {
   buyQty = Math.max(1, buyQty + delta);
   document.getElementById('buy-qty').textContent = buyQty;
-  const total = (19.99 * buyQty).toFixed(2).replace('.', ',');
+  const total = (9.97 * buyQty).toFixed(2).replace('.', ',');
   document.getElementById('buy-price').textContent = `€${total}`;
 }
 

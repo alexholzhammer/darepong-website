@@ -166,6 +166,7 @@ button { font-family: inherit; cursor: pointer; }
   display: flex;
   gap: 28px;
   justify-content: center;
+  align-items: center;
 }
 
 .site-header__nav a {
@@ -628,6 +629,7 @@ button { font-family: inherit; cursor: pointer; }
     background: rgba(246,244,239,.98);
     backdrop-filter: saturate(140%) blur(10px);
     flex-direction: column;
+    align-items: flex-start;
     padding: 24px;
     gap: 20px;
     border-bottom: 1px solid var(--border);
