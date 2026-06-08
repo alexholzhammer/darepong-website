@@ -14,7 +14,7 @@ faq:
   - q: "Wie viele Karten haben Dare Pong und Fear Pong?"
     a: "Dare Pong enthält 120 wasserfeste Karten mit einer Dare je Karte. Fear Pong hat 100 wasserfeste Karten mit zwei Dares je Karte."
   - q: "Was kostet Dare Pong im Vergleich zu Fear Pong?"
-    a: "Dare Pong kostet zur Zeit 19,99 Euro + Transportkosten. Fear Pong kostet aktuell ca. 33,50 Euro + Transportkosten. Beide Spiele sind über Amazon erhältlich."
+    a: "Dare Pong kostet zur Zeit 9,97 Euro + Transportkosten. Fear Pong kostet aktuell ca. 33,50 Euro + Transportkosten. Beide Spiele sind über Amazon erhältlich."
   - q: "Kann man Dare Pong oder Fear Pong selber machen?"
     a: "Ja – wer sein eigenes Dare/Fear Pong basteln möchte, findet eine Anleitung im Blogbeitrag \"Dare Pong DIY für alle Bastler\" auf darepong.eu."
 ---
@@ -50,7 +50,7 @@ Fear Pong beinhaltet 100 wasserfeste Karten mit zwei Dares je Karte. Bei Dare Po
 
 *Eine Dare Pong Karte*
 
-Der Fear Pong Verpackung liegen zusätzlich noch zwei Tischtennis Bälle bei. Dafür kostet Fear Pong aktuell ca. 33,50 Euro + Transportkosten. Bei Dare Pong kommt man günstiger weg und zahlt zur Zeit 19,99 Euro + Transportkosten. Beide Spiele sind über Amazon erhältlich oder über diverse Onlineshops.
+Der Fear Pong Verpackung liegen zusätzlich noch zwei Tischtennis Bälle bei. Dafür kostet Fear Pong aktuell ca. 33,50 Euro + Transportkosten. Bei Dare Pong kommt man günstiger weg und zahlt zur Zeit 9,97 Euro + Transportkosten. Beide Spiele sind über Amazon erhältlich oder über diverse Onlineshops.
 
 **3. Selber machen?**
 
