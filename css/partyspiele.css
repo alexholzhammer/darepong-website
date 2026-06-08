@@ -29,10 +29,14 @@
 
 /* ---- Filter bar ---- */
 .games-filter {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px 40px;
-  padding: 32px 0 8px;
+  margin: 32px 0 8px;
+  padding: 28px 28px 24px;
+  background: var(--dp-white);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px 40px;
 }
 
 .games-filter__group {
@@ -76,12 +80,13 @@
 }
 
 .games-filter__bar {
-  width: 100%;
+  grid-column: 1 / -1;
   display: flex;
   align-items: center;
   gap: 16px;
   flex-wrap: wrap;
-  margin-top: 8px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
 }
 
 .games-filter__count {
@@ -147,5 +152,11 @@
 @media (max-width: 600px) {
   .games-hub__grid {
     grid-template-columns: 1fr;
+  }
+
+  .games-filter {
+    grid-template-columns: 1fr;
+    gap: 24px;
+    padding: 22px 20px 20px;
   }
 }
