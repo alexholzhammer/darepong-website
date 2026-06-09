@@ -126,7 +126,7 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 24px;
   padding: 24px 0 56px;
-  align-items: start;
+  align-items: stretch;
 }
 
 /* Cards reuse the shared .gp component, but drop its blog-embed margin

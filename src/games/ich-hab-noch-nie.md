@@ -31,7 +31,7 @@ tips:
   - Das Spiel eignet sich perfekt, um neue Leute in geselliger Runde kennenzulernen.
   - Haltet ein paar gute Aussagen oder eine Fragenliste bereit, falls jemandem spontan nichts einfällt.
   - Spielt mit leichten Getränken – je nach Gruppe wird hier überraschend viel getrunken.
-  - Bleibt fair und respektvoll: Niemand sollte sich zu intimen Geständnissen gedrängt fühlen.
+  - "Bleibt fair und respektvoll: Niemand sollte sich zu intimen Geständnissen gedrängt fühlen."
 ---
 
 Ich hab noch nie – im Englischen als „Never Have I Ever“ bekannt – ist eines der beliebtesten geselligen Trinkspiele überhaupt und kommt komplett ohne Material aus. Alles, was man braucht, sind ein paar Mitspieler, etwas zu trinken und die Bereitschaft, das eine oder andere über sich preiszugeben. Reihum gibt jeder eine Sache zum Besten, die er noch nie getan hat – und alle anderen, auf die das nicht zutrifft, müssen trinken.

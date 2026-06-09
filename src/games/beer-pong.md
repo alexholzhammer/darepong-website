@@ -14,7 +14,6 @@ duration:
 energyLevel: medium
 location: indoor
 tags:
-  - bier
   - party
   - tischspiel
   - wurfspiel
@@ -41,7 +40,7 @@ rules:
   - Ein Ball, der zuerst aufspringt und dann im Becher landet („Bounce Shot“), zählt doppelt – darf vom Gegner aber mit der Hand abgewehrt werden.
   - Sind nur noch wenige Becher übrig, darf das werfende Team einmal pro Spiel ein „Re-Rack“ verlangen und die Becher neu anordnen lassen.
   - Wer alle gegnerischen Becher zuerst trifft, gewinnt – das Verliererteam trinkt die übrigen Becher aus.
-  - Optional gilt die „Rebuttal“-Regel: Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal nachwerfen und bei Treffer in die Verlängerung gehen.
+  - "Optional gilt die „Rebuttal“-Regel: Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal nachwerfen und bei Treffer in die Verlängerung gehen."
 tips:
   - Spielt mit leichtem Bier oder Wasser-Bier-Mix – über ein ganzes Spiel summieren sich die Becher schnell.
   - Spült die Bälle nach jedem Wurf im Wasserbecher ab, das hält das Spiel halbwegs hygienisch.

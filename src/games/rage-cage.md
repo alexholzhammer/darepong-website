@@ -14,7 +14,6 @@ duration:
 energyLevel: high
 location: indoor
 tags:
-  - bier
   - party
   - tischspiel
   - schnell

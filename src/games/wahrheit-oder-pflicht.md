@@ -25,7 +25,7 @@ equipment:
     note: Sorgt für eine zufällige und faire Auswahl, wer als Nächstes an der Reihe ist.
 rules:
   - Alle Spieler sitzen im Kreis. Reihum – oder per gedrehter Flasche – wird ein Spieler ausgewählt.
-  - Der Ausgewählte wird gefragt: „Wahrheit oder Pflicht?“.
+  - "Der Ausgewählte wird gefragt: „Wahrheit oder Pflicht?“."
   - Bei „Wahrheit“ muss er eine ihm gestellte Frage ehrlich beantworten.
   - Bei „Pflicht“ muss er eine ihm gestellte Aufgabe ausführen.
   - Wer die Frage nicht beantworten oder die Aufgabe nicht erfüllen möchte, muss als Strafe trinken.

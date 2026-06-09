@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- lip / rolled rim flare -->
+  <ellipse cx="32" cy="15" rx="21" ry="5.6" fill="#dc2626"/>
+  <!-- tapered cup body -->
+  <path d="M12 15
+           L20.5 50.5
+           C21 53.2 23.5 54.5 32 54.5
+           C40.5 54.5 43 53.2 43.5 50.5
+           L52 15 Z" fill="#dc2626"/>
+  <!-- inner rim -->
+  <ellipse cx="32" cy="15" rx="19.5" ry="4.8" fill="#b91c1c"/>
+  <!-- beer -->
+  <ellipse cx="32" cy="15" rx="16" ry="3.8" fill="#ffffff"/>
+</svg>
