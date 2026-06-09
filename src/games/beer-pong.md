@@ -14,7 +14,6 @@ duration:
 energyLevel: medium
 location: indoor
 tags:
-  - bier
   - party
   - tischspiel
   - wurfspiel
