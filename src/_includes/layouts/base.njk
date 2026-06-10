@@ -128,11 +128,26 @@
   </script>
   {% endif %}
 
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  <!-- Google Tag Manager — deferred to keep the main thread free during first
+       paint. Loads on the first user interaction, or shortly after load for
+       passive visitors so the Cookiebot consent banner still appears. -->
+  <script>(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    var loaded=false;
+    function load(){
+      if(loaded)return;loaded=true;
+      w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+      var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),
+          dl=l!='dataLayer'?'&l='+l:'';
+      j.async=true;
+      j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+      f.parentNode.insertBefore(j,f);
+    }
+    var evts=['scroll','keydown','mousemove','touchstart','click'];
+    function trigger(){evts.forEach(function(e){w.removeEventListener(e,trigger);});load();}
+    evts.forEach(function(e){w.addEventListener(e,trigger,{passive:true});});
+    w.addEventListener('load',function(){setTimeout(load,2500);});
   })(window,document,'script','dataLayer','GTM-KXSBKFDX');</script>
   <!-- End Google Tag Manager -->
 
@@ -142,11 +157,10 @@
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Graduate&family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Graduate&family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap"></noscript>
 
-  <!-- Shared styles -->
-  <link rel="stylesheet" href="{{ '/css/global.css' | url }}">
-  <!-- Page-specific styles -->
+  <!-- Critical styles inlined to remove the render-blocking CSS requests -->
+  <style>{{ "global.css" | inlineCSS | safe }}</style>
   {% if pageCSS %}
-  <link rel="stylesheet" href="{{ ('/css/' + pageCSS) | url }}">
+  <style>{{ pageCSS | inlineCSS | safe }}</style>
   {% endif %}
 </head>
 <body>

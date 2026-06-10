@@ -128,6 +128,19 @@ module.exports = function (eleventyConfig) {
     return new Date(date).toISOString().split("T")[0];
   });
 
+  // Inline a stylesheet from /css straight into the <head>. Eliminates the
+  // render-blocking request for the file (the critical FCP lever) — the CSS
+  // ships in the HTML document instead of a separate round trip. Reads are
+  // cached per build so repeated use across pages stays cheap.
+  const cssCache = new Map();
+  eleventyConfig.addFilter("inlineCSS", function (name) {
+    if (cssCache.has(name)) return cssCache.get(name);
+    const file = path.join(__dirname, "css", name);
+    const css = fs.readFileSync(file, "utf8");
+    cssCache.set(name, css);
+    return css;
+  });
+
   return {
     dir: {
       input: "src",
