@@ -108,6 +108,11 @@
 
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
+/* The hidden attribute must beat component display rules (e.g. .gp uses
+   display:flex), otherwise JS that toggles `el.hidden` can't hide elements —
+   this is what powers the Partyspiele filter. */
+[hidden] { display: none !important; }
+
 html {
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
