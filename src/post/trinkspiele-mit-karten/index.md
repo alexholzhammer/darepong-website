@@ -33,8 +33,6 @@ Aber will man das wirklich?
 
 ## Trinkspiele mit Karten zu zweit
 
-![Trinkspiele mit Karten - diese Spiele sind der Hammer](trinkspiele-mit-karten-beste-spiele.avif)
-
 Ihr seid zwei einsame Gestalten und wollt euch mit einem Karten-Trinkspiel dummsaufen?
 
 We got you covered!

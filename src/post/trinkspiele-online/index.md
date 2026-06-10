@@ -62,8 +62,6 @@ Tipp: Hier findest du [Trinkspiele mit Würfeln](/post/trinkspiele-mit-wuerfeln)
 
 ## Psych! Onlinetrinkspiel
 
-![Online Trinkspiele sind weit verbreitet und hier gibt es gute Beispiele](trinkspiele-online-beispiele-uebersicht.avif)
-
 Dieses Spiel kombiniert Spaß mit Trivia und kann leicht in ein Trinkspiel umgewandelt werden.
 
 ### **Vorbereitung:**
@@ -187,8 +185,6 @@ Hier sind einige Vorschläge für Trinkregeln, die du anwenden kannst:
 - **Ende des Spiels**: Das Spiel endet, wenn entweder alle Aufgaben abgeschlossen sind, alle Crewmitglieder getötet wurden oder der oder die Betrüger enttarnt und aus dem Schiff geworfen wurden.
 
 "Among Us mit Trinkregeln" bietet eine spannende und interaktive Möglichkeit, das Spiel zu genießen.
-
-![Trinkspiele online sind eine gute Möglichkeit mit den Freunden Kontakt zu halten](trinkspiele-online-freunde-kontakt-halten.avif)
 
 ## Codenames Online Trinkspiel
 

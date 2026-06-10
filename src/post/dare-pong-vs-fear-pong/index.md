@@ -28,10 +28,6 @@ Es geht um zwei grandiose Spiele! Es geht um die Kombination von Beer Pong & Wah
 **1. Um was geht es?**
 Beide Spiele verbinden die Partyspiel Klassiker Beer Pong & Wahrheit oder Pflicht, indem unter jeden Beer Pong Becher eine Dare (Eng. für Aufgabe) gelegt wird. Sobald ein Becher vom gegnerischen Team getroffen wird, muss die Dare erfüllt werden oder der Becher muss getrunken werden. Dieses Spielprinzip hat in den vergangenen Jahren stark an Beliebtheit gewonnen.
 
-![Fear Pong Spielaufbau mit 6 Bechern und Dare-Karten](fear-pong-spielaufbau-6-becher-dare-karten.avif)
-
-*Spielaufbau mit 6 Bechern*
-
 Zum Start beider Spiele müsst ihr Eure Becher - wie beim regulären Beer Pong - in der typischen Pyramiden-Formation aufstellen. Dabei könnt ihr entscheiden, ob ihr mit 6 oder 10 Bechern pro Team spielen wollt.
 
 Unter jedem Becher wird nun eine Karte - mit Dare/Fear Pong Logo nach oben - platziert. Füllt anschließend Eure Becher und platziert sie auf den Karten. Idealerweise bestehend die Teams aus jeweils 2-4 Spielern. Nun seit ihr Ready!
