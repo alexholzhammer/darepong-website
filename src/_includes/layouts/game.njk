@@ -3,6 +3,41 @@ layout: layouts/base.njk
 pageCSS: game.css
 ---
 
+{# Structured data: Game + (optional) FAQPage for rich results #}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Game",
+      "name": {{ name | dump | safe }},
+      "description": {{ (description or shortDescription) | dump | safe }},
+      "url": "{{ site.url }}{{ page.url }}",
+      "numberOfPlayers": {
+        "@type": "QuantitativeValue",
+        "minValue": {{ players.min }},
+        "maxValue": {{ players.max }}
+      }
+    }{% if faq %},
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for item in faq %}
+        {
+          "@type": "Question",
+          "name": {{ item.q | dump | safe }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ item.a | dump | safe }}
+          }
+        }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
+    }{% endif %}
+  ]
+}
+</script>
+
 <div class="game">
 
   {# ── Header ── #}
@@ -74,6 +109,24 @@ pageCSS: game.css
             </li>
             {% endfor %}
           </ul>
+        </section>
+        {% endif %}
+
+        {# Häufige Fragen — reuse the global faq__* styles (inlined via global.css) #}
+        {% if faq %}
+        <section class="game__section">
+          <h2 class="game__section-title">Häufige Fragen</h2>
+          <div class="faq__list">
+            {% for item in faq %}
+            <div class="faq__item{% if loop.first %} is-open{% endif %}">
+              <button class="faq__question" onclick="toggleFaq(this)">
+                <span>{{ item.q }}</span>
+                <span class="faq__chevron">+</span>
+              </button>
+              <div class="faq__answer"><p>{{ item.a }}</p></div>
+            </div>
+            {% endfor %}
+          </div>
         </section>
         {% endif %}
 
