@@ -18,7 +18,21 @@ pageCSS: game.css
         "minValue": {{ players.min }},
         "maxValue": {{ players.max }}
       }
-    }{% if faq %},
+    }{% if rules %},
+    {
+      "@type": "HowTo",
+      "name": "{{ name }} spielen",
+      "description": {{ shortDescription | dump | safe }},
+      "step": [
+        {% for rule in rules %}
+        {
+          "@type": "HowToStep",
+          "position": {{ loop.index }},
+          "text": {{ rule | dump | safe }}
+        }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
+    }{% endif %}{% if faq %},
     {
       "@type": "FAQPage",
       "mainEntity": [
@@ -70,6 +84,10 @@ pageCSS: game.css
         <span class="game__tag">{{ tag }}</span>
         {% endfor %}
       </div>
+
+      {% if updated %}
+      <p class="game__updated">Von der <strong>Dare Pong</strong> Redaktion · Zuletzt aktualisiert am <time datetime="{{ updated | dateISO }}">{{ updated | dateDE }}</time></p>
+      {% endif %}
     </div>
   </div>
 

@@ -19,7 +19,7 @@ faq:
     a: "Mit Hindernissen auf der Spielfläche, einem Zeitlimit pro Wurf (Speed Pong) oder der Kombination mit Flip Cup (Flip Cup Pong) wird Beer Pong deutlich anspruchsvoller und abwechslungsreicher."
 ---
 
-Beer Pong gehört zu den beliebtesten Partyspielen weltweit. Doch wusstest du, dass du das klassische Spiel mit ein paar kreativen Erweiterungen noch aufregender gestalten kannst? Egal ob du Anfänger oder erfahrener Beerpong-Champion bist, hier sind die **10 besten Beerpong-Erweiterungen**, die deine nächste Party unvergesslich machen werden.
+[Beer Pong]({{ '/beer-pong/' | url }}) gehört zu den beliebtesten Partyspielen weltweit. Doch wusstest du, dass du das klassische Spiel mit ein paar kreativen Erweiterungen noch aufregender gestalten kannst? Egal ob du Anfänger oder erfahrener Beerpong-Champion bist, hier sind die **10 besten Beerpong-Erweiterungen**, die deine nächste Party unvergesslich machen werden.
 
 ## 1. Dare Pong – Der Nervenkitzel mit Mutproben
 

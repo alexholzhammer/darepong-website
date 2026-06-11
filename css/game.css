@@ -323,3 +323,73 @@ a.game__equipment-name:hover {
     font-size: 17px;
   }
 }
+
+/* ---- E-E-A-T byline ---- */
+
+.game__updated {
+  margin-top: 18px;
+  font: 400 13px/1.5 var(--font-body);
+  color: var(--dp-bone);
+  opacity: .85;
+}
+.game__updated strong { color: var(--dp-paper); font-weight: 700; }
+
+/* ---- Body links ---- */
+
+.game__body a {
+  color: var(--dp-red);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: 600;
+}
+.game__body a:hover { color: var(--dp-red-deep); }
+
+/* ---- TL;DR answer box (answer-first for skimmers + AI engines) ---- */
+
+.game__tldr {
+  display: flex;
+  gap: 16px;
+  background: var(--bg-inset);
+  border-left: 4px solid var(--dp-red);
+  border-radius: 12px;
+  padding: 20px 22px;
+  margin-bottom: 32px;
+}
+.game__tldr-icon { font-size: 26px; line-height: 1.2; }
+.game__tldr-body { font-size: 16px; line-height: 1.6; }
+.game__tldr-body strong { display: block; margin-bottom: 4px; font-family: var(--font-body); }
+.game__tldr-body p { margin: 0; }
+
+/* ---- Cup-pyramid diagram ---- */
+
+.game__diagram {
+  margin: 8px 0 24px;
+  text-align: center;
+}
+.game__diagram svg {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+.game__diagram figcaption {
+  margin-top: 8px;
+  font: 400 14px/1.4 var(--font-body);
+  color: var(--fg-muted);
+}
+
+/* ---- PDF download button ---- */
+
+.game__download {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--dp-black);
+  color: var(--dp-paper);
+  text-decoration: none;
+  font: 700 15px/1 var(--font-body);
+  padding: 13px 20px;
+  border-radius: var(--r-pill);
+  margin: 6px 0 8px;
+}
+.game__download:hover { background: var(--dp-red); color: #fff; }
+.game__download svg { flex: none; }
