@@ -45,9 +45,9 @@ Mit diesen zusätzlichen Anlässen sollte es leichter fallen, den richtigen Zeit
 
 ## Die 31 besten Geschenke für Juristen
 
-- **Meinungsstreit:** Dieses lustige Trinkspiel ist unter Juristen - vor allem unter Jurastudenten - sehr beliebt und bietet eine gute Gelegenheit, das Gelernte zu überprüfen. [Hier gibt es das Spiel auf Amazon](https://www.amazon.de/Generisch-Partyspiel-Vorgl%C3%BChen-Geburtstage-Geschenk/dp/B0B977S52N/ref=sr_1_2?crid=1HOG0898XT962&keywords=meinungsstreite+jura+partyspiel&qid=1698162712&sprefix=Meinungsstreit%2Caps%2C128&sr=8-2)
+- **Meinungsstreit:** Dieses lustige Trinkspiel ist unter Juristen - vor allem unter Jurastudenten - sehr beliebt und bietet eine gute Gelegenheit, das Gelernte zu überprüfen. [Hier gibt es das Spiel auf Amazon](https://www.amazon.de/Generisch-Partyspiel-Vorgl%C3%BChen-Geburtstage-Geschenk/dp/B0B977S52N/ref=sr_1_2?crid=1HOG0898XT962&keywords=meinungsstreite+jura+partyspiel&qid=1698162712&sprefix=Meinungsstreit%2Caps%2C128&sr=8-2&tag=spielleute-21)
 
-  [Meinungsstreit als Geschenk für Jurist](https://www.amazon.de/Generisch-Partyspiel-Vorgl%C3%BChen-Geburtstage-Geschenk/dp/B0B977S52N/ref=sr_1_2?crid=2MB9QT0RFALPC&keywords=meinungsstreite+jura+partyspiel&qid=1698245717&sprefix=Meinungsstreit%2Caps%2C104&sr=8-2)
+  [Meinungsstreit als Geschenk für Jurist](https://www.amazon.de/Generisch-Partyspiel-Vorgl%C3%BChen-Geburtstage-Geschenk/dp/B0B977S52N/ref=sr_1_2?crid=2MB9QT0RFALPC&keywords=meinungsstreite+jura+partyspiel&qid=1698245717&sprefix=Meinungsstreit%2Caps%2C104&sr=8-2&tag=spielleute-21)
 
 - **Bücher:** Fachbücher, spannende Justizthriller oder Biografien bekannter Juristen sind immer ein gefragtes Geschenk für Juristen.
 

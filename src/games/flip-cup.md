@@ -29,6 +29,7 @@ tags:
   - amerikanisch
 equipment:
   - name: Plastikbecher (einer pro Spieler)
+    url: https://amzn.to/3S4eXoz
     note: Dünnwandige, leichte Becher (klassische rote Solo Cups) lassen sich deutlich einfacher flippen als schwere oder hohe.
   - name: Ein langer Tisch
     note: Beide Teams brauchen genug Platz, um nebeneinander an der Tischkante zu stehen.

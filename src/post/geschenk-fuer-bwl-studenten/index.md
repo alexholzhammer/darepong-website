@@ -24,7 +24,7 @@ Du suchst nach dem perfekten *Geschenk für BWL Studenten*? Ob für Geburtstage,
 
 ### Arbitrage - das BWL-Partyspiel
 
-[Arbitrage ist das perfekte BWLer Geschenk](https://www.amazon.de/ZAUF-Spiele-Arbitrage-einzigartige-BWL-Studenten/dp/B0DCWBMSVG/)
+[Arbitrage ist das perfekte BWLer Geschenk](https://www.amazon.de/ZAUF-Spiele-Arbitrage-einzigartige-BWL-Studenten/dp/B0DCWBMSVG/?tag=spielleute-21)
 
 Fangen wir direkt mal mit dem krassesten Banger an. Unser BWL-Partyspiel Arbitrage ist das beste Geschenk für BWL-Studenten.
 

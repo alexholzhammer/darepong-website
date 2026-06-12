@@ -26,8 +26,10 @@ tags:
   - amerikanisch
 equipment:
   - name: Plastikbecher (mindestens 15–20 Stück)
+    url: https://amzn.to/3S4eXoz
     note: Klassische rote Solo Cups passen perfekt – jeder Standard-Plastikbecher funktioniert aber genauso.
   - name: 2 Tischtennisbälle
+    url: https://amzn.to/49Xr1xY
   - name: 1 großer Becher oder Krug („Death Cup“)
     note: Etwas größer als die Spielbecher, am besten farblich abgesetzt.
   - name: Ein stabiler Tisch

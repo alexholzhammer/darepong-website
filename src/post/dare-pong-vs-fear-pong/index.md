@@ -22,7 +22,7 @@ Veröffentlicht am 16.01.2022
 
 ![Dare Pong vs. Fear Pong – Überblick beider Spiele](dare-pong-vs-fear-pong-vergleich.avif)
 
-Es geht um zwei grandiose Spiele! Es geht um die Kombination von Beer Pong & [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})! Die beliebte Beer Pong Weiterentwicklung trägt zwei Namen in der Welt: Entweder [Dare Pong](https://amzn.to/4nA0xYQ) oder [Fear Pong](https://www.amazon.de/Fear-Pong-Ber%C3%BChmtes-Internet/dp/B07SK8H89W). Was ist der Unterschied und welches Spiel ist besser? Wir beantworten die Frage möglichst objektiv und zeigen euch, wie ihr Eurer eigenes Spiel entwerfen könnt.
+Es geht um zwei grandiose Spiele! Es geht um die Kombination von Beer Pong & [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})! Die beliebte Beer Pong Weiterentwicklung trägt zwei Namen in der Welt: Entweder [Dare Pong](https://amzn.to/4nA0xYQ) oder [Fear Pong](https://www.amazon.de/Fear-Pong-Ber%C3%BChmtes-Internet/dp/B07SK8H89W?tag=spielleute-21). Was ist der Unterschied und welches Spiel ist besser? Wir beantworten die Frage möglichst objektiv und zeigen euch, wie ihr Eurer eigenes Spiel entwerfen könnt.
 
 **1. Um was geht es?**
 Beide Spiele verbinden die Partyspiel Klassiker [Beer Pong]({{ '/beer-pong/' | url }}) & Wahrheit oder Pflicht, indem unter jeden Beer Pong Becher eine Dare (Eng. für Aufgabe) gelegt wird. Sobald ein Becher vom gegnerischen Team getroffen wird, muss die Dare erfüllt werden oder der Becher muss getrunken werden. Dieses Spielprinzip hat in den vergangenen Jahren stark an Beliebtheit gewonnen.
