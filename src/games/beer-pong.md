@@ -118,11 +118,26 @@ teamNamesTip: "Wer es persönlicher mag, kombiniert einfach die Vornamen beider 
   </div>
 </div>
 
+<ul class="game__facts" aria-label="Beer Pong auf einen Blick">
+  <li><span class="game__fact-num">2–4</span><span class="game__fact-lbl">Spieler</span></li>
+  <li><span class="game__fact-num">20</span><span class="game__fact-lbl">Becher</span></li>
+  <li><span class="game__fact-num">2,44 m</span><span class="game__fact-lbl">Tischlänge</span></li>
+  <li><span class="game__fact-num">15–45</span><span class="game__fact-lbl">Minuten</span></li>
+  <li><span class="game__fact-num">ab 18</span><span class="game__fact-lbl">Jahren</span></li>
+</ul>
+
 Beer Pong ist der wohl bekannteste Vertreter unter allen Trinkspielen und gilt als absoluter Klassiker auf jeder Party. Ursprünglich an US-amerikanischen Colleges entstanden, hat sich das Spiel längst weltweit etabliert – es gibt mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** sogar offizielle Turniere und Meisterschaften. Das Prinzip ist denkbar einfach: Zwei Teams stehen sich an einem langen Tisch gegenüber und versuchen abwechselnd, einen Tischtennisball in die Becherpyramide des Gegners zu werfen.
 
 Der besondere Reiz von Beer Pong liegt in der Mischung aus Treffsicherheit, Nervenstärke und Teamgeist. Anders als beim chaotischen [Rage Cage]({{ '/rage-cage/' | url }}) zählt hier vor allem die ruhige Hand und ein sauberer, gleichmäßiger Wurf. Je weiter das Spiel fortschreitet und je weniger Becher übrig sind, desto höher wird der Druck – die letzten Treffer entscheiden oft erst in der Verlängerung. Genau diese Spannung macht Beer Pong auch nach unzähligen Runden immer wieder neu unterhaltsam.
 
 Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorglüh-Runden, bei denen ein bisschen Wettkampf für Stimmung sorgen soll. Die Grundregeln sind in wenigen Minuten erklärt, das Equipment hat fast jeder zuhause, und dank zahlreicher optionaler Hausregeln lässt sich das Spiel flexibel an jede Gruppe anpassen – vom entspannten Einsteiger-Match bis zum ehrgeizigen Turnier.
+
+## Beer Pong Spielablauf in 5 Schritten
+
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/beer-pong-ablauf.svg' | url }}" width="630" height="120" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Ablauf in 5 Schritten: Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft">
+  <figcaption>Eine Beer-Pong-Runde in fünf Schritten – vom Wurf bis zum Seitenwechsel.</figcaption>
+</figure>
 
 ## Beer Pong Aufbau: Wie viele Becher und welche Aufstellung?
 
@@ -169,6 +184,11 @@ Jeder Becher wird etwa zu einem Drittel mit Bier (oder einem alkoholfreien Getr�
 
 Wichtig für eine saubere Aufstellung: Die Becher müssen sich gegenseitig berühren, damit die Pyramide stabil steht und beim „Re-Rack“ – dem einmaligen Neuanordnen der Becher – schnell wieder in Form gebracht werden kann.
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/beer-pong-aufstellungen.svg' | url }}" width="600" height="210" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Aufstellungen nach Becherzahl: 10 Becher als 4-3-2-1-Pyramide, 6 Becher als 3-2-1 und 3 Becher als 2-1 für die Verlängerung">
+  <figcaption>Die gängigen Aufstellungen: 10 Becher (Standard), 6 Becher (schnelle Runde) und 3 Becher (Verlängerung).</figcaption>
+</figure>
+
 <a class="game__download" href="{{ '/assets/beer-pong-regeln.pdf' | url }}" download>
   <svg width="18" height="18" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M8 1v9m0 0L4.5 6.5M8 10l3.5-3.5M2 13.5h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
   Beer Pong Regeln als PDF herunterladen
@@ -177,6 +197,11 @@ Wichtig für eine saubere Aufstellung: Die Becher müssen sich gegenseitig berü
 ## Beer Pong Tisch: Offizielle Maße & Länge
 
 Ein **offizieller Beer-Pong-Tisch** ist **2,44 Meter (8 Fuß) lang** und **60 cm breit**, die Höhe liegt bei rund **70 cm**. Diese Maße stammen aus den US-Turnierregeln und sorgen für die ideale Wurfdistanz zwischen den beiden Pyramiden.
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/beer-pong-tisch-masse.svg' | url }}" width="560" height="270" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Tisch Maße: 2,44 Meter lang, 60 cm breit, Höhe ca. 70 cm, mit je einer Becher-Pyramide an beiden Enden">
+  <figcaption>Offizielle Beer-Pong-Tisch-Maße: 2,44 m lang, 60 cm breit, ca. 70 cm hoch.</figcaption>
+</figure>
 
 Für die Heim-Party musst du aber keinen speziellen Tisch kaufen: Eine **Tischtennisplatte**, ein langer Esstisch oder zwei zusammengeschobene Klapptische funktionieren genauso gut. Entscheidend ist nur, dass der Tisch stabil steht und lang genug ist, damit der Wurf eine echte Herausforderung bleibt – als grobe Richtschnur gelten rund 2,4 Meter Länge.
 
@@ -216,6 +241,11 @@ Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholba
 - **Behind-the-Back / No-Look:** Reine Show-Würfe für den Stilpunkt – in lockeren Runden ein Highlight, im engen Spiel zu riskant.
 - **Arc-over-Ablenkung:** Reden, wedeln und Sprüche sind erlaubt, solange der Gegner Tisch und Becher nicht berührt. Lass dich davon nicht aus dem Rhythmus bringen.
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/beer-pong-bounce-shot.svg' | url }}" width="480" height="200" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Bounce Shot: Der Ball springt einmal auf dem Tisch auf und landet dann im Becher und zählt doppelt">
+  <figcaption>Der Bounce Shot: einmal aufspringen lassen, dann in den Becher – zählt doppelt, darf aber abgewehrt werden.</figcaption>
+</figure>
+
 ### Typische Fehler vermeiden
 
 - Zu fester, flacher Wurf → der Ball springt ab. Lieber Tempo raus, Bogen rein.
@@ -232,6 +262,15 @@ Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede
 - **Rebuttal („Nachwurf"):** Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal werfen – trifft es, geht das Spiel in die Verlängerung.
 - **Death Cup:** Wer einen bereits am Boden stehenden, noch nicht ausgetrunkenen Becher trifft, beendet das Spiel sofort zugunsten des eigenen Teams.
 - **Blow & Finger:** In manchen Runden darf ein kreiselnder Ball aus dem Becher gepustet (für Frauen) oder herausgeschnippt werden.
+
+### Re-Rack: die gängigen Formationen
+
+Beim Re-Rack werden die übrigen Becher neu angeordnet. Je nach Restzahl haben sich diese Formationen etabliert:
+
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/beer-pong-re-rack.svg' | url }}" width="630" height="175" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Re-Rack Formationen: 6 Becher als Pyramide, 4 als Diamant, 3 als Dreieck, 2 als Linie">
+  <figcaption>Typische Re-Rack-Formationen: 6 → Pyramide, 4 → Diamant, 3 → Dreieck, 2 → Linie.</figcaption>
+</figure>
 
 Wer es noch wilder mag, kombiniert Beer Pong mit verwandten Becher-Spielen wie [Flip Cup]({{ '/flip-cup/' | url }}) oder [King's Cup]({{ '/kings-cup/' | url }}). Und für die extra Portion Mut bringt **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch – jeder Treffer löst dann eine Aufgabe aus.
 
@@ -258,8 +297,61 @@ Damit am Tisch keine Diskussionen aufkommen, hier die wichtigsten Begriffe kurz 
 
 Du hast Beer Pong drauf? Dann probiere als Nächstes diese Klassiker:
 
+<div class="game__compare-wrap">
+<table class="game__compare">
+  <caption class="sr-only">Vergleich von Beer Pong mit Rage Cage, Flip Cup und Dare Pong</caption>
+  <thead>
+    <tr><th scope="col">Spiel</th><th scope="col">Spieler</th><th scope="col">Dauer</th><th scope="col">Energie</th><th scope="col">Typ</th></tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">Beer Pong</th><td>2–4</td><td>15–45 Min</td><td>Mittel</td><td>Wurf- &amp; Geschicklichkeitsspiel</td></tr>
+    <tr><th scope="row"><a href="{{ '/rage-cage/' | url }}">Rage Cage</a></th><td>4–12</td><td>20–60 Min</td><td>Hoch</td><td>Schnelles Reaktionsspiel</td></tr>
+    <tr><th scope="row"><a href="{{ '/flip-cup/' | url }}">Flip Cup</a></th><td>6–16</td><td>10–30 Min</td><td>Hoch</td><td>Team-Staffelspiel</td></tr>
+    <tr><th scope="row"><a href="https://amzn.to/4nA0xYQ">Dare Pong</a></th><td>2–8</td><td>30–90 Min</td><td>Mittel</td><td>Beer-Pong-Erweiterung mit Dares</td></tr>
+  </tbody>
+</table>
+</div>
+
 {% gamePreview "rage-cage" %}
 
 {% gamePreview "flip-cup" %}
 
 {% gamePreview "kings-cup" %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-aufstellungen.svg' | url }}",
+      "name": "Beer Pong Aufstellungen nach Becherzahl",
+      "caption": "10 Becher (4-3-2-1), 6 Becher (3-2-1) und 3 Becher (2-1) für die Verlängerung."
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-re-rack.svg' | url }}",
+      "name": "Beer Pong Re-Rack Formationen",
+      "caption": "Typische Re-Rack-Formationen: 6 → Pyramide, 4 → Diamant, 3 → Dreieck, 2 → Linie."
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-tisch-masse.svg' | url }}",
+      "name": "Beer Pong Tisch Maße",
+      "caption": "Offizielle Maße eines Beer-Pong-Tischs: 2,44 m lang, 60 cm breit, ca. 70 cm hoch."
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-bounce-shot.svg' | url }}",
+      "name": "Beer Pong Bounce Shot",
+      "caption": "Der Bounce Shot springt einmal auf und zählt doppelt."
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-ablauf.svg' | url }}",
+      "name": "Beer Pong Ablauf in 5 Schritten",
+      "caption": "Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft."
+    }
+  ]
+}
+</script>
