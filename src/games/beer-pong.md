@@ -182,7 +182,7 @@ Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorgl�
 <h2 id="spielablauf">Beer Pong Spielablauf in 5 Schritten</h2>
 
 <figure class="game__diagram game__diagram--wide">
-  <img src="{{ '/assets/beer-pong-ablauf-3.svg' | url }}" width="630" height="120" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Ablauf in 5 Schritten: Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft">
+  <img src="{{ '/assets/beer-pong-ablauf-4.svg' | url }}" width="600" height="140" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Ablauf in 5 Schritten: Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft">
   <figcaption>Eine Beer-Pong-Runde in fünf Schritten – vom Wurf bis zum Seitenwechsel.</figcaption>
 </figure>
 
@@ -426,7 +426,7 @@ Du hast Beer Pong drauf? Dann probiere als Nächstes diese Klassiker:
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-ablauf-3.svg' | url }}",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-ablauf-4.svg' | url }}",
       "name": "Beer Pong Ablauf in 5 Schritten",
       "caption": "Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft."
     }
