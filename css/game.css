@@ -509,31 +509,6 @@ a.game__equipment-name:hover {
   .game__facts li:last-child { grid-column: 1 / -1; }
 }
 
-/* ---- Comparison table ---- */
-
-.game__compare-wrap { overflow-x: auto; margin: 0 0 32px; }
-.game__compare {
-  width: 100%;
-  border-collapse: collapse;
-  font: 400 15px/1.4 var(--font-body);
-  min-width: 480px;
-}
-.game__compare th,
-.game__compare td {
-  padding: 11px 12px;
-  text-align: left;
-  border-bottom: 1px solid #E4E0D6;
-}
-.game__compare thead th {
-  font-weight: 700;
-  color: var(--dp-black);
-  border-bottom: 2px solid var(--dp-black);
-}
-.game__compare tbody th { font-weight: 700; }
-.game__compare tbody th a { color: var(--dp-red); }
-.game__compare tr:nth-child(even) td,
-.game__compare tr:nth-child(even) th { background: var(--bg-inset); }
-
 /* ---- Breadcrumb (in dark header) ---- */
 
 .game__breadcrumb {
