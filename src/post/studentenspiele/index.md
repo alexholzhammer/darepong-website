@@ -45,7 +45,7 @@ Studieren kann manchmal stressig sein – da sind Spiele die perfekte Möglichke
 
    [Dare Pong - das beste der Studenten-Spiele](https://amzn.to/4nA0xYQ)
 
-   Beerpong ist der Klassiker auf allen Studentenpartys. Doch schnell wird das Spiel etwas eintönig, vor allem wenn nicht alle Spieler auf einem ähnlichen Level sind. Dare Pong bringt neuen Schwung in das Spiel. Es besteht aus 120 Spielkarten in Bierdeckelform, von denen eine unter jeden Becher gelegt wird. Wird dieser getroffen, kann man entweder die Aufgabe (Dare) ausführen, oder den Becher leertrinken. Eine coole Abwechslung.
+   [Beerpong]({{ '/beer-pong/' | url }}) ist der Klassiker auf allen Studentenpartys. Doch schnell wird das Spiel etwas eintönig, vor allem wenn nicht alle Spieler auf einem ähnlichen Level sind. Dare Pong bringt neuen Schwung in das Spiel. Es besteht aus 120 Spielkarten in Bierdeckelform, von denen eine unter jeden Becher gelegt wird. Wird dieser getroffen, kann man entweder die Aufgabe (Dare) ausführen, oder den Becher leertrinken. Eine coole Abwechslung.
 
    Ebenfalls interessant: Die besten [Beerpong Varianten](/post/beer-pong-varianten)!
 
