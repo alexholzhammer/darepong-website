@@ -31,6 +31,22 @@ faqs:
   </div>
 
   <div class="container">
+    {# ── Search + sort toolbar ── #}
+    <div class="games-toolbar">
+      <input type="search" id="games-search" class="games-search" placeholder="Trinkspiel suchen …" aria-label="Trinkspiel suchen">
+      <label class="games-sort">
+        <span class="games-sort__label">Sortieren</span>
+        <select id="games-sort" aria-label="Spiele sortieren">
+          <option value="default">Empfohlen</option>
+          <option value="name">Name (A–Z)</option>
+          <option value="players">Spieler (wenige zuerst)</option>
+          <option value="players-desc">Spieler (viele zuerst)</option>
+          <option value="duration">Dauer (kurz zuerst)</option>
+          <option value="energy">Energie (viel zuerst)</option>
+        </select>
+      </label>
+    </div>
+
     {# ── Filter bar ── #}
     <form class="games-filter" id="games-filter" aria-label="Spiele filtern">
       <div class="games-filter__group">
@@ -91,43 +107,71 @@ faqs:
 
     {# ── SEO-Content: Kategorien, Einsatzzwecke, FAQ ── #}
     <section class="hub-prose">
-      <h2>Trinkspiele nach Art</h2>
-      <p>Trinkspiele lassen sich grob nach dem benötigten Material einteilen. Hier die beliebtesten Kategorien mit den passenden Spielen aus unserer Übersicht:</p>
-      <div class="hub-cats">
-        <div class="hub-cat">
-          <h3>🎲 Trinkspiele mit Würfeln</h3>
-          <p>Brauchen nur Würfel und einen Becher: <a href="{{ '/maexchen/' | url }}">Mäxchen</a> (Meiern) und <a href="{{ '/schocken/' | url }}">Schocken</a>.</p>
-        </div>
-        <div class="hub-cat">
-          <h3>🃏 Trinkspiele mit Karten</h3>
-          <p>Mit einem normalen Kartendeck: <a href="{{ '/kings-cup/' | url }}">King's Cup</a> und <a href="{{ '/busfahrer/' | url }}">Busfahren</a>.</p>
-        </div>
-        <div class="hub-cat">
-          <h3>🥤 Becher- &amp; Tisch-Trinkspiele</h3>
-          <p>Der Party-Standard: <a href="{{ '/beer-pong/' | url }}">Beer Pong</a>, <a href="{{ '/flip-cup/' | url }}">Flip Cup</a> und <a href="{{ '/rage-cage/' | url }}">Rage Cage</a>.</p>
-        </div>
-        <div class="hub-cat">
-          <h3>🙊 Trinkspiele ohne Zubehör</h3>
-          <p>Nur Getränke nötig: <a href="{{ '/buffalo/' | url }}">Buffalo</a>, <a href="{{ '/ich-hab-noch-nie/' | url }}">Ich hab noch nie</a>, <a href="{{ '/wahrheit-oder-pflicht/' | url }}">Wahrheit oder Pflicht</a>, <a href="{{ '/wer-wuerde-eher/' | url }}">Wer würde eher</a> und <a href="{{ '/was-wuerdest-du-eher/' | url }}">Würdest du eher</a>.</p>
-        </div>
-        <div class="hub-cat">
-          <h3>🧱 Geschicklichkeit &amp; DIY</h3>
-          <p>Selbst gemacht und wacklig: das <a href="{{ '/jenga-trinkspiel/' | url }}">Jenga Trinkspiel</a> zum Beschriften.</p>
-        </div>
-        <div class="hub-cat">
-          <h3>🃏 Mehr Mut gefällig?</h3>
-          <p>Mit <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare Pong</a> bringst du 120 wasserfeste Dare-Karten in jede Beer-Pong-Runde.</p>
-        </div>
+      <h2 id="beste">Die besten Trinkspiele im Überblick</h2>
+      <p>Du suchst schnell das passende Spiel? Das sind unsere beliebtesten Trinkspiele – jedes mit eigener Anleitung:</p>
+      <ol class="hub-top">
+        <li><a href="{{ '/beer-pong/' | url }}">Beer Pong</a> – der Wurf-Klassiker für jede Party, perfekt für 2 vs 2.</li>
+        <li><a href="{{ '/flip-cup/' | url }}">Flip Cup</a> – schnelle Team-Staffel, ideal für große Gruppen.</li>
+        <li><a href="{{ '/kings-cup/' | url }}">King's Cup</a> – geselliges Karten-Trinkspiel mit vielen Regeln.</li>
+        <li><a href="{{ '/busfahrer/' | url }}">Busfahren</a> – Karten-Glücksspiel in drei Phasen mit Pyramide.</li>
+        <li><a href="{{ '/ich-hab-noch-nie/' | url }}">Ich hab noch nie</a> – das Geständnis-Spiel ganz ohne Material.</li>
+        <li><a href="{{ '/maexchen/' | url }}">Mäxchen</a> – Würfel-Bluffen, schon zu zweit ein Hit.</li>
+        <li><a href="{{ '/rage-cage/' | url }}">Rage Cage</a> – das schnellste Becher-Chaos überhaupt.</li>
+        <li><a href="{{ '/wahrheit-oder-pflicht/' | url }}">Wahrheit oder Pflicht</a> – der Klassiker für mutige Runden.</li>
+      </ol>
+
+      <h2 id="vergleich">Alle Trinkspiele im Vergleich</h2>
+      <p>Spieleranzahl, Dauer, Intensität und Art aller Spiele auf einen Blick:</p>
+      <div class="hub-table-wrap">
+      <table class="hub-table">
+        <thead>
+          <tr><th scope="col">Trinkspiel</th><th scope="col">Spieler</th><th scope="col">Dauer</th><th scope="col">Intensität</th><th scope="col">Art</th></tr>
+        </thead>
+        <tbody>
+          {%- for game in collections.games %}
+          {%- set g = game.data %}
+          {%- set art = "Sonstiges" %}
+          {%- if "kartenspiel" in g.tags %}{% set art = "Karten" %}{% elif "würfelspiel" in g.tags %}{% set art = "Würfel" %}{% elif "tischspiel" in g.tags %}{% set art = "Becher & Tisch" %}{% elif "geschicklichkeit" in g.tags %}{% set art = "Geschick" %}{% elif "ohne-material" in g.tags %}{% set art = "Ohne Material" %}{% elif "regelspiel" in g.tags %}{% set art = "Regelspiel" %}{% endif %}
+          {%- set en = "Entspannt" %}{% if g.energyLevel == "high" %}{% set en = "Viel Energie" %}{% elif g.energyLevel == "medium" %}{% set en = "Mittel" %}{% endif %}
+          <tr>
+            <th scope="row"><a href="{{ game.url | url }}">{{ g.name }}</a></th>
+            <td>{{ g.players.min }}–{{ g.players.max }}</td>
+            <td>{{ g.duration.min }}–{{ g.duration.max }} Min</td>
+            <td>{{ en }}</td>
+            <td>{{ art }}</td>
+          </tr>
+          {%- endfor %}
+        </tbody>
+      </table>
       </div>
 
-      <h2>Trinkspiele für jede Runde</h2>
-      <p>Egal ob zu zweit, in großer Gruppe oder draußen auf dem Festival – für jede Situation gibt es das passende Trinkspiel:</p>
-      <ul class="hub-list">
-        <li><strong>Trinkspiele zu zweit:</strong> Mäxchen, Beer Pong (1 gegen 1) oder Wahrheit oder Pflicht. Mehr Ideen im Beitrag <a href="{{ '/post/trinkspiele-zu-zweit/' | url }}">Trinkspiele zu zweit</a>.</li>
-        <li><strong>Trinkspiele für große Gruppen:</strong> Flip Cup, Rage Cage und Wer würde eher – siehe auch <a href="{{ '/post/trinkspiele-zu-viert/' | url }}">Trinkspiele zu viert</a>.</li>
-        <li><strong>Lustige Trinkspiele:</strong> Ich hab noch nie, Würdest du eher und Wahrheit oder Pflicht sorgen für die besten Geschichten.</li>
-        <li><strong>Trinkspiele mit Karten &amp; Würfeln:</strong> mehr dazu in <a href="{{ '/post/trinkspiele-mit-karten/' | url }}">Trinkspiele mit Karten</a> und <a href="{{ '/post/trinkspiele-mit-wuerfeln/' | url }}">Trinkspiele mit Würfeln</a>.</li>
-      </ul>
+      <h2 id="ohne-zubehoer">Trinkspiele ohne Zubehör</h2>
+      <p>Du hast nur Getränke und keine Lust auf Aufbau? Diese <strong>Trinkspiele ohne Zubehör</strong> brauchen kein Material und sind in einem Satz erklärt: <a href="{{ '/buffalo/' | url }}">Buffalo</a> (Linke-Hand-Regel), <a href="{{ '/ich-hab-noch-nie/' | url }}">Ich hab noch nie</a>, <a href="{{ '/wahrheit-oder-pflicht/' | url }}">Wahrheit oder Pflicht</a>, <a href="{{ '/wer-wuerde-eher/' | url }}">Wer würde eher</a> und <a href="{{ '/was-wuerdest-du-eher/' | url }}">Würdest du eher</a>. Tipp: Oben einfach den Filter „Ohne Material“ aktivieren.</p>
+
+      <h2 id="wuerfel-karten">Trinkspiele mit Würfeln &amp; Karten</h2>
+      <p>Klassische <strong>Würfel-Trinkspiele</strong> sind <a href="{{ '/maexchen/' | url }}">Mäxchen</a> (auch Meiern) und <a href="{{ '/schocken/' | url }}">Schocken</a> – beide brauchen nur Würfel und einen Becher. Bei den <strong>Karten-Trinkspielen</strong> führen <a href="{{ '/kings-cup/' | url }}">King's Cup</a> und <a href="{{ '/busfahrer/' | url }}">Busfahren</a> die Liste an; ein normales Skat- oder Pokerdeck genügt. Mehr Ideen in <a href="{{ '/post/trinkspiele-mit-karten/' | url }}">Trinkspiele mit Karten</a> und <a href="{{ '/post/trinkspiele-mit-wuerfeln/' | url }}">Trinkspiele mit Würfeln</a>.</p>
+
+      <h2 id="gruppen">Trinkspiele für große Gruppen &amp; zu zweit</h2>
+      <p>Für die <strong>große Gruppe</strong> sind Team- und Becher-Spiele wie <a href="{{ '/flip-cup/' | url }}">Flip Cup</a>, <a href="{{ '/rage-cage/' | url }}">Rage Cage</a> und <a href="{{ '/beer-pong/' | url }}">Beer Pong</a> ideal. <strong>Zu zweit</strong> funktionieren <a href="{{ '/maexchen/' | url }}">Mäxchen</a>, Beer Pong (1 gegen 1) oder <a href="{{ '/wahrheit-oder-pflicht/' | url }}">Wahrheit oder Pflicht</a> – weitere Tipps im Beitrag <a href="{{ '/post/trinkspiele-zu-zweit/' | url }}">Trinkspiele zu zweit</a> und <a href="{{ '/post/trinkspiele-zu-viert/' | url }}">zu viert</a>.</p>
+
+      <h2 id="lustig">Lustige Trinkspiele</h2>
+      <p>Die <strong>lustigsten Trinkspiele</strong> leben von Geständnissen und Mutproben: <a href="{{ '/ich-hab-noch-nie/' | url }}">Ich hab noch nie</a>, <a href="{{ '/was-wuerdest-du-eher/' | url }}">Würdest du eher</a> und <a href="{{ '/wer-wuerde-eher/' | url }}">Wer würde eher</a> sorgen für die besten Geschichten. Wer es mutiger mag, bringt mit <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare Pong</a> 120 wasserfeste Dare-Karten in die Runde.</p>
+
+      <h2 id="glossar">Trinkspiel-Glossar</h2>
+      <dl class="hub-glossary">
+        <div><dt>Ex / Exen</dt><dd>Das Glas in einem Zug komplett austrinken.</dd></div>
+        <div><dt>Wasserfall</dt><dd>Alle trinken gleichzeitig; jeder darf erst absetzen, wenn der Linke aufhört (King's Cup).</dd></div>
+        <div><dt>Buffalo</dt><dd>Das Getränk nur in der vereinbarten (meist linken) Hand halten – sonst trinken.</dd></div>
+        <div><dt>Re-Rack</dt><dd>Becher beim Beer Pong einmal pro Spiel neu anordnen.</dd></div>
+        <div><dt>Bounce Shot</dt><dd>Aufspringender Ball, der doppelt zählt – aber abgewehrt werden darf.</dd></div>
+        <div><dt>Death Cup</dt><dd>Ein getroffener, noch nicht ausgetrunkener Becher beendet die Runde sofort (Rage Cage).</dd></div>
+        <div><dt>Schock aus</dt><dd>Drei Einsen – der höchste Wurf beim Schocken.</dd></div>
+        <div><dt>Mäxchen</dt><dd>Die 2-1, der höchste und unschlagbare Wurf beim gleichnamigen Spiel.</dd></div>
+      </dl>
+
+      <aside class="hub-note">
+        <strong>Bitte verantwortungsvoll spielen.</strong> Alle Trinkspiele lassen sich auch alkoholfrei spielen. Trinkt mit Maß, niemals unter 18 Jahren und nie vor dem Autofahren – und stellt genug Wasser bereit.
+      </aside>
 
       <h2 id="faq">Häufige Fragen zu Trinkspielen</h2>
       <div class="faq__list">
@@ -160,7 +204,8 @@ faqs:
       "name": "Trinkspiele-Übersicht",
       "itemListElement": [
         {% for game in collections.games %}
-        { "@type": "ListItem", "position": {{ loop.index }}, "name": {{ game.data.name | dump | safe }}, "url": "{{ site.url }}{{ game.url }}" }{% if not loop.last %},{% endif %}
+        {%- set gm = gameMeta[game.fileSlug] %}
+        { "@type": "ListItem", "position": {{ loop.index }}, "name": {{ game.data.name | dump | safe }}, "url": "{{ site.url }}{{ game.url }}", "image": "{% if gm and gm.image %}{{ site.url }}{{ gm.image }}{% else %}{{ site.ogImage }}{% endif %}" }{% if not loop.last %},{% endif %}
         {% endfor %}
       ]
     },

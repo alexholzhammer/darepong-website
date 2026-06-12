@@ -1,5 +1,5 @@
 /* =========================================================
-   DARE PONG — Partyspiele Hub filter
+   DARE PONG — Trinkspiele Hub: filter + search + sort
    Faceted filtering: OR within a group, AND across groups.
    ========================================================= */
 (function () {
@@ -12,18 +12,24 @@
   const countEl = document.getElementById("games-count");
   const resetBtn = document.getElementById("games-reset");
   const noResults = document.getElementById("games-noresults");
+  const searchEl = document.getElementById("games-search");
+  const sortEl = document.getElementById("games-sort");
   const total = cards.length;
 
-  // Pre-parse each card's filterable data once.
+  // Pre-parse each card's data once.
   const cardData = cards.map(card => ({
     el: card,
     energy: card.dataset.energy || "",
     min: parseInt(card.dataset.playersMin, 10) || 0,
     max: parseInt(card.dataset.playersMax, 10) || 0,
+    durMin: parseInt(card.dataset.durationMin, 10) || 0,
+    durMax: parseInt(card.dataset.durationMax, 10) || 0,
+    name: card.dataset.name || "",
     tags: (card.dataset.tags || "").split(/\s+/).filter(Boolean),
   }));
 
-  // Does a card satisfy a single active chip?
+  const energyRank = { low: 1, medium: 2, high: 3 };
+
   function chipMatches(card, chip) {
     const g = chip.dataset.group;
     if (g === "players") {
@@ -36,30 +42,47 @@
   }
 
   function apply() {
-    // Group the active chips by their facet.
     const active = chips.filter(c => c.getAttribute("aria-pressed") === "true");
     const groups = {};
     active.forEach(chip => {
       (groups[chip.dataset.group] = groups[chip.dataset.group] || []).push(chip);
     });
     const groupKeys = Object.keys(groups);
+    const term = (searchEl && searchEl.value || "").trim().toLowerCase();
 
     let visible = 0;
     cardData.forEach(card => {
-      // Card shows only if it matches at least one chip in EVERY active group.
-      const show = groupKeys.every(key =>
+      const matchesChips = groupKeys.every(key =>
         groups[key].some(chip => chipMatches(card, chip))
       );
+      const matchesTerm = !term || card.name.indexOf(term) !== -1;
+      const show = matchesChips && matchesTerm;
       card.el.hidden = !show;
       if (show) visible++;
     });
 
-    const filtering = active.length > 0;
+    const filtering = active.length > 0 || term.length > 0;
     resetBtn.hidden = !filtering;
     noResults.hidden = visible !== 0;
     countEl.textContent = filtering
       ? `${visible} von ${total} Spielen`
       : `${total} Spiele`;
+  }
+
+  function sortGrid() {
+    const v = sortEl ? sortEl.value : "default";
+    const arr = cardData.slice();
+    if (v === "players") arr.sort((a, b) => a.max - b.max || a.min - b.min);
+    else if (v === "players-desc") arr.sort((a, b) => b.max - a.max || b.min - a.min);
+    else if (v === "duration") arr.sort((a, b) => a.durMin - b.durMin || a.durMax - b.durMax);
+    else if (v === "energy") arr.sort((a, b) => (energyRank[b.energy] || 0) - (energyRank[a.energy] || 0));
+    else if (v === "name") arr.sort((a, b) => a.name.localeCompare(b.name, "de"));
+    // else: keep original (default) order
+    if (v === "default") {
+      cardData.forEach(c => grid.appendChild(c.el));
+    } else {
+      arr.forEach(c => grid.appendChild(c.el));
+    }
   }
 
   chips.forEach(chip => {
@@ -69,9 +92,12 @@
       apply();
     });
   });
+  if (searchEl) searchEl.addEventListener("input", apply);
+  if (sortEl) sortEl.addEventListener("change", sortGrid);
 
   function reset() {
     chips.forEach(c => c.setAttribute("aria-pressed", "false"));
+    if (searchEl) searchEl.value = "";
     apply();
   }
   resetBtn.addEventListener("click", reset);
