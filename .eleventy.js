@@ -62,6 +62,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "favicons": "/" });
   // Cloudflare redirects (e.g. /partyspiele/ -> /trinkspiele/), served from root
   eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
+  // llms.txt — guide for AI search engines / LLMs, served from the site root
+  eleventyConfig.addPassthroughCopy({ "llms.txt": "llms.txt" });
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   // Copy images co-located with posts to matching /post/ output paths
   eleventyConfig.addPassthroughCopy({ "src/post": "post" });
