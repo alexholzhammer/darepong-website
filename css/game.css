@@ -356,13 +356,13 @@ a.game__equipment-name:hover {
 
 /* ---- Body links (exclude the download button so its colours win) ---- */
 
-.game__body a:not(.game__download) {
+.game__body a:not(.game__download):not(.gp__cta) {
   color: var(--dp-red);
   text-decoration: underline;
   text-underline-offset: 2px;
   font-weight: 600;
 }
-.game__body a:not(.game__download):hover { color: var(--dp-red-deep); }
+.game__body a:not(.game__download):not(.gp__cta):hover { color: var(--dp-red-deep); }
 
 /* ---- TL;DR answer box (answer-first for skimmers + AI engines) ---- */
 

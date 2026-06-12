@@ -553,15 +553,17 @@ button { font-family: inherit; cursor: pointer; }
 .gp__cta {
   display: block;
   background: var(--dp-black);
-  color: var(--dp-paper);
+  color: #fff;
   padding: 16px 24px;
   font: 700 14px/1 var(--font-body);
+  text-decoration: none;
   transition: background var(--dur-fast);
   text-align: center;
 }
 
 .gp__cta:hover {
   background: var(--dp-red);
+  color: #fff;
 }
 
 /* =========================================================
