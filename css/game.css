@@ -555,3 +555,48 @@ a.game__equipment-name:hover {
 
 /* Anchor jump offset */
 .game__section[id], .game__body h2[id] { scroll-margin-top: 90px; }
+
+/* ---- Variant cards (Hausregeln) ---- */
+
+.game__variants {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(258px, 1fr));
+  gap: 14px;
+  margin: 0 0 28px;
+}
+.game__variant {
+  display: flex;
+  gap: 14px;
+  background: var(--bg-elevated);
+  border: 1px solid #E4E0D6;
+  border-radius: 14px;
+  padding: 16px 18px;
+  transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+}
+.game__variant:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(14,14,16,.08);
+  border-color: rgba(225,52,43,.35);
+}
+.game__variant-icon {
+  flex: none;
+  width: 46px;
+  height: 46px;
+  display: grid;
+  place-items: center;
+  font-size: 24px;
+  line-height: 1;
+  background: var(--bg-inset);
+  border-radius: 12px;
+}
+.game__variant-body { display: flex; flex-direction: column; gap: 4px; }
+.game__variant-name {
+  font: 700 17px/1.25 var(--font-body);
+  color: var(--dp-black);
+}
+.game__variant-body p {
+  margin: 0;
+  font: 400 14.5px/1.55 var(--font-body);
+  color: var(--fg-muted);
+}
+.game__variant-body p strong { color: var(--dp-red); }

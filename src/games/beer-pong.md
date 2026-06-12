@@ -272,11 +272,43 @@ Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholba
 
 Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede Gruppe hat ihre eigenen Hausregeln. Diese Varianten solltest du kennen:
 
-- **Bounce Shot:** Lässt du den Ball erst aufspringen und dann im Becher landen, zählt der Treffer doppelt. Dafür darf der Gegner den aufspringenden Ball mit der Hand wegschlagen.
-- **Re-Rack:** Einmal pro Spiel darf das werfende Team verlangen, die übrigen Becher neu anzuordnen (z. B. zur kleineren Pyramide oder Linie).
-- **Rebuttal („Nachwurf"):** Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal werfen – trifft es, geht das Spiel in die Verlängerung.
-- **Death Cup:** Wer einen bereits am Boden stehenden, noch nicht ausgetrunkenen Becher trifft, beendet das Spiel sofort zugunsten des eigenen Teams.
-- **Blow & Finger:** In manchen Runden darf ein kreiselnder Ball aus dem Becher gepustet (für Frauen) oder herausgeschnippt werden.
+<div class="game__variants">
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">⤴️</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Bounce Shot</span>
+      <p>Lässt du den Ball erst aufspringen und dann im Becher landen, zählt der Treffer <strong>doppelt</strong>. Dafür darf der Gegner den aufspringenden Ball mit der Hand wegschlagen.</p>
+    </div>
+  </div>
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">🔄</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Re-Rack</span>
+      <p>Einmal pro Spiel darf das werfende Team die übrigen Becher neu anordnen lassen – etwa zur kleineren Pyramide, Raute oder Linie.</p>
+    </div>
+  </div>
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">↩️</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Rebuttal („Nachwurf“)</span>
+      <p>Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal werfen – trifft es alle Restbecher, geht es in die Verlängerung.</p>
+    </div>
+  </div>
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">💀</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Death Cup</span>
+      <p>Wer einen bereits abgeräumten, aber noch nicht ausgetrunkenen Becher trifft, beendet das Spiel <strong>sofort</strong> zugunsten des eigenen Teams.</p>
+    </div>
+  </div>
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">💨</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Blow &amp; Finger</span>
+      <p>In manchen Runden darf ein noch kreiselnder Ball aus dem Becher gepustet oder mit dem Finger herausgeschnippt werden.</p>
+    </div>
+  </div>
+</div>
 
 ### Re-Rack: die gängigen Formationen
 
