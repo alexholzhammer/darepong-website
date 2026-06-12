@@ -53,11 +53,27 @@ rules:
   - "„Rebuttal“ (Nachwurf): Wird der letzte Becher getroffen, darf das unterlegene Team alle Bälle nehmen und nachwerfen; trifft es alle Restbecher, geht das Spiel in die Verlängerung."
   - In der Verlängerung wird mit je 3 neuen Bechern (Anordnung 2-1) auf der Tischmitte weitergespielt, bis ein Team als Erstes alle gegnerischen Becher trifft.
 tips:
-  - Spielt mit leichtem Bier oder Wasser-Bier-Mix – über ein ganzes Spiel summieren sich die Becher schnell.
-  - Spült die Bälle nach jedem Wurf im Wasserbecher ab, das hält das Spiel halbwegs hygienisch.
-  - Ein gleichmäßiger Bogenwurf trifft deutlich zuverlässiger als ein flacher, harter Wurf.
-  - Legt die Hausregeln (Bounce, Re-Rack, Rebuttal) vor dem ersten Wurf gemeinsam fest, das vermeidet Diskussionen.
-  - Achtet darauf, dass die Ellbogen beim Wurf hinter der Tischkante bleiben – die klassische „Ellbogen-Regel“.
+  - icon: "🎯"
+    title: "Auf den hinteren Rand zielen"
+    text: "Ziele nicht auf die Becheröffnung, sondern auf den hinteren Becherrand – so fällt der Ball mittig hinein, statt vorne abzuspringen."
+  - icon: "🔁"
+    title: "Immer derselbe Abwurf"
+    text: "Nutze einen festen Abwurfpunkt und dieselbe Armbewegung. Konstanz trifft zuverlässiger als Kraft – ganz wie beim Dart."
+  - icon: "⤴️"
+    title: "Bounce gezielt einsetzen"
+    text: "Der Bounce Shot zählt doppelt, ist aber abwehrbar. Heb ihn dir für Momente auf, in denen der Gegner unaufmerksam ist."
+  - icon: "🔄"
+    title: "Re-Rack clever timen"
+    text: "Spar dir das eine Re-Rack pro Spiel für den Schluss auf – zwei eng zusammenstehende Becher sind viel leichter zu treffen."
+  - icon: "🍺"
+    title: "Lieber leicht als stark"
+    text: "Spielt mit leichtem Bier oder einem Wasser-Bier-Mix. Über ein ganzes Spiel summieren sich 10 Becher schneller, als man denkt."
+  - icon: "💧"
+    title: "Ball sauber halten"
+    text: "Spül den Ball nach jedem Wurf kurz im Wasserbecher ab – das ist hygienischer und er löst sich sauberer von der Hand."
+  - icon: "📋"
+    title: "Hausregeln vorher klären"
+    text: "Legt Bounce, Re-Rack, Rebuttal und Death Cup vor dem ersten Wurf gemeinsam fest. Das erspart Diskussionen mitten im Spiel."
 faq:
   - q: "Wie viele Becher braucht man für Beer Pong?"
     a: "Pro Team werden 10 Becher zu einer Pyramide in der Anordnung 4-3-2-1 aufgestellt – insgesamt also 20 Becher. Für ein schnelleres Spiel reichen auch 6 Becher pro Team (3-2-1)."
