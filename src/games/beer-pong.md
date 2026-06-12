@@ -37,7 +37,7 @@ equipment:
 rules:
   - Baut an beiden Tischenden je eine Pyramide aus 10 Bechern in der Anordnung 4-3-2-1 auf und schiebt sie dicht zusammen, sodass die Spitze zum Gegner zeigt.
   - Füllt jeden Becher etwa zu einem Drittel mit Bier und stellt an jede Tischseite einen Wasserbecher zum Abspülen der Bälle.
-  - Bestimmt das Startteam – klassisch per „Eye to Eye“: Je ein Spieler beider Teams wirft gleichzeitig mit Blickkontakt, wer zuerst trifft, beginnt.
+  - "Bestimmt das Startteam – klassisch per „Eye to Eye“: Je ein Spieler beider Teams wirft gleichzeitig mit Blickkontakt, wer zuerst trifft, beginnt."
   - Zwei Teams stehen sich gegenüber und werfen abwechselnd; pro Runde wirft jeder der beiden Spieler eines Teams genau einen Ball.
   - Landet ein Ball in einem Becher, muss das gegnerische Team diesen Becher sofort austrinken und vom Tisch nehmen.
   - Treffen beide Teamkollegen in derselben Runde, gibt es die Bälle zurück („Balls Back“) und das Team darf noch einmal werfen.
@@ -45,7 +45,7 @@ rules:
   - Einmal pro Spiel darf das werfende Team ein „Re-Rack“ verlangen und die übrigen Becher neu anordnen lassen, etwa zur Raute, zur 3er-Linie oder zum Herz.
   - Becher, die umkippen oder vom Tisch fallen, gelten als getroffen und kommen aus dem Spiel.
   - Wer alle gegnerischen Becher zuerst versenkt, gewinnt die Runde – das Verliererteam trinkt die übrigen Becher aus.
-  - „Rebuttal“ (Nachwurf): Wird der letzte Becher getroffen, darf das unterlegene Team alle Bälle nehmen und nachwerfen; trifft es alle Restbecher, geht das Spiel in die Verlängerung.
+  - "„Rebuttal“ (Nachwurf): Wird der letzte Becher getroffen, darf das unterlegene Team alle Bälle nehmen und nachwerfen; trifft es alle Restbecher, geht das Spiel in die Verlängerung."
   - In der Verlängerung wird mit je 3 neuen Bechern (Anordnung 2-1) auf der Tischmitte weitergespielt, bis ein Team als Erstes alle gegnerischen Becher trifft.
 tips:
   - Spielt mit leichtem Bier oder Wasser-Bier-Mix – über ein ganzes Spiel summieren sich die Becher schnell.
@@ -72,6 +72,23 @@ faq:
     a: "Standard sind rote Solo Cups mit etwa 0,4–0,5 Litern Fassungsvermögen. Es funktioniert aber jeder gleich große, stabile Plastikbecher – wichtig ist nur, dass alle Becher identisch sind, damit kein Team benachteiligt ist."
   - q: "Kann man Beer Pong auch alkoholfrei spielen?"
     a: "Ja. Beer Pong lässt sich problemlos mit Wasser, Saft oder Softdrinks in den Bechern spielen. Die Regeln bleiben identisch – getrunken wird dann eben alkoholfrei."
+teamNamesIntro: "Bevor der erste Ball fliegt, braucht jedes Team einen Namen. Ein guter Beer-Pong-Team-Name sorgt schon vor dem Anstoß für Stimmung – hier ein paar Ideen zum Klauen:"
+teamNames:
+  - name: Pong Stars
+  - name: Die Bechervernichter
+  - name: Bermuda-Dreieck
+    note: für jeden versenkten Becher
+  - name: Cup Crusher
+  - name: Team Wasserschaden
+  - name: Die Trefferquote
+  - name: Promille Pirates
+  - name: Schluck Norris
+  - name: Hopfen & Malz, verloren
+  - name: Die Bierhasen
+  - name: Last Cup Standing
+  - name: Team Fehlwurf
+    note: für die ehrlichen unter euch
+teamNamesTip: "Wer es persönlicher mag, kombiniert einfach die Vornamen beider Teampartner zu einem Wortwitz – das sorgt garantiert für Lacher in der Runde."
 ---
 
 <div class="game__tldr">
@@ -123,8 +140,8 @@ Der klassische Beer-Pong-Aufbau besteht aus **zwei Becher-Pyramiden** – eine a
     <use href="#bpCup" x="73" y="394"/><use href="#bpCup" x="115" y="394"/><use href="#bpCup" x="157" y="394"/><use href="#bpCup" x="199" y="394"/>
     <!-- Optionaler Wasserbecher, rechts an der Tischkante deiner Seite -->
     <use href="#bpCupGhost" x="236" y="384"/>
-    <text x="232" y="396" text-anchor="end" font-family="sans-serif" font-size="9" fill="#8a8a8a">Wasser-</text>
-    <text x="232" y="406" text-anchor="end" font-family="sans-serif" font-size="9" fill="#8a8a8a">becher</text>
+    <text x="250" y="365" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#6a6a6a">Wasser-</text>
+    <text x="250" y="376" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#6a6a6a">becher</text>
   </svg>
   <figcaption>Beer Pong Aufbau von oben: pro Seite 10 Becher als 4-3-2-1-Pyramide, Spitze zur Tischmitte. Der gestrichelte Wasserbecher (zum Abspülen des Balls) steht optional vom Werfer aus rechts an der Tischkante.</figcaption>
 </figure>
@@ -198,22 +215,3 @@ Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede
 - **Blow & Finger:** In manchen Runden darf ein kreiselnder Ball aus dem Becher gepustet (für Frauen) oder herausgeschnippt werden.
 
 Wer es noch wilder mag, kombiniert Beer Pong mit verwandten Becher-Spielen wie [Flip Cup]({{ '/flip-cup/' | url }}) oder [King's Cup]({{ '/kings-cup/' | url }}). Und für die extra Portion Mut bringt **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch – jeder Treffer löst dann eine Aufgabe aus.
-
-## Lustige Beer Pong Team-Namen
-
-Bevor der erste Ball fliegt, braucht jedes Team natürlich einen Namen. Ein guter **Beer-Pong-Team-Name** sorgt schon vor dem Anstoß für Stimmung. Hier ein paar Ideen zum Klauen:
-
-- Pong Stars
-- Die Bechervernichter
-- Bermuda-Dreieck (für jeden versenkten Becher)
-- Cup Crusher
-- Team Wasserschaden
-- Die Trefferquote
-- Promille Pirates
-- Schluck Norris
-- Hopfen & Malz, verloren ist alles
-- Die Bierhasen
-- Last Cup Standing
-- Team Fehlwurf (für die ehrlichen unter euch)
-
-Tipp: Wer es persönlicher mag, kombiniert einfach die Vornamen beider Teampartner zu einem Wortwitz – das sorgt garantiert für Lacher in der Runde.

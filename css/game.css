@@ -406,3 +406,42 @@ a.game__equipment-name:hover {
   box-shadow: 0 2px 0 var(--dp-red-deep);
 }
 .game__download svg { flex: none; }
+
+/* ---- Team name chips ---- */
+
+.game__names-intro {
+  font: 400 17px/1.65 var(--font-body);
+  color: var(--fg);
+  max-width: 66ch;
+  margin-bottom: 22px;
+}
+.game__names {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 12px;
+  margin-bottom: 22px;
+}
+.game__name {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background: var(--bg-elevated);
+  border: 1px solid #E4E0D6;
+  border-left: 3px solid var(--dp-red);
+  border-radius: 10px;
+  padding: 12px 14px;
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.game__name:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(14,14,16,.08);
+}
+.game__name-label { font: 700 16px/1.3 var(--font-body); color: var(--dp-black); }
+.game__name-note { font: 400 13px/1.35 var(--font-body); color: var(--fg-muted); }
+.game__names-tip {
+  font: 400 16px/1.6 var(--font-body);
+  color: var(--fg-muted);
+  max-width: 66ch;
+}
+.game__names-tip strong { color: var(--dp-black); }
