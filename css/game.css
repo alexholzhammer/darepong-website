@@ -675,3 +675,28 @@ a.game__equipment-name:hover {
   background: var(--dp-red);
   transform: scale(1.06);
 }
+
+/* ---- Content table (e.g. Schluck-Tabelle) ---- */
+
+.game__table-wrap { overflow-x: auto; margin: 0 0 28px; }
+.game__table {
+  width: 100%;
+  border-collapse: collapse;
+  font: 400 15px/1.45 var(--font-body);
+  min-width: 360px;
+}
+.game__table th,
+.game__table td {
+  padding: 11px 14px;
+  text-align: left;
+  border-bottom: 1px solid #E4E0D6;
+}
+.game__table thead th {
+  font-weight: 700;
+  color: var(--dp-black);
+  border-bottom: 2px solid var(--dp-black);
+}
+.game__table tbody th { font-weight: 700; color: var(--dp-black); }
+.game__table tbody td:last-child { font-weight: 700; color: var(--dp-red); }
+.game__table tr:nth-child(even) td,
+.game__table tr:nth-child(even) th { background: var(--bg-inset); }

@@ -7,6 +7,8 @@ description: "Busfahrer (Busfahren) – das Kartenspiel-Trinkspiel mit Raterunde
 updated: 2026-06-12
 rulesTitle: "Busfahrer Regeln"
 tipsTitle: "Busfahrer Tipps"
+rulesPdf: /assets/busfahren-regeln.pdf
+rulesPdfLabel: "Busfahren Regeln als PDF herunterladen"
 shortDescription: Kartenbasiertes Glücksspiel in mehreren Phasen – wer am Ende übrig bleibt, wird Busfahrer und muss die berüchtigte Schlussrunde alleine durchstehen.
 players:
   min: 3
@@ -86,17 +88,41 @@ faq:
   <li><span class="game__fact-num">ab 18</span><span class="game__fact-lbl">Jahren</span></li>
 </ul>
 
+<nav class="game__toc" aria-label="Inhaltsverzeichnis">
+  <span class="game__toc-title">Inhalt</span>
+  <ul>
+    <li><a href="#was-ist-busfahren">Was ist Busfahren?</a></li>
+    <li><a href="#geschichte">Geschichte &amp; Herkunft</a></li>
+    <li><a href="#anleitung">Die 3 Phasen (Anleitung)</a></li>
+    <li><a href="#strategie">Wie gewinnt man?</a></li>
+    <li><a href="#varianten">Varianten &amp; Hausregeln</a></li>
+    <li><a href="#aehnliche-spiele">Ähnliche Trinkspiele</a></li>
+    <li><a href="#regeln">Regeln (Kurzfassung)</a></li>
+    <li><a href="#tipps">Tipps</a></li>
+    <li><a href="#faq">Häufige Fragen</a></li>
+  </ul>
+</nav>
+
 **Busfahrer** – auch **„Busfahren“**, „Ride the Bus“ oder „Pyramide“ genannt – ist eines der beliebtesten **Karten-Trinkspiele** im deutschsprachigen Raum und besteht aus mehreren aufeinander aufbauenden Phasen. Anders als bei reinen Wurf- oder Reaktionsspielen entscheidet hier fast ausschließlich das Glück darüber, wer trinken muss – beeinflussen lässt sich nur wenig, was den besonderen Reiz ausmacht.
 
 Das Besondere an Busfahren ist der dramaturgische Aufbau über die Runden hinweg. Während in der Raterunde und der Pyramide noch alle relativ gleichmäßig trinken, läuft am Ende alles auf eine Person zu: den **Busfahrer**. Diese muss die gefürchtete Schlussrunde ganz allein bestreiten und bei jeder ungünstigen Karte wieder von vorne anfangen. Genau dieser Spannungsbogen – von der lockeren Raterei bis zum nervenaufreibenden Finale – macht das Spiel so unterhaltsam für die ganze Gruppe.
 
-## Was ist Busfahren?
+<h2 id="was-ist-busfahren">Was ist Busfahren?</h2>
 
 Busfahren ist ein reines **Kartenspiel-Trinkspiel**: Man braucht nur ein Kartendeck, Getränke und ein paar Mitspieler. Der Name kommt von der Schlussrunde, in der der Verlierer alleine „Bus fährt“. Weil es ganz ohne Geschick auskommt und in jeder Runde jemand Neues drankommt, eignet sich Busfahren perfekt für Vorglüh-Runden, WG-Partys und gesellige Abende.
 
-## Busfahrer Regeln: Die 3 Phasen im Überblick
+<h2 id="geschichte">Geschichte &amp; Herkunft</h2>
+
+Busfahren ist im englischsprachigen Raum als **„Ride the Bus“** bekannt und gehört dort wie hierzulande zu den Klassikern der Studenten- und Partykultur. Das Grundprinzip – Karten erraten, eine Pyramide aufdecken und am Ende einen einzelnen Verlierer „Bus fahren“ lassen – wird in unzähligen regionalen Spielarten weitergegeben, meist mündlich von Runde zu Runde. Genau deshalb gibt es kein einziges „offizielles“ Regelwerk, sondern viele Hausregeln, die sich vor allem in der Pyramide und der Länge der Schlussrunde unterscheiden.
+
+<h2 id="anleitung">Busfahrer Regeln: Die 3 Phasen im Überblick</h2>
 
 Busfahren läuft immer in derselben Reihenfolge ab. Hier die drei Phasen Schritt für Schritt erklärt:
+
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/busfahren-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Busfahren Ablauf in 3 Phasen: Raterunde, Pyramide, Busfahren">
+  <figcaption>Der Ablauf von Busfahren in drei Phasen: Raterunde → Pyramide → Busfahren (Solo-Finale).</figcaption>
+</figure>
 
 ### Phase 1 – Die Raterunde
 
@@ -106,11 +132,43 @@ Jeder Spieler bekommt vier verdeckte Karten. Reihum wird vor jeder Karte geraten
 
 Der Geber legt zehn Karten verdeckt als **Pyramide (5-4-3-2-1)** aus und deckt sie von unten nach oben auf. Wer eine passende Karte auf der Hand hat, darf Schlücke verteilen – in der unteren Reihe wenige, ganz oben besonders viele. Ziel ist, alle Handkarten loszuwerden. Wer am Ende die meisten Karten behält, wird zum **Busfahrer**.
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/busfahren-pyramide.svg' | url }}" width="440" height="272" loading="lazy" decoding="async" eleventy:ignore alt="Busfahren Pyramide: 5-4-3-2-1 Karten, untere Reihe 1 Schluck, Spitze 5 Schlücke">
+  <figcaption>Die Pyramide beim Busfahren: Je höher die Reihe, desto mehr Schlücke werden verteilt.</figcaption>
+</figure>
+
+Wie viele Schlücke die einzelnen Reihen wert sind, ist Hausregel. Üblich ist diese Staffelung:
+
+<div class="game__table-wrap">
+<table class="game__table">
+  <caption class="sr-only">Schlücke je Pyramiden-Reihe beim Busfahren</caption>
+  <thead>
+    <tr><th scope="col">Pyramiden-Reihe</th><th scope="col">Karten</th><th scope="col">Schlücke</th></tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">1. Reihe (unten)</th><td>5</td><td>1 Schluck</td></tr>
+    <tr><th scope="row">2. Reihe</th><td>4</td><td>2 Schlücke</td></tr>
+    <tr><th scope="row">3. Reihe</th><td>3</td><td>3 Schlücke</td></tr>
+    <tr><th scope="row">4. Reihe</th><td>2</td><td>4 Schlücke</td></tr>
+    <tr><th scope="row">5. Reihe (Spitze)</th><td>1</td><td>5 Schlücke</td></tr>
+  </tbody>
+</table>
+</div>
+
 ### Phase 3 – Das Busfahren
 
 Jetzt muss der Busfahrer allein ran: Er deckt eine lange Reihe von Karten auf. Bei jeder **Bildkarte** (Bube, Dame, König, Ass) muss er trinken und beginnt die Reihe wieder von vorn. Erst wenn er die komplette Reihe ohne Bildkarte schafft, ist das Spiel vorbei.
 
-## Busfahrer Varianten & Hausregeln
+<h2 id="strategie">Wie gewinnt man Busfahren?</h2>
+
+Ehrliche Antwort: Busfahren ist fast reines **Glück** – „gewinnen“ heißt vor allem, nicht der Busfahrer zu werden. Ein paar Wahrscheinlichkeiten helfen aber trotzdem in der Raterunde:
+
+- **Rot oder schwarz** ist immer eine 50:50-Chance – hier gibt es keine clevere Wahl.
+- **Höher oder tiefer:** Bei einer niedrigen ersten Karte (2–6) auf „höher“ tippen, bei einer hohen (9–Ass) auf „tiefer“. Bei einer 7 oder 8 ist es nahezu ausgeglichen.
+- **Innen oder außen:** Liegen die ersten beiden Werte weit auseinander, ist „innen“ wahrscheinlicher; liegen sie eng beieinander, lieber „außen“ wählen.
+- In der **Pyramide** zählt vor allem, früh viele Handkarten loszuwerden – im Zweifel lieber bluffen, als auf passenden Karten sitzen zu bleiben.
+
+<h2 id="varianten">Busfahrer Varianten &amp; Hausregeln</h2>
 
 Busfahren wird in fast jeder Gruppe etwas anders gespielt. Diese Varianten lohnen sich:
 
@@ -145,7 +203,7 @@ Busfahren wird in fast jeder Gruppe etwas anders gespielt. Diese Varianten lohne
   </div>
 </div>
 
-## Ähnliche Trinkspiele
+<h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
 Du magst Karten- und Glücks-Trinkspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
 
@@ -154,3 +212,23 @@ Du magst Karten- und Glücks-Trinkspiele? Dann probiere als Nächstes diese Klas
 {% gamePreview "schocken" %}
 
 {% gamePreview "maexchen" %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/busfahren-ablauf.svg' | url }}",
+      "name": "Busfahren Ablauf in 3 Phasen",
+      "caption": "Der Ablauf von Busfahren: Raterunde, Pyramide und Busfahren (Solo-Finale)."
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/busfahren-pyramide.svg' | url }}",
+      "name": "Busfahren Pyramide – Schlücke je Reihe",
+      "caption": "Die 5-4-3-2-1-Pyramide beim Busfahren: unten 1 Schluck, an der Spitze 5 Schlücke."
+    }
+  ]
+}
+</script>
