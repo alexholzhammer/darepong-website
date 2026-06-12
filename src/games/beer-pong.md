@@ -155,7 +155,7 @@ Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorgl�
 <h2 id="spielablauf">Beer Pong Spielablauf in 5 Schritten</h2>
 
 <figure class="game__diagram game__diagram--wide">
-  <img src="{{ '/assets/beer-pong-ablauf.svg' | url }}" width="630" height="120" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Ablauf in 5 Schritten: Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft">
+  <img src="{{ '/assets/beer-pong-ablauf-2.svg' | url }}" width="630" height="120" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Ablauf in 5 Schritten: Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft">
   <figcaption>Eine Beer-Pong-Runde in fünf Schritten – vom Wurf bis zum Seitenwechsel.</figcaption>
 </figure>
 
@@ -257,7 +257,7 @@ Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholba
 - **Arc-over-Ablenkung:** Reden, wedeln und Sprüche sind erlaubt, solange der Gegner Tisch und Becher nicht berührt. Lass dich davon nicht aus dem Rhythmus bringen.
 
 <figure class="game__diagram game__diagram--wide">
-  <img src="{{ '/assets/beer-pong-bounce-shot.svg' | url }}" width="480" height="200" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Bounce Shot: Der Ball springt einmal auf dem Tisch auf und landet dann im Becher und zählt doppelt">
+  <img src="{{ '/assets/beer-pong-bounce-shot-2.svg' | url }}" width="480" height="200" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Bounce Shot: Der Ball springt einmal auf dem Tisch auf und landet dann im Becher und zählt doppelt">
   <figcaption>Der Bounce Shot: einmal aufspringen lassen, dann in den Becher – zählt doppelt, darf aber abgewehrt werden.</figcaption>
 </figure>
 
@@ -283,7 +283,7 @@ Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede
 Beim Re-Rack werden die übrigen Becher neu angeordnet. Je nach Restzahl haben sich diese Formationen etabliert:
 
 <figure class="game__diagram game__diagram--wide">
-  <img src="{{ '/assets/beer-pong-re-rack.svg' | url }}" width="630" height="175" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Re-Rack Formationen: 6 Becher als Pyramide, 4 als Diamant, 3 als Dreieck, 2 als Linie">
+  <img src="{{ '/assets/beer-pong-re-rack-2.svg' | url }}" width="630" height="175" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Re-Rack Formationen: 6 Becher als Pyramide, 4 als Diamant, 3 als Dreieck, 2 als Linie">
   <figcaption>Typische Re-Rack-Formationen: 6 → Pyramide, 4 → Diamant, 3 → Dreieck, 2 → Linie.</figcaption>
 </figure>
 
@@ -345,7 +345,7 @@ Du hast Beer Pong drauf? Dann probiere als Nächstes diese Klassiker:
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-re-rack.svg' | url }}",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-re-rack-2.svg' | url }}",
       "name": "Beer Pong Re-Rack Formationen",
       "caption": "Typische Re-Rack-Formationen: 6 → Pyramide, 4 → Diamant, 3 → Dreieck, 2 → Linie."
     },
@@ -357,13 +357,13 @@ Du hast Beer Pong drauf? Dann probiere als Nächstes diese Klassiker:
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-bounce-shot.svg' | url }}",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-bounce-shot-2.svg' | url }}",
       "name": "Beer Pong Bounce Shot",
       "caption": "Der Bounce Shot springt einmal auf und zählt doppelt."
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-ablauf.svg' | url }}",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-ablauf-2.svg' | url }}",
       "name": "Beer Pong Ablauf in 5 Schritten",
       "caption": "Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft."
     }
