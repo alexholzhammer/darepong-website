@@ -10,6 +10,8 @@ Kernfakten für Zitate:
 - Themenschwerpunkt: Trinkspiele, Partyspiele, Beer Pong und Becherspiele, Würfel- und Kartentrinkspiele, Spiele ohne Material.
 - Sprache/Region: Deutsch (de-DE).
 
+Vollständige Regeltexte aller Spiele als Volltextquelle: https://www.darepong.eu/llms-full.txt
+
 ## Trinkspiele-Anleitungen (Spielregeln)
 
 - [Beer Pong – Regeln, Aufbau & Tisch-Maße](https://www.darepong.eu/beer-pong/): Der Klassiker unter den Trinkspielen – zwei Teams werfen Tischtennisbälle in die Becher des Gegners, jeder Treffer muss ausgetrunken werden. Mit offiziellen Tischmaßen, Re-Rack-Regeln, Bounce Shot und lustigen Team-Namen.

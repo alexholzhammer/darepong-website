@@ -32,6 +32,15 @@ Hier findet ihr Trinkspiele für 2 in diesen Kategorien:
 
 Neugierig? Dann lest auf jeden Fall weiter!
 
+<div class="post__tldr">
+  <p class="post__tldr-title">Auf einen Blick</p>
+  <ul>
+    <li><strong>26 Trinkspiele für genau zwei Personen</strong> – mit Material, ohne Zubehör, mit Karten und sogar für die Distanz (online).</li>
+    <li>Was zu zweit funktioniert: einfache Regeln, viel Interaktion, wenig Aufbau.</li>
+    <li>Becher-Klassiker wie <a href="{{ '/beer-pong/' | url }}">Beer Pong</a> lassen sich auch zu zweit spielen.</li>
+  </ul>
+</div>
+
 ## Die 10 besten Trinkspiele zu zweit mit Material: Klassiker & Neuheiten
 
 Mit diesen 10 Trinkspielen könnt ihr euch einen tollen Abend machen und Spaß haben, egal ob ihr Trinkspiele für Pärchen oder beste Freunde sucht.

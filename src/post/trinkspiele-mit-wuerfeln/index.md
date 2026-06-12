@@ -30,6 +30,15 @@ Du findest hier **die besten 14 [Trinkspiele]({{ '/trinkspiele/' | url }}) mit W
 
 Wir haben sie schon hunderte Male gespielt und für ausgezeichnet befunden!
 
+<div class="post__tldr">
+  <p class="post__tldr-title">Auf einen Blick</p>
+  <ul>
+    <li><strong>Die 14 besten Würfel-Trinkspiele</strong> – alle mit ausführlicher Anleitung.</li>
+    <li>Bluff-Klassiker wie <a href="{{ '/maexchen/' | url }}">Mäxchen</a> brauchen nur zwei Würfel und einen Becher.</li>
+    <li>Schnell erklärt und ideal für Kneipe, WG-Abend und Vorglühen.</li>
+  </ul>
+</div>
+
 ## Mäxchen
 
 "[Mäxchen]({{ '/maexchen/' | url }})", auch bekannt als Meiern, ist ein beliebtes Würfel-Trinkspiel, das hauptsächlich auf Bluffen basiert. Es wird mit zwei Würfeln gespielt, und die Spieler müssen höhere Würfelkombinationen vortäuschen, als tatsächlich gewürfelt wurden. Hier sind die Grundregeln:

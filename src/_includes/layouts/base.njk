@@ -47,7 +47,52 @@
   <meta name="twitter:description" content="{{ description or site.description }}">
   <meta name="twitter:image" content="{{ ogImage or site.ogImage }}">
 
-  <!-- Structured Data -->
+  <!-- RSS feed -->
+  <link rel="alternate" type="application/rss+xml" title="Dare Pong Blog" href="{{ site.url }}/feed.xml">
+
+  <!-- Structured Data: sitewide Organization + WebSite (every page) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "{{ site.url }}/#organization",
+        "name": "{{ site.name }}",
+        "legalName": "{{ site.product.brand }}",
+        "url": "{{ site.url }}/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/assets/logo-black.png"
+        },
+        "image": "{{ site.ogImage }}",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bremen",
+          "addressCountry": "DE"
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ site.url }}/#website",
+        "url": "{{ site.url }}/",
+        "name": "{{ site.name }}",
+        "description": "{{ site.description }}",
+        "inLanguage": "de-DE",
+        "publisher": { "@id": "{{ site.url }}/#organization" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "{{ site.url }}/trinkspiele/?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      }
+    ]
+  }
+  </script>
+
   {% if jsonLdType == "product" %}
   <script type="application/ld+json">
   {
@@ -89,11 +134,6 @@
           }{% if not loop.last %},{% endif %}
           {% endfor %}
         ]
-      },
-      {
-        "@type": "WebSite",
-        "url": "{{ site.url }}",
-        "name": "{{ site.name }}"
       }
     ]
   }
@@ -108,18 +148,28 @@
         "headline": {{ title | dump | safe }},
         "description": {{ (description or summary) | dump | safe }},
         "datePublished": "{{ date | dateISO }}",
-        "dateModified": "{{ date | dateISO }}",
-        "image": "{{ ogImage or site.ogImage }}",
+        "dateModified": "{{ (updated or date) | dateISO }}",
+        "image": "{{ ogImage or image or site.ogImage }}",
         "url": "{{ site.url }}{{ page.url }}",
-        "publisher": {
+        "inLanguage": "de-DE",
+        "author": {
           "@type": "Organization",
-          "name": "{{ site.name }}",
-          "url": "{{ site.url }}"
+          "name": "{{ site.name }} Redaktion",
+          "url": "{{ site.url }}/"
         },
+        "publisher": { "@id": "{{ site.url }}/#organization" },
         "mainEntityOfPage": {
           "@type": "WebPage",
           "@id": "{{ site.url }}{{ page.url }}"
         }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "{{ site.url }}/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ site.url }}/blog/" },
+          { "@type": "ListItem", "position": 3, "name": {{ title | dump | safe }}, "item": "{{ site.url }}{{ page.url }}" }
+        ]
       }{% if faq %},
       {
         "@type": "FAQPage",

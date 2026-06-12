@@ -104,5 +104,12 @@
   document.querySelectorAll(".games-hub__noresults-reset")
     .forEach(b => b.addEventListener("click", reset));
 
+  // Pre-fill from a ?q= query param (powers the schema.org SearchAction /
+  // sitelinks search box and shareable filtered URLs).
+  if (searchEl) {
+    const q = new URLSearchParams(location.search).get("q");
+    if (q) searchEl.value = q;
+  }
+
   apply(); // initialise count
 })();

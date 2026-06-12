@@ -26,6 +26,15 @@ Bereite dich vor auf eine Reise durch Spiele, die deine Gäste nicht nur herausf
 
 Also, lass die Korken knallen, sammle deine Freunde und tauche ein in die Welt der besten Trinkspiele für Geburtstage. Lese weiter, um Inspirationen zu sammeln und finde heraus, welche Spiele am besten zu deinem Feierstil passen!
 
+<div class="post__tldr">
+  <p class="post__tldr-title">Auf einen Blick</p>
+  <ul>
+    <li><strong>Die 10 besten Trinkspiele für die Geburtstagsparty</strong> – von Klassikern bis zu neuen Ideen.</li>
+    <li>Partytauglich für viele Gäste: <a href="{{ '/kings-cup/' | url }}">King's Cup</a>, <a href="{{ '/beer-pong/' | url }}">Beer Pong</a>, <a href="{{ '/flip-cup/' | url }}">Flip Cup</a> und <a href="{{ '/jenga-trinkspiel/' | url }}">Jenga Trinkspiel</a>.</li>
+    <li>Einfache Regeln, die alle Gäste sofort mitspielen können.</li>
+  </ul>
+</div>
+
 ## Trikspiele Geburtstag | Was macht die guten aus?
 
 Ein gutes Trinkspiel für Geburtstage zeichnet sich durch mehrere Schlüsselfaktoren aus, die es zu einem unvergesslichen und unterhaltsamen Erlebnis für alle Beteiligten machen.

@@ -20,6 +20,15 @@ faq:
 ---
 Stell dir vor, es ist Wochenende, und du bist mit deinen drei besten Freunden zusammen. Was könnte jetzt besser sein, als ein paar [Trinkspiele]({{ '/trinkspiele/' | url }}) zu viert zu zocken? Richtig, kaum etwas! Trinkspiele zu viert sind der perfekte Weg, um die Stimmung zu lockern, sich gegenseitig besser kennenzulernen und natürlich, um eine Menge Spaß zu haben. Ich nehme dich mit auf eine Tour durch die 25 besten Trinkspiele, die speziell dafür gemacht sind, mit vier Spielern gespielt zu werden.
 
+<div class="post__tldr">
+  <p class="post__tldr-title">Auf einen Blick</p>
+  <ul>
+    <li><strong>Die 25 besten Trinkspiele für 4 Personen</strong> – jeweils kurz erklärt.</li>
+    <li>Top-Mix: <a href="{{ '/kings-cup/' | url }}">King's Cup</a>, <a href="{{ '/beer-pong/' | url }}">Beer Pong</a>, <a href="{{ '/jenga-trinkspiel/' | url }}">Jenga Trinkspiel</a> und <a href="{{ '/flip-cup/' | url }}">Flip Cup</a>.</li>
+    <li>Von Karten- über Würfel- bis zu Geschicklichkeitsspielen ist alles dabei – auch Spiele ganz ohne Material.</li>
+  </ul>
+</div>
+
 ## Die 25 besten Trinkspiele zu viert - mit Erläuterungen
 
 ![Trinkspiele zu viert - die besten Spiele für 4 Personen](trinkspiele-zu-viert-beste-spiele-4-personen.avif)

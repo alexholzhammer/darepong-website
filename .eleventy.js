@@ -62,8 +62,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "favicons": "/" });
   // Cloudflare redirects (e.g. /partyspiele/ -> /trinkspiele/), served from root
   eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
-  // llms.txt — guide for AI search engines / LLMs, served from the site root
+  // llms.txt / llms-full.txt — guides for AI search engines / LLMs (site root).
+  // Regenerate llms-full.txt after editing game data: node scripts/gen-llms-full.js
   eleventyConfig.addPassthroughCopy({ "llms.txt": "llms.txt" });
+  eleventyConfig.addPassthroughCopy({ "llms-full.txt": "llms-full.txt" });
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   // Copy images co-located with posts to matching /post/ output paths
   eleventyConfig.addPassthroughCopy({ "src/post": "post" });
@@ -136,6 +138,21 @@ module.exports = function (eleventyConfig) {
   // ISO date for <time datetime="">
   eleventyConfig.addFilter("dateISO", function (date) {
     return new Date(date).toISOString().split("T")[0];
+  });
+
+  // Full ISO timestamp (for Atom <updated>/<published>)
+  eleventyConfig.addFilter("dateISOFull", function (date) {
+    return new Date(date).toISOString();
+  });
+
+  // RFC-822 date for RSS <pubDate>
+  eleventyConfig.addFilter("dateRFC822", function (date) {
+    return new Date(date).toUTCString();
+  });
+
+  // Strip HTML + collapse whitespace for feed/meta excerpts
+  eleventyConfig.addFilter("striptags", function (str) {
+    return String(str || "").replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
   });
 
   // Inline a stylesheet from /css straight into the <head>. Eliminates the

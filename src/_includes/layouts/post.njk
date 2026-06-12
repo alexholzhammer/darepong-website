@@ -7,7 +7,13 @@ ogType: article
 <div class="post">
   <div class="post__header">
     <div class="container">
-      <a href="{{ '/blog' | url }}" class="post__back">&larr; Alle Artikel</a>
+      <nav class="post__breadcrumb" aria-label="Brotkrumen-Navigation">
+        <a href="{{ '/' | url }}">Start</a>
+        <span aria-hidden="true">›</span>
+        <a href="{{ '/blog' | url }}">Blog</a>
+        <span aria-hidden="true">›</span>
+        <span aria-current="page">{{ title }}</span>
+      </nav>
       <div class="post__meta">
         {% if tags %}
         <div class="post__tags">
@@ -19,6 +25,9 @@ ogType: article
         </div>
         {% endif %}
         <time class="post__date" datetime="{{ date | dateISO }}">{{ date | dateDE }}</time>
+        {% if updated %}
+        <span class="post__updated">· Aktualisiert am <time datetime="{{ updated | dateISO }}">{{ updated | dateDE }}</time></span>
+        {% endif %}
       </div>
       <h1 class="post__title">{{ title }}</h1>
       {% if summary %}

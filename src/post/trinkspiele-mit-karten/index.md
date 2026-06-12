@@ -30,6 +30,15 @@ Ja, man kann auch ohne Alkohol spielen.
 
 Aber will man das wirklich?
 
+<div class="post__tldr">
+  <p class="post__tldr-title">Auf einen Blick</p>
+  <ul>
+    <li><strong>Die 14 besten Karten-Trinkspiele</strong> – für zwei Personen und für größere Gruppen.</li>
+    <li>Beliebte Klassiker: <a href="{{ '/busfahrer/' | url }}">Busfahrer</a> und <a href="{{ '/kings-cup/' | url }}">King's Cup</a>.</li>
+    <li>Du brauchst nur ein Kartendeck und Getränke – jedes Spiel geht auch alkoholfrei.</li>
+  </ul>
+</div>
+
 ## Trinkspiele mit Karten zu zweit
 
 ![Trinkspiele mit Karten - diese Spiele sind der Hammer](trinkspiele-mit-karten-beste-spiele.avif)

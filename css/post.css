@@ -21,6 +21,31 @@
 
 .post__back:hover { color: var(--dp-paper); }
 
+.post__breadcrumb {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  font: 500 13px/1.4 var(--font-body);
+  color: var(--dp-stone);
+  margin-bottom: 20px;
+}
+.post__breadcrumb a {
+  color: var(--dp-stone);
+  text-decoration: none;
+  transition: color var(--dur-fast);
+}
+.post__breadcrumb a:hover { color: var(--dp-paper); }
+.post__breadcrumb [aria-current="page"] {
+  color: var(--dp-paper);
+  opacity: .85;
+}
+
+.post__updated {
+  font: 500 13px/1 var(--font-body);
+  color: var(--dp-stone);
+}
+
 .post__meta {
   display: flex;
   align-items: center;
@@ -234,3 +259,32 @@
     padding: 24px;
   }
 }
+
+/* ── "Auf einen Blick" — Key-Takeaways-Box (GEO / scannbare Antwort) ─ */
+.post__tldr {
+  background: var(--bg-elevated, #fff);
+  border: 1px solid #E4E0D6;
+  border-left: 4px solid var(--dp-red);
+  border-radius: 14px;
+  padding: 20px 24px;
+  margin: 0 0 32px;
+}
+.post__tldr-title {
+  font: 800 13px/1 var(--font-body);
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--dp-red);
+  margin: 0 0 12px;
+}
+.post__tldr ul {
+  margin: 0;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.post__tldr li {
+  font: 400 15.5px/1.55 var(--font-body);
+  color: var(--fg, #1a1a1a);
+}
+.post__tldr li strong { font-weight: 700; }

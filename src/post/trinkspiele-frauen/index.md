@@ -20,6 +20,15 @@ faq:
 ---
 Ein guter Mädelsabend braucht keine aufwendige Planung — aber die richtigen Spiele machen den Unterschied zwischen einem netten Abend und einer Nacht, über die Ihr noch Jahre später lacht. Hier kommen 9 [Trinkspiele]({{ '/trinkspiele/' | url }}), die genau das liefern.
 
+<div class="post__tldr">
+  <p class="post__tldr-title">Auf einen Blick</p>
+  <ul>
+    <li><strong>9 Trinkspiele für den Mädelsabend</strong> – von gesellig bis ausgelassen, jedes flexibel anpassbar (auch alkoholfrei).</li>
+    <li>Reden &amp; Lachen: <a href="{{ '/wahrheit-oder-pflicht/' | url }}">Wahrheit oder Pflicht</a>, <a href="{{ '/ich-hab-noch-nie/' | url }}">Ich hab noch nie</a> und <a href="{{ '/wer-wuerde-eher/' | url }}">Wer würde eher</a>.</li>
+    <li>Mehr Action gefällig? <a href="{{ '/beer-pong/' | url }}">Beer Pong</a> passt auch zum Mädelsabend.</li>
+  </ul>
+</div>
+
 ## Was macht Trinkspiele für Frauen aus?
 
 Die besten Spiele für Mädelsabende verbinden drei Dinge: sie bringen Euch zum Reden, zum Lachen und zum Staunen, was Ihr übereinander noch nicht wusstet. Kein Wettkampf, keine Verlierer — nur eine gute Zeit.
