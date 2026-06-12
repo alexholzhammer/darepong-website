@@ -35,15 +35,18 @@ equipment:
   - name: 2 Wasserbecher zum Abspülen der Bälle
   - name: Bier oder Getränk nach Wahl
 rules:
-  - Baut an beiden Tischenden je eine Pyramide aus 10 Bechern auf – in der Anordnung 4-3-2-1 dicht zusammengeschoben.
+  - Baut an beiden Tischenden je eine Pyramide aus 10 Bechern in der Anordnung 4-3-2-1 auf und schiebt sie dicht zusammen, sodass die Spitze zum Gegner zeigt.
   - Füllt jeden Becher etwa zu einem Drittel mit Bier und stellt an jede Tischseite einen Wasserbecher zum Abspülen der Bälle.
-  - Zwei Teams stehen sich an den Tischenden gegenüber und werfen abwechselnd – pro Runde wirft jeder Spieler eines Teams einen Ball.
-  - Landet ein Ball in einem Becher, muss das gegnerische Team diesen Becher austrinken und vom Tisch nehmen.
-  - Treffen beide Teamkollegen in derselben Runde, gibt es die Bälle zurück („Balls Back“) und das Team darf erneut werfen.
-  - Ein Ball, der zuerst aufspringt und dann im Becher landet („Bounce Shot“), zählt doppelt – darf vom Gegner aber mit der Hand abgewehrt werden.
-  - Sind nur noch wenige Becher übrig, darf das werfende Team einmal pro Spiel ein „Re-Rack“ verlangen und die Becher neu anordnen lassen.
-  - Wer alle gegnerischen Becher zuerst trifft, gewinnt – das Verliererteam trinkt die übrigen Becher aus.
-  - "Optional gilt die „Rebuttal“-Regel: Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal nachwerfen und bei Treffer in die Verlängerung gehen."
+  - Bestimmt das Startteam – klassisch per „Eye to Eye“: Je ein Spieler beider Teams wirft gleichzeitig mit Blickkontakt, wer zuerst trifft, beginnt.
+  - Zwei Teams stehen sich gegenüber und werfen abwechselnd; pro Runde wirft jeder der beiden Spieler eines Teams genau einen Ball.
+  - Landet ein Ball in einem Becher, muss das gegnerische Team diesen Becher sofort austrinken und vom Tisch nehmen.
+  - Treffen beide Teamkollegen in derselben Runde, gibt es die Bälle zurück („Balls Back“) und das Team darf noch einmal werfen.
+  - Ein Ball, der erst aufspringt und dann im Becher landet („Bounce Shot“), zählt doppelt – der Gegner darf den aufspringenden Ball aber wegschlagen.
+  - Einmal pro Spiel darf das werfende Team ein „Re-Rack“ verlangen und die übrigen Becher neu anordnen lassen, etwa zur Raute, zur 3er-Linie oder zum Herz.
+  - Becher, die umkippen oder vom Tisch fallen, gelten als getroffen und kommen aus dem Spiel.
+  - Wer alle gegnerischen Becher zuerst versenkt, gewinnt die Runde – das Verliererteam trinkt die übrigen Becher aus.
+  - „Rebuttal“ (Nachwurf): Wird der letzte Becher getroffen, darf das unterlegene Team alle Bälle nehmen und nachwerfen; trifft es alle Restbecher, geht das Spiel in die Verlängerung.
+  - In der Verlängerung wird mit je 3 neuen Bechern (Anordnung 2-1) auf der Tischmitte weitergespielt, bis ein Team als Erstes alle gegnerischen Becher trifft.
 tips:
   - Spielt mit leichtem Bier oder Wasser-Bier-Mix – über ein ganzes Spiel summieren sich die Becher schnell.
   - Spült die Bälle nach jedem Wurf im Wasserbecher ab, das hält das Spiel halbwegs hygienisch.
@@ -90,17 +93,40 @@ Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorgl�
 Der klassische Beer-Pong-Aufbau besteht aus **zwei Becher-Pyramiden** – eine an jedem Tischende. Pro Team werden dabei **10 Becher in der Anordnung 4-3-2-1** dicht zusammengeschoben, sodass die Pyramide auf den Gegner zeigt. Insgesamt brauchst du also **20 Becher**.
 
 <figure class="game__diagram">
-  <svg viewBox="0 0 320 210" role="img" aria-label="Beer Pong Aufbau: 10 Becher pro Team in einer Pyramide aus vier Reihen (4-3-2-1)" xmlns="http://www.w3.org/2000/svg">
-    <title>Beer Pong Aufbau – 4-3-2-1-Becherpyramide</title>
-    <desc>Zehn Becher von oben betrachtet, angeordnet als Pyramide: hintere Reihe vier Becher, dann drei, dann zwei, vorne ein einzelner Becher.</desc>
-    <g fill="#E1342B" fill-opacity="0.12" stroke="#E1342B" stroke-width="2.5">
-      <circle cx="94" cy="42" r="18"/><circle cx="138" cy="42" r="18"/><circle cx="182" cy="42" r="18"/><circle cx="226" cy="42" r="18"/>
-      <circle cx="116" cy="90" r="18"/><circle cx="160" cy="90" r="18"/><circle cx="204" cy="90" r="18"/>
-      <circle cx="138" cy="138" r="18"/><circle cx="182" cy="138" r="18"/>
-      <circle cx="160" cy="186" r="18"/>
-    </g>
+  <svg viewBox="0 0 300 470" role="img" aria-label="Beer Pong Tisch von oben: zwei gespiegelte Becher-Pyramiden aus je 10 Bechern (Anordnung 4-3-2-1) an beiden Tischenden, dazu ein optionaler Wasserbecher rechts an der Tischkante." xmlns="http://www.w3.org/2000/svg">
+    <title>Beer Pong Aufbau – beide Tischseiten mit gespiegelten 4-3-2-1-Pyramiden</title>
+    <desc>Ein langer Tisch von oben. An beiden Enden steht je eine Pyramide aus zehn roten Bechern, die Spitzen zeigen zur Tischmitte. Rechts an der Tischkante der eigenen Seite steht gestrichelt ein optionaler Wasserbecher zum Abspülen des Balls.</desc>
+    <defs>
+      <g id="bpCup">
+        <ellipse cx="14" cy="7" rx="12.5" ry="3" fill="#FFF7E3"/>
+        <path d="M2 7 L26 7 L23 31 L5 31 Z" fill="#E1342B"/>
+        <path d="M2 7 L26 7 L25.3 10 L2.7 10 Z" fill="#B82822"/>
+      </g>
+      <g id="bpCupGhost">
+        <ellipse cx="14" cy="7" rx="12.5" ry="3" fill="none" stroke="#8a8a8a" stroke-width="1.4" stroke-dasharray="3 2.4"/>
+        <path d="M2 7 L26 7 L23 31 L5 31 Z" fill="none" stroke="#8a8a8a" stroke-width="1.4" stroke-dasharray="3 2.4"/>
+      </g>
+    </defs>
+    <rect x="24" y="24" width="252" height="422" rx="16" fill="#ECE9E1" stroke="#0E0E10" stroke-width="2.5"/>
+    <line x1="24" y1="235" x2="276" y2="235" stroke="#0E0E10" stroke-width="1.4" stroke-dasharray="6 6" opacity="0.4"/>
+    <text x="150" y="16" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="700" fill="#4A4A4F">GEGNERSEITE</text>
+    <text x="150" y="464" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="700" fill="#4A4A4F">DEINE SEITE</text>
+    <!-- Gegner-Pyramide (Basis oben, Spitze zur Mitte) -->
+    <use href="#bpCup" x="73" y="42"/><use href="#bpCup" x="115" y="42"/><use href="#bpCup" x="157" y="42"/><use href="#bpCup" x="199" y="42"/>
+    <use href="#bpCup" x="94" y="76"/><use href="#bpCup" x="136" y="76"/><use href="#bpCup" x="178" y="76"/>
+    <use href="#bpCup" x="115" y="110"/><use href="#bpCup" x="157" y="110"/>
+    <use href="#bpCup" x="136" y="144"/>
+    <!-- Deine Pyramide (Basis unten, Spitze zur Mitte) -->
+    <use href="#bpCup" x="136" y="292"/>
+    <use href="#bpCup" x="115" y="326"/><use href="#bpCup" x="157" y="326"/>
+    <use href="#bpCup" x="94" y="360"/><use href="#bpCup" x="136" y="360"/><use href="#bpCup" x="178" y="360"/>
+    <use href="#bpCup" x="73" y="394"/><use href="#bpCup" x="115" y="394"/><use href="#bpCup" x="157" y="394"/><use href="#bpCup" x="199" y="394"/>
+    <!-- Optionaler Wasserbecher, rechts an der Tischkante deiner Seite -->
+    <use href="#bpCupGhost" x="236" y="384"/>
+    <text x="232" y="396" text-anchor="end" font-family="sans-serif" font-size="9" fill="#8a8a8a">Wasser-</text>
+    <text x="232" y="406" text-anchor="end" font-family="sans-serif" font-size="9" fill="#8a8a8a">becher</text>
   </svg>
-  <figcaption>Beer Pong Aufbau: 10 Becher pro Team in der 4-3-2-1-Pyramide, Spitze zum Gegner.</figcaption>
+  <figcaption>Beer Pong Aufbau von oben: pro Seite 10 Becher als 4-3-2-1-Pyramide, Spitze zur Tischmitte. Der gestrichelte Wasserbecher (zum Abspülen des Balls) steht optional vom Werfer aus rechts an der Tischkante.</figcaption>
 </figure>
 
 Jeder Becher wird etwa zu einem Drittel mit Bier (oder einem alkoholfreien Getränk) gefüllt. Zusätzlich gehört an jede Tischseite ein Wasserbecher, in dem die Bälle zwischen den Würfen abgespült werden. Soll es schneller gehen, spielt ihr mit einer kleineren Aufstellung aus **6 Bechern (3-2-1)** pro Team.
@@ -117,6 +143,49 @@ Wichtig für eine saubere Aufstellung: Die Becher müssen sich gegenseitig berü
 Ein **offizieller Beer-Pong-Tisch** ist **2,44 Meter (8 Fuß) lang** und **60 cm breit**, die Höhe liegt bei rund **70 cm**. Diese Maße stammen aus den US-Turnierregeln und sorgen für die ideale Wurfdistanz zwischen den beiden Pyramiden.
 
 Für die Heim-Party musst du aber keinen speziellen Tisch kaufen: Eine **Tischtennisplatte**, ein langer Esstisch oder zwei zusammengeschobene Klapptische funktionieren genauso gut. Entscheidend ist nur, dass der Tisch stabil steht und lang genug ist, damit der Wurf eine echte Herausforderung bleibt – als grobe Richtschnur gelten rund 2,4 Meter Länge.
+
+## Beer Pong Wurftechnik: Tricks, Kniffe & Trickshots
+
+Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholbaren Wurftechnik**. Wer den richtigen Bogen trifft, versenkt deutlich zuverlässiger – und genau das entscheidet enge Spiele.
+
+<figure class="game__diagram game__diagram--wide">
+  <svg viewBox="0 0 480 220" role="img" aria-label="Wurftechnik beim Beer Pong: Ein hoher Bogenwurf fällt sauber in den Becher, während ein flacher, harter Wurf am Becherrand abspringt." xmlns="http://www.w3.org/2000/svg">
+    <title>Beer Pong Wurfbogen – hoher Bogen trifft, flacher Wurf springt ab</title>
+    <desc>Seitenansicht: Vom Abwurfpunkt links führt ein hoher Bogen sauber in den Becher rechts, ein flacher harter Wurf prallt dagegen am Rand ab.</desc>
+    <line x1="20" y1="185" x2="460" y2="185" stroke="#0E0E10" stroke-width="2"/>
+    <ellipse cx="420" cy="150" rx="20" ry="5" fill="#FFF7E3"/>
+    <path d="M400 150 L440 150 L434 185 L406 185 Z" fill="#E1342B"/>
+    <path d="M400 150 L440 150 L439 154 L401 154 Z" fill="#B82822"/>
+    <path d="M60 120 Q 240 -8 420 148" fill="none" stroke="#2E7D32" stroke-width="3"/>
+    <path d="M60 146 Q 250 172 402 152" fill="none" stroke="#9A9A9A" stroke-width="2.5" stroke-dasharray="5 4"/>
+    <path d="M402 152 L430 132" fill="none" stroke="#9A9A9A" stroke-width="2.5" stroke-dasharray="5 4"/>
+    <circle cx="60" cy="120" r="6" fill="#fff" stroke="#0E0E10" stroke-width="2"/>
+    <text x="240" y="18" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#2E7D32">Hoher Bogen = sicherer Treffer</text>
+    <text x="120" y="208" text-anchor="start" font-family="sans-serif" font-size="12" font-weight="700" fill="#7a7a7a">Flacher, harter Wurf = springt ab</text>
+    <text x="40" y="108" text-anchor="start" font-family="sans-serif" font-size="11" fill="#4A4A4F">Abwurf</text>
+  </svg>
+  <figcaption>Der hohe Bogenwurf fällt fast senkrecht in den Becher – ein flacher, harter Wurf springt dagegen am Rand wieder heraus.</figcaption>
+</figure>
+
+### Der Bogenwurf – die Standardtechnik
+
+- **Griff:** Halte den Ball locker zwischen Daumen und Zeigefinger, nicht in der ganzen Faust.
+- **Bogen:** Wirf mit einem hohen, weichen Bogen statt flach und hart. Ein steil von oben kommender Ball „stirbt“ im Becher, statt am Rand abzuspringen.
+- **Zielpunkt:** Ziele auf den **hinteren Rand** des vordersten Bechers – so landet der Ball mittig im Becher.
+- **Routine:** Nutze immer denselben Abwurfpunkt und dieselbe Armbewegung. Konstanz schlägt Kraft.
+
+### Trickshots & fortgeschrittene Würfe
+
+- **Bounce Shot:** Lässt du den Ball einmal aufspringen, zählt der Treffer doppelt. Achtung: Der Gegner darf den hüpfenden Ball wegschlagen – setze ihn also gezielt ein, wenn der Gegner unaufmerksam ist.
+- **Behind-the-Back / No-Look:** Reine Show-Würfe für den Stilpunkt – in lockeren Runden ein Highlight, im engen Spiel zu riskant.
+- **Arc-over-Ablenkung:** Reden, wedeln und Sprüche sind erlaubt, solange der Gegner Tisch und Becher nicht berührt. Lass dich davon nicht aus dem Rhythmus bringen.
+
+### Typische Fehler vermeiden
+
+- Zu fester, flacher Wurf → der Ball springt ab. Lieber Tempo raus, Bogen rein.
+- Ellbogen über die Tischkante schieben → in vielen Runden ein Fehlwurf („Ellbogen-Regel“).
+- Den Ball nicht abspülen → klebrige, verfälschte Würfe. Nutze den Wasserbecher.
+- Nervöses Nachziehen der Wurfbewegung → bleib bei deiner eingeübten Routine.
 
 ## Beer Pong Varianten & beliebte Hausregeln
 

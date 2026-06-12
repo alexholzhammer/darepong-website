@@ -334,15 +334,15 @@ a.game__equipment-name:hover {
 }
 .game__updated strong { color: var(--dp-paper); font-weight: 700; }
 
-/* ---- Body links ---- */
+/* ---- Body links (exclude the download button so its colours win) ---- */
 
-.game__body a {
+.game__body a:not(.game__download) {
   color: var(--dp-red);
   text-decoration: underline;
   text-underline-offset: 2px;
   font-weight: 600;
 }
-.game__body a:hover { color: var(--dp-red-deep); }
+.game__body a:not(.game__download):hover { color: var(--dp-red-deep); }
 
 /* ---- TL;DR answer box (answer-first for skimmers + AI engines) ---- */
 
@@ -360,36 +360,49 @@ a.game__equipment-name:hover {
 .game__tldr-body strong { display: block; margin-bottom: 4px; font-family: var(--font-body); }
 .game__tldr-body p { margin: 0; }
 
-/* ---- Cup-pyramid diagram ---- */
+/* ---- Diagrams (cup setup, throw arc) ---- */
 
 .game__diagram {
-  margin: 8px 0 24px;
+  margin: 12px 0 28px;
   text-align: center;
 }
 .game__diagram svg {
   width: 100%;
-  max-width: 300px;
+  max-width: 320px;
   height: auto;
+  background: var(--bg-inset);
+  border-radius: 12px;
+  padding: 14px;
 }
+.game__diagram--wide svg { max-width: 520px; }
 .game__diagram figcaption {
-  margin-top: 8px;
-  font: 400 14px/1.4 var(--font-body);
+  margin-top: 10px;
+  font: 400 14px/1.45 var(--font-body);
   color: var(--fg-muted);
 }
 
-/* ---- PDF download button ---- */
+/* ---- PDF download button (body-scoped to beat .game__body a) ---- */
 
+.game__body a.game__download,
 .game__download {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  background: var(--dp-black);
-  color: var(--dp-paper);
+  background: var(--dp-red);
+  color: #fff;
   text-decoration: none;
   font: 700 15px/1 var(--font-body);
-  padding: 13px 20px;
+  padding: 14px 22px;
   border-radius: var(--r-pill);
-  margin: 6px 0 8px;
+  margin: 10px 0 8px;
+  box-shadow: 0 4px 0 var(--dp-red-deep);
+  transition: transform .12s ease, box-shadow .12s ease, background .12s ease;
 }
-.game__download:hover { background: var(--dp-red); color: #fff; }
+.game__body a.game__download:hover,
+.game__download:hover {
+  background: var(--dp-red-deep);
+  color: #fff;
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 var(--dp-red-deep);
+}
 .game__download svg { flex: none; }
