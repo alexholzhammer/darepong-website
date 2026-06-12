@@ -60,6 +60,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("fonts");
   // Favicons + web manifest, served from the site root (/favicon.ico, etc.)
   eleventyConfig.addPassthroughCopy({ "favicons": "/" });
+  // Cloudflare redirects (e.g. /partyspiele/ -> /trinkspiele/), served from root
+  eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   // Copy images co-located with posts to matching /post/ output paths
   eleventyConfig.addPassthroughCopy({ "src/post": "post" });

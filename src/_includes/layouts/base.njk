@@ -182,11 +182,11 @@
         <a href="{{ '/#dares' | url }}">Dares</a>
         <div class="nav-dropdown">
           <button type="button" class="nav-dropdown__toggle" aria-haspopup="true" aria-expanded="false" aria-controls="nav-partyspiele">
-            Partyspiele
+            Trinkspiele
             <svg class="nav-dropdown__caret" width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </button>
           <div class="nav-dropdown__menu" id="nav-partyspiele">
-            <a href="{{ '/partyspiele/' | url }}" class="nav-dropdown__all">Alle Partyspiele &rarr;</a>
+            <a href="{{ '/trinkspiele/' | url }}" class="nav-dropdown__all">Alle Trinkspiele &rarr;</a>
             {% for game in collections.games %}
             <a href="{{ game.url | url }}">{{ game.data.name }}</a>
             {% endfor %}
@@ -219,7 +219,7 @@
           <span class="site-footer__col-head">Spiel</span>
           <a href="{{ '/#how' | url }}">So geht's</a>
           <a href="{{ '/#dares' | url }}">Dares</a>
-          <a href="{{ '/partyspiele/' | url }}">Partyspiele</a>
+          <a href="{{ '/trinkspiele/' | url }}">Trinkspiele</a>
           <a href="https://amzn.to/4nA0xYQ">Kaufen</a>
         </div>
         <div class="site-footer__col">

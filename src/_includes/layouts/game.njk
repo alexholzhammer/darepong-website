@@ -57,7 +57,7 @@ pageCSS: game.css
       "@type": "BreadcrumbList",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "{{ site.url }}/" },
-        { "@type": "ListItem", "position": 2, "name": "Partyspiele", "item": "{{ site.url }}/partyspiele/" },
+        { "@type": "ListItem", "position": 2, "name": "Trinkspiele", "item": "{{ site.url }}/trinkspiele/" },
         { "@type": "ListItem", "position": 3, "name": {{ name | dump | safe }}, "item": "{{ site.url }}{{ page.url }}" }
       ]
     }
@@ -73,7 +73,7 @@ pageCSS: game.css
       <nav class="game__breadcrumb" aria-label="Brotkrumen-Navigation">
         <a href="{{ '/' | url }}">Start</a>
         <span aria-hidden="true">›</span>
-        <a href="{{ '/partyspiele/' | url }}">Partyspiele</a>
+        <a href="{{ '/trinkspiele/' | url }}">Trinkspiele</a>
         <span aria-hidden="true">›</span>
         <span aria-current="page">{{ name }}</span>
       </nav>
