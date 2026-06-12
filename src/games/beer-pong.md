@@ -134,7 +134,9 @@ teamNamesTip: "Wer es persönlicher mag, kombiniert einfach die Vornamen beider 
 <nav class="game__toc" aria-label="Inhaltsverzeichnis">
   <span class="game__toc-title">Inhalt</span>
   <ul>
+    <li><a href="#geschichte">Geschichte &amp; Herkunft</a></li>
     <li><a href="#spielablauf">Spielablauf in 5 Schritten</a></li>
+    <li><a href="#video">Regeln im Video</a></li>
     <li><a href="#aufbau">Aufbau &amp; Becherzahl</a></li>
     <li><a href="#tisch-masse">Tisch &amp; Maße</a></li>
     <li><a href="#wurftechnik">Wurftechnik &amp; Trickshots</a></li>
@@ -151,6 +153,14 @@ Beer Pong ist der wohl bekannteste Vertreter unter allen Trinkspielen und gilt a
 
 Der besondere Reiz von Beer Pong liegt in der Mischung aus Treffsicherheit, Nervenstärke und Teamgeist. Anders als beim chaotischen [Rage Cage]({{ '/rage-cage/' | url }}) zählt hier vor allem die ruhige Hand und ein sauberer, gleichmäßiger Wurf. Je weiter das Spiel fortschreitet und je weniger Becher übrig sind, desto höher wird der Druck – die letzten Treffer entscheiden oft erst in der Verlängerung. Genau diese Spannung macht Beer Pong auch nach unzähligen Runden immer wieder neu unterhaltsam.
 
+<h2 id="geschichte">Beer Pong: Geschichte &amp; Herkunft</h2>
+
+Die Wurzeln von Beer Pong reichen bis in die **1950er- und 60er-Jahre** an das **Dartmouth College** in den USA zurück. Damals wurde noch eine Variante mit echten **Tischtennis-Schlägern** auf einer Platte gespielt – daher auch der Name „Pong". Mit der Zeit ließen die Studenten die Schläger weg und warfen den Ball einfach mit der Hand in die Becher.
+
+Diese schlägerlose Wurf-Version verbreitete sich in den **1980er-Jahren** über US-amerikanische Studentenverbindungen und war zunächst vielerorts unter dem Namen **„Beirut"** bekannt. Heute meint „Beer Pong" in den allermeisten Fällen genau diese geworfene Variante, die wir auch in dieser Anleitung beschreiben.
+
+Aus dem College-Zeitvertreib ist längst ein ernstzunehmender Wettbewerb geworden: Mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** (seit 2006 in Las Vegas) gibt es offizielle Turniere mit festen Regelwerken und Preisgeldern. Nach Deutschland, Österreich und in die Schweiz kam Beer Pong über die Party- und Festivalkultur – heute gehört es hier zu den beliebtesten Trinkspielen überhaupt.
+
 Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorglüh-Runden, bei denen ein bisschen Wettkampf für Stimmung sorgen soll. Die Grundregeln sind in wenigen Minuten erklärt, das Equipment hat fast jeder zuhause, und dank zahlreicher optionaler Hausregeln lässt sich das Spiel flexibel an jede Gruppe anpassen – vom entspannten Einsteiger-Match bis zum ehrgeizigen Turnier.
 
 <h2 id="spielablauf">Beer Pong Spielablauf in 5 Schritten</h2>
@@ -159,6 +169,17 @@ Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorgl�
   <img src="{{ '/assets/beer-pong-ablauf-3.svg' | url }}" width="630" height="120" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Ablauf in 5 Schritten: Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft">
   <figcaption>Eine Beer-Pong-Runde in fünf Schritten – vom Wurf bis zum Seitenwechsel.</figcaption>
 </figure>
+
+<h2 id="video">Beer Pong Regeln im Video</h2>
+
+Lieber zuschauen statt lesen? Dieses Video erklärt Aufbau und Ablauf in wenigen Minuten:
+
+<div class="video-embed" data-ytid="csr4D6niqtE">
+  <button type="button" class="video-embed__play" aria-label="Video abspielen: Beer Pong Regeln erklärt" onclick="loadYouTube(this)">
+    <img src="https://i.ytimg.com/vi/csr4D6niqtE/hqdefault.jpg" alt="Beer Pong Regeln erklärt – Video-Vorschau" width="480" height="360" loading="lazy" eleventy:ignore>
+    <span class="video-embed__btn" aria-hidden="true">▶</span>
+  </button>
+</div>
 
 <h2 id="aufbau">Beer Pong Aufbau: Wie viele Becher und welche Aufstellung?</h2>
 
@@ -355,6 +376,14 @@ Du hast Beer Pong drauf? Dann probiere als Nächstes diese Klassiker:
 {
   "@context": "https://schema.org",
   "@graph": [
+    {
+      "@type": "VideoObject",
+      "name": "Beer Pong Regeln & Aufbau erklärt",
+      "description": "Video-Anleitung: So baust du die Becher auf und das sind die wichtigsten Beer-Pong-Regeln.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/csr4D6niqtE/hqdefault.jpg",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/csr4D6niqtE",
+      "contentUrl": "https://www.youtube.com/watch?v=csr4D6niqtE"
+    },
     {
       "@type": "ImageObject",
       "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-aufstellungen.svg' | url }}",

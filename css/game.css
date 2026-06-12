@@ -600,3 +600,58 @@ a.game__equipment-name:hover {
   color: var(--fg-muted);
 }
 .game__variant-body p strong { color: var(--dp-red); }
+
+/* ---- Lazy YouTube facade ---- */
+
+.video-embed {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  max-width: 720px;
+  margin: 0 0 18px;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #000;
+}
+.video-embed iframe,
+.video-embed__play {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.video-embed__play {
+  padding: 0;
+  cursor: pointer;
+  display: block;
+  background: #000;
+}
+.video-embed__play img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  opacity: .9;
+  transition: opacity .15s ease;
+}
+.video-embed__play:hover img { opacity: 1; }
+.video-embed__btn {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 72px;
+  height: 72px;
+  display: grid;
+  place-items: center;
+  padding-left: 4px;
+  font-size: 28px;
+  color: #fff;
+  background: rgba(225, 52, 43, .92);
+  border-radius: 50%;
+  box-shadow: 0 6px 20px rgba(0,0,0,.35);
+  transition: transform .15s ease, background .15s ease;
+}
+.video-embed__play:hover .video-embed__btn {
+  background: var(--dp-red);
+  transform: scale(1.06);
+}
