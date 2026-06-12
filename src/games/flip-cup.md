@@ -7,6 +7,8 @@ description: "Flip Cup (Tippy Cup / Becher-Flippen) – das schnelle Team-Trinks
 updated: 2026-06-12
 rulesTitle: "Flip Cup Regeln"
 tipsTitle: "Flip Cup Tipps"
+rulesPdf: /assets/flip-cup-regeln.pdf
+rulesPdfLabel: "Flip Cup Regeln als PDF herunterladen"
 shortDescription: Schnelle Team-Staffel – austrinken, den leeren Becher mit einem Schnipp vom Tischrand umdrehen und an den nächsten übergeben. Das schnellste Team gewinnt.
 players:
   min: 4
@@ -93,6 +95,7 @@ faq:
   <span class="game__toc-title">Inhalt</span>
   <ul>
     <li><a href="#was-ist">Was ist Flip Cup?</a></li>
+    <li><a href="#geschichte">Geschichte &amp; Herkunft</a></li>
     <li><a href="#technik">Die Flip-Technik</a></li>
     <li><a href="#varianten">Varianten &amp; Turnier</a></li>
     <li><a href="#aehnliche-spiele">Ähnliche Trinkspiele</a></li>
@@ -110,9 +113,23 @@ Das Besondere an Flip Cup ist der Staffel-Charakter und der unmittelbare Wettkam
 
 Flip Cup ist ein **Staffel-Trinkspiel für zwei Teams**, bei dem es ausschließlich auf Tempo ankommt. Man braucht nur Plastikbecher, Getränke und einen Tisch – die Regeln sind in unter zwei Minuten erklärt. Weil das Spiel unter vielen Namen kursiert (Tippy Cup, Flip the Cup, Canoe, Becher-Flippen), ist oft dasselbe gemeint: austrinken, flippen, übergeben.
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/flip-cup-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Flip Cup Ablauf in 4 Schritten: Austrinken, Flippen, Übergeben, schnellstes Team gewinnt">
+  <figcaption>Eine Flip-Cup-Staffel in vier Schritten – austrinken, flippen, übergeben, schnellstes Team gewinnt.</figcaption>
+</figure>
+
+<h2 id="geschichte">Geschichte &amp; Herkunft</h2>
+
+Flip Cup stammt – wie [Beer Pong]({{ '/beer-pong/' | url }}) – aus der **US-amerikanischen College- und Partykultur** und hat sich von dort weltweit verbreitet. Weil es ohne Spezial-Equipment auskommt und in Sekunden erklärt ist, kursiert es in unzähligen Runden mündlich weiter – mit regional unterschiedlichen Namen wie **Tippy Cup**, **Flip the Cup** oder **Canoe**. Ein festes Regelwerk gibt es nicht; gespielt wird meist nach Hausregeln, die sich vor allem in Teamgröße, Füllmenge und Turnierformat unterscheiden.
+
 <h2 id="technik">Die Flip-Technik: So flippt man den Becher</h2>
 
 Der „Flip“ ist der ganze Trick am Spiel – und reine Übungssache:
+
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/flip-cup-technik.svg' | url }}" width="500" height="170" loading="lazy" decoding="async" eleventy:ignore alt="Flip Cup Technik in 3 Schritten: Becher an die Tischkante stellen, von unten schnipsen, kopfüber landen lassen">
+  <figcaption>Die Flip-Technik in drei Schritten: aufstellen → schnipsen → der Becher überschlägt sich und steht kopfüber.</figcaption>
+</figure>
 
 1. Den **leeren Becher** mit der Öffnung nach oben an die Tischkante stellen, sodass er etwa **zur Hälfte übersteht**.
 2. Mit einem Finger **von unten leicht gegen den oberen Rand schnipsen**.
@@ -164,3 +181,23 @@ Du magst schnelle Becher-Spiele? Dann probiere als Nächstes diese Klassiker –
 {% gamePreview "rage-cage" %}
 
 {% gamePreview "kings-cup" %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/flip-cup-technik.svg' | url }}",
+      "name": "Flip Cup Technik – Becher flippen in 3 Schritten",
+      "caption": "Die Flip-Technik: Becher an die Tischkante stellen, von unten schnipsen, kopfüber landen lassen."
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "{{ site.url }}{{ '/assets/flip-cup-ablauf.svg' | url }}",
+      "name": "Flip Cup Ablauf in 4 Schritten",
+      "caption": "Eine Flip-Cup-Staffel: austrinken, flippen, übergeben – das schnellste Team gewinnt."
+    }
+  ]
+}
+</script>
