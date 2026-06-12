@@ -88,6 +88,25 @@ teamNames:
   - name: Last Cup Standing
   - name: Team Fehlwurf
     note: für die ehrlichen unter euch
+  - name: Drink Floyd
+  - name: Pong Jovi
+  - name: Bierce Willis
+    note: Stirb langsam, trink schnell
+  - name: Notorious P.O.N.G.
+  - name: Tequila Mockingbird
+  - name: Die Wurfgemeinschaft
+  - name: Die Zielwasser-Trinker
+    note: Zielwasser hilft bekanntlich
+  - name: Hopfen-Helden
+  - name: Die Restalkoholiker
+  - name: Gin & Tonic Krieger
+  - name: Malle-Allstars
+  - name: Die Absacker
+  - name: Becher-Magier
+    note: jeder Wurf ein Zauber
+  - name: Die Konterbiere
+  - name: 2 Promille, 1 Ziel
+  - name: Die Prosecco-Fraktion
 teamNamesTip: "Wer es persönlicher mag, kombiniert einfach die Vornamen beider Teampartner zu einem Wortwitz – das sorgt garantiert für Lacher in der Runde."
 ---
 
@@ -215,3 +234,32 @@ Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede
 - **Blow & Finger:** In manchen Runden darf ein kreiselnder Ball aus dem Becher gepustet (für Frauen) oder herausgeschnippt werden.
 
 Wer es noch wilder mag, kombiniert Beer Pong mit verwandten Becher-Spielen wie [Flip Cup]({{ '/flip-cup/' | url }}) oder [King's Cup]({{ '/kings-cup/' | url }}). Und für die extra Portion Mut bringt **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch – jeder Treffer löst dann eine Aufgabe aus.
+
+## Wichtige Beer-Pong-Begriffe (Glossar)
+
+Damit am Tisch keine Diskussionen aufkommen, hier die wichtigsten Begriffe kurz erklärt:
+
+<dl class="game__glossary">
+  <div><dt>Re-Rack</dt><dd>Neuanordnen der verbliebenen Becher – einmal pro Spiel erlaubt, z. B. zur Raute oder zur Linie.</dd></div>
+  <div><dt>Balls Back</dt><dd>Treffen beide Teamkollegen in einer Runde, kommen beide Bälle zurück und das Team wirft erneut.</dd></div>
+  <div><dt>Bounce Shot</dt><dd>Der Ball springt vor dem Becher einmal auf – zählt doppelt, darf vom Gegner aber weggeschlagen werden.</dd></div>
+  <div><dt>Rebuttal</dt><dd>Nachwurf des unterlegenen Teams nach dem letzten Becher; trifft es alle Restbecher, geht es in die Verlängerung.</dd></div>
+  <div><dt>Death Cup</dt><dd>Wird ein bereits getroffener, noch nicht ausgetrunkener Becher erneut versenkt, ist das Spiel sofort vorbei.</dd></div>
+  <div><dt>Island</dt><dd>Ein einzeln stehender Becher. Wird er vorher angesagt und getroffen, gibt es einen Extra-Becher.</dd></div>
+  <div><dt>On Fire</dt><dd>Wer zweimal in Folge trifft, ist „on fire" und darf so lange weiterwerfen, bis er einmal verfehlt.</dd></div>
+  <div><dt>Ellbogen-Regel</dt><dd>Der Wurfellbogen muss hinter der Tischkante bleiben – sonst zählt der Treffer nicht.</dd></div>
+</dl>
+
+<aside class="game__note">
+  <strong>Bitte verantwortungsvoll spielen.</strong> Beer Pong macht mit und ohne Alkohol Spaß. Trinkt mit Maß, niemals unter 18 Jahren und nie vor dem Autofahren. Stellt für alle am Tisch genug Wasser bereit.
+</aside>
+
+## Ähnliche Becher- & Partyspiele
+
+Du hast Beer Pong drauf? Dann probiere als Nächstes diese Klassiker:
+
+{% gamePreview "rage-cage" %}
+
+{% gamePreview "flip-cup" %}
+
+{% gamePreview "kings-cup" %}

@@ -445,3 +445,34 @@ a.game__equipment-name:hover {
   max-width: 66ch;
 }
 .game__names-tip strong { color: var(--dp-black); }
+
+/* ---- Glossary ---- */
+
+.game__glossary { margin: 0 0 28px; }
+.game__glossary > div {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 4px 18px;
+  padding: 12px 0;
+  border-bottom: 1px solid #E4E0D6;
+}
+.game__glossary > div:first-child { border-top: 1px solid #E4E0D6; }
+.game__glossary dt { font: 700 16px/1.4 var(--font-body); color: var(--dp-red); }
+.game__glossary dd { margin: 0; font: 400 16px/1.55 var(--font-body); color: var(--fg); }
+@media (max-width: 600px) {
+  .game__glossary > div { grid-template-columns: 1fr; gap: 2px; }
+}
+
+/* ---- Notice / responsible-play callout ---- */
+
+.game__note {
+  background: #FFF6E9;
+  border: 1px solid #F2D9A8;
+  border-radius: 12px;
+  padding: 16px 18px;
+  margin: 0 0 32px;
+  font: 400 15px/1.6 var(--font-body);
+  color: var(--fg);
+  max-width: 66ch;
+}
+.game__note strong { color: var(--dp-black); }
