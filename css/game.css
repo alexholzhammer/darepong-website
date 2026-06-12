@@ -398,7 +398,7 @@ a.game__equipment-name:hover {
   margin: 0 auto;
 }
 .game__diagram--wide svg,
-.game__diagram--wide img { max-width: 560px; }
+.game__diagram--wide img { max-width: 600px; }
 .game__diagram figcaption {
   margin-top: 10px;
   font: 400 14px/1.45 var(--font-body);
