@@ -29,13 +29,14 @@ tags:
   - klassiker
 equipment:
   - name: Plastikbecher (mindestens 20 Stück für zwei 10er-Pyramiden)
-    url: https://www.amazon.de/dp/B07XYZ1234
+    url: https://amzn.to/3S4eXoz
     note: Klassische rote Solo Cups sind Standard – jeder gleich große Plastikbecher funktioniert aber genauso.
   - name: 2–4 Tischtennisbälle
-    url: https://www.amazon.de/dp/B08ABC5678
+    url: https://amzn.to/49Xr1xY
     note: Lieber ein paar Reservebälle bereitlegen, da sie schnell unter Möbeln verschwinden.
-  - name: Ein langer, stabiler Tisch
-    note: Ideal ist ein echter Bierpong-Tisch, eine Tischtennisplatte oder zwei zusammengeschobene Klapptische.
+  - name: Beer-Pong-Tisch
+    url: https://amzn.to/4oysCAj
+    note: Für die echte Optik und richtige Länge empfehlenswert – alternativ tun es auch eine Tischtennisplatte oder ein langer, stabiler Tisch (z. B. zwei zusammengeschobene Klapptische).
   - name: 2 Wasserbecher zum Abspülen der Bälle
   - name: Bier oder Getränk nach Wahl
 rules:
