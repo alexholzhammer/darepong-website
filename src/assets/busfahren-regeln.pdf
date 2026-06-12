@@ -10,7 +10,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Length 3041 >>
+<< /Length 3523 >>
 stream
 0 0 0 rg
 0.882 0.204 0.169 rg
@@ -23,11 +23,19 @@ BT /F1 11 Tf 47.00 784.00 Td (Regeln & Anleitung \267 Kartenspiel-Trinkspiel \26
 486.00 780.00 18.00 26.00 re f
 508.00 780.00 18.00 26.00 re f
 530.00 780.00 18.00 26.00 re f
-undefined0.07 0.07 0.08 rg
+0.882 0.204 0.169 rg
+BT /F2 13 Tf 45.00 745.00 Td (WAS DU BRAUCHST) Tj ET
+0.722 0.157 0.133 rg
+45.00 736.00 505.00 1.60 re f
+0.07 0.07 0.08 rg
 BT /F1 11 Tf 45.00 727.00 Td (\225  Ein Kartendeck \(32 oder 52 Karten\) \226 ab 6 Spielern besser ein 52er- oder zweites Deck) Tj ET
 BT /F1 11 Tf 45.00 711.50 Td (\225  Getr\344nke nach Wahl) Tj ET
 BT /F1 11 Tf 45.00 696.00 Td (\225  3 bis 10 Spieler \(ideal ca. 5\)) Tj ET
-undefined0.722 0.157 0.133 rg
+0.882 0.204 0.169 rg
+BT /F2 13 Tf 45.00 670.50 Td (DER ABLAUF \226 3 PHASEN) Tj ET
+0.722 0.157 0.133 rg
+45.00 661.50 505.00 1.60 re f
+0.722 0.157 0.133 rg
 BT /F2 11.5 Tf 45.00 648.50 Td (Phase 1 \226 Raterunde) Tj ET
 0.07 0.07 0.08 rg
 BT /F1 11 Tf 45.00 632.50 Td (\225  Jeder bekommt 4 verdeckte Karten und r\344t vor jeder Karte:) Tj ET
@@ -45,10 +53,18 @@ BT /F2 11.5 Tf 45.00 511.50 Td (Phase 3 \226 Busfahren) Tj ET
 BT /F1 11 Tf 45.00 495.50 Td (\225  Der Busfahrer deckt allein eine Reihe von Karten auf.) Tj ET
 BT /F1 11 Tf 45.00 480.00 Td (\225  Jede Bildkarte \(Bube, Dame, K\366nig, Ass\) = trinken und von vorn beginnen.) Tj ET
 BT /F1 11 Tf 45.00 464.50 Td (\225  Ohne Bildkarte durch = Spiel vorbei.) Tj ET
-undefined0.07 0.07 0.08 rg
+0.882 0.204 0.169 rg
+BT /F2 13 Tf 45.00 437.00 Td (PYRAMIDE \226 SCHL\334CKE JE REIHE) Tj ET
+0.722 0.157 0.133 rg
+45.00 428.00 505.00 1.60 re f
+0.07 0.07 0.08 rg
 BT /F1 11 Tf 45.00 419.00 Td (\225  Unterste Reihe \(5 Karten\) = 1 Schluck   \267   2. Reihe = 2   \267   3. Reihe = 3) Tj ET
 BT /F1 11 Tf 45.00 403.50 Td (\225  4. Reihe = 4   \267   Spitze \(1 Karte\) = 5 Schl\374cke   \(genaue Werte sind Hausregel\)) Tj ET
-undefined0.07 0.07 0.08 rg
+0.882 0.204 0.169 rg
+BT /F2 13 Tf 45.00 376.00 Td (TIPPS) Tj ET
+0.722 0.157 0.133 rg
+45.00 367.00 505.00 1.60 re f
+0.07 0.07 0.08 rg
 BT /F1 11 Tf 45.00 358.00 Td (\225  Einen festen Kartengeber bestimmen.) Tj ET
 BT /F1 11 Tf 45.00 342.50 Td (\225  Schluckwerte der Pyramide vorab gemeinsam festlegen.) Tj ET
 BT /F1 11 Tf 45.00 327.00 Td (\225  Bluffen ist erlaubt \226 solange niemand \204aufdecken!\223 verlangt.) Tj ET
@@ -78,10 +94,10 @@ xref
 0000000064 00000 n 
 0000000121 00000 n 
 0000000257 00000 n 
-0000003349 00000 n 
-0000003446 00000 n 
+0000003831 00000 n 
+0000003928 00000 n 
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-3548
+4030
 %%EOF
