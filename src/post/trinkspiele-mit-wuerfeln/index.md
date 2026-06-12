@@ -18,7 +18,6 @@ faq:
   - q: "Kann man Trinkspiele mit Würfeln auch ohne Alkohol spielen?"
     a: "Ja, alle Würfeltrinkspiele funktionieren genauso gut mit alkoholfreien Getränken. Der Spaß an Strategie, Bluffen und Glück bleibt derselbe."
 ---
-
 Ihr habt begrenzt viel Ausrüstung zur Verfügung und seid auf der Suche nach **Trinkspielen mit Würfeln**?
 
 Da haben wir vollstes Verständnis für.
@@ -27,13 +26,13 @@ Die langweiligen Spiele habt ihr alle schon durch und sucht nach richtigen Bange
 
 Jawoll, lass uns direkt loslegen.
 
-Du findest hier **die besten 14 Trinkspiele mit Würfeln**, die es auf der Welt gibt.
+Du findest hier **die besten 14 [Trinkspiele]({{ '/trinkspiele/' | url }}) mit Würfeln**, die es auf der Welt gibt.
 
 Wir haben sie schon hunderte Male gespielt und für ausgezeichnet befunden!
 
 ## Mäxchen
 
-"Mäxchen", auch bekannt als Meiern, ist ein beliebtes Würfel-Trinkspiel, das hauptsächlich auf Bluffen basiert. Es wird mit zwei Würfeln gespielt, und die Spieler müssen höhere Würfelkombinationen vortäuschen, als tatsächlich gewürfelt wurden. Hier sind die Grundregeln:
+"[Mäxchen]({{ '/maexchen/' | url }})", auch bekannt als Meiern, ist ein beliebtes Würfel-Trinkspiel, das hauptsächlich auf Bluffen basiert. Es wird mit zwei Würfeln gespielt, und die Spieler müssen höhere Würfelkombinationen vortäuschen, als tatsächlich gewürfelt wurden. Hier sind die Grundregeln:
 
 ### Ausrüstung
 
@@ -214,7 +213,7 @@ Das Ziel des Spiels ist es, mit den fünf Würfeln ein "Schiff" (6), einen "Kapi
 
 Das Spiel endet, wenn alle Spieler mit dem Spielen aufhören möchten. Oft wird es in einer geselligen Runde ohne festes Ende gespielt.
 
-Übrigens: In der Kategorie "[Trinkspiele zu viert](/post/trinkspiele-zu-viert-die-beste-25)" findest du nicht nur Trinkspiele mit Würfeln.
+Übrigens: In der Kategorie "[Trinkspiele zu viert](/post/trinkspiele-zu-viert/)" findest du nicht nur Trinkspiele mit Würfeln.
 
 ## Mexican
 
@@ -290,7 +289,7 @@ Das Trinkspiel "Mexican" ist ein Würfelspiel, das sowohl Glück als auch Bluffe
 
 "Beer Die" endet in der Regel, wenn ein Team die vereinbarte Punktzahl erreicht. Es kann aber auch als Freizeitspiel ohne festes Ende gespielt werden.
 
-Keinen Bock mehr auf Würfel? Für den Sommer findest du hier die besten [Trinkspiele für Draußen](/post/trinkspiele-draussen)!
+Keinen Bock mehr auf Würfel? Für den Sommer findest du hier die besten [Trinkspiele für Draußen](/trinkspiele/)!
 
 ## Pig
 

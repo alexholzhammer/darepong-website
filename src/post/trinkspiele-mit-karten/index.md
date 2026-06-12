@@ -18,12 +18,11 @@ faq:
   - q: "Kann man Trinkspiele mit Karten auch ohne Alkohol spielen?"
     a: "Ja, man kann auch ohne Alkohol spielen. Der Spass am Bluffen, Raten und gemeinsamen Spielen bleibt derselbe."
 ---
-
 Ab sofort werdet ihr nie wieder Langeweile haben.
 
 Wieso?
 
-Weil wir hier die besten **Trinkspiele mit Karten** für euch vorbereitet haben.
+Weil wir hier die besten **[Trinkspiele]({{ '/trinkspiele/' | url }}) mit Karten** für euch vorbereitet haben.
 
 Alles, was ihr benötigt, ist ein Kartenset und etwas Alkohol.
 
@@ -75,7 +74,7 @@ Hat er Recht, kann er entscheiden, ob sein Gegner trinken muss, oder er sein Gl�
 
 Stell dir vor, du bist der Organisator einer Busreise für Durstige. Dein Ziel? Einen Tisch voller Karten in einer Pyramidenform anordnen, so wie du sie in den alten Ägypten-Filmen siehst, nur dass diese Pyramide zu einem feucht-fröhlichen Abenteuer führt.
 
-1. **Die Qualifikationsrunde:** Jeder Spieler zieht reihum eine Karte und muss erraten, ob die nächste Karte höher oder niedriger ist, rot oder schwarz, in der gleichen Farbe oder mit dem gleichen Wert. Jeder Fehler führt zu einem Schluck aus dem Getränk - eine Art "Trinkgeld" für den imaginären Busfahrer.
+1. **Die Qualifikationsrunde:** Jeder Spieler zieht reihum eine Karte und muss erraten, ob die nächste Karte höher oder niedriger ist, rot oder schwarz, in der gleichen Farbe oder mit dem gleichen Wert. Jeder Fehler führt zu einem Schluck aus dem Getränk - eine Art "Trinkgeld" für den imaginären [Busfahrer]({{ '/busfahrer/' | url }}).
 
 2. **Die Pyramidenparty:** Jetzt wird's ernst! Die Pyramide der Karten wird aufgedeckt, beginnend von der Basis. Jedes Mal, wenn eine deiner Handkarten mit einer aufgedeckten Karte übereinstimmt, verteilst du Schlucke an deine Mitspieler. Je höher die Pyramide, desto mehr Schlucke kannst du verteilen. Hier kannst du deine Rachepläne ausüben oder einfach nur das Chaos genießen.
 
@@ -109,7 +108,7 @@ Herzlichen Glückwunsch. Du hast dich erfolgreich für diese Spiele qualifiziert
 
 #### 1. King's Cup
 
-"King's Cup" (auch bekannt als "Circle of Death" oder "Ring of Fire") ist ein beliebtes Trinkspiel, das sich hervorragend für größere Gruppen eignet. Hier ist eine Anleitung, wie man es spielt:
+"[King's Cup]({{ '/kings-cup/' | url }})" (auch bekannt als "Circle of Death" oder "Ring of Fire") ist ein beliebtes Trinkspiel, das sich hervorragend für größere Gruppen eignet. Hier ist eine Anleitung, wie man es spielt:
 
 #### Materialien
 
@@ -144,7 +143,7 @@ Jede Karte im Spiel hat eine bestimmte Regel oder Aktion zugeordnet. Die Spieler
 
 Das Spiel endet, wenn alle Karten gezogen wurden oder wenn jemand den Inhalt des King's Cups trinken muss.
 
-Lesetipp: Finde hier die besten [Trinkspiele zu viert](/post/trinkspiele-zu-viert-die-beste-25)!
+Lesetipp: Finde hier die besten [Trinkspiele zu viert](/post/trinkspiele-zu-viert/)!
 
 ### 2. Arschloch!
 
@@ -260,7 +259,7 @@ Das Spiel besteht aus verschiedenen Runden mit unterschiedlichen Aufgaben.
 
 Das Spiel endet, wenn alle Karten gezogen wurden oder jemand einen Hirnschaden erlitten hat.
 
-Gutes Wetter? Dann wirf einen Blick auf die [Trinkspiele für Draußen](/post/trinkspiele-draussen)!
+Gutes Wetter? Dann wirf einen Blick auf die [Trinkspiele für Draußen](/trinkspiele/)!
 
 Kleiner Spaß. Bitte sauft nicht bis zum Hirnschaden.
 

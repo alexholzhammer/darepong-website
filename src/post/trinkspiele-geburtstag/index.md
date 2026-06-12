@@ -18,8 +18,7 @@ faq:
   - q: "Kann man Geburtstagsstrinkspiele auch ohne Alkohol spielen?"
     a: "Ja – alle Spiele funktionieren genauso gut mit alkoholfreien Getränken. Wichtig ist, dass Alternativen für alle Gäste bereitstehen, die keinen Alkohol trinken möchten."
 ---
-
-Willkommen zu einer aufregenden Reise in die Welt der Trinkspiele, perfekt geeignet, um jedem Geburtstagsfest einen unvergesslichen und ausgelassenen Touch zu verleihen! Bist du bereit, deine Feier auf das nächste Level zu heben und Momente voller Lachen, Spannung und Gemeinschaft zu erleben? In diesem Artikel enthüllen wir die 10 besten Trinkspiele, die garantiert für jede Menge Unterhaltung und unvergessliche Erinnerungen sorgen werden.
+Willkommen zu einer aufregenden Reise in die Welt der [Trinkspiele]({{ '/trinkspiele/' | url }}), perfekt geeignet, um jedem Geburtstagsfest einen unvergesslichen und ausgelassenen Touch zu verleihen! Bist du bereit, deine Feier auf das nächste Level zu heben und Momente voller Lachen, Spannung und Gemeinschaft zu erleben? In diesem Artikel enthüllen wir die 10 besten Trinkspiele, die garantiert für jede Menge Unterhaltung und unvergessliche Erinnerungen sorgen werden.
 
 Von zeitlosen Klassikern bis hin zu neuen, aufregenden Herausforderungen – diese Sammlung hat alles, was du brauchst, um die Stimmung auf deiner Party zum Kochen zu bringen. Egal, ob du auf der Suche nach Spielen bist, die Teamgeist fördern, deine Geschicklichkeit auf die Probe stellen oder einfach nur für viele Lacher sorgen – hier wirst du fündig.
 
@@ -69,7 +68,7 @@ Das Spiel sollte zur Atmosphäre der Party beitragen. Ein Spiel, das gut zum The
 
 ![Kings Cup ist ein berühmtes Trinkspiel zum Geburtstag](trinkspiele-geburtstag-kings-cup.avif)
 
-Das Spiel "Kings Cup" (auch bekannt als "Circle of Death") ist ein beliebtes Partyspiel, das sich ideal für Geburtstage eignet. Hier ist eine detaillierte Anleitung, wie man es spielt:
+Das Spiel "[Kings Cup]({{ '/kings-cup/' | url }})" (auch bekannt als "Circle of Death") ist ein beliebtes Partyspiel, das sich ideal für Geburtstage eignet. Hier ist eine detaillierte Anleitung, wie man es spielt:
 
 #### Benötigte Materialien:
 
@@ -111,7 +110,7 @@ Das Spiel endet, wenn alle Karten gezogen wurden oder nach dem Trinken des King'
 
 ### Beer Pong
 
-"Beer Pong" ist ein beliebtes Party-Spiel, das Geschicklichkeit und Präzision erfordert. Hier ist eine Schritt-für-Schritt-Anleitung für das Spiel:
+"[Beer Pong]({{ '/beer-pong/' | url }})" ist ein beliebtes Party-Spiel, das Geschicklichkeit und Präzision erfordert. Hier ist eine Schritt-für-Schritt-Anleitung für das Spiel:
 
 #### Benötigte Materialien:
 

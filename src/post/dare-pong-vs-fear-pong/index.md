@@ -16,14 +16,13 @@ faq:
   - q: "Was kostet Dare Pong im Vergleich zu Fear Pong?"
     a: "Dare Pong kostet zur Zeit 9,97 Euro + Transportkosten. Fear Pong kostet aktuell ca. 33,50 Euro + Transportkosten. Beide Spiele sind über Amazon erhältlich."
   - q: "Kann man Dare Pong oder Fear Pong selber machen?"
-    a: "Ja – wer sein eigenes Dare/Fear Pong basteln möchte, findet eine Anleitung im Blogbeitrag \"Dare Pong DIY für alle Bastler\" auf darepong.eu."
+    a: "Ja – nimm ein klassisches Beer-Pong-Set und schreibe eigene Aufgaben auf wasserfeste Karten, die du unter die Becher legst. So baust du dir deine eigene Dare-Pong-Variante ganz einfach selbst."
 ---
-
 Veröffentlicht am 16.01.2022
 
 ![Dare Pong vs. Fear Pong – Überblick beider Spiele](dare-pong-vs-fear-pong-vergleich.avif)
 
-Es geht um zwei grandiose Spiele! Es geht um die Kombination von Beer Pong & Wahrheit oder Pflicht! Die beliebte Beer Pong Weiterentwicklung trägt zwei Namen in der Welt: Entweder [Dare Pong](https://amzn.to/4nA0xYQ) oder [Fear Pong](https://www.amazon.de/Fear-Pong-Ber%C3%BChmtes-Internet/dp/B07SK8H89W). Was ist der Unterschied und welches Spiel ist besser? Wir beantworten die Frage möglichst objektiv und zeigen euch, wie ihr Eurer eigenes Spiel entwerfen könnt.
+Es geht um zwei grandiose Spiele! Es geht um die Kombination von Beer Pong & [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})! Die beliebte Beer Pong Weiterentwicklung trägt zwei Namen in der Welt: Entweder [Dare Pong](https://amzn.to/4nA0xYQ) oder [Fear Pong](https://www.amazon.de/Fear-Pong-Ber%C3%BChmtes-Internet/dp/B07SK8H89W). Was ist der Unterschied und welches Spiel ist besser? Wir beantworten die Frage möglichst objektiv und zeigen euch, wie ihr Eurer eigenes Spiel entwerfen könnt.
 
 **1. Um was geht es?**
 Beide Spiele verbinden die Partyspiel Klassiker [Beer Pong]({{ '/beer-pong/' | url }}) & Wahrheit oder Pflicht, indem unter jeden Beer Pong Becher eine Dare (Eng. für Aufgabe) gelegt wird. Sobald ein Becher vom gegnerischen Team getroffen wird, muss die Dare erfüllt werden oder der Becher muss getrunken werden. Dieses Spielprinzip hat in den vergangenen Jahren stark an Beliebtheit gewonnen.
@@ -32,7 +31,7 @@ Beide Spiele verbinden die Partyspiel Klassiker [Beer Pong]({{ '/beer-pong/' | u
 
 *Spielaufbau mit 6 Bechern*
 
-Zum Start beider Spiele müsst ihr Eure Becher - wie beim regulären Beer Pong - in der typischen Pyramiden-Formation aufstellen. Dabei könnt ihr entscheiden, ob ihr mit 6 oder 10 Bechern pro Team spielen wollt.
+Zum Start beider Spiele müsst ihr Eure Becher - wie beim regulären [Beer Pong]({{ '/beer-pong/' | url }}) - in der typischen Pyramiden-Formation aufstellen. Dabei könnt ihr entscheiden, ob ihr mit 6 oder 10 Bechern pro Team spielen wollt.
 
 Unter jedem Becher wird nun eine Karte - mit Dare/Fear Pong Logo nach oben - platziert. Füllt anschließend Eure Becher und platziert sie auf den Karten. Idealerweise bestehend die Teams aus jeweils 2-4 Spielern. Nun seit ihr Ready!
 
@@ -54,7 +53,7 @@ Der Fear Pong Verpackung liegen zusätzlich noch zwei Tischtennis Bälle bei. Da
 
 **3. Selber machen?**
 
-Wenn ihr euer eigenes Dare/Fear Pong basteln wollt, empfehlen wir euch diesen Blog-Beitrag: [Dare Pong DIY für alle Bastler](/post/dare-pong-diy-f%C3%BCr-alle-bastler)
+Wenn ihr euer eigenes Dare/Fear Pong basteln wollt: Nehmt ein klassisches [Beer Pong]({{ '/beer-pong/' | url }})-Set und schreibt eure eigenen Aufgaben auf wasserfeste Karten, die ihr unter die Becher legt.
 
 **4. Fazit**
 

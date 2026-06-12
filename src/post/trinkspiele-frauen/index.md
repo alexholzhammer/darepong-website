@@ -18,8 +18,7 @@ faq:
   - q: "Was ist der Unterschied zwischen Beer Pong und Dare Pong?"
     a: "Bei Beer Pong trinkt Ihr, wenn ein Becher getroffen wird. Bei Dare Pong liegt unter jedem Becher eine Aufgabenkarte — Ihr könnt trinken oder die Dare erfüllen. Das sorgt für deutlich mehr Abwechslung."
 ---
-
-Ein guter Mädelsabend braucht keine aufwendige Planung — aber die richtigen Spiele machen den Unterschied zwischen einem netten Abend und einer Nacht, über die Ihr noch Jahre später lacht. Hier kommen 9 Trinkspiele, die genau das liefern.
+Ein guter Mädelsabend braucht keine aufwendige Planung — aber die richtigen Spiele machen den Unterschied zwischen einem netten Abend und einer Nacht, über die Ihr noch Jahre später lacht. Hier kommen 9 [Trinkspiele]({{ '/trinkspiele/' | url }}), die genau das liefern.
 
 ## Was macht Trinkspiele für Frauen aus?
 
@@ -43,13 +42,12 @@ Der Klassiker, aber richtig gemacht. Eine Flasche wird gedreht, die Spielerin, a
 - Eine Berühmte Person imitieren, bis jemand rät wer es ist
 - Eine lustige (aber harmlose) Nachricht an einen zufälligen Kontakt schicken
 
-**Trinkregel:** Wer Wahrheit oder Pflicht verweigert, trinkt. Wer eine Pflicht erfüllt, darf bestimmen, wer trinkt.
+**Trinkregel:** Wer [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) verweigert, trinkt. Wer eine Pflicht erfüllt, darf bestimmen, wer trinkt.
 
 ---
-
 ### 2. Ich hab noch nie – ein Spiel voller Geständnisse
 
-Alle halten ihr Getränk. Eine Spielerin beginnt einen Satz mit „Ich hab noch nie…“. Wer das Genannte schon getan hat, trinkt.
+Alle halten ihr Getränk. Eine Spielerin beginnt einen Satz mit „[Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})…“. Wer das Genannte schon getan hat, trinkt.
 
 **Beispiele:**
 - „Ich hab noch nie online gedatet.“
@@ -60,7 +58,6 @@ Alle halten ihr Getränk. Eine Spielerin beginnt einen Satz mit „Ich hab noch 
 **Tipp:** Je ehrlicher die Antworten, desto besser das Spiel. Klärt vorher, wie persönlich die Aussagen werden sollen — das setzt den Ton für den Abend.
 
 ---
-
 ### 3. Scharade – Mimik und Gestik statt Worte
 
 Zwei Teams. Eine Spielerin stellt einen Begriff nur mit Körpersprache dar — kein Reden, keine Geräusche. Das eigene Team muss innerhalb von 2 Minuten raten.
@@ -74,7 +71,6 @@ Zwei Teams. Eine Spielerin stellt einen Begriff nur mit Körpersprache dar — k
 ![Frauen spielen Scharade und lachen bei einem Mädelsabend](trinkspiele-frauen-scharade.avif)
 
 ---
-
 ### 4. Filmsaufen – Kino trifft Trinkspiel
 
 Einen Film einlegen und Trinkregeln für bestimmte Szenen, Phrasen oder Handlungen festlegen. Simpel, aber effektiv.
@@ -87,10 +83,9 @@ Einen Film einlegen und Trinkregeln für bestimmte Szenen, Phrasen oder Handlung
 **Tipp:** Wählt einen Film, den alle schon kennen — dann ist die Aufmerksamkeit eher auf dem Spiel als auf der Handlung.
 
 ---
-
 ### 5. Wer würde eher – spekulative Enthüllungen
 
-Eine Frage wird gestellt: „Wer würde eher…?“ Alle zeigen gleichzeitig auf die Person, die sie tippen. Die meistgenannte Person trinkt (oder darf erklären, warum die anderen Unrecht haben).
+Eine Frage wird gestellt: „[Wer würde eher]({{ '/wer-wuerde-eher/' | url }})…?“ Alle zeigen gleichzeitig auf die Person, die sie tippen. Die meistgenannte Person trinkt (oder darf erklären, warum die anderen Unrecht haben).
 
 **Beispiele:**
 - „Wer würde eher bei einer Reality-TV-Show mitmachen?“
@@ -98,7 +93,6 @@ Eine Frage wird gestellt: „Wer würde eher…?“ Alle zeigen gleichzeitig auf
 - „Wer würde eher das letzte Stück Kuchen nehmen, ohne zu fragen?“
 
 ---
-
 ### 6. Wer bin ich – rätselhafte Identitäten
 
 Jede Spielerin bekommt einen Zettel auf die Stirn geklebt — für alle sichtbar, nur nicht für sie selbst. Durch Ja-Nein-Fragen muss sie erraten, wer oder was sie ist.
@@ -111,7 +105,6 @@ Jede Spielerin bekommt einen Zettel auf die Stirn geklebt — für alle sichtbar
 **Trinkregel:** Falsche Vermutung → trinken. Wer als erste errät, darf bestimmen, wer trinkt.
 
 ---
-
 ### 7. Beer Pong – der Klassiker für den Mädelsabend
 
 Zwei Teams, Becher in Dreiecksformation aufstellen, Tischtennisbälle in die gegnerischen Becher werfen. Getroffener Becher wird vom gegnerischen Team getrunken und entfernt. Wer zuerst alle Becher des Gegners trifft, gewinnt.
@@ -122,13 +115,12 @@ Zwei Teams, Becher in Dreiecksformation aufstellen, Tischtennisbälle in die geg
 - Persönliche Regeln: Trickwurf aus der Distanz → doppelte Trinkpflicht
 
 **Varianten:**
-- **Themen-Beerpong:** Jeder Becher steht für ein Land/eine Stadt — wer trifft, trinkt das entsprechende „Landesgetränk“
+- **Themen-[Beerpong]({{ '/beer-pong/' | url }}):** Jeder Becher steht für ein Land/eine Stadt — wer trifft, trinkt das entsprechende „Landesgetränk“
 - **Dare Pong:** Statt nur zu trinken, liegt unter jedem Becher eine Aufgabenkarte → mehr dazu gleich
 
 ![Beer Pong Aufbau mit farbigen Bechern und Lichterketten für Mädelsabend](beerpong-maedelsabend-aufbau.avif)
 
 ---
-
 ### 8. Stadt, Land, Fluss – die Erwachsenen-Version
 
 Ein Buchstabe wird gezogen, alle suchen gleichzeitig Begriffe für jede Kategorie. Die Kategorien sind diesmal etwas frecher als in der Schulversion.
@@ -142,7 +134,6 @@ Ein Buchstabe wird gezogen, alle suchen gleichzeitig Begriffe für jede Kategori
 **Trinkregel:** Wer als letztes fertig ist, trinkt. Wer die originellste Antwort hat, darf eine andere Spielerin zum Trinken auffordern.
 
 ---
-
 ### 9. Nicht lachen – ein Spiel der Selbstkontrolle
 
 Eine Spielerin versucht, alle anderen zum Lachen zu bringen — mit Witzen, Grimassen, Tänzen oder purer Albernheit. Wer lacht oder kichert, trinkt.
@@ -150,10 +141,9 @@ Eine Spielerin versucht, alle anderen zum Lachen zu bringen — mit Witzen, Grim
 **Tipp:** Vorbereitung zahlt sich aus. Wer an der Reihe ist, darf 2 Minuten lang alles einsetzen — je kreativer, desto besser. Themenrunden funktionieren gut: schlechte Anmachsprüche, Filmzitate, peinliche Kindheitserinnerungen.
 
 ---
-
 ## Dare Pong – wenn Beer Pong langweilig wird
 
-Wenn Ihr die Beer-Pong-Runde hinter Euch habt und mehr wollt: [Dare Pong](/post/darepong-vs-bier-pong-was-ist-der-unterschied/) ist die logische Erweiterung. Unter jedem Becher liegt eine Aufgabenkarte — statt zu trinken könnt Ihr die Dare annehmen. Oder beides.
+Wenn Ihr die Beer-Pong-Runde hinter Euch habt und mehr wollt: [Dare Pong](/) ist die logische Erweiterung. Unter jedem Becher liegt eine Aufgabenkarte — statt zu trinken könnt Ihr die Dare annehmen. Oder beides.
 
 120 Karten, alle wasserfest. Perfekt für den Mädelsabend, weil die Aufgaben genau die richtige Mischung aus frech, witzig und persönlich sind.
 

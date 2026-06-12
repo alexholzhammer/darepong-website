@@ -18,7 +18,6 @@ faq:
   - q: "Kann man Aktien oder ETFs als Geschenk für BWL Studenten verschenken?"
     a: "Ja – ein kleines Startkapital für erste Investitionen ist ein originelles und zukunftsorientiertes Geschenk, das BWL-Studenten direkt in die Welt der Finanzen einführt."
 ---
-
 Du suchst nach dem perfekten *Geschenk für BWL Studenten*? Ob für Geburtstage, Weihnachten oder die bestandene Klausur – die Wahl des richtigen Geschenks für angehende Betriebswirte kann eine Herausforderung sein. BWL-Studenten haben oft einen durchstrukturierten Alltag, der von Vorlesungen, Fallstudien und Projektarbeiten bestimmt wird. Die besten *Geschenke für BWL Studenten* vereinen deshalb Nützlichkeit, Stil und ein wenig Spaß. In diesem Beitrag stellen wir dir die zehn besten Geschenkideen für BWL-Studenten vor und geben dir Tipps, wie du das ideale *BWL Geschenk* findest.
 
 ## Die 11 besten Geschenke für BWL Studenten
@@ -37,13 +36,13 @@ Ist es auch, versprochen!
 
 ### Beerpong-Equipment
 
-Alle Studenten lieben Beerpong, auch die BWLer. Natürlich darf hier unsere [Beer Pong Erweiterung](/post/beer-pong-erweiterung) unter keinen Umständen fehlen. Mit ihr hast du besonders viel Abwechslung. Zudem ist sie preiswert, sodass du sie auch bequem deinen Freunden zum Geburtstag oder als Gastgeschenk mitbringen kannst.
+Alle Studenten lieben [Beerpong]({{ '/beer-pong/' | url }}), auch die BWLer. Natürlich darf hier unsere [Beer Pong Erweiterung](/post/beer-pong-erweiterung) unter keinen Umständen fehlen. Mit ihr hast du besonders viel Abwechslung. Zudem ist sie preiswert, sodass du sie auch bequem deinen Freunden zum Geburtstag oder als Gastgeschenk mitbringen kannst.
 
 ### Fachliteratur: Wissen ist Macht – besonders für BWLer
 
 Bücher sind eine hervorragende Geschenkidee für BWL-Studenten, denn angehende Betriebswirte sind oft wissbegierig und ständig auf der Suche nach neuen Informationen, die ihnen im Studium oder später im Berufsleben weiterhelfen können. Ob Fachbücher zu Themen wie Unternehmensführung, Marketing, Finanzmanagement oder auch Werke zur Persönlichkeitsentwicklung und Selbstoptimierung – die Bandbreite an nützlichen Büchern ist enorm. Diese *BWL Geschenke* können das theoretische Wissen vertiefen und gleichzeitig die persönliche Entwicklung fördern. Eine besonders beliebte Wahl sind Bücher von erfolgreichen Unternehmern und Business-Coaches, die wertvolle Einblicke in die Welt des Unternehmertums geben.
 
-Lesetipp: Hast du dir schon unsere [Geschenke für Juristen](/post/geschenke-fuer-juristen) angeschaut?
+Lesetipp: Hast du dir schon unsere [Geschenke für Juristen](/post/geschenke-für-juristen/) angeschaut?
 
 ### Ergonomische Bürostühle: Komfort für lange Lernstunden
 
@@ -97,7 +96,7 @@ Da sich das Studium der Betriebswirtschaftslehre auf Themen wie Management, Fina
 
 Neben der Funktionalität spielt auch der Stil eine wichtige Rolle bei der Auswahl eines guten Geschenks für BWL-Studenten. Da sie oft schon während des Studiums erste Kontakte in die Berufswelt knüpfen – sei es durch Praktika, Werkstudentenjobs oder Networking-Events – legen viele Wert auf ein professionelles Auftreten. Hochwertige Business-Accessoires, elegante Taschen oder personalisierte Visitenkarten sind daher Geschenke, die nicht nur nützlich sind, sondern auch dabei helfen, sich stilvoll in der Geschäftswelt zu präsentieren. Ein durchdachtes und ansprechendes Design des Geschenks zeigt, dass du die Vorlieben und Bedürfnisse des Beschenkten verstanden hast.
 
-Okay komm, wir alle wissen, dass vor allem [Trinkspiele](/post/unsere-liste-der-6-besten-trinkspiele) gute Geschenke sind!
+Okay komm, wir alle wissen, dass vor allem [Trinkspiele](/trinkspiele/) gute Geschenke sind!
 
 ### Unterstützung bei der Selbstorganisation
 

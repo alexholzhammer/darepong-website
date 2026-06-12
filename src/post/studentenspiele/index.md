@@ -18,7 +18,6 @@ faq:
   - q: "Welche Spiele eignen sich für große Gruppen in der WG?"
     a: "Werwolf, Codenames, Tabu und Stadt Land Vollpfosten funktionieren hervorragend für große Gruppen und WG-Abende, da sie einfach zu erklären sind und viele Spieler gleichzeitig mitmachen können."
 ---
-
 Studieren kann manchmal stressig sein – da sind Spiele die perfekte Möglichkeit, den Kopf freizubekommen und gemeinsam mit Freunden zu lachen. Ob du in einer WG wohnst, dich auf einer Party wiederfindest oder einfach nur nach einem lustigen Abend suchst: Hier sind einige der besten Spiele für deutsche Studenten. Egal ob du BWL, Jura, Medizin oder etwas ganz anderes studierst – für jeden ist etwas dabei!
 
 1. ## Arbitrage - das perfekte Spiel für BWL- und VWL-Studenten
@@ -37,9 +36,9 @@ Studieren kann manchmal stressig sein – da sind Spiele die perfekte Möglichke
 
    Ihr seid (angehende) Juristen und wollt euer Wissen im Zivilrecht unter Beweis stellen? 70 coole Spielkarten warten darauf, 2 - 10 Spieler zu begeistern. Auch gut geeignet, um sich auf das Examen vorzubereiten oder dieses wieder zu vergessen. Das perfekte Geschenk für Juristen, Abende mit Kommilitonen oder Arbeitskollegen.
 
-   Tipp: Hier findest du viele weitere [coole Trinkspiele!](/post/trinkspiele)
+   Tipp: Hier findest du viele weitere [coole Trinkspiele!](/trinkspiele/)
 
-3. ## Beerpong inkl. Dare Pong - Spiel für Studenten
+3. ## [Beerpong]({{ '/beer-pong/' | url }}) inkl. Dare Pong - Spiel für Studenten
 
 ![Dare Pong - Die Beerpong Erweiterung](/post/studentenspiele/darepong-beerpong-erweiterung.avif)
 
@@ -47,7 +46,7 @@ Studieren kann manchmal stressig sein – da sind Spiele die perfekte Möglichke
 
    [Beerpong]({{ '/beer-pong/' | url }}) ist der Klassiker auf allen Studentenpartys. Doch schnell wird das Spiel etwas eintönig, vor allem wenn nicht alle Spieler auf einem ähnlichen Level sind. Dare Pong bringt neuen Schwung in das Spiel. Es besteht aus 120 Spielkarten in Bierdeckelform, von denen eine unter jeden Becher gelegt wird. Wird dieser getroffen, kann man entweder die Aufgabe (Dare) ausführen, oder den Becher leertrinken. Eine coole Abwechslung.
 
-   Ebenfalls interessant: Die besten [Beerpong Varianten](/post/beer-pong-varianten)!
+   Ebenfalls interessant: Die besten [Beerpong Varianten](/beer-pong/)!
 
 ## 4. Werwolf: Der Klassiker für große Gruppen
 
@@ -89,13 +88,13 @@ In *Secret Hitler* geht es darum, heimlich Allianzen zu schmieden, um politische
 
 ## 9. Rage Cage: Das ultimative Trinkspiel für schnelle Reaktionen
 
-*Rage Cage* ist ein rasantes Trinkspiel, das Geschicklichkeit, Schnelligkeit und ein gutes Auge erfordert. Die Spieler versuchen, einen Tischtennisball in einen Becher zu werfen, während die Becher zirkulieren. Wer es nicht rechtzeitig schafft, muss trinken – und die Spannung steigt mit jeder Runde.
+*[Rage Cage]({{ '/rage-cage/' | url }})* ist ein rasantes Trinkspiel, das Geschicklichkeit, Schnelligkeit und ein gutes Auge erfordert. Die Spieler versuchen, einen Tischtennisball in einen Becher zu werfen, während die Becher zirkulieren. Wer es nicht rechtzeitig schafft, muss trinken – und die Spannung steigt mit jeder Runde.
 
 💡 **Warum es ein Hit ist:** Es kombiniert Geschwindigkeit, Spaß und Teamdynamik. Besonders für Sportstudenten oder alle, die schnelle Reflexe haben (oder trainieren wollen), ist dieses Spiel ein Highlight.
 
 Mit *Rage Cage* hast du jetzt ein weiteres Spiel für ausgelassene Partys oder WG-Abende. Es ergänzt die Liste perfekt für diejenigen, die Action und Adrenalin suchen! 🥳
 
-Du fährst auf ein Festival? Hier findest du [die besten Festival Spiele für Erwachsene](/post/festival-spiele)!
+Du fährst auf ein Festival? Hier findest du [die besten Festival Spiele für Erwachsene](/trinkspiele/)!
 
 ## 10. Klask: Für Physikfans und Geschicklichkeitsspieler
 

@@ -18,7 +18,6 @@ faq:
   - q: "Sind Trinkspiel-Brettspiele auch ohne Alkohol spielbar?"
     a: "Absolut – die Trinkregeln funktionieren genauso gut mit Softdrinks, Saft oder Wasser. Der Spaßfaktor bleibt derselbe."
 ---
-
 Hey, du!
 
 Suchst du nach einer spaßigen Möglichkeit, deinen Spieleabend aufzupeppen? Dann bist du hier genau richtig! Wir präsentieren dir die besten Trinkspiel-Brettspiele, die garantiert für Lacher und unvergessliche Momente sorgen. Egal, ob du ein Fan von klassischen Brettspielen oder auf der Suche nach etwas Neuem bist, hier findest du die perfekte Mischung aus Spaß und Herausforderung.
@@ -29,7 +28,7 @@ Suchst du nach einer spaßigen Möglichkeit, deinen Spieleabend aufzupeppen? Dan
 
 Einer der Hauptgründe für ihre Beliebtheit liegt in der Fähigkeit dieser Spiele, Menschen zusammenzubringen. Sie lockern die Atmosphäre auf, brechen das Eis und fördern die Interaktion in der Gruppe. In einer Welt, in der digitale Kommunikation oft überwiegt, bieten Trinkspiel-Brettspiele eine wunderbare Gelegenheit, sich persönlich zu treffen, gemeinsam zu lachen und unvergessliche Momente zu schaffen.
 
-Zudem sind sie unglaublich vielseitig. Viele Brettspiele lassen sich leicht in Trinkspiele umwandeln, und die Regeln können an die Vorlieben der Gruppe angepasst werden. Ob es darum geht, bei jedem verlorenen Spielstein zu trinken oder neue, kreative Regeln zu erfinden – die Möglichkeiten sind nahezu endlos.
+Zudem sind sie unglaublich vielseitig. Viele Brettspiele lassen sich leicht in [Trinkspiele]({{ '/trinkspiele/' | url }}) umwandeln, und die Regeln können an die Vorlieben der Gruppe angepasst werden. Ob es darum geht, bei jedem verlorenen Spielstein zu trinken oder neue, kreative Regeln zu erfinden – die Möglichkeiten sind nahezu endlos.
 
 Ein Junggesellenabschied steht an? Hier findest du die besten [JGA Trinkspiele](/post/jga-trinkspiele)!
 

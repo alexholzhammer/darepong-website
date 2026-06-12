@@ -18,12 +18,11 @@ faq:
   - q: "Wie kann man Beer Pong schwieriger machen?"
     a: "Mit Hindernissen auf der Spielfläche, einem Zeitlimit pro Wurf (Speed Pong) oder der Kombination mit Flip Cup (Flip Cup Pong) wird Beer Pong deutlich anspruchsvoller und abwechslungsreicher."
 ---
-
 [Beer Pong]({{ '/beer-pong/' | url }}) gehört zu den beliebtesten Partyspielen weltweit. Doch wusstest du, dass du das klassische Spiel mit ein paar kreativen Erweiterungen noch aufregender gestalten kannst? Egal ob du Anfänger oder erfahrener Beerpong-Champion bist, hier sind die **10 besten Beerpong-Erweiterungen**, die deine nächste Party unvergesslich machen werden.
 
 ## 1. Dare Pong – Der Nervenkitzel mit Mutproben
 
-Mit Dare Pong entscheidest du dich für die beliebteste Beerpong-Erweiterung der Welt. Du erweiterst das Spiel damit um eine weitere Dimension, die große Abwechslung und unvergessliche Momente verspricht.
+Mit Dare Pong entscheidest du dich für die beliebteste [Beerpong]({{ '/beer-pong/' | url }})-Erweiterung der Welt. Du erweiterst das Spiel damit um eine weitere Dimension, die große Abwechslung und unvergessliche Momente verspricht.
 
 Dare Pong besteht aus 120 verschiedenen Aufgaben, hier Dares genannt. Diese legst du unter die Beerpongbecher. Wird ein Becher getroffen, kannst du dir die Aufgabe anschauen und nun entscheiden, ob du sie durchziehst, oder den Becher leerst.
 
@@ -67,7 +66,7 @@ Die Beleuchtung macht das Spiel aber nicht nur spektakulärer, sondern auch hera
 
 ## 4. Flip Cup Pong – Zwei Klassiker, eine geniale Kombination
 
-Flip Cup Pong verbindet zwei der beliebtesten Partyspiele – Flip Cup und Beer Pong – zu einem völlig neuen Erlebnis, das jede Feier auf ein neues Level hebt. Diese Beer Pong Erweiterung kombiniert Präzision und Geschicklichkeit mit Tempo und Teamgeist und sorgt so für doppelt so viel Spaß!
+[Flip Cup]({{ '/flip-cup/' | url }}) Pong verbindet zwei der beliebtesten Partyspiele – Flip Cup und Beer Pong – zu einem völlig neuen Erlebnis, das jede Feier auf ein neues Level hebt. Diese Beer Pong Erweiterung kombiniert Präzision und Geschicklichkeit mit Tempo und Teamgeist und sorgt so für doppelt so viel Spaß!
 
 Das Spiel beginnt wie klassisches Beer Pong: Zwei Teams versuchen, die Becher des Gegners zu treffen. Doch sobald ein Becher erfolgreich getroffen wurde, ist das Spiel noch nicht vorbei – jetzt kommt der Flip Cup-Teil ins Spiel. Der Spieler, der den Ball geworfen hat, muss den getroffenen Becher leeren und anschließend versuchen, ihn mit einer geschickten Bewegung auf seiner Kante umzudrehen. Erst wenn der Becher erfolgreich geflippt wurde, darf das Team weiterspielen und den nächsten Wurf starten.
 

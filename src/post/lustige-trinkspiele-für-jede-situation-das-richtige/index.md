@@ -18,8 +18,7 @@ faq:
   - q: "Was ist ein gutes Trinkspiel für eine große Party?"
     a: "Bier-Pong in der Epic Edition mit Spezialregeln wie Spezialwällen, Dare Pong-Karten, Blind Shots und Trick Shot-Runden eignet sich hervorragend für große Gruppen und sorgt für garantierte Stimmung."
 ---
-
-Hey, Partylöwe! Du bist auf der Suche nach dem ultimativen Kick und einem lustigen Trinkspiel? Dann bist du hier genau richtig! Wir haben für dich die lustigsten Trinkspiele jeder Kategorie zusammengestellt. Egal ob du mit deinem besten Kumpel, einer kleinen Runde oder auf einer großen Party zocken willst - hier findest du das passende Spiel.
+Hey, Partylöwe! Du bist auf der Suche nach dem ultimativen Kick und einem lustigen Trinkspiel? Dann bist du hier genau richtig! Wir haben für dich die lustigsten [Trinkspiele]({{ '/trinkspiele/' | url }}) jeder Kategorie zusammengestellt. Egal ob du mit deinem besten Kumpel, einer kleinen Runde oder auf einer großen Party zocken willst - hier findest du das passende Spiel.
 
 ## Was macht ein lustiges Trinkspiel aus?
 
@@ -33,7 +32,7 @@ Tipp: Hier findest du [Trinkspiele für den JGA](/post/jga-trinkspiele)!
 
 ![Lustiges Trinkspiel bringt Freunde zum Lachen](lustige-trinkspiele-freunde-lachen.avif)
 
-"Wahrheit oder Pflicht" ist der Klassiker unter den Trinkspielen, perfekt für zwei Personen. Dabei wird das traditionelle Spiel mit einem alkoholischen Twist gespielt. Hier sind die Regeln:
+"[Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})" ist der Klassiker unter den Trinkspielen, perfekt für zwei Personen. Dabei wird das traditionelle Spiel mit einem alkoholischen Twist gespielt. Hier sind die Regeln:
 
 1. **Wahrheit oder Pflicht wählen**: Abwechselnd fragt ihr euch, ob ihr "Wahrheit" oder "Pflicht" bevorzugt. Bei "Wahrheit" müsst ihr eine persönliche Frage ehrlich beantworten, bei "Pflicht" eine gestellte Aufgabe erfüllen.
 
@@ -73,7 +72,7 @@ Das Spiel "Ich hab' noch nie..." ist ideal für drei Personen und kann zu unerwa
 
 Diese Version des Spiels bringt mehr Interaktion und Spannung in die Runde. Es ist eine tolle Möglichkeit, sich besser kennenzulernen und gemeinsam zu lachen. Wie immer, denkt daran, verantwortungsvoll zu spielen!
 
-Lesetipp: Hier findest du [Festival Trinkspiele](/post/festival-spiele) für den Sommer!
+Lesetipp: Hier findest du [Festival Trinkspiele](/trinkspiele/) für den Sommer!
 
 ## Lustiges Trinkspiel ohne Zubehör: "Wortassoziations-Spiel"
 
@@ -101,7 +100,7 @@ Ebenfalls interessant: [Trinkspiele mit Karten](/post/trinkspiele-mit-karten)!
 
 ## Lustiges Trinkspiel für Draußen: "Flunkyball"
 
-"Flunkyball" ist ein fantastisches Outdoor-Trinkspiel, das Teamgeist und Zielgenauigkeit verbindet. Hier ist die "Ultimate Edition" mit zusätzlichen Regeln und Variationen:
+"[Flunkyball]({{ '/post/flunkyball-regeln-spielablauf-einfach-erklaert/' | url }})" ist ein fantastisches Outdoor-Trinkspiel, das Teamgeist und Zielgenauigkeit verbindet. Hier ist die "Ultimate Edition" mit zusätzlichen Regeln und Variationen:
 
 1. **Grundregeln**: Zwei Teams stehen sich in einiger Entfernung gegenüber, zwischen ihnen steht eine Flasche. Jeder Spieler hat ein gefülltes Getränk vor sich.
 
@@ -121,7 +120,7 @@ Ebenfalls interessant: [Trinkspiele mit Karten](/post/trinkspiele-mit-karten)!
 
 "Flunkyball - Ultimate Edition" ist perfekt für Sommerabende, Grillpartys oder Campingausflüge. Es fördert Teamarbeit, Geschick und bringt jede Menge Spaß. Wie immer, spielt verantwortungsbewusst und achtet darauf, dass niemand zu viel trinkt!
 
-In diesem Blogbeitrag findest du [25 Trinkspiele für Draußen](/post/trinkspiele-draussen)!
+In diesem Blogbeitrag findest du [25 Trinkspiele für Draußen](/trinkspiele/)!
 
 ## Lustiges Trinkspiel zum Geburtstag: "Das Geburtstagsroulette"
 
@@ -155,7 +154,7 @@ Bier-Pong ist ein Klassiker unter den Party-Trinkspielen, der sich wunderbar fü
 
 2. **Spezialbälle**: Führt Spezialbälle ein, die unterschiedliche Effekte haben, wie z.B. "Feuerball" (doppelter Trinkzwang), "Eisball" (Gegner muss eine Runde aussetzen) oder "Wirbelwind" (alle müssen einmal um den Tisch laufen).
 
-3. **Dare Pong**: Leg dir unsere einzigartige Erweiterung [Dare Pong](https://www.darepong.eu/) zu. Mit erweiterst du Beerpong und holst jeden ab.
+3. **Dare Pong**: Leg dir unsere einzigartige Erweiterung [Dare Pong](https://www.darepong.eu/) zu. Mit erweiterst du [Beerpong]({{ '/beer-pong/' | url }}) und holst jeden ab.
 
 4. **Team-Challenges**: Zwischen den Runden könnt ihr Team-Challenges einführen, bei denen das Gewinnerteam Vorteile für das nächste Spiel erhält, wie z.B. einen zusätzlichen Ball oder das Entfernen eines Bechers des Gegners.
 

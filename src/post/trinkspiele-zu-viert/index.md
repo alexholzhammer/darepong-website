@@ -18,18 +18,17 @@ faq:
   - q: "Welche Trinkspiele zu viert brauchen kein Material?"
     a: "Never Have I Ever, Most Likely, Zwei Wahrheiten eine Luege, Speed Facts und Medusa funktionieren komplett ohne Spielmaterial und koennen spontan ueberall gespielt werden."
 ---
-
-Stell dir vor, es ist Wochenende, und du bist mit deinen drei besten Freunden zusammen. Was könnte jetzt besser sein, als ein paar Trinkspiele zu viert zu zocken? Richtig, kaum etwas! Trinkspiele zu viert sind der perfekte Weg, um die Stimmung zu lockern, sich gegenseitig besser kennenzulernen und natürlich, um eine Menge Spaß zu haben. Ich nehme dich mit auf eine Tour durch die 25 besten Trinkspiele, die speziell dafür gemacht sind, mit vier Spielern gespielt zu werden.
+Stell dir vor, es ist Wochenende, und du bist mit deinen drei besten Freunden zusammen. Was könnte jetzt besser sein, als ein paar [Trinkspiele]({{ '/trinkspiele/' | url }}) zu viert zu zocken? Richtig, kaum etwas! Trinkspiele zu viert sind der perfekte Weg, um die Stimmung zu lockern, sich gegenseitig besser kennenzulernen und natürlich, um eine Menge Spaß zu haben. Ich nehme dich mit auf eine Tour durch die 25 besten Trinkspiele, die speziell dafür gemacht sind, mit vier Spielern gespielt zu werden.
 
 ## Die 25 besten Trinkspiele zu viert - mit Erläuterungen
 
 ![Trinkspiele zu viert - die besten Spiele für 4 Personen](trinkspiele-zu-viert-beste-spiele-4-personen.avif)
 
-1. **Kings Cup**: Ein Kartenspiel, bei dem jede Karte eine bestimmte Aktion bedeutet. Zum Beispiel: "2" für "Du", "3" für "Ich" und so weiter. Jede Regel löst eine Trinkaktion aus, bis der "King's Cup" getrunken werden muss.
+1. **Kings Cup**: Ein Kartenspiel, bei dem jede Karte eine bestimmte Aktion bedeutet. Zum Beispiel: "2" für "Du", "3" für "Ich" und so weiter. Jede Regel löst eine Trinkaktion aus, bis der "[King's Cup]({{ '/kings-cup/' | url }})" getrunken werden muss.
 
-2. **Beer Pong**: Zwei Teams stehen sich an einem Tisch gegenüber, auf beiden Enden sind Becher in Pyramidenform aufgestellt. Ziel ist es, Tischtennisbälle in die gegnerischen Becher zu werfen. Trifft man, muss der Gegner den Becherinhalt trinken. Tipp: Mit [Dare Pong](https://www.darepong.eu) wird das Spiel noch geiler!
+2. **[Beer Pong]({{ '/beer-pong/' | url }})**: Zwei Teams stehen sich an einem Tisch gegenüber, auf beiden Enden sind Becher in Pyramidenform aufgestellt. Ziel ist es, Tischtennisbälle in die gegnerischen Becher zu werfen. Trifft man, muss der Gegner den Becherinhalt trinken. Tipp: Mit [Dare Pong](https://www.darepong.eu) wird das Spiel noch geiler!
 
-3. **Jenga Trinkspiel**: Jeder Jenga-Block bekommt eine Anweisung, wie "trinke zwei Schlucke" oder "erzähle einen Witz". Ziehst du einen Block, musst du die Anweisung befolgen.
+3. **[Jenga Trinkspiel]({{ '/jenga-trinkspiel/' | url }})**: Jeder Jenga-Block bekommt eine Anweisung, wie "trinke zwei Schlucke" oder "erzähle einen Witz". Ziehst du einen Block, musst du die Anweisung befolgen.
 
 4. **Ring of Fire**: Spieler ziehen reihum Karten und führen die jeweilige Aktion aus, die der Karte zugeordnet ist. Ziel ist es, nicht den "Ring of Fire" zu brechen, sonst muss man trinken.
 
@@ -39,7 +38,7 @@ Stell dir vor, es ist Wochenende, und du bist mit deinen drei besten Freunden zu
 
 7. **Civil War**: Eine erweiterte Version von [Beer Pong]({{ '/beer-pong/' | url }}) mit mehr Bällen und Bechern. Hier herrscht Krieg am Tisch, und jeder Spieler verteidigt seine Seite.
 
-8. **Flip Cup**: Spieler müssen zunächst ihren Becher austrinken und dann versuchen, den Becher vom Tischrand aus so zu tippen, dass er sich umdreht und auf dem Kopf landet.
+8. **[Flip Cup]({{ '/flip-cup/' | url }})**: Spieler müssen zunächst ihren Becher austrinken und dann versuchen, den Becher vom Tischrand aus so zu tippen, dass er sich umdreht und auf dem Kopf landet.
 
 9. **Picolo App**: Eine App, die Trinkaufgaben generiert. Gebt einfach eure Namen ein und die App sagt euch, was zu tun ist.
 
@@ -47,7 +46,7 @@ Stell dir vor, es ist Wochenende, und du bist mit deinen drei besten Freunden zu
 
 11. **Wizard**: Bei jedem geleerten Bier wird die Dose an die vorherige getaped, sodass am Ende der längste "Zauberstab" gewinnt. Wer den kürzesten hat, trinkt.
 
-12. **Ich hab noch nie**: Jeder Spieler sagt etwas, was er noch nie getan hat. Wer es doch getan hat, trinkt.
+12. **[Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})**: Jeder Spieler sagt etwas, was er noch nie getan hat. Wer es doch getan hat, trinkt.
 
 13. **Most Likely**: Alle Spieler zählen bis drei und zeigen dann auf die Person, die am ehesten das tun würde, was vorher gesagt wurde. Wer die meisten Finger auf sich gerichtet hat, trinkt.
 
@@ -77,7 +76,7 @@ Stell dir vor, es ist Wochenende, und du bist mit deinen drei besten Freunden zu
 
 Denk daran, dass bei all diesen Spielen der Spaß im Vordergrund stehen sollte und nicht das Trinken selbst. Passt aufeinander auf und kennt eure Grenzen.
 
-Lesetipp: Finde hier die [besten Trinkspiele für Draußen](/post/trinkspiele-draussen)!
+Lesetipp: Finde hier die [besten Trinkspiele für Draußen](/trinkspiele/)!
 
 ## Trinkspiele zu viert - was macht sie erfolgreich?
 
@@ -105,7 +104,7 @@ Die Magie von Trinkspielen zu viert liegt in ihrer Fähigkeit, eine Atmosphäre 
 
 **Soziale Entfaltung:** Trinkspiele zu viert bieten eine perfekte Plattform, um aus sich herauszukommen. Selbst die schüchternen Freunde finden in der ausgelassenen Stimmung einen Weg, sich zu öffnen.
 
-Diese Aspekte sorgen dafür, dass Trinkspiele zu viert nicht nur als Zeitvertreib dienen, sondern auch zu einem festen Bestandteil der sozialen Kultur unter jungen Erwachsenen geworden sind. Sie bieten eine ideale Möglichkeit, den Alltag hinter sich zu lassen und einfach eine gute Zeit mit Freunden zu verbringen. Tipp: Wirf einen Blick auf die besten [Festivalspiele](/post/festival-spiele)!
+Diese Aspekte sorgen dafür, dass Trinkspiele zu viert nicht nur als Zeitvertreib dienen, sondern auch zu einem festen Bestandteil der sozialen Kultur unter jungen Erwachsenen geworden sind. Sie bieten eine ideale Möglichkeit, den Alltag hinter sich zu lassen und einfach eine gute Zeit mit Freunden zu verbringen. Tipp: Wirf einen Blick auf die besten [Festivalspiele](/trinkspiele/)!
 
 ## Abschließende Worte
 

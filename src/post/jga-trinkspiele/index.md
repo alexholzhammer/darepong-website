@@ -18,8 +18,7 @@ faq:
   - q: "Wie viele Leute braucht man für JGA Trinkspiele?"
     a: "Die meisten JGA Trinkspiele funktionieren ab 4 Personen, viele wie Flip the Cup oder Bier-Staffellauf sind ideal für größere Gruppen ab 6 Personen."
 ---
-
-Der Junggesellenabschied (JGA) ist ein unvergessliches Erlebnis, das Spaß, Freundschaft und natürlich ein paar Drinks vereint. Um diesen besonderen Tag noch aufregender zu gestalten, sind Trinkspiele eine fantastische Idee. Sie bringen die Gruppe zusammen, sorgen für Lacher und kreieren unvergessliche Momente. In diesem Guide präsentieren wir euch die unterhaltsamsten und außergewöhnlichsten Trinkspiele für den JGA.
+Der Junggesellenabschied (JGA) ist ein unvergessliches Erlebnis, das Spaß, Freundschaft und natürlich ein paar Drinks vereint. Um diesen besonderen Tag noch aufregender zu gestalten, sind [Trinkspiele]({{ '/trinkspiele/' | url }}) eine fantastische Idee. Sie bringen die Gruppe zusammen, sorgen für Lacher und kreieren unvergessliche Momente. In diesem Guide präsentieren wir euch die unterhaltsamsten und außergewöhnlichsten Trinkspiele für den JGA.
 
 ## Was macht ein gutes JGA Trinkspiel aus?
 
@@ -44,7 +43,7 @@ Schließlich geht es bei JGA Trinkspielen nicht nur ums Trinken, sondern auch da
 1. **Schnitzeljagd mit Shots**
    - **Anleitung**: Versteckt im Vorfeld kleine Shots an verschiedenen Orten. Gebt der Gruppe Hinweise oder Rätsel, um die Shots zu finden. Wer einen Shot findet, muss ihn trinken. Dieses Spiel ist ideal, um den Abend dynamisch und spannend zu gestalten.
 
-1. **Wahrheit oder Pflicht mit Shots**
+1. **[Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) mit Shots**
    - **Anleitung**: Spielt das klassische Wahrheit oder Pflicht, aber mit einem Trinkspiel-Twist. Wählt jemand "Pflicht" und erfüllt diese nicht, muss er trinken. Bei "Wahrheit" muss bei einer nicht beantworteten oder unglaubwürdigen Antwort ebenfalls getrunken werden. Dieses Spiel sorgt für interessante Enthüllungen und lustige Herausforderungen.
 
 1. **Flip the Cup**

@@ -18,10 +18,9 @@ faq:
   - q: "Was ist Remote Insensitivity?"
     a: "Remote Insensitivity ist die Online-Version von Cards Against Humanity und kann zum Beispiel auf PlayingCards.io gespielt werden. Mit Trinkregeln wie trinken bei nicht gewählten Karten wird es zum Online-Trinkspiel."
 ---
-
 Du und deine Freunde seid auf der Suche nach guten Trinkspielen, die ihr online spielen könnt?
 
-Wir haben eine Liste der besten online Trinkspiele erstellt. Dazu findet ihr detaillierte Anleitungen für die wirklich lustigen Spiele.
+Wir haben eine Liste der besten online [Trinkspiele]({{ '/trinkspiele/' | url }}) erstellt. Dazu findet ihr detaillierte Anleitungen für die wirklich lustigen Spiele.
 
 Seid ihr bereit für großen Spaß?Dann lasst uns direkt loslegen!
 

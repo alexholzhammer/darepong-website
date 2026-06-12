@@ -18,8 +18,7 @@ faq:
   - q: "Welche Online-Trinkspiele funktionieren zu zweit?"
     a: "Es gibt 6 Online-Trinkspiele fuer 2 Personen, die auch auf Distanz viel Spass machen – ideal wenn man nicht im selben Raum ist."
 ---
-
-Du und dein Freind oder deine Freundin habt Lust auf **gute Trinkspiele zu zweit?**
+Du und dein Freind oder deine Freundin habt Lust auf **gute [Trinkspiele]({{ '/trinkspiele/' | url }}) zu zweit?**
 Na dann seid ihr hier genau richtig!
 
 Hier findet ihr die 26 besten Trinkspiele für zwei, die ihr super nach Trinklaune filtern könnt. Auf euch warten tolle Klassiker, coole neue Spiele und es ist für jeden Geschmack und jede Stimmung etwas dabei!
@@ -39,7 +38,7 @@ Mit diesen 10 Trinkspielen könnt ihr euch einen tollen Abend machen und Spaß h
 
 Es kommen spontan noch weitere Freunde? Kein Problem.
 
-Hier findet ihr unsere [Trinkspiele zu viert](/post/trinkspiele-zu-viert-die-beste-25)!
+Hier findet ihr unsere [Trinkspiele zu viert](/post/trinkspiele-zu-viert/)!
 
 ## Online-Trinkspiele zu zweit: Die besten Apps und Spiele für die Distanz
 
@@ -51,7 +50,7 @@ Diese 6 Online-Trinkspiele für 2 werden euch bestimmt begeistern und schaffen e
 
 Die Sonne scheint und ihr wollt nicht vor dem Handy hocken?
 
-Hier sind die besten [Trinkspiele für Draußen](/post/trinkspiele-draussen)!
+Hier sind die besten [Trinkspiele für Draußen](/trinkspiele/)!
 
 ## Die 5 besten Trinkspiele zu zweit ohne Material
 
@@ -73,7 +72,7 @@ Say no more.
 
 Diese 5 Spiele werden euch bestimmt Spaß und betrunken machen.
 
-Vor allem im Sommer sind die [Festival-Spiele](/post/festival-spiele) ein echter Hit. Kennst du sie alle?
+Vor allem im Sommer sind die [Festival-Spiele](/trinkspiele/) ein echter Hit. Kennst du sie alle?
 
 Kennst du weitere coole Trinkspiele, die wir vergessen haben?
 

@@ -18,8 +18,7 @@ faq:
   - q: "Kann man Film Trinkspiele auch ohne Alkohol spielen?"
     a: "Ja – jedes Getränk funktioniert. Das Spielprinzip bleibt dasselbe, egal ob mit Bier, Saft oder Wasser."
 ---
-
-Bist du bereit, deinen Filmabend auf das nächste Level zu heben? Dann bist du hier genau richtig! Film Trinkspiele sind der perfekte Weg, um mit Freunden einen unvergesslichen und aufregenden Abend zu erleben. Ob es ein Action-Kracher, eine Rom-Com oder ein Horrorfilm ist, mit dem richtigen Trinkspiel wird jeder Film zum interaktiven Vergnügen.
+Bist du bereit, deinen Filmabend auf das nächste Level zu heben? Dann bist du hier genau richtig! Film [Trinkspiele]({{ '/trinkspiele/' | url }}) sind der perfekte Weg, um mit Freunden einen unvergesslichen und aufregenden Abend zu erleben. Ob es ein Action-Kracher, eine Rom-Com oder ein Horrorfilm ist, mit dem richtigen Trinkspiel wird jeder Film zum interaktiven Vergnügen.
 
 Du suchst andere [lustige Trinkspiele](/post/lustige-trinkspiele-f%C3%BCr-jede-situation-das-richtige)? We got you covered!
 

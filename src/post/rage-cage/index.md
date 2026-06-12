@@ -1,7 +1,7 @@
 ---
-title: "Rage Cage: Das Trinkspiel für legendäre Abende"
+title: "Rage Cage Songs & Varianten: So wird das Trinkspiel legendär"
 date: 2025-09-18
-summary: "Erfahre alles über Rage Cage. Regeln (mit Video), Aufbau, die besten Lieder und Erweiterungen. Danach weißt du wie es geht und du viel Spaß damit hast!"
+summary: "Die besten Rage-Cage-Lieder, Playlists und Spiel-Varianten für eskalierende Partyabende. Plus: wo du die kompletten Regeln und den Aufbau findest."
 image: /post/rage-cage/rage-cage.avif
 imageAlt: "Rage Cage Trinkspiel Aufbau mit Bechern und Ping-Pong-Bällen auf einem Tisch"
 tags:
@@ -19,7 +19,7 @@ faq:
     a: "Klassiker sind Gas Gas von Goran Bregovic, Shots von LMFAO oder Turn Down for What von DJ Snake & Lil Jon. Viele Gruppen spielen das komplette Spiel mit einem einzigen Song in Dauerschleife."
 ---
 
-Du suchst nach einem Trinkspiel, das schnell, laut und einfach nur verrückt ist? Dann bist du beim **Rage Cage** genau richtig. Das Spiel bringt Chaos, Spaß und jede Menge Action auf jede Party. Kein Wunder, dass das **Rage Cage Trinkspiel** bei Studenten, in WGs und auf Festivals so beliebt ist.
+Du kennst die Regeln schon und willst aus **Rage Cage** das Maximum herausholen? In diesem Guide dreht sich alles um die zwei Dinge, die einen guten Abend von einem legendären trennen: die **richtige Musik** und **kreative Varianten**. Du suchst zuerst die komplette Anleitung? Die findest du auf unserer Spielseite zu [Rage Cage]({{ '/rage-cage/' | url }}) – inklusive Aufbau, Schritt-für-Schritt-Regeln und Video.
 
 {% gamePreview "rage-cage" %}
 
@@ -40,23 +40,11 @@ Das gehört auf jeden Fall dazu:
 
 So entsteht ein Spielfeld, das auf den ersten Blick harmlos aussieht, aber im Laufe des Spiels schnell zur tobenden Party-Arena wird. Schon nach den ersten Würfen merkst du: Hier zählt nicht nur Geschick, sondern auch Reaktion, Schnelligkeit – und ein bisschen Glück.
 
-## Die Rage Cage Regeln
+## Rage Cage Regeln – die Kurzfassung
 
-Jetzt wird's wild – hier kommen die offiziellen **Rage Cage Regeln**, so wie sie wirklich gespielt werden. Schnell, laut, chaotisch – und einfach verdammt witzig.
+Damit du den Überblick hast, hier das Spielprinzip in einem Absatz: Alle stehen im Kreis um die gefüllten Becher, zwei Ping-Pong-Bälle starten gegenüberliegend. Du exst einen Becher aus der Mitte und versuchst, den Ball per Aufsetzer hineinzutreffen. Triffst du, geht der Becher nach links weiter. Holt dich der Ball hinter dir ein, musst du einen neuen Becher exen – und der „Bitch-Cup“ in der Mitte ist die gefürchtete letzte Station.
 
-### 🔥 So funktioniert's – Schritt für Schritt
-
-1. **Startaufstellung** Zwei Spieler stehen sich gegenüber. Beide bekommen je einen Ping-Pong-Ball. Der Tisch ist voll mit gefüllten Bechern in der Mitte – einer davon ist der große „King's Cup“.
-
-2. **„3, 2, 1 – Rage Cage!“** Die beiden starten gleichzeitig. Erst wird ein Becher aus der Mitte gegriffen und geext. Danach versucht man, den Ball mit einem Aufsetzer (also einmal auf dem Tisch auftippen lassen) in den leeren Becher zu treffen.
-
-3. **Treffer? Nächster!** Triffst du, gibst du Becher + Ball **nach links** weiter. Wirfst du **beim allerersten Versuch direkt rein**, darfst du ihn sogar **an eine beliebige Person** weitergeben – das bringt extra Tempo ins Spiel.
-
-4. **Becher-Showdown** Kommt es dazu, dass zwei Becher direkt hintereinander unterwegs sind und der hintere trifft, **muss er seinen Becher in den des Spielers vor ihm reinstellen**. Das ist ein Rage-Moment – und sorgt für Chaos.
-
-5. **Gefangen? Trink!** Wurdest du „eingeholt“ (also hat der hinter dir getroffen, bevor du es geschafft hast), musst du einen neuen Becher aus der Mitte exen und ab sofort mit diesem weiterspielen. Der Ball bleibt bei dir, der Stapel geht an den linken Nachbarn.
-
-6. **Wichtig beim Nachbarn links** Wenn du direkt **links neben jemandem** sitzt und triffst beim ersten Versuch: **Du darfst den Becher nicht irgendwohin geben**, sondern **musst ihn in seinen Becher reinstellen**. Trifft er zuerst, geht's für ihn normal weiter.
+> **Du willst die ausführliche Anleitung mit Aufbau-Grafik, allen Sonderregeln und Video?** Die komplette **[Rage-Cage-Spielanleitung]({{ '/rage-cage/' | url }})** findest du auf unserer Spielseite – dort ist auch der korrekte Aufbau Schritt für Schritt erklärt.
 
 Zu wenige Mitspieler? Hier findest du die [besten Trinkspiele zu zweit](/post/trinkspiele-zu-zweit)!
 
@@ -151,7 +139,7 @@ Kombiniere das Spiel mit einem Motto:
 
 Das nimmt das Spiel nicht zu ernst – und sorgt für legendäre Fotos.
 
-Ihr habt gutes Wetter? Hier findest du [tolle Trinkspiele für Draußen](/post/trinkspiele-draussen)!
+Ihr habt gutes Wetter? In unserer [Trinkspiele-Übersicht]({{ '/trinkspiele/' | url }}) findest du jede Menge Spiele, die auch draußen funktionieren!
 
 ### 👯 4. Rage Cage in Teams
 
