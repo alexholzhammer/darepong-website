@@ -233,8 +233,8 @@ Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholba
     <path d="M400 150 L440 150 L434 185 L406 185 Z" fill="#E1342B"/>
     <path d="M400 150 L440 150 L439 154 L401 154 Z" fill="#B82822"/>
     <path d="M60 120 Q 240 -8 420 148" fill="none" stroke="#2E7D32" stroke-width="3"/>
-    <path d="M60 146 Q 250 172 402 152" fill="none" stroke="#9A9A9A" stroke-width="2.5" stroke-dasharray="5 4"/>
-    <path d="M402 152 L430 132" fill="none" stroke="#9A9A9A" stroke-width="2.5" stroke-dasharray="5 4"/>
+    <path d="M58 140 L410 150" fill="none" stroke="#9A9A9A" stroke-width="2.5" stroke-dasharray="5 4"/>
+    <path d="M410 150 L440 124" fill="none" stroke="#9A9A9A" stroke-width="2.5" stroke-dasharray="5 4"/>
     <circle cx="60" cy="120" r="6" fill="#fff" stroke="#0E0E10" stroke-width="2"/>
     <text x="240" y="18" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#2E7D32">Hoher Bogen = sicherer Treffer</text>
     <text x="120" y="208" text-anchor="start" font-family="sans-serif" font-size="12" font-weight="700" fill="#7a7a7a">Flacher, harter Wurf = springt ab</text>
