@@ -19,7 +19,7 @@ duration:
   max: 45
   unit: minutes
 energyLevel: medium
-location: indoor
+location: drinnen & draußen
 tags:
   - party
   - tischspiel
@@ -155,7 +155,7 @@ Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorgl�
 <h2 id="spielablauf">Beer Pong Spielablauf in 5 Schritten</h2>
 
 <figure class="game__diagram game__diagram--wide">
-  <img src="{{ '/assets/beer-pong-ablauf-2.svg' | url }}" width="630" height="120" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Ablauf in 5 Schritten: Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft">
+  <img src="{{ '/assets/beer-pong-ablauf-3.svg' | url }}" width="630" height="120" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Ablauf in 5 Schritten: Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft">
   <figcaption>Eine Beer-Pong-Runde in fünf Schritten – vom Wurf bis zum Seitenwechsel.</figcaption>
 </figure>
 
@@ -312,21 +312,6 @@ Damit am Tisch keine Diskussionen aufkommen, hier die wichtigsten Begriffe kurz 
 
 Du hast Beer Pong drauf? Dann probiere als Nächstes diese Klassiker:
 
-<div class="game__compare-wrap">
-<table class="game__compare">
-  <caption class="sr-only">Vergleich von Beer Pong mit Rage Cage, Flip Cup und Dare Pong</caption>
-  <thead>
-    <tr><th scope="col">Spiel</th><th scope="col">Spieler</th><th scope="col">Dauer</th><th scope="col">Energie</th><th scope="col">Typ</th></tr>
-  </thead>
-  <tbody>
-    <tr><th scope="row">Beer Pong</th><td>2–4</td><td>15–45 Min</td><td>Mittel</td><td>Wurf- &amp; Geschicklichkeitsspiel</td></tr>
-    <tr><th scope="row"><a href="{{ '/rage-cage/' | url }}">Rage Cage</a></th><td>4–12</td><td>20–60 Min</td><td>Hoch</td><td>Schnelles Reaktionsspiel</td></tr>
-    <tr><th scope="row"><a href="{{ '/flip-cup/' | url }}">Flip Cup</a></th><td>6–16</td><td>10–30 Min</td><td>Hoch</td><td>Team-Staffelspiel</td></tr>
-    <tr><th scope="row"><a href="https://amzn.to/4nA0xYQ">Dare Pong</a></th><td>2–8</td><td>30–90 Min</td><td>Mittel</td><td>Beer-Pong-Erweiterung mit Dares</td></tr>
-  </tbody>
-</table>
-</div>
-
 {% gamePreview "rage-cage" %}
 
 {% gamePreview "flip-cup" %}
@@ -363,7 +348,7 @@ Du hast Beer Pong drauf? Dann probiere als Nächstes diese Klassiker:
     },
     {
       "@type": "ImageObject",
-      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-ablauf-2.svg' | url }}",
+      "contentUrl": "{{ site.url }}{{ '/assets/beer-pong-ablauf-3.svg' | url }}",
       "name": "Beer Pong Ablauf in 5 Schritten",
       "caption": "Werfen, Treffer, Becher leeren, Becher entfernen, Gegner wirft."
     }
