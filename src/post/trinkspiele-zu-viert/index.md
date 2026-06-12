@@ -37,7 +37,7 @@ Stell dir vor, es ist Wochenende, und du bist mit deinen drei besten Freunden zu
 
 6. **Quarters**: Spieler versuchen, eine Münze vom Tisch aus in ein Glas oder einen Becher springen zu lassen. Gelingt es, dürfen sie jemanden zum Trinken nominieren.
 
-7. **Civil War**: Eine erweiterte Version von Beer Pong mit mehr Bällen und Bechern. Hier herrscht Krieg am Tisch, und jeder Spieler verteidigt seine Seite.
+7. **Civil War**: Eine erweiterte Version von [Beer Pong]({{ '/beer-pong/' | url }}) mit mehr Bällen und Bechern. Hier herrscht Krieg am Tisch, und jeder Spieler verteidigt seine Seite.
 
 8. **Flip Cup**: Spieler müssen zunächst ihren Becher austrinken und dann versuchen, den Becher vom Tischrand aus so zu tippen, dass er sich umdreht und auf dem Kopf landet.
 

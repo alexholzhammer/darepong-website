@@ -127,7 +127,7 @@ Das Spiel endet, wenn alle Karten gezogen wurden oder nach dem Trinken des King'
 
 #### Spielregeln:
 
-1. **Team-Aufteilung**: Beer Pong wird üblicherweise in Zweierteams gespielt.
+1. **Team-Aufteilung**: [Beer Pong]({{ '/beer-pong/' | url }}) wird üblicherweise in Zweierteams gespielt.
 2. **Spielbeginn**: Ein Team beginnt, indem ein Spieler versucht, einen der Tischtennisbälle in einen Becher des gegnerischen Teams zu werfen. Die Bälle können entweder direkt in die Becher geworfen oder von der Tischoberfläche abprallen gelassen werden.
 3. **Trinken**: Trifft ein Ball in einen Becher, muss das gegnerische Team den Inhalt des Bechers trinken und den Becher vom Tisch nehmen.
 4. **Rückwurf**: Wenn beide Spieler eines Teams treffen, bekommen sie die Bälle zurück und dürfen nochmal werfen.

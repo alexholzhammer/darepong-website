@@ -70,6 +70,13 @@ pageCSS: game.css
   {# ── Header ── #}
   <div class="game__header">
     <div class="container">
+      <nav class="game__breadcrumb" aria-label="Brotkrumen-Navigation">
+        <a href="{{ '/' | url }}">Start</a>
+        <span aria-hidden="true">›</span>
+        <a href="{{ '/partyspiele/' | url }}">Partyspiele</a>
+        <span aria-hidden="true">›</span>
+        <span aria-current="page">{{ name }}</span>
+      </nav>
       <div class="game__stats">
         <span class="game__stat">
           <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="6" cy="4" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="11" cy="5.5" r="2" stroke="currentColor" stroke-width="1.5"/><path d="M1 13c0-2.8 2.2-5 5-5s5 2.2 5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M11 10.5c1.4.4 2.5 1.7 2.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
@@ -116,8 +123,8 @@ pageCSS: game.css
         </div>
 
         {# Rules #}
-        <section class="game__section">
-          <h2 class="game__section-title">Regeln</h2>
+        <section class="game__section" id="regeln">
+          <h2 class="game__section-title">{{ rulesTitle or "Regeln" }}</h2>
           <ol class="game__rules">
             {% for rule in rules %}
             <li class="game__rule">
@@ -126,12 +133,18 @@ pageCSS: game.css
             </li>
             {% endfor %}
           </ol>
+          {% if rulesPdf %}
+          <a class="game__download" href="{{ rulesPdf | url }}" download>
+            <svg width="18" height="18" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M8 1v9m0 0L4.5 6.5M8 10l3.5-3.5M2 13.5h12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            {{ rulesPdfLabel or (name + " Regeln als PDF herunterladen") }}
+          </a>
+          {% endif %}
         </section>
 
         {# Tips #}
         {% if tips %}
-        <section class="game__section">
-          <h2 class="game__section-title">Tipps</h2>
+        <section class="game__section" id="tipps">
+          <h2 class="game__section-title">{{ tipsTitle or "Tipps" }}</h2>
           <ul class="game__tips">
             {% for tip in tips %}
             <li class="game__tip">
@@ -145,7 +158,7 @@ pageCSS: game.css
 
         {# Lustige Team-Namen — chip grid, optional per game #}
         {% if teamNames %}
-        <section class="game__section">
+        <section class="game__section" id="team-namen">
           <h2 class="game__section-title">Lustige {{ name }} Team-Namen</h2>
           {% if teamNamesIntro %}<p class="game__names-intro">{{ teamNamesIntro }}</p>{% endif %}
           <ul class="game__names">
@@ -162,7 +175,7 @@ pageCSS: game.css
 
         {# Häufige Fragen — reuse the global faq__* styles (inlined via global.css) #}
         {% if faq %}
-        <section class="game__section">
+        <section class="game__section" id="faq">
           <h2 class="game__section-title">Häufige Fragen</h2>
           <div class="faq__list">
             {% for item in faq %}
