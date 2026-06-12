@@ -148,8 +148,11 @@ pageCSS: game.css
           <ul class="game__tips">
             {% for tip in tips %}
             <li class="game__tip">
-              <span class="game__tip-icon" aria-hidden="true">💡</span>
-              <p>{{ tip }}</p>
+              <span class="game__tip-icon" aria-hidden="true">{{ tip.icon or "💡" }}</span>
+              <div class="game__tip-body">
+                {% if tip.title %}<span class="game__tip-title">{{ tip.title }}</span>{% endif %}
+                <p>{{ tip.text or tip }}</p>
+              </div>
             </li>
             {% endfor %}
           </ul>
