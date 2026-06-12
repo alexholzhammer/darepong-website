@@ -143,6 +143,23 @@ pageCSS: game.css
         </section>
         {% endif %}
 
+        {# Lustige Team-Namen — chip grid, optional per game #}
+        {% if teamNames %}
+        <section class="game__section">
+          <h2 class="game__section-title">Lustige {{ name }} Team-Namen</h2>
+          {% if teamNamesIntro %}<p class="game__names-intro">{{ teamNamesIntro }}</p>{% endif %}
+          <ul class="game__names">
+            {% for t in teamNames %}
+            <li class="game__name">
+              <span class="game__name-label">{{ t.name }}</span>
+              {% if t.note %}<span class="game__name-note">{{ t.note }}</span>{% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+          {% if teamNamesTip %}<p class="game__names-tip"><strong>Tipp:</strong> {{ teamNamesTip }}</p>{% endif %}
+        </section>
+        {% endif %}
+
         {# Häufige Fragen — reuse the global faq__* styles (inlined via global.css) #}
         {% if faq %}
         <section class="game__section">
