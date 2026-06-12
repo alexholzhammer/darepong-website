@@ -2,6 +2,11 @@
 id: busfahrer
 name: Busfahrer
 slug: busfahrer
+title: "Busfahrer: Regeln & Anleitung – das Kartenspiel-Trinkspiel"
+description: "Busfahrer (Busfahren) – das Kartenspiel-Trinkspiel mit Raterunde, Pyramide und Schlussrunde. Alle Regeln und Tipps Schritt für Schritt erklärt."
+updated: 2026-06-12
+rulesTitle: "Busfahrer Regeln"
+tipsTitle: "Busfahrer Tipps"
 shortDescription: Kartenbasiertes Glücksspiel in mehreren Phasen – wer am Ende übrig bleibt, wird Busfahrer und muss die berüchtigte Schlussrunde alleine durchstehen.
 players:
   min: 3
@@ -21,28 +26,131 @@ tags:
   - gesellig
 equipment:
   - name: Ein Kartendeck (32 oder 52 Karten)
-    url: https://www.amazon.de/dp/B07XYZ1234
-    note: Ab etwa sechs Spielern lieber ein 52er-Deck nehmen, sonst gehen in der Pyramidenrunde die Karten aus.
+    note: Ab etwa sechs Spielern lieber ein 52er-Deck oder ein zweites Deck nehmen, sonst gehen in der Pyramidenrunde die Karten aus.
   - name: Getränke nach Wahl
     note: Jeder Spieler braucht sein eigenes Getränk – die Schlussrunde kann durstig machen.
 rules:
-  - Phase 1 (Raterunde) - Jeder Spieler bekommt vier verdeckte Karten. Vor dem Aufdecken jeder Karte rät er nacheinander - rot oder schwarz, höher oder tiefer als die vorige Karte, innerhalb oder außerhalb der ersten beiden Werte, und schließlich die Farbe (Kreuz, Pik, Herz, Karo).
-  - Bei jeder falschen Vorhersage muss der Spieler trinken; gleiche Kartenwerte zählen dabei als „falsch“.
-  - Phase 2 (Pyramide) - Der Geber legt zehn Karten verdeckt als Pyramide aus (5-4-3-2-1) und deckt sie von unten nach oben nacheinander auf.
+  - "Phase 1 – Raterunde: Jeder Spieler bekommt vier verdeckte Karten und rät vor jeder Karte nacheinander – rot oder schwarz, höher oder tiefer, innerhalb oder außerhalb der ersten beiden Werte und schließlich die Farbe (Kreuz, Pik, Herz, Karo)."
+  - Bei jeder falschen Vorhersage muss der Spieler trinken; gleiche Kartenwerte zählen dabei als falsch.
+  - "Phase 2 – Pyramide: Der Geber legt zehn Karten verdeckt als Pyramide (5-4-3-2-1) aus und deckt sie von unten nach oben nacheinander auf."
   - Wer eine passende Karte auf der Hand hat, darf je nach Pyramidenebene Schlücke verteilen (untere Reihe wenige, obere Reihe viele) und legt die Karte ab.
   - Ziel der Pyramidenrunde ist es, alle Handkarten loszuwerden – wer am Ende die meisten Karten behält, wird der „Busfahrer“.
-  - Phase 3 (Busfahren) - Der Busfahrer deckt allein eine Reihe von Karten auf; bei jeder Bildkarte (Bube, Dame, König, Ass) muss er trinken und beginnt die Reihe von vorn.
+  - "Phase 3 – Busfahren: Der Busfahrer deckt allein eine Reihe von Karten auf; bei jeder Bildkarte (Bube, Dame, König, Ass) muss er trinken und beginnt die Reihe von vorn."
   - Das Spiel endet, sobald der Busfahrer die gesamte Reihe ohne Bildkarte geschafft hat.
 tips:
-  - Bestimmt einen festen Kartengeber für das ganze Spiel – das beschleunigt den Ablauf und vermeidet Diskussionen.
-  - Legt die Schluckwerte der Pyramidenebenen vorab gemeinsam fest, damit es keine Streitereien gibt.
-  - In der Pyramidenrunde darf gemogelt werden - wer behauptet, eine passende Karte zu haben, kann bluffen, sofern niemand „aufdecken“ verlangt.
-  - Spielt mit leichten Getränken, denn die Busfahrer-Schlussrunde kann sich ordentlich ziehen.
-  - Ab sechs Personen empfiehlt sich ein zweites Deck, damit für alle genug Karten da sind.
+  - icon: "🃏"
+    title: "Festen Kartengeber bestimmen"
+    text: "Ein fester Geber für das ganze Spiel beschleunigt den Ablauf und vermeidet Diskussionen über das Austeilen."
+  - icon: "📊"
+    title: "Schluckwerte vorab festlegen"
+    text: "Klärt vor der Pyramide gemeinsam, wie viele Schlücke die einzelnen Ebenen wert sind – das verhindert Streit mittendrin."
+  - icon: "🤥"
+    title: "Bluffen ist erlaubt"
+    text: "In der Pyramide darf gemogelt werden: Behaupte einfach, eine passende Karte zu haben – solange niemand „aufdecken!“ verlangt."
+  - icon: "🍺"
+    title: "Lieber leichte Getränke"
+    text: "Die Busfahrer-Schlussrunde kann sich ordentlich ziehen. Mit leichtem Bier oder verdünnten Drinks bleibt es länger lustig."
+  - icon: "🂠"
+    title: "Ab 6 Spielern zweites Deck"
+    text: "Bei größeren Runden reicht ein Deck nicht für die Pyramide – legt ein 52er- oder ein zweites Kartendeck bereit."
+faq:
+  - q: "Was ist Busfahren bzw. Busfahrer?"
+    a: "Busfahren – auch „Busfahrer“, „Ride the Bus“ oder „Pyramide“ genannt – ist ein Karten-Trinkspiel in mehreren Phasen. Wer am Ende die meisten Karten übrig hat, wird „Busfahrer“ und muss die gefürchtete Schlussrunde ganz allein bestreiten."
+  - q: "Wie spielt man Busfahrer?"
+    a: "In drei Phasen: 1) Raterunde (rot/schwarz, höher/tiefer, innen/außen, Farbe), 2) Pyramide (Schlücke verteilen und Handkarten loswerden), 3) Busfahren (der Verlierer deckt allein eine Kartenreihe auf und beginnt bei jeder Bildkarte von vorn)."
+  - q: "Welche Karten braucht man für Busfahren?"
+    a: "Ein normales Skat- oder Pokerdeck mit 32 oder 52 Karten. Ab etwa sechs Spielern besser ein 52er-Deck oder ein zweites Deck, sonst gehen in der Pyramide die Karten aus."
+  - q: "Wie viele Spieler braucht man für Busfahrer?"
+    a: "Busfahren funktioniert ab 3 Spielern, ideal sind rund 5. Bis etwa 10 Spieler ist es gut machbar – ab sechs Personen empfiehlt sich ein zweites Kartendeck."
+  - q: "Was ist die Pyramide beim Busfahren?"
+    a: "Die mittlere Phase: Zehn Karten werden als Pyramide (5-4-3-2-1) ausgelegt und nach und nach aufgedeckt. Wer eine passende Karte hat, darf Schlücke verteilen – untere Reihe wenige, obere Reihe viele."
+  - q: "Warum heißt das Spiel Busfahrer?"
+    a: "Weil der Verlierer am Ende alleine „Bus fährt“: In der Schlussrunde deckt er allein eine lange Kartenreihe auf, muss bei jeder Bildkarte trinken und wieder von vorn beginnen, bis er ohne Bildkarte durchkommt."
+  - q: "Kann man Busfahren alkoholfrei spielen?"
+    a: "Ja. Statt Alkohol wird einfach ein Schluck eines beliebigen Getränks getrunken – die Regeln und der Ablauf bleiben identisch."
 ---
 
-Busfahrer – auch „Busfahren“, „Ride the Bus“ oder „Pyramide“ genannt – ist eines der beliebtesten Karten-Trinkspiele im deutschsprachigen Raum und besteht aus mehreren aufeinander aufbauenden Phasen. Anders als bei reinen Wurf- oder Reaktionsspielen entscheidet hier fast ausschließlich das Glück darüber, wer trinken muss – beeinflussen lässt sich nur wenig, was den besonderen Reiz ausmacht.
+<div class="game__tldr">
+  <span class="game__tldr-icon" aria-hidden="true">🚌</span>
+  <div class="game__tldr-body">
+    <strong>Busfahrer in 30 Sekunden</strong>
+    <p>Busfahren ist ein Karten-Trinkspiel in drei Phasen: erst raten (rot/schwarz, höher/tiefer …), dann die Pyramide, in der Schlücke verteilt werden – und zum Schluss muss der „Busfahrer“ allein eine Kartenreihe überstehen. Wer am meisten Karten übrig hat, wird zum Busfahrer.</p>
+  </div>
+</div>
 
-Das Besondere an Busfahrer ist der dramaturgische Aufbau über die Runden hinweg. Während in der Raterunde und der Pyramide noch alle relativ gleichmäßig trinken, läuft am Ende alles auf eine Person zu: den Busfahrer. Diese muss die gefürchtete Schlussrunde ganz allein bestreiten und bei jeder ungünstigen Karte wieder von vorne anfangen. Genau dieser Spannungsbogen – von der lockeren Raterei bis zum nervenaufreibenden Finale – macht das Spiel so unterhaltsam für die ganze Gruppe.
+<ul class="game__facts" aria-label="Busfahrer auf einen Blick">
+  <li><span class="game__fact-num">3–10</span><span class="game__fact-lbl">Spieler</span></li>
+  <li><span class="game__fact-num">1</span><span class="game__fact-lbl">Kartendeck</span></li>
+  <li><span class="game__fact-num">3</span><span class="game__fact-lbl">Phasen</span></li>
+  <li><span class="game__fact-num">30–60</span><span class="game__fact-lbl">Minuten</span></li>
+  <li><span class="game__fact-num">ab 18</span><span class="game__fact-lbl">Jahren</span></li>
+</ul>
 
-Busfahrer eignet sich besonders gut für Vorglüh-Runden, WG-Partys und gesellige Abende mit rund fünf Spielern. Man braucht nur ein Kartendeck, die einzelnen Phasen sind schnell erklärt, und durch zahlreiche Varianten – von der Rauten-Pyramide bis zu eigenen Hausregeln – lässt sich das Spiel flexibel an die Gruppe anpassen.
+**Busfahrer** – auch **„Busfahren“**, „Ride the Bus“ oder „Pyramide“ genannt – ist eines der beliebtesten **Karten-Trinkspiele** im deutschsprachigen Raum und besteht aus mehreren aufeinander aufbauenden Phasen. Anders als bei reinen Wurf- oder Reaktionsspielen entscheidet hier fast ausschließlich das Glück darüber, wer trinken muss – beeinflussen lässt sich nur wenig, was den besonderen Reiz ausmacht.
+
+Das Besondere an Busfahren ist der dramaturgische Aufbau über die Runden hinweg. Während in der Raterunde und der Pyramide noch alle relativ gleichmäßig trinken, läuft am Ende alles auf eine Person zu: den **Busfahrer**. Diese muss die gefürchtete Schlussrunde ganz allein bestreiten und bei jeder ungünstigen Karte wieder von vorne anfangen. Genau dieser Spannungsbogen – von der lockeren Raterei bis zum nervenaufreibenden Finale – macht das Spiel so unterhaltsam für die ganze Gruppe.
+
+## Was ist Busfahren?
+
+Busfahren ist ein reines **Kartenspiel-Trinkspiel**: Man braucht nur ein Kartendeck, Getränke und ein paar Mitspieler. Der Name kommt von der Schlussrunde, in der der Verlierer alleine „Bus fährt“. Weil es ganz ohne Geschick auskommt und in jeder Runde jemand Neues drankommt, eignet sich Busfahren perfekt für Vorglüh-Runden, WG-Partys und gesellige Abende.
+
+## Busfahrer Regeln: Die 3 Phasen im Überblick
+
+Busfahren läuft immer in derselben Reihenfolge ab. Hier die drei Phasen Schritt für Schritt erklärt:
+
+### Phase 1 – Die Raterunde
+
+Jeder Spieler bekommt vier verdeckte Karten. Reihum wird vor jeder Karte geraten: zuerst **rot oder schwarz**, dann **höher oder tiefer** als die vorige Karte, danach **innerhalb oder außerhalb** der ersten beiden Werte und schließlich die genaue **Farbe** (Kreuz, Pik, Herz, Karo). Jede falsche Vorhersage kostet einen Schluck – gleiche Kartenwerte gelten dabei als falsch.
+
+### Phase 2 – Die Pyramide
+
+Der Geber legt zehn Karten verdeckt als **Pyramide (5-4-3-2-1)** aus und deckt sie von unten nach oben auf. Wer eine passende Karte auf der Hand hat, darf Schlücke verteilen – in der unteren Reihe wenige, ganz oben besonders viele. Ziel ist, alle Handkarten loszuwerden. Wer am Ende die meisten Karten behält, wird zum **Busfahrer**.
+
+### Phase 3 – Das Busfahren
+
+Jetzt muss der Busfahrer allein ran: Er deckt eine lange Reihe von Karten auf. Bei jeder **Bildkarte** (Bube, Dame, König, Ass) muss er trinken und beginnt die Reihe wieder von vorn. Erst wenn er die komplette Reihe ohne Bildkarte schafft, ist das Spiel vorbei.
+
+## Busfahrer Varianten & Hausregeln
+
+Busfahren wird in fast jeder Gruppe etwas anders gespielt. Diese Varianten lohnen sich:
+
+<div class="game__variants">
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">🔺</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Höhere Pyramide</span>
+      <p>Statt zehn Karten eine größere Pyramide (6-5-4-3-2-1) auslegen – mehr Karten, mehr Schlücke, längeres Spiel.</p>
+    </div>
+  </div>
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">🤥</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Bluffen erlaubt</span>
+      <p>In der Pyramide darf man passende Karten nur behaupten. Wer angezweifelt und ertappt wird, trinkt doppelt – wer zu Unrecht zweifelt, ebenfalls.</p>
+    </div>
+  </div>
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">🔁</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Kürzere Schlussrunde</span>
+      <p>Für eine entschärfte Variante die Busfahrer-Reihe auf 5–7 Karten begrenzen, damit sich das Finale nicht endlos zieht.</p>
+    </div>
+  </div>
+  <div class="game__variant">
+    <span class="game__variant-icon" aria-hidden="true">👥</span>
+    <div class="game__variant-body">
+      <span class="game__variant-name">Doppelter Busfahrer</span>
+      <p>Bei großen Runden fahren die zwei Spieler mit den meisten Restkarten gemeinsam – das verteilt die Schlussrunde auf zwei Schultern.</p>
+    </div>
+  </div>
+</div>
+
+## Ähnliche Trinkspiele
+
+Du magst Karten- und Glücks-Trinkspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+
+{% gamePreview "kings-cup" %}
+
+{% gamePreview "schocken" %}
+
+{% gamePreview "maexchen" %}
