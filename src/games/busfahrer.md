@@ -94,6 +94,7 @@ faq:
     <li><a href="#was-ist-busfahren">Was ist Busfahren?</a></li>
     <li><a href="#geschichte">Geschichte &amp; Herkunft</a></li>
     <li><a href="#anleitung">Die 3 Phasen (Anleitung)</a></li>
+    <li><a href="#video">Regeln im Video</a></li>
     <li><a href="#strategie">Wie gewinnt man?</a></li>
     <li><a href="#varianten">Varianten &amp; Hausregeln</a></li>
     <li><a href="#aehnliche-spiele">Ähnliche Trinkspiele</a></li>
@@ -123,6 +124,17 @@ Busfahren läuft immer in derselben Reihenfolge ab. Hier die drei Phasen Schritt
   <img src="{{ '/assets/busfahren-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Busfahren Ablauf in 3 Phasen: Raterunde, Pyramide, Busfahren">
   <figcaption>Der Ablauf von Busfahren in drei Phasen: Raterunde → Pyramide → Busfahren (Solo-Finale).</figcaption>
 </figure>
+
+<h3 id="video">Busfahren Regeln im Video</h3>
+
+Lieber zuschauen statt lesen? Dieses Video erklärt den kompletten Ablauf Schritt für Schritt:
+
+<div class="video-embed" data-ytid="x4hT5WNDoMo">
+  <button type="button" class="video-embed__play" aria-label="Video abspielen: Busfahren Regeln erklärt" onclick="loadYouTube(this)">
+    <img src="https://i.ytimg.com/vi/x4hT5WNDoMo/hqdefault.jpg" alt="Busfahren Regeln erklärt – Video-Vorschau" width="480" height="360" loading="lazy" eleventy:ignore>
+    <span class="video-embed__btn" aria-hidden="true">▶</span>
+  </button>
+</div>
 
 ### Phase 1 – Die Raterunde
 
@@ -217,6 +229,14 @@ Du magst Karten- und Glücks-Trinkspiele? Dann probiere als Nächstes diese Klas
 {
   "@context": "https://schema.org",
   "@graph": [
+    {
+      "@type": "VideoObject",
+      "name": "Busfahren Regeln & Ablauf erklärt",
+      "description": "Video-Anleitung: So funktioniert Busfahren mit Raterunde, Pyramide und der Busfahrer-Schlussrunde.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/x4hT5WNDoMo/hqdefault.jpg",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/x4hT5WNDoMo",
+      "contentUrl": "https://www.youtube.com/watch?v=x4hT5WNDoMo"
+    },
     {
       "@type": "ImageObject",
       "contentUrl": "{{ site.url }}{{ '/assets/busfahren-ablauf.svg' | url }}",
