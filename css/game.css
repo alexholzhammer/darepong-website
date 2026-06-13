@@ -370,7 +370,6 @@ a.game__equipment-name:hover {
   display: flex;
   gap: 16px;
   background: var(--bg-inset);
-  border-left: 4px solid var(--dp-red);
   border-radius: 12px;
   padding: 20px 22px;
   margin-bottom: 32px;
@@ -452,7 +451,6 @@ a.game__equipment-name:hover {
   gap: 2px;
   background: var(--bg-elevated);
   border: 1px solid #E4E0D6;
-  border-left: 3px solid var(--dp-red);
   border-radius: 10px;
   padding: 12px 14px;
   transition: transform .12s ease, box-shadow .12s ease;
@@ -518,7 +516,6 @@ a.game__equipment-name:hover {
   gap: 2px;
   background: var(--bg-elevated);
   border: 1px solid #E4E0D6;
-  border-top: 3px solid var(--dp-red);
   border-radius: 10px;
   padding: 14px 8px;
 }
