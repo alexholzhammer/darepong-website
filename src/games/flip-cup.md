@@ -76,7 +76,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🥤</span>
   <div class="game__tldr-body">
     <strong>Flip Cup in 30 Sekunden</strong>
     <p>Flip Cup (auch Tippy Cup oder „Becher-Flippen“) ist ein schnelles Team-Trinkspiel: Zwei Teams treten als Staffel an – austrinken, den leeren Becher per Schnipp an der Tischkante kopfüber flippen, dann ist der Nächste dran. Welches Team zuerst komplett durch ist, gewinnt.</p>
@@ -143,28 +142,24 @@ Flip Cup lässt sich beliebig aufpeppen – besonders beliebt bei großen Gruppe
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🏆</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Turnier (K.-o.-System)</span>
       <p>Mehrere Teams treten nacheinander an, die Gewinner spielen gegeneinander weiter – ideal für große Runden und einen klaren Champion.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">☠️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Survival</span>
       <p>Wer seinen Flip verpatzt, scheidet aus. Gespielt wird, bis nur noch ein Team komplett übrig ist.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🤚</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Wechselhand</span>
       <p>Geflippt wird mit der schwächeren Hand – sorgt für Chaos und gleicht geübte Spieler aus.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🥤</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Doppelbecher</span>
       <p>Jeder Spieler muss zwei Becher nacheinander flippen, bevor übergeben wird – verlängert die Staffel und die Spannung.</p>

@@ -64,7 +64,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">👉</span>
   <div class="game__tldr-body">
     <strong>Wer würde eher in 30 Sekunden</strong>
     <p>Jemand stellt eine „Wer würde eher …?“-Frage. Auf „Drei!“ zeigen alle gleichzeitig auf eine Person. Wer die meisten Finger auf sich zieht, trinkt. Kein Material – nur eine Runde, die sich selbst auf die Schippe nimmt.</p>
@@ -74,7 +73,7 @@ faq:
 <ul class="game__facts" aria-label="Wer würde eher auf einen Blick">
   <li><span class="game__fact-num">3–15</span><span class="game__fact-lbl">Spieler</span></li>
   <li><span class="game__fact-num">0</span><span class="game__fact-lbl">Material</span></li>
-  <li><span class="game__fact-num">👉</span><span class="game__fact-lbl">Zeigen</span></li>
+  <li><span class="game__fact-num">Auf 3</span><span class="game__fact-lbl">Zeigen</span></li>
   <li><span class="game__fact-num">15–45</span><span class="game__fact-lbl">Minuten</span></li>
   <li><span class="game__fact-num">ab 18</span><span class="game__fact-lbl">Jahren</span></li>
 </ul>
@@ -132,28 +131,24 @@ Keine Idee? Hier eine Auswahl – einfach mit „Wer würde eher …“ davor:
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🥇</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Schluck pro Finger</span>
       <p>Wer angezeigt wird, trinkt einen Schluck pro auf sich gerichtetem Finger – einstimmige Wahl tut richtig weh.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🙈</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Selbstwahl verboten</span>
       <p>Auf sich selbst zeigen gilt nicht – wer es doch tut, trinkt zur Strafe.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🔮</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Voraussage</span>
       <p>Der Fragensteller tippt vorher, wer die meisten Finger bekommt – liegt er daneben, trinkt er.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🃏</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Karten</span>
       <p>Fragen auf Karten ziehen, damit niemand spontan etwas erfinden muss – z. B. mit Dare Pong.</p>

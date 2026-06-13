@@ -73,7 +73,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🚌</span>
   <div class="game__tldr-body">
     <strong>Busfahrer in 30 Sekunden</strong>
     <p>Busfahren ist ein Karten-Trinkspiel in drei Phasen: erst raten (rot/schwarz, höher/tiefer …), dann die Pyramide, in der Schlücke verteilt werden – und zum Schluss muss der „Busfahrer“ allein eine Kartenreihe überstehen. Wer am meisten Karten übrig hat, wird zum Busfahrer.</p>
@@ -186,28 +185,24 @@ Busfahren wird in fast jeder Gruppe etwas anders gespielt. Diese Varianten lohne
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🔺</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Höhere Pyramide</span>
       <p>Statt zehn Karten eine größere Pyramide (6-5-4-3-2-1) auslegen – mehr Karten, mehr Schlücke, längeres Spiel.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🤥</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Bluffen erlaubt</span>
       <p>In der Pyramide darf man passende Karten nur behaupten. Wer angezweifelt und ertappt wird, trinkt doppelt – wer zu Unrecht zweifelt, ebenfalls.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🔁</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Kürzere Schlussrunde</span>
       <p>Für eine entschärfte Variante die Busfahrer-Reihe auf 5–7 Karten begrenzen, damit sich das Finale nicht endlos zieht.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">👥</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Doppelter Busfahrer</span>
       <p>Bei großen Runden fahren die zwei Spieler mit den meisten Restkarten gemeinsam – das verteilt die Schlussrunde auf zwei Schultern.</p>

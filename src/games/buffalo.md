@@ -67,7 +67,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">✋</span>
   <div class="game__tldr-body">
     <strong>Buffalo in 30 Sekunden</strong>
     <p>Beim Buffalo Trinkspiel (Linke-Hand-Regel) muss jeder sein Getränk in einer festgelegten Hand – meist der linken – halten. Wer mit der falschen Hand erwischt wird, bekommt ein lautes „Buffalo!“ und muss trinken. Kein Material, eine Regel, läuft den ganzen Abend nebenbei mit.</p>
@@ -98,28 +97,24 @@ Buffalo lässt sich mit ein paar Hausregeln beliebig anpassen:
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🤚</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Rechte Hand</span>
       <p>Statt der linken wird die rechte (oder die starke) Hand verboten. Für Linkshänder oft die fiesere Variante.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🎮</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Nur während Spielen</span>
       <p>Die Regel gilt nicht den ganzen Abend, sondern nur während anderer Trinkspiele – entschärft Buffalo für entspanntere Runden.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🎭</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Themen-Buffalo</span>
       <p>Zusätzliche Pflicht, z. B. nur mit abgespreiztem kleinen Finger trinken. Wer es vergisst, kassiert ebenfalls ein „Buffalo!“.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🔥</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Eskalation</span>
       <p>Jeder ertappte Verstoß erhöht die Strafe – erst ein Schluck, dann zwei, dann der ganze Becher.</p>

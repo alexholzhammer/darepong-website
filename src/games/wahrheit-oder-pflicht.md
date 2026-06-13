@@ -67,7 +67,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🤫</span>
   <div class="game__tldr-body">
     <strong>Wahrheit oder Pflicht in 30 Sekunden</strong>
     <p>Reihum wird gefragt: „Wahrheit oder Pflicht?“ Bei Wahrheit beantwortest du eine Frage ehrlich, bei Pflicht erfüllst du eine Aufgabe. Wer beides verweigert, muss trinken. Kein Material nötig – nur Mut und eine gute Runde.</p>
@@ -147,28 +146,24 @@ Wahrheit oder Pflicht ist ein **geselliges Frage- und Mutprobe-Spiel** ohne Mate
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🍾</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Flaschendrehen</span>
       <p>Die gedrehte Flasche bestimmt, wer dran ist – die klassische, faire Auswahl ganz ohne Reihenfolge.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🌶️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Stufen</span>
       <p>Drei Schärfegrade (harmlos / mittel / frech) – jeder sagt vorher an, welches Level er möchte.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🃏</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Karten</span>
       <p>Fragen und Aufgaben auf Karten schreiben und ziehen – so muss niemand spontan Ideen liefern (z. B. mit Dare Pong).</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">⏱️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Timer</span>
       <p>Für jede Antwort/Aufgabe läuft eine Minute – wer zögert, trinkt. Bringt Tempo in große Runden.</p>

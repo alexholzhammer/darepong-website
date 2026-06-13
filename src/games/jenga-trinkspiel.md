@@ -68,7 +68,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🧱</span>
   <div class="game__tldr-body">
     <strong>Jenga Trinkspiel in 30 Sekunden</strong>
     <p>Beschrifte die Holzklötze eines Wackelturms mit Aufgaben und Trinkregeln. Reihum zieht jeder einen Klotz, erfüllt die Aufgabe und stapelt ihn oben drauf. Wer den Turm umwirft, muss kräftig trinken.</p>
@@ -132,28 +131,24 @@ Die Aufgaben machen das Spiel – hier Ideen zum direkt Abschreiben (mischt leic
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">👥</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Team-Jenga</span>
       <p>Zwei Teams ziehen abwechselnd – wessen Team den Turm umwirft, trinkt komplett.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🎨</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Farb-Klötze</span>
       <p>Klötze nach Farbe markieren: jede Farbe steht für eine feste Regel (rot = trinken, grün = verteilen …).</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🔥</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Eskalation</span>
       <p>Je höher der Turm, desto schärfer die Aufgaben – die oberen Klötze tragen die heftigsten Regeln.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🃏</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Dare-Karten</span>
       <p>Statt zu beschriften, zieht man bei jedem Klotz zusätzlich eine Mutprobe – z. B. von Dare Pong.</p>

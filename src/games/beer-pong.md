@@ -132,7 +132,6 @@ teamNamesTip: "Wer es persönlicher mag, kombiniert einfach die Vornamen beider 
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🍺</span>
   <div class="game__tldr-body">
     <strong>Beer Pong in 30 Sekunden</strong>
     <p>Zwei Teams (2–4 Spieler) werfen Tischtennisbälle in die gegnerische Pyramide aus je 10 Bechern. Jeder getroffene Becher wird ausgetrunken und entfernt. Wer zuerst alle gegnerischen Becher trifft, gewinnt. Dauer: 15–45 Minuten, offizieller Tisch: 2,44 m lang.</p>
@@ -312,35 +311,30 @@ Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">⤴️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Bounce Shot</span>
       <p>Lässt du den Ball erst aufspringen und dann im Becher landen, zählt der Treffer <strong>doppelt</strong>. Dafür darf der Gegner den aufspringenden Ball mit der Hand wegschlagen.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🔄</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Re-Rack</span>
       <p>Einmal pro Spiel darf das werfende Team die übrigen Becher neu anordnen lassen – etwa zur kleineren Pyramide, Raute oder Linie.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">↩️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Rebuttal („Nachwurf“)</span>
       <p>Wird der letzte Becher getroffen, darf das unterlegene Team noch einmal werfen – trifft es alle Restbecher, geht es in die Verlängerung.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">💀</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Death Cup</span>
       <p>Wer einen bereits abgeräumten, aber noch nicht ausgetrunkenen Becher trifft, beendet das Spiel <strong>sofort</strong> zugunsten des eigenen Teams.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">💨</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Blow &amp; Finger</span>
       <p>In manchen Runden darf ein noch kreiselnder Ball aus dem Becher gepustet oder mit dem Finger herausgeschnippt werden.</p>
