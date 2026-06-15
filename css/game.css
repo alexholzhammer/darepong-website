@@ -174,19 +174,6 @@
   box-shadow: 0 8px 20px rgba(242, 184, 41, .18);
 }
 
-.game__tip-icon {
-  flex: none;
-  width: 42px;
-  height: 42px;
-  display: grid;
-  place-items: center;
-  font-size: 20px;
-  line-height: 1;
-  background: #fff;
-  border-radius: 11px;
-  box-shadow: 0 2px 6px rgba(14,14,16,.06);
-}
-
 .game__tip-body { display: flex; flex-direction: column; gap: 3px; }
 
 .game__tip-title {
@@ -370,12 +357,10 @@ a.game__equipment-name:hover {
   display: flex;
   gap: 16px;
   background: var(--bg-inset);
-  border-left: 4px solid var(--dp-red);
   border-radius: 12px;
   padding: 20px 22px;
   margin-bottom: 32px;
 }
-.game__tldr-icon { font-size: 26px; line-height: 1.2; }
 .game__tldr-body { font-size: 16px; line-height: 1.6; }
 .game__tldr-body strong { display: block; margin-bottom: 4px; font-family: var(--font-body); }
 .game__tldr-body p { margin: 0; }
@@ -452,7 +437,6 @@ a.game__equipment-name:hover {
   gap: 2px;
   background: var(--bg-elevated);
   border: 1px solid #E4E0D6;
-  border-left: 3px solid var(--dp-red);
   border-radius: 10px;
   padding: 12px 14px;
   transition: transform .12s ease, box-shadow .12s ease;
@@ -518,7 +502,6 @@ a.game__equipment-name:hover {
   gap: 2px;
   background: var(--bg-elevated);
   border: 1px solid #E4E0D6;
-  border-top: 3px solid var(--dp-red);
   border-radius: 10px;
   padding: 14px 8px;
 }
@@ -597,17 +580,6 @@ a.game__equipment-name:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(14,14,16,.08);
   border-color: rgba(225,52,43,.35);
-}
-.game__variant-icon {
-  flex: none;
-  width: 46px;
-  height: 46px;
-  display: grid;
-  place-items: center;
-  font-size: 24px;
-  line-height: 1;
-  background: var(--bg-inset);
-  border-radius: 12px;
 }
 .game__variant-body { display: flex; flex-direction: column; gap: 4px; }
 .game__variant-name {

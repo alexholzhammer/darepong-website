@@ -66,7 +66,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🙊</span>
   <div class="game__tldr-body">
     <strong>Ich hab noch nie in 30 Sekunden</strong>
     <p>Reihum sagt jemand „Ich hab noch nie …“ und nennt etwas, das er nie getan hat. Alle, die es schon getan haben, trinken einen Schluck. Kein Material, eine Regel – und die besten Geschichten des Abends garantiert.</p>
@@ -138,28 +137,24 @@ Keine Idee? Hier eine bunte Auswahl an Aussagen – von harmlos bis pikant. Einf
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🖐️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Finger-Variante</span>
       <p>Zehn Finger hoch, bei jeder zutreffenden Aussage einen einklappen – wer zuerst alle unten hat, verliert.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🎯</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Themen-Runden</span>
       <p>Eine Runde nur Reise-Aussagen, eine nur Schul-Aussagen … sorgt für gezielte Geschichten.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🔥</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Hot Seat</span>
       <p>Eine Person muss zu jeder zutreffenden Aussage kurz die Geschichte erzählen – oder doppelt trinken.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🃏</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Dare-Karten</span>
       <p>Wer als Einziger trinkt, zieht eine Mutprobe – z. B. eine Dare-Pong-Karte.</p>

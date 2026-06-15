@@ -71,7 +71,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🎲</span>
   <div class="game__tldr-body">
     <strong>Mäxchen in 30 Sekunden</strong>
     <p>Würfle verdeckt unter dem Becher und sag einen Wert an, der höher ist als der vorige – ehrlich oder gelogen. Der Nächste glaubt und würfelt selbst oder zweifelt an. Wer beim Bluff auffliegt oder falsch zweifelt, trinkt. Höchster Wurf: das Mäxchen (21).</p>
@@ -134,28 +133,24 @@ Die Reihenfolge zu kennen ist beim Mäxchen alles – von oben (am höchsten) na
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">❤️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Leben</span>
       <p>Jeder startet mit drei Leben; bei einem verlorenen Duell gibt es einen Punkt statt eines Schlucks. Wer alle Leben verliert, trinkt.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🔄</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Zwei weiter</span>
       <p>Wer eine Lüge richtig aufdeckt, darf die Würfelrichtung umkehren – plötzlicher Druck für den vorherigen Spieler.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🍷</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mäxchen = doppelt</span>
       <p>Wer ein angesagtes Mäxchen fälschlich glaubt statt anzuzweifeln, trinkt die doppelte Strafe.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">💧</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Alkoholfrei</span>
       <p>Strafe ist ein Schluck Wasser oder Saft – Mäxchen funktioniert als Bluffspiel genauso gut ohne Alkohol.</p>

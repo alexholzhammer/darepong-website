@@ -63,7 +63,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🤔</span>
   <div class="game__tldr-body">
     <strong>Würdest du eher in 30 Sekunden</strong>
     <p>Eine Entweder-oder-Frage, zwei Optionen. Alle entscheiden sich gleichzeitig – wer in der Minderheit landet, trinkt. Kein Material, viele Diskussionen und überraschende Einblicke in die Mitspieler.</p>
@@ -131,28 +130,24 @@ Keine Idee? Hier eine Auswahl – einfach mit „Würdest du eher …“ davor:
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🗳️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mehrheit trinkt</span>
       <p>Dreht die Regel um: Wer in der Mehrheit ist, trinkt – plötzlich lohnt sich die ungewöhnliche Wahl.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🗣️</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Pflicht-Begründung</span>
       <p>Jeder muss seine Wahl in einem Satz verteidigen – wer schweigt oder zögert, trinkt zusätzlich.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🎯</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Persönlich</span>
       <p>Eine Person rät vorher, wie sich die Gruppe entscheidet – liegt sie falsch, trinkt sie.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🃏</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Karten</span>
       <p>Fragen vorab auf Karten schreiben und ziehen – so kommt garantiert Nachschub (z. B. mit Dare Pong).</p>

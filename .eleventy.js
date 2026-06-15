@@ -98,8 +98,6 @@ module.exports = function (eleventyConfig) {
 
     // Data attributes power the filter, search and sort on the hub. Harmless
     // (ignored) when the card is embedded elsewhere, e.g. in blog posts.
-    const meta = (gameMeta && gameMeta[game.fileSlug]) || {};
-    const icon = meta.icon || "🍻";
     const filterAttrs = `data-energy="${d.energyLevel}" `
       + `data-players-min="${d.players.min}" data-players-max="${d.players.max}" `
       + `data-duration-min="${d.duration.min}" data-duration-max="${d.duration.max}" `
@@ -108,7 +106,6 @@ module.exports = function (eleventyConfig) {
 
     return `<div class="gp" ${filterAttrs}>
   <div class="gp__inner">
-    <span class="gp__icon" aria-hidden="true">${icon}</span>
     <div class="gp__meta">
       <span class="gp__stat"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="6" cy="4" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="11" cy="5.5" r="2" stroke="currentColor" stroke-width="1.5"/><path d="M1 13c0-2.8 2.2-5 5-5s5 2.2 5 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M11 10.5c1.4.4 2.5 1.7 2.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>${d.players.min}–${d.players.max} Spieler</span>
       <span class="gp__stat"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="8" cy="8" r="6.25" stroke="currentColor" stroke-width="1.5"/><path d="M8 5v3.5l2 1.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>${d.duration.min}–${d.duration.max} Min.</span>

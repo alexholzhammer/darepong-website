@@ -73,7 +73,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🎲</span>
   <div class="game__tldr-body">
     <strong>Schocken in 30 Sekunden</strong>
     <p>Mit drei Würfeln und 13 Deckeln in der Mitte: Jeder wirft (bis zu dreimal), der niedrigste Wurf verliert die Runde und kassiert Deckel. Der höchste Wurf ist „Schock aus“ (1-1-1). Wer alle 13 Deckel vor sich hat, verliert die Hälfte – der Gesamtverlierer gibt eine Runde aus.</p>
@@ -138,28 +137,24 @@ Von hoch nach niedrig – inklusive der Deckel, die der Rundenverlierer kassiert
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🎯</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Drei Hälften</span>
       <p>Statt zwei werden drei Hälften gespielt – das zieht den Abend in die Länge und erhöht die Spannung.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🍻</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Schluck pro Deckel</span>
       <p>Als Trinkspiel trinkt der Verlierer am Ende einen Schluck pro Deckel – je nach Hälfte kann das ordentlich werden.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">👥</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Stammtisch-Runde</span>
       <p>Der Gesamtverlierer gibt die nächste Runde aus – die klassische Kneipen-Variante ganz ohne Trinkzwang.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">💧</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Alkoholfrei</span>
       <p>Deckel zählen als reine Punkte – wer verliert, übernimmt eine kleine Aufgabe statt zu trinken.</p>

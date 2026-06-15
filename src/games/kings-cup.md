@@ -74,7 +74,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">👑</span>
   <div class="game__tldr-body">
     <strong>King's Cup in 30 Sekunden</strong>
     <p>52 Karten liegen im Ring um einen großen Becher. Reihum zieht jeder eine Karte – jede Karte hat eine eigene Regel (Wasserfall, Reim, neue Regel …). Bei jedem König wird in den King's Cup geschüttet; wer den vierten König zieht, muss ihn austrinken.</p>
@@ -147,28 +146,24 @@ Die genaue Bedeutung legt jede Gruppe selbst fest – das ist die gängigste Bel
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🌊</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Eigene Belegung</span>
       <p>Tauscht einzelne Karten gegen Lieblingsregeln – „Daumenkönig“, „Schnigel“ oder „Niemals ich“ sind beliebte Klassiker.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">📜</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Regel-Chaos</span>
       <p>Jeder Bube bringt eine neue Dauerregel – gegen Ende stapeln sich die Regeln zu herrlichem Durcheinander.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🃏</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Dare-Karten</span>
       <p>Ersetzt Bube oder Dame durch eine Mutprobe – z. B. eine Dare-Pong-Karte als Aufgabe.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">💧</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Soft-Version</span>
       <p>Schlücke durch Wasser oder Softdrinks ersetzen – so wird King's Cup zum geselligen Spiel ganz ohne Alkohol.</p>

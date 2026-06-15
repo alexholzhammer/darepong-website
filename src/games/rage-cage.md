@@ -74,7 +74,6 @@ faq:
 ---
 
 <div class="game__tldr">
-  <span class="game__tldr-icon" aria-hidden="true">🌀</span>
   <div class="game__tldr-body">
     <strong>Rage Cage in 30 Sekunden</strong>
     <p>Becher als Cluster in die Tischmitte, ein Death Cup mittendrin. Zwei Spieler starten gleichzeitig: austrinken, den Ball in den leeren Becher prellen, nach links weitergeben. Wer vom anderen Becher eingeholt wird, muss trinken. Schnell, chaotisch, ohne Pause.</p>
@@ -118,28 +117,24 @@ Rage Cage ist ein **rasantes Becher-Reaktionsspiel** für Gruppen, das jeder zuh
 
 <div class="game__variants">
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">⚡</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Doppel-Ball</span>
       <p>Zwei zusätzliche Becher mit Ball starten auf der Gegenseite – doppeltes Tempo, doppeltes Chaos für große Gruppen.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">💀</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Mehrere Death Cups</span>
       <p>Mehr als ein großer Becher im Cluster – die Gefahr, versehentlich den Death Cup zu treffen, steigt deutlich.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">🤚</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Slap Cup</span>
       <p>Statt zu prellen wird der Becher des Vordermanns weggeschlagen, sobald er trifft – die ruppigere Original-Variante.</p>
     </div>
   </div>
   <div class="game__variant">
-    <span class="game__variant-icon" aria-hidden="true">💧</span>
     <div class="game__variant-body">
       <span class="game__variant-name">Alkoholfrei</span>
       <p>Mit Wasser oder Softdrinks in den Bechern bleibt das Tempo gleich – nur eben ohne Promille.</p>
