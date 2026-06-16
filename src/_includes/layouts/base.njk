@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 {# Game pages set `name` (not `title`); fall back to it so the <title> is never empty #}
 {% set pageTitle = title or name %}
+{# Per-game social preview image: /assets/og/<slug>.jpg (generated). Falls back site-wide. #}
+{% set pageOgImage = ogImage %}
+{% if not pageOgImage and tags and ("game" in tags) %}{% set pageOgImage = site.url + "/assets/og/" + page.fileSlug + ".jpg" %}{% endif %}
+{% set pageOgImage = pageOgImage or site.ogImage %}
 <html lang="de">
 <head>
   <meta charset="UTF-8">
@@ -37,7 +41,7 @@
   <meta property="og:description" content="{{ description or site.description }}">
   <meta property="og:type" content="{{ ogType or 'website' }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ ogImage or site.ogImage }}">
+  <meta property="og:image" content="{{ pageOgImage }}">
   <meta property="og:locale" content="{{ site.locale }}">
 
   <!-- Twitter Card -->
@@ -45,7 +49,34 @@
   <meta name="twitter:site" content="{{ site.twitterHandle }}">
   <meta name="twitter:title" content="{{ pageTitle }}">
   <meta name="twitter:description" content="{{ description or site.description }}">
-  <meta name="twitter:image" content="{{ ogImage or site.ogImage }}">
+  <meta name="twitter:image" content="{{ pageOgImage }}">
+
+  <!-- Site-wide entity: Organization + WebSite (helps brand entity / E-E-A-T) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "{{ site.url }}/#organization",
+        "name": "{{ site.name }}",
+        "url": "{{ site.url }}/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.logo }}"
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ site.url }}/#website",
+        "url": "{{ site.url }}/",
+        "name": "{{ site.name }}",
+        "inLanguage": "de-DE",
+        "publisher": { "@id": "{{ site.url }}/#organization" }
+      }
+    ]
+  }
+  </script>
 
   <!-- Structured Data -->
   {% if jsonLdType == "product" %}
@@ -89,11 +120,6 @@
           }{% if not loop.last %},{% endif %}
           {% endfor %}
         ]
-      },
-      {
-        "@type": "WebSite",
-        "url": "{{ site.url }}",
-        "name": "{{ site.name }}"
       }
     ]
   }
@@ -236,7 +262,7 @@
         <div class="site-footer__col">
           <span class="site-footer__col-head">Hilfe</span>
           <a href="{{ '/#faq' | url }}">FAQ</a>
-          <a href="#">Versand</a>
+          <a href="{{ '/redaktion/' | url }}">Redaktion</a>
           <a href="{{ '/kontakt/' | url }}">Kontakt</a>
         </div>
         <div class="site-footer__col">

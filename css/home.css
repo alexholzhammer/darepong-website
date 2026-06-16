@@ -671,3 +671,49 @@
     to { transform: translateX(-50%); }
   }
 }
+
+/* ===== Beliebte Trinkspiele (interne Links) ===== */
+.games-teaser {
+  padding: 4rem 0;
+  border-top: 1px solid rgba(14, 14, 16, 0.08);
+}
+.games-teaser__head {
+  max-width: 640px;
+  margin-bottom: 1.75rem;
+}
+.games-teaser__lede {
+  color: #4A4A4F;
+  margin-top: 0.5rem;
+}
+.games-teaser__grid {
+  list-style: none;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.games-teaser__grid a {
+  display: inline-block;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid rgba(14, 14, 16, 0.14);
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #0E0E10;
+  text-decoration: none;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
+}
+.games-teaser__grid a:hover {
+  border-color: #E1342B;
+  background: #E1342B;
+  color: #fff;
+}
+.games-teaser__all {
+  font-weight: 700;
+  color: #E1342B;
+  text-decoration: none;
+}
+.games-teaser__all:hover {
+  text-decoration: underline;
+}

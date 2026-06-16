@@ -17,6 +17,16 @@ pageCSS: game.css
         "@type": "QuantitativeValue",
         "minValue": {{ players.min }},
         "maxValue": {{ players.max }}
+      },
+      "inLanguage": "de-DE",
+      "image": "{{ site.url }}/assets/og/{{ page.fileSlug }}.jpg",
+      "datePublished": "{{ (updated or page.date) | dateISO }}",
+      "dateModified": "{{ (updated or page.date) | dateISO }}",
+      "author": { "@type": "Organization", "name": "Dare Pong Redaktion", "url": "{{ site.url }}/redaktion/" },
+      "publisher": {
+        "@type": "Organization",
+        "name": {{ site.name | dump | safe }},
+        "logo": { "@type": "ImageObject", "url": "{{ site.logo }}" }
       }
     }{% if rules %},
     {
@@ -24,7 +34,8 @@ pageCSS: game.css
       "name": "{{ name }} spielen",
       "description": {{ shortDescription | dump | safe }},
       "totalTime": "PT{{ duration.max }}M",
-      "image": "{{ ogImage or site.ogImage }}",
+      "dateModified": "{{ (updated or page.date) | dateISO }}",
+      "image": "{{ site.url }}/assets/og/{{ page.fileSlug }}.jpg",
       {% if equipment %}"supply": [
         {% for item in equipment %}{ "@type": "HowToSupply", "name": {{ item.name | dump | safe }} }{% if not loop.last %},{% endif %}{% endfor %}
       ],{% endif %}
@@ -106,7 +117,7 @@ pageCSS: game.css
       </div>
 
       {% if updated %}
-      <p class="game__updated">Von der <strong>Dare Pong</strong> Redaktion · Zuletzt aktualisiert am <time datetime="{{ updated | dateISO }}">{{ updated | dateDE }}</time></p>
+      <p class="game__updated">Von der <a href="{{ '/redaktion/' | url }}"><strong>Dare Pong</strong> Redaktion</a> · Zuletzt aktualisiert am <time datetime="{{ updated | dateISO }}">{{ updated | dateDE }}</time></p>
       {% endif %}
     </div>
   </div>
