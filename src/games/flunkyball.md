@@ -5,6 +5,8 @@ slug: flunkyball
 title: "Flunkyball: Regeln, Aufbau & Ablauf – das Trinkspiel einfach erklärt"
 description: "Flunkyball – Deutschlands beliebtestes Outdoor-Trinkspiel: alle Regeln, der richtige Aufbau, Wurfdistanz, Varianten und Tipps. Einfach erklärt mit Grafiken."
 updated: 2026-06-15
+rulesPdf: /assets/flunkyball-regeln.pdf
+rulesPdfLabel: "Flunkyball Regeln als PDF herunterladen"
 rulesTitle: "Flunkyball Regeln"
 tipsTitle: "Flunkyball Tipps"
 shortDescription: Das deutsche Outdoor-Trinkspiel schlechthin – mit dem Ball die Zielflasche in der Mitte umwerfen, so viel wie möglich trinken und stoppen, sobald der Gegner die Flasche wieder aufgestellt hat. Welches Team zuerst leer ist, gewinnt.

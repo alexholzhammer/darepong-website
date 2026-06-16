@@ -5,6 +5,8 @@ slug: jenga-trinkspiel
 title: "Jenga Trinkspiel: Regeln, Aufgaben & Anleitung (Wackelturm)"
 description: "Jenga Trinkspiel (Drunk Jenga): Regeln, die besten Aufgaben für die Klötze und die Anleitung zum Selbermachen. Wer den Wackelturm umwirft, trinkt."
 updated: 2026-06-12
+rulesPdf: /assets/jenga-trinkspiel-regeln.pdf
+rulesPdfLabel: "Jenga Trinkspiel Regeln als PDF herunterladen"
 rulesTitle: "Jenga Trinkspiel Regeln"
 tipsTitle: "Jenga Trinkspiel Tipps"
 shortDescription: Wackelturm trifft Trinkspiel – jeder gezogene Klotz trägt eine Aufgabe, und wer den Turm zum Einsturz bringt, muss kräftig trinken.

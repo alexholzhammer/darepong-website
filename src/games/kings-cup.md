@@ -5,6 +5,8 @@ slug: kings-cup
 title: "King's Cup: Regeln & Kartenbedeutungen (Trinkspiel)"
 description: "King's Cup (Ring of Fire) – das Karten-Trinkspiel: alle Regeln, die Bedeutung jeder Karte von Ass bis König und Tipps. Wer den 4. König zieht, leert den King's Cup."
 updated: 2026-06-12
+rulesPdf: /assets/kings-cup-regeln.pdf
+rulesPdfLabel: "King's Cup Regeln als PDF herunterladen"
 rulesTitle: "King's Cup Regeln"
 tipsTitle: "King's Cup Tipps"
 shortDescription: Kartenbasiertes Trinkspiel – jede gezogene Karte löst eine andere Regel aus, und wer den vierten König zieht, muss den großen Becher in der Mitte leeren.

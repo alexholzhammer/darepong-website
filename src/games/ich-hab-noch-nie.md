@@ -5,6 +5,8 @@ slug: ich-hab-noch-nie
 title: "Ich hab noch nie: Fragen, Regeln & Anleitung (Trinkspiel)"
 description: "Ich hab noch nie (Never Have I Ever): die besten Fragen-Ideen, alle Regeln und die Finger-Variante. Wer es schon getan hat, trinkt – das gesellige Trinkspiel."
 updated: 2026-06-12
+rulesPdf: /assets/ich-hab-noch-nie-regeln.pdf
+rulesPdfLabel: "Ich hab noch nie Regeln als PDF herunterladen"
 rulesTitle: "Ich hab noch nie Regeln"
 tipsTitle: "Ich hab noch nie Tipps"
 shortDescription: Geselliges Trinkspiel ohne Material – wer die genannte Sache schon einmal getan hat, muss trinken. Verrät garantiert die besten Geschichten.

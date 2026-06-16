@@ -5,6 +5,8 @@ slug: schocken
 title: "Schocken: Regeln & Anleitung (Würfelspiel)"
 description: "Schocken – der Würfel-Kneipenklassiker: alle Regeln, die Wertigkeit der Würfe (Schock aus, General, Straße) und die Deckel-Regeln einfach erklärt."
 updated: 2026-06-12
+rulesPdf: /assets/schocken-regeln.pdf
+rulesPdfLabel: "Schocken Regeln als PDF herunterladen"
 rulesTitle: "Schocken Regeln"
 tipsTitle: "Schocken Tipps"
 shortDescription: Traditioneller Würfel- und Kneipenklassiker – mit drei Würfeln, Bluff und Nervenstärke geht es darum, nicht der Verlierer zu sein, der die Runde ausgeben muss.

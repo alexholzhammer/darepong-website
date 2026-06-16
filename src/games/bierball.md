@@ -5,6 +5,8 @@ slug: bierball
 title: "Bierball: Regeln, Aufbau & Ablauf – das schnelle Trinkspiel erklärt"
 description: "Bierball – das schnelle 2-gegen-2-Trinkspiel: alle Regeln, der Aufbau, der Unterschied zu Flunkyball und Tipps. Einfach erklärt mit Grafiken und Anleitung."
 updated: 2026-06-15
+rulesPdf: /assets/bierball-regeln.pdf
+rulesPdfLabel: "Bierball Regeln als PDF herunterladen"
 rulesTitle: "Bierball Regeln"
 tipsTitle: "Bierball Tipps"
 shortDescription: Das schnelle Duell-Trinkspiel für draußen – jedes Team verteidigt seine eigene Flasche und wirft gleichzeitig auf die des Gegners. Wird deine Flasche getroffen, holt dein Team den Ball, während die Gegner trinken. Wer zuerst leer ist, gewinnt.

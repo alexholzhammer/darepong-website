@@ -5,6 +5,8 @@ slug: nageln
 title: "Nageln (Hammerschlagen): Regeln & Anleitung – das Trinkspiel"
 description: "Nageln bzw. Hammerschlagen – das Geschicklichkeits-Trinkspiel für draußen: alle Regeln, der Aufbau mit Baumstamm und Nagel, die Hammer-Technik und Tipps. Einfach erklärt."
 updated: 2026-06-15
+rulesPdf: /assets/nageln-regeln.pdf
+rulesPdfLabel: "Nageln Regeln als PDF herunterladen"
 rulesTitle: "Nageln Regeln"
 tipsTitle: "Nageln Tipps"
 shortDescription: Das Geschicklichkeits-Trinkspiel vom Volksfest – jeder schlägt reihum mit der spitzen Hammerseite einen Schlag auf seinen Nagel im Baumstamm. Wer seinen Nagel zuerst versenkt, gewinnt. Wer die meisten Schläge braucht, trinkt.

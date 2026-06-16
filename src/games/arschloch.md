@@ -5,6 +5,8 @@ slug: arschloch
 title: "Arschloch (President): Kartenspiel-Regeln & Anleitung als Trinkspiel"
 description: "Arschloch / President – das Kartenspiel als Trinkspiel: alle Regeln, die Kartenrangfolge, Rollen und der Kartentausch, plus Tipps. Mit Grafiken einfach erklärt."
 updated: 2026-06-15
+rulesPdf: /assets/arschloch-regeln.pdf
+rulesPdfLabel: "Arschloch Regeln als PDF herunterladen"
 rulesTitle: "Arschloch Regeln"
 tipsTitle: "Arschloch Tipps"
 shortDescription: Der Karten-Klassiker als Trinkspiel – werde deine Karten als Erster los und werde König. Wer als Letzter übrig bleibt, ist das Arschloch, trinkt und muss in der nächsten Runde seine besten Karten abgeben.

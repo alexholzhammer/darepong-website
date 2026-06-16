@@ -5,6 +5,8 @@ slug: maexchen
 title: "Mäxchen / Meiern: Regeln & Rangfolge (Würfelspiel)"
 description: "Mäxchen (Meiern) – das Würfel-Bluffspiel: alle Regeln, die komplette Rangfolge der Würfe und Tipps. Ansagen, bluffen oder anzweifeln – wer auffliegt, trinkt."
 updated: 2026-06-12
+rulesPdf: /assets/maexchen-regeln.pdf
+rulesPdfLabel: "Mäxchen / Meiern Regeln als PDF herunterladen"
 rulesTitle: "Mäxchen Regeln"
 tipsTitle: "Mäxchen Tipps"
 shortDescription: Würfel-Bluffspiel mit zwei Würfeln unter dem Becher – ansagen, höher bieten oder anzweifeln. Wer beim Lügen erwischt wird oder falsch zweifelt, trinkt.

@@ -5,6 +5,8 @@ slug: schiffe-versenken-trinkspiel
 title: "Schiffe versenken Trinkspiel: Regeln & Anleitung erklärt"
 description: "Schiffe versenken als Trinkspiel: alle Regeln, der Aufbau mit Raster und Flotte, die Schnäpse-versenken-Variante und Tipps. Mit Grafiken einfach erklärt."
 updated: 2026-06-15
+rulesPdf: /assets/schiffe-versenken-trinkspiel-regeln.pdf
+rulesPdfLabel: "Schiffe versenken Regeln als PDF herunterladen"
 rulesTitle: "Schiffe versenken Trinkspiel Regeln"
 tipsTitle: "Schiffe versenken Tipps"
 shortDescription: Der Strategie-Klassiker als Duell-Trinkspiel – jeder zeichnet seine Flotte verdeckt ins Raster, dann wird abwechselnd geschossen. Bei jedem Treffer trinkt der getroffene Spieler. Wer zuerst die ganze gegnerische Flotte versenkt, gewinnt.

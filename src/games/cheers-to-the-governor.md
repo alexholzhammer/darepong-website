@@ -5,6 +5,8 @@ slug: cheers-to-the-governor
 title: "Cheers to the Governor: Regeln & Anleitung – Trinkspiel erklärt"
 description: "Cheers to the Governor – das Zähl-Trinkspiel ohne Material: reihum von 1 bis 21 zählen, neue Regeln erfinden, bei Fehlern trinken. Alle Regeln & Beispiele erklärt."
 updated: 2026-06-15
+rulesPdf: /assets/cheers-to-the-governor-regeln.pdf
+rulesPdfLabel: "Cheers to the Governor Regeln als PDF herunterladen"
 rulesTitle: "Cheers to the Governor Regeln"
 tipsTitle: "Cheers to the Governor Tipps"
 shortDescription: Das Zähl-Trinkspiel ganz ohne Material – die Runde zählt reihum von 1 bis 21. Wer 21 sagt, trinkt und erfindet eine neue Regel für eine Zahl. Mit jeder Runde kommen mehr Regeln dazu, bis kaum noch jemand fehlerfrei durchzählt.

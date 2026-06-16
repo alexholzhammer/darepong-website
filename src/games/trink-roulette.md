@@ -5,6 +5,8 @@ slug: trink-roulette
 title: "Trink-Roulette: Regeln, Aufbau & Varianten – Trinkspiel erklärt"
 description: "Trink-Roulette – das Glücks-Trinkspiel mit Rad und Shot-Gläsern: alle Regeln, der Aufbau, Varianten (Zahlen, Aufgaben, Russisch Roulette) und Tipps. Einfach erklärt."
 updated: 2026-06-15
+rulesPdf: /assets/trink-roulette-regeln.pdf
+rulesPdfLabel: "Trink-Roulette Regeln als PDF herunterladen"
 rulesTitle: "Trink-Roulette Regeln"
 tipsTitle: "Trink-Roulette Tipps"
 shortDescription: Das Glücks-Trinkspiel für den Tisch – nummerierte Shot-Gläser rund ums Roulette-Rad aufstellen, drehen und abwarten, wo der Zeiger oder die Kugel landet. Wessen Glas getroffen wird, der trinkt. Reines Glück, schnell gespielt, sofort startklar.
