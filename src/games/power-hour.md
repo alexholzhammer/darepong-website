@@ -5,6 +5,8 @@ slug: power-hour
 title: "Power Hour: Regeln, Playlist & Ablauf – das Trinkspiel erklärt"
 description: "Power Hour – das Trinkspiel mit Musik: 60 Minuten, jede Minute ein Shot. Alle Regeln, die perfekte Playlist, Varianten wie Centurion und Tipps zum Durchhalten."
 updated: 2026-06-15
+rulesPdf: /assets/power-hour-regeln.pdf
+rulesPdfLabel: "Power Hour Regeln als PDF herunterladen"
 rulesTitle: "Power Hour Regeln"
 tipsTitle: "Power Hour Tipps"
 shortDescription: Das Musik-Trinkspiel mit Ausdauer-Faktor – 60 Minuten lang trinkt bei jedem Songwechsel jeder einen Shot. Eine Playlist mit 60 Minuten-Tracks gibt den Takt vor. Wer bis zum Schluss durchhält, hat die Power Hour geschafft.

@@ -5,6 +5,8 @@ slug: edward-fortyhands
 title: "Edward Fortyhands: Regeln & Anleitung – das Trinkspiel erklärt"
 description: "Edward Fortyhands – das Kult-Trinkspiel: an jede Hand wird eine Flasche geklebt, die erst ab darf, wenn beide leer sind. Alle Regeln, Varianten und Tipps erklärt."
 updated: 2026-06-15
+rulesPdf: /assets/edward-fortyhands-regeln.pdf
+rulesPdfLabel: "Edward Fortyhands Regeln als PDF herunterladen"
 rulesTitle: "Edward Fortyhands Regeln"
 tipsTitle: "Edward Fortyhands Tipps"
 shortDescription: Das Kult-Trinkspiel mit Klebeband – an jede Hand wird eine große Flasche oder Dose geklebt. Die Hände sind unbenutzbar, bis beide Getränke leer sind. Kein Toilettengang, kein Handy, bis du dich freigetrunken hast.

@@ -5,6 +5,8 @@ slug: picolo
 title: "Picolo Trinkspiel: Regeln, App & Ablauf – einfach erklärt"
 description: "Picolo – das Trinkspiel per App: wie es funktioniert, alle Regeln, Beispiel-Aufgaben, Kosten und die beste Alternative ohne Handy. Einfach erklärt mit Grafiken."
 updated: 2026-06-15
+rulesPdf: /assets/picolo-regeln.pdf
+rulesPdfLabel: "Picolo Regeln als PDF herunterladen"
 rulesTitle: "Picolo Regeln"
 tipsTitle: "Picolo Tipps"
 shortDescription: Das Trinkspiel-App-Phänomen für den Partystart – einfach alle Namen eingeben, Handy reihum geben und die persönlichen Aufgaben der App vorlesen. Mal witzig, mal frech, mal gemein – Picolo bringt die Runde in Minuten in Stimmung.

@@ -5,6 +5,8 @@ slug: wer-wuerde-eher
 title: "Wer würde eher: Fragen & Regeln (Trinkspiel)"
 description: "Wer würde eher (Most Likely To): die besten Fragen und die Regeln. Alle zeigen auf eine Person – wer die meisten Finger kassiert, trinkt. Gruppenspiel ohne Material."
 updated: 2026-06-12
+rulesPdf: /assets/wer-wuerde-eher-regeln.pdf
+rulesPdfLabel: "Wer würde eher Regeln als PDF herunterladen"
 rulesTitle: "Wer würde eher Regeln"
 tipsTitle: "Wer würde eher Tipps"
 shortDescription: Lustiges Gruppenspiel ohne Material – alle zeigen gleichzeitig auf eine Person, und wer die meisten Finger auf sich zieht, muss trinken.

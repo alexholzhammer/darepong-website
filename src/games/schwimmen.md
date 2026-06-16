@@ -5,6 +5,8 @@ slug: schwimmen
 title: "Schwimmen (Schnauz): Regeln & Anleitung – Kartenspiel-Trinkspiel"
 description: "Schwimmen / Schnauz (31) – Kartenspiel & Trinkspiel: alle Regeln, Kartenwerte, das Leben-System und Tipps. Einfach erklärt mit Grafiken und Beispielen."
 updated: 2026-06-15
+rulesPdf: /assets/schwimmen-regeln.pdf
+rulesPdfLabel: "Schwimmen Regeln als PDF herunterladen"
 rulesTitle: "Schwimmen Regeln"
 tipsTitle: "Schwimmen Tipps"
 shortDescription: Der Karten-Klassiker als Trinkspiel – sammle drei Karten einer Farbe möglichst nah an 31 Punkten. Wer am Ende die niedrigste Hand hat, verliert ein Leben. Wer alle Leben verliert, schwimmt – und trinkt, sobald er untergeht.

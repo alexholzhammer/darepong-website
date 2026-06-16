@@ -5,6 +5,8 @@ slug: wahrheit-oder-pflicht
 title: "Wahrheit oder Pflicht: Fragen, Aufgaben & Regeln (ab 18)"
 description: "Wahrheit oder Pflicht (Truth or Dare): die besten Fragen und Aufgaben für Erwachsene plus alle Regeln. Wer kneift, trinkt – der gesellige Party-Klassiker."
 updated: 2026-06-12
+rulesPdf: /assets/wahrheit-oder-pflicht-regeln.pdf
+rulesPdfLabel: "Wahrheit oder Pflicht Regeln als PDF herunterladen"
 rulesTitle: "Wahrheit oder Pflicht Regeln"
 tipsTitle: "Wahrheit oder Pflicht Tipps"
 shortDescription: Der gesellige Klassiker – jeder wählt zwischen einer ehrlichen Antwort und einer mutigen Aufgabe. Wer kneift, muss trinken.

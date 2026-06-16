@@ -5,6 +5,8 @@ slug: buffalo
 title: "Buffalo Trinkspiel: Regeln & Anleitung (Linke-Hand-Regel)"
 description: "Buffalo – das Trinkspiel mit der Linke-Hand-Regel: Wer sein Getränk in der falschen Hand hält, muss trinken. Alle Regeln, Tipps und Varianten einfach erklärt."
 updated: 2026-06-12
+rulesPdf: /assets/buffalo-regeln.pdf
+rulesPdfLabel: "Buffalo Regeln als PDF herunterladen"
 rulesTitle: "Buffalo Regeln"
 tipsTitle: "Buffalo Tipps"
 shortDescription: Langzeit-Regelspiel für den ganzen Abend – das Getränk darf nur in einer Hand gehalten werden. Wer erwischt wird, muss austrinken.

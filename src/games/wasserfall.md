@@ -5,6 +5,8 @@ slug: wasserfall
 title: "Wasserfall: Regeln & Anleitung – das Trinkspiel einfach erklärt"
 description: "Wasserfall – das Trinkspiel ohne Material: alle starten gleichzeitig, erst wenn der Vordermann absetzt, darf der Nächste aufhören. Alle Regeln, Varianten & Tipps."
 updated: 2026-06-15
+rulesPdf: /assets/wasserfall-regeln.pdf
+rulesPdfLabel: "Wasserfall Regeln als PDF herunterladen"
 rulesTitle: "Wasserfall Regeln"
 tipsTitle: "Wasserfall Tipps"
 shortDescription: Das Trinkspiel ohne Material – alle beginnen gleichzeitig zu trinken. Jeder darf erst absetzen, wenn der Vordermann aufgehört hat. So entsteht ein Wasserfall, bei dem der Letzte am längsten trinken muss.

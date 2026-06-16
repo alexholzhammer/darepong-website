@@ -5,6 +5,8 @@ slug: rage-cage
 title: "Rage Cage: Regeln & Anleitung (Slap Cup / Stack Cup)"
 description: "Rage Cage (Slap Cup / Stack Cup) – das schnelle Becher-Trinkspiel: alle Regeln, der gefürchtete Death Cup und Tipps. Wer den Becher nicht rechtzeitig loswird, trinkt."
 updated: 2026-06-12
+rulesPdf: /assets/rage-cage-regeln.pdf
+rulesPdfLabel: "Rage Cage Regeln als PDF herunterladen"
 rulesTitle: "Rage Cage Regeln"
 tipsTitle: "Rage Cage Tipps"
 shortDescription: Schnelles Trinkspiel mit Bechern, Bällen und viel Chaos – wer den Becher nicht rechtzeitig loswird, muss trinken.

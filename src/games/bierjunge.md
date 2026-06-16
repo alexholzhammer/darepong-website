@@ -5,6 +5,8 @@ slug: bierjunge
 title: "Bierjunge: Regeln & Ablauf – das Studenten-Trinkspiel erklärt"
 description: "Bierjunge – das Trinkduell aus der Studentenverbindung: alle Regeln, wie man fordert und annimmt, die Staffel-Variante und Tipps. Einfach erklärt mit Grafik."
 updated: 2026-06-15
+rulesPdf: /assets/bierjunge-regeln.pdf
+rulesPdfLabel: "Bierjunge Regeln als PDF herunterladen"
 rulesTitle: "Bierjunge Regeln"
 tipsTitle: "Bierjunge Tipps"
 shortDescription: Das klassische Trinkduell aus der Studentenverbindung – ein Spieler fordert mit dem Ruf „Bierjunge!“, der andere nimmt an, dann trinken beide auf ex. Wer sein leeres Glas zuerst senkrecht abstellt, gewinnt.

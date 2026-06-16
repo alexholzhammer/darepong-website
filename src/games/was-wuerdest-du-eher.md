@@ -5,6 +5,8 @@ slug: was-wuerdest-du-eher
 title: "Würdest du eher: Fragen & Regeln (Entweder-oder-Trinkspiel)"
 description: "Würdest du eher (Would You Rather): die besten Entweder-oder-Fragen und die Regeln. Wer in der Minderheit landet, trinkt – das gesellige Dilemmaspiel."
 updated: 2026-06-12
+rulesPdf: /assets/was-wuerdest-du-eher-regeln.pdf
+rulesPdfLabel: "Was würdest du eher Regeln als PDF herunterladen"
 rulesTitle: "Würdest du eher Regeln"
 tipsTitle: "Würdest du eher Tipps"
 shortDescription: Entweder-oder-Dilemmaspiel ohne Material – alle wählen gleichzeitig zwischen zwei Optionen, wer in der Minderheit landet, muss trinken.

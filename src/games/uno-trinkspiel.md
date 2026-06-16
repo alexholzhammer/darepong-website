@@ -5,6 +5,8 @@ slug: uno-trinkspiel
 title: "UNO Trinkspiel: Regeln & Trinkregeln – Anleitung einfach erklärt"
 description: "UNO als Trinkspiel: alle Trinkregeln für Zieh-2, Zieh-4, Retour & Aussetzen, der Ablauf, Sonderstrafen und Tipps. Mit Grafiken einfach erklärt – sofort spielbar."
 updated: 2026-06-15
+rulesPdf: /assets/uno-trinkspiel-regeln.pdf
+rulesPdfLabel: "UNO Trinkspiel Regeln als PDF herunterladen"
 rulesTitle: "UNO Trinkspiel Regeln"
 tipsTitle: "UNO Trinkspiel Tipps"
 shortDescription: Der Kartenklassiker als Trinkspiel – ihr spielt ganz normal UNO, aber jede Aktionskarte löst eine Trinkregel aus. Zieh-2 heißt zwei Schlucke, UNO vergessen wird bestraft. Wer zuerst alle Karten los ist, gewinnt.
