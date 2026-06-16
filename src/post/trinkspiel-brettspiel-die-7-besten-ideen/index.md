@@ -108,3 +108,16 @@ Ihr seid nur zu zweit? Wirf einen Blick auf unsere [Trinkspiele für 2](/post/tr
 ## Abschließende Worte
 
 Vergiss nicht, verantwortungsbewusst zu spielen und auf deine Freunde Acht zu geben. Diese Spiele sollen vor allem Spaß bringen und die Stimmung auflockern. Also, worauf wartest du? Wähle dein Spiel und mach dich bereit für einen unvergesslichen Abend voller Lachen und guter Laune. Prost!
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Spiele mit Aufbau und Spielmaterial – mit voller Anleitung:
+
+- [King's Cup]({{ '/kings-cup/' | url }})
+- [Jenga-Trinkspiel]({{ '/jenga-trinkspiel/' | url }})
+- [Schiffe versenken]({{ '/schiffe-versenken-trinkspiel/' | url }})
+- [Busfahren]({{ '/busfahrer/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+

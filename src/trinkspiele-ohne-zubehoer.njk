@@ -1,0 +1,103 @@
+---
+layout: layouts/base.njk
+pageCSS: partyspiele.css
+title: "Trinkspiele ohne Zubehör: Spiele ohne Material – nur Getränke"
+description: "Trinkspiele ohne Zubehör und ganz ohne Material: Diese Spiele brauchen nur Getränke und ein paar Leute. Mit Regeln, Anleitung und Tipps – sofort spielbar."
+permalink: /trinkspiele/ohne-zubehoer/
+updated: 2026-06-16
+faqs:
+  - q: "Welche Trinkspiele gehen ohne Zubehör?"
+    a: "Komplett ohne Material spielbar sind zum Beispiel Buffalo, Ich hab noch nie, Wahrheit oder Pflicht, Wer würde eher, Würdest du eher, Cheers to the Governor und Wasserfall. Du brauchst nur Getränke und ein paar Leute."
+  - q: "Was ist das beste Trinkspiel ohne Material?"
+    a: "Das hängt von der Runde ab: Für Geständnisse und Lacher ist Ich hab noch nie top, für Mutproben Wahrheit oder Pflicht, für ein schnelles Gedächtnisspiel Cheers to the Governor und für zwischendurch Buffalo. Alle brauchen kein Zubehör."
+  - q: "Kann man Trinkspiele ohne Zubehör auch alkoholfrei spielen?"
+    a: "Ja. Alle hier vorgestellten Spiele funktionieren genauso mit Wasser, Saft oder alkoholfreien Getränken – der Spaß steckt im Spielprinzip, nicht im Alkohol."
+---
+
+<div class="games-hub">
+  <div class="games-hub__header">
+    <div class="container">
+      <span class="eyebrow">Trinkspiele ohne Zubehör</span>
+      <h1 class="games-hub__title">Trinkspiele ohne Material.<br>Nur Getränke nötig.</h1>
+      <p class="games-hub__lede">Keine Karten, keine Becher, kein Aufbau: Diese <strong>Trinkspiele ohne Zubehör</strong> brauchen nur ein paar Leute und Getränke. Perfekt für unterwegs, im Park, im Zug oder spontan auf jeder Party. Jedes Spiel mit kompletter Anleitung.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="games-hub__grid">
+      {% gamePreview "ich-hab-noch-nie" %}
+      {% gamePreview "wahrheit-oder-pflicht" %}
+      {% gamePreview "wer-wuerde-eher" %}
+      {% gamePreview "was-wuerdest-du-eher" %}
+      {% gamePreview "buffalo" %}
+      {% gamePreview "cheers-to-the-governor" %}
+      {% gamePreview "wasserfall" %}
+    </div>
+
+    <section class="hub-prose">
+      <h2>Trinkspiele ganz ohne Material</h2>
+      <p>Manchmal hat man weder Karten noch Becher zur Hand – und genau dann sind <strong>Trinkspiele ohne Zubehör</strong> Gold wert. Sie sind in einem Satz erklärt, sofort spielbar und funktionieren überall: am Lagerfeuer, im Park, beim Vorglühen oder am Küchentisch.</p>
+      <p>Die Klassiker leben von Geständnissen und Mutproben: <a href="{{ '/ich-hab-noch-nie/' | url }}">Ich hab noch nie</a>, <a href="{{ '/wahrheit-oder-pflicht/' | url }}">Wahrheit oder Pflicht</a>, <a href="{{ '/wer-wuerde-eher/' | url }}">Wer würde eher</a> und <a href="{{ '/was-wuerdest-du-eher/' | url }}">Würdest du eher</a> sorgen für die besten Geschichten. <a href="{{ '/buffalo/' | url }}">Buffalo</a> läuft sogar den ganzen Abend nebenbei, <a href="{{ '/cheers-to-the-governor/' | url }}">Cheers to the Governor</a> ist ein kniffliges Zählspiel und <a href="{{ '/wasserfall/' | url }}">Wasserfall</a> bringt die ganze Runde gleichzeitig zum Trinken.</p>
+      <p>Du willst doch etwas mehr Action? In der <a href="{{ '/trinkspiele/' | url }}">großen Trinkspiele-Übersicht</a> findest du auch Spiele mit Karten, Würfeln und Bechern – und mit <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare Pong</a> bringst du 120 wasserfeste Dare-Karten in die Runde.</p>
+
+      <aside class="hub-note">
+        <strong>Bitte verantwortungsvoll spielen.</strong> Alle Spiele lassen sich auch alkoholfrei spielen. Trinkt mit Maß, niemals unter 18 Jahren und nie vor dem Autofahren – und stellt genug Wasser bereit.
+      </aside>
+
+      <h2 id="faq">Häufige Fragen</h2>
+      <div class="faq__list">
+        {% for f in faqs %}
+        <div class="faq__item{% if loop.first %} is-open{% endif %}">
+          <button class="faq__question" onclick="toggleFaq(this)">
+            <span>{{ f.q }}</span>
+            <span class="faq__chevron">+</span>
+          </button>
+          <div class="faq__answer"><p>{{ f.a }}</p></div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "name": "Trinkspiele ohne Zubehör",
+      "url": "{{ site.url }}{{ page.url }}",
+      "description": "Trinkspiele ohne Material – nur Getränke nötig. Mit Regeln und Anleitung."
+    },
+    {
+      "@type": "ItemList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Ich hab noch nie", "url": "{{ site.url }}/ich-hab-noch-nie/" },
+        { "@type": "ListItem", "position": 2, "name": "Wahrheit oder Pflicht", "url": "{{ site.url }}/wahrheit-oder-pflicht/" },
+        { "@type": "ListItem", "position": 3, "name": "Wer würde eher", "url": "{{ site.url }}/wer-wuerde-eher/" },
+        { "@type": "ListItem", "position": 4, "name": "Würdest du eher", "url": "{{ site.url }}/was-wuerdest-du-eher/" },
+        { "@type": "ListItem", "position": 5, "name": "Buffalo", "url": "{{ site.url }}/buffalo/" },
+        { "@type": "ListItem", "position": 6, "name": "Cheers to the Governor", "url": "{{ site.url }}/cheers-to-the-governor/" },
+        { "@type": "ListItem", "position": 7, "name": "Wasserfall", "url": "{{ site.url }}/wasserfall/" }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "{{ site.url }}/" },
+        { "@type": "ListItem", "position": 2, "name": "Trinkspiele", "item": "{{ site.url }}/trinkspiele/" },
+        { "@type": "ListItem", "position": 3, "name": "Ohne Zubehör", "item": "{{ site.url }}{{ page.url }}" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for f in faqs %}
+        { "@type": "Question", "name": {{ f.q | dump | safe }}, "acceptedAnswer": { "@type": "Answer", "text": {{ f.a | dump | safe }} } }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
+    }
+  ]
+}
+</script>

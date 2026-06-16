@@ -114,6 +114,34 @@ Arschloch ist ein **Karten-Ablegespiel** für drei bis acht Personen. Reihum leg
   <figcaption>Die übliche Rangfolge – von der 3 aufsteigend bis zum Ass, die 2 schlägt alles.</figcaption>
 </figure>
 
+<div class="game__table-wrap">
+<table class="game__table">
+<thead><tr><th scope="col">Stärke</th><th scope="col">Karten (niedrig → hoch)</th></tr></thead>
+<tbody>
+<tr><th scope="row">Niedrigste</th><td>3</td></tr>
+<tr><th scope="row">Aufsteigend</th><td>4 · 5 · 6 · 7 · 8 · 9 · 10</td></tr>
+<tr><th scope="row">Bilder</th><td>Bube · Dame · König</td></tr>
+<tr><th scope="row">Hoch</th><td>Ass</td></tr>
+<tr><th scope="row">Höchste</th><td>2</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>Nach jeder Runde ergibt sich aus der Reihenfolge des Ausspielens die Rangordnung – sie bestimmt den Kartentausch zu Beginn der nächsten Runde:</p>
+
+<div class="game__table-wrap">
+<table class="game__table">
+<thead><tr><th scope="col">Platzierung</th><th scope="col">Rolle</th></tr></thead>
+<tbody>
+<tr><th scope="row">Zuerst fertig</th><td>König</td></tr>
+<tr><th scope="row">Zweiter</th><td>Vize-König</td></tr>
+<tr><th scope="row">Mitte</th><td>Bürger</td></tr>
+<tr><th scope="row">Vorletzter</th><td>Vize-Arschloch</td></tr>
+<tr><th scope="row">Letzter</th><td>Arschloch (trinkt)</td></tr>
+</tbody>
+</table>
+</div>
+
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
 <figure class="game__diagram game__diagram--wide">

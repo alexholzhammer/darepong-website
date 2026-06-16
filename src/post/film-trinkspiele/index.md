@@ -174,3 +174,16 @@ Schau dir jetzt die besten [Trinkspiele für Geburtstage](/post/trinkspiele-gebu
 ## Abschließende Worte
 
 Film Trinkspiele sind eine fantastische Möglichkeit, um einen Filmabend mit Freunden in eine unvergessliche Erfahrung zu verwandeln. Sie bringen Spaß, Lacher und vielleicht auch ein wenig Wettbewerb. Wählt euren Film, setzt die Regeln und macht euch bereit für einen Abend voller Unterhaltung. Vergesst nicht, verantwortungsvoll zu trinken und sicherzustellen, dass alle Teilnehmenden Spaß haben. Schnappt euch eure Getränke, wählt einen Film aus dieser Liste aus, und lasst das Spiel beginnen!
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Passend zum Film- und Spieleabend – komplette Regeln:
+
+- [Power Hour]({{ '/power-hour/' | url }})
+- [Cheers to the Governor]({{ '/cheers-to-the-governor/' | url }})
+- [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})
+- [King's Cup]({{ '/kings-cup/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+

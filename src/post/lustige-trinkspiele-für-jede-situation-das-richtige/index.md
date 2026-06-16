@@ -172,3 +172,18 @@ Bier-Pong ist ein Klassiker unter den Party-Trinkspielen, der sich wunderbar fü
 "Bier-Pong - Epic Edition" macht das ohnehin schon beliebte Spiel noch dynamischer und spannender. Es ist ideal für große Partyrunden und sorgt garantiert für Stimmung. Wie immer gilt: Genießt das Spiel verantwortungsvoll und achtet darauf, dass es allen Beteiligten Spaß macht!
 
 Ihr könnt euch nicht treffen? Dafür gibt es [Trinkspiele online](/post/trinkspiele-online)!
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Lustige Trinkspiele mit kompletter Anleitung:
+
+- [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})
+- [Wer würde eher]({{ '/wer-wuerde-eher/' | url }})
+- [Würdest du eher]({{ '/was-wuerdest-du-eher/' | url }})
+- [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})
+- [Picolo]({{ '/picolo/' | url }})
+- [Edward Fortyhands]({{ '/edward-fortyhands/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+

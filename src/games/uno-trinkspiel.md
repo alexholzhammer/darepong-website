@@ -118,6 +118,20 @@ Diese Trinkregeln haben sich für die Aktionskarten etabliert:
   <figcaption>Die gängigen Trinkregeln – Zieh Zwei (2), Zieh Vier (4 + Farbwahl), Retour (Nachbar trinkt), Aussetzen (Übersprungener trinkt).</figcaption>
 </figure>
 
+<div class="game__table-wrap">
+<table class="game__table">
+<thead><tr><th scope="col">Aktionskarte</th><th scope="col">Trinkregel</th></tr></thead>
+<tbody>
+<tr><th scope="row">Zieh Zwei (+2)</th><td>2 Schlucke</td></tr>
+<tr><th scope="row">Zieh Vier (+4)</th><td>4 Schlucke + Farbe wählen</td></tr>
+<tr><th scope="row">Retour (Richtungswechsel)</th><td>Nachbar trinkt</td></tr>
+<tr><th scope="row">Aussetzen</th><td>Übersprungener trinkt</td></tr>
+<tr><th scope="row">„UNO!“ vergessen</th><td>3 Schlucke</td></tr>
+<tr><th scope="row">Falsche Karte gelegt</th><td>2 Schlucke</td></tr>
+</tbody>
+</table>
+</div>
+
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
 <figure class="game__diagram game__diagram--wide">

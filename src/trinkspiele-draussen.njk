@@ -1,0 +1,99 @@
+---
+layout: layouts/base.njk
+pageCSS: partyspiele.css
+title: "Outdoor-Trinkspiele: Die besten Trinkspiele für draußen"
+description: "Outdoor-Trinkspiele für Park, Festival & Garten: Flunkyball, Bierball, Nageln, Beer Pong und Flip Cup. Mit Regeln, Aufbau und Tipps – ideal für draußen."
+permalink: /trinkspiele/draussen/
+updated: 2026-06-16
+faqs:
+  - q: "Welche Trinkspiele eignen sich für draußen?"
+    a: "Top für draußen sind Flunkyball und Bierball (Wurfspiele mit Flaschen), Nageln (Geschicklichkeit am Baumstamm) sowie Beer Pong und Flip Cup, die sich auch auf einem Tisch im Garten oder Park spielen lassen."
+  - q: "Was ist das beste Outdoor-Trinkspiel für große Gruppen?"
+    a: "Flunkyball ist der Klassiker für große Runden, weil die Teams beliebig groß sein können. Für schnelle Duelle zu viert ist Bierball ideal, und Beer Pong oder Flip Cup eignen sich super als Turnier."
+  - q: "Was braucht man für Trinkspiele draußen?"
+    a: "Meist nur wenig: einen Ball und Flaschen (Flunkyball, Bierball), einen Baumstamm, Hammer und Nägel (Nageln) oder Becher, Bälle und einen Tisch (Beer Pong, Flip Cup). Dazu Getränke – und genug Platz auf Wiese oder im Park."
+---
+
+<div class="games-hub">
+  <div class="games-hub__header">
+    <div class="container">
+      <span class="eyebrow">Outdoor-Trinkspiele</span>
+      <h1 class="games-hub__title">Trinkspiele für draußen.<br>Park, Festival &amp; Garten.</h1>
+      <p class="games-hub__lede">Sobald das Wetter mitspielt, gehören diese <strong>Outdoor-Trinkspiele</strong> auf jede Wiese: Wurfspiele mit Flaschen, Geschicklichkeit am Baumstamm und Becher-Klassiker für den Gartentisch. Jedes Spiel mit Aufbau, Regeln und Tipps.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="games-hub__grid">
+      {% gamePreview "flunkyball" %}
+      {% gamePreview "bierball" %}
+      {% gamePreview "nageln" %}
+      {% gamePreview "beer-pong" %}
+      {% gamePreview "flip-cup" %}
+    </div>
+
+    <section class="hub-prose">
+      <h2>Die besten Trinkspiele für draußen</h2>
+      <p>Draußen ist mehr Platz, mehr Bewegung und mehr Stimmung – ideal für Wurf- und Geschicklichkeitsspiele. Der unangefochtene Klassiker ist <a href="{{ '/flunkyball/' | url }}">Flunkyball</a>: zwei Teams, eine Zielflasche, viel Geschrei. Schneller und kompakter geht es bei <a href="{{ '/bierball/' | url }}">Bierball</a> zu, dem 2-gegen-2-Duell mit eigenen Flaschen.</p>
+      <p>Wer es geschickt mag, versucht sich an <a href="{{ '/nageln/' | url }}">Nageln</a> (auch Hammerschlagen) – einen Nagel mit möglichst wenigen Schlägen in den Baumstamm treiben. Und natürlich lassen sich die Becher-Klassiker <a href="{{ '/beer-pong/' | url }}">Beer Pong</a> und <a href="{{ '/flip-cup/' | url }}">Flip Cup</a> hervorragend auf einem Tisch im Garten oder Park als Turnier spielen.</p>
+      <p>Mehr Spiele für drinnen und draußen findest du in der <a href="{{ '/trinkspiele/' | url }}">großen Trinkspiele-Übersicht</a>. Für die Beer-Pong-Runde im Park bringst du mit <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare Pong</a> 120 wasserfeste Dare-Karten mit – Spritzwasser kein Problem.</p>
+
+      <aside class="hub-note">
+        <strong>Bitte verantwortungsvoll spielen.</strong> Alle Spiele lassen sich auch alkoholfrei spielen. Trinkt mit Maß, niemals unter 18 Jahren und nie vor dem Autofahren – und stellt genug Wasser bereit. Räumt euren Müll wieder weg.
+      </aside>
+
+      <h2 id="faq">Häufige Fragen</h2>
+      <div class="faq__list">
+        {% for f in faqs %}
+        <div class="faq__item{% if loop.first %} is-open{% endif %}">
+          <button class="faq__question" onclick="toggleFaq(this)">
+            <span>{{ f.q }}</span>
+            <span class="faq__chevron">+</span>
+          </button>
+          <div class="faq__answer"><p>{{ f.a }}</p></div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "name": "Outdoor-Trinkspiele für draußen",
+      "url": "{{ site.url }}{{ page.url }}",
+      "description": "Die besten Trinkspiele für draußen – mit Aufbau, Regeln und Tipps."
+    },
+    {
+      "@type": "ItemList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Flunkyball", "url": "{{ site.url }}/flunkyball/" },
+        { "@type": "ListItem", "position": 2, "name": "Bierball", "url": "{{ site.url }}/bierball/" },
+        { "@type": "ListItem", "position": 3, "name": "Nageln", "url": "{{ site.url }}/nageln/" },
+        { "@type": "ListItem", "position": 4, "name": "Beer Pong", "url": "{{ site.url }}/beer-pong/" },
+        { "@type": "ListItem", "position": 5, "name": "Flip Cup", "url": "{{ site.url }}/flip-cup/" }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "{{ site.url }}/" },
+        { "@type": "ListItem", "position": 2, "name": "Trinkspiele", "item": "{{ site.url }}/trinkspiele/" },
+        { "@type": "ListItem", "position": 3, "name": "Draußen", "item": "{{ site.url }}{{ page.url }}" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for f in faqs %}
+        { "@type": "Question", "name": {{ f.q | dump | safe }}, "acceptedAnswer": { "@type": "Answer", "text": {{ f.a | dump | safe }} } }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
+    }
+  ]
+}
+</script>

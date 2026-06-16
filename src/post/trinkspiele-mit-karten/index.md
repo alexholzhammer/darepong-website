@@ -394,3 +394,18 @@ Das Ziel des Spiels ist es, möglichst viele Quartette zu sammeln.
 - **Quartett vervollständigt**: Jedes Mal, wenn ein Spieler ein Quartett vervollständigt, müssen alle anderen Spieler trinken.
 - **Falsche Anfrage**: Wenn ein Spieler eine Karte anfragt, die er nicht anfragen kann (weil er keine Karte aus demselben Quartett hat), muss er trinken.
 - **Spielende**: Wenn alle Quartette vervollständigt sind oder die Spieler entscheiden, das Spiel zu beenden.
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Die beliebtesten Karten-Trinkspiele mit ausführlicher Anleitung:
+
+- [King's Cup]({{ '/kings-cup/' | url }})
+- [Busfahren]({{ '/busfahrer/' | url }})
+- [Schwimmen]({{ '/schwimmen/' | url }})
+- [17 und 4]({{ '/17-und-4/' | url }})
+- [Arschloch]({{ '/arschloch/' | url }})
+- [UNO Trinkspiel]({{ '/uno-trinkspiel/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+

@@ -170,3 +170,16 @@ Das bringt neuen Schwung rein – besonders bei Gruppen, die das Spiel schon oft
 ### 📷 6. Live-Kommentar & Highlights
 
 Schnappt euch eine Kamera oder macht Insta-Stories. Noch besser: Lasst einen Mitspieler das Spiel als „Sport-Kommentator“ begleiten. Sätze wie „Oh, da zittert der Becher!“, „Mutiger Wurf – und er geht rein!“ machen das Ganze noch absurder – aber genau das ist der Spaß.
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Magst du schnelle Becher-Spiele? Hier die Anleitungen:
+
+- [Rage Cage]({{ '/rage-cage/' | url }})
+- [Flip Cup]({{ '/flip-cup/' | url }})
+- [Beer Pong]({{ '/beer-pong/' | url }})
+- [Bierball]({{ '/bierball/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+

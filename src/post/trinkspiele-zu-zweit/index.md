@@ -104,3 +104,17 @@ Ein gelungenes Trinkspiel sollte herausfordernd, aber nicht frustrierend sein. Z
 ### 5. Der Alkohol als Ergänzung, nicht als Hauptsache
 
 Natürlich gehört der Alkohol zu einem Trinkspiel dazu, doch er sollte nicht der einzige Grund sein, das Spiel zu spielen. Die besten **Trinkspiele für Zwei** funktionieren auch ohne übermäßigen Alkoholkonsum und können genauso gut mit alkoholfreien Alternativen gespielt werden. Der Fokus sollte auf dem Spielspaß liegen, nicht auf dem schnellen Trinken.
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Diese Spiele funktionieren schon zu zweit – mit voller Anleitung:
+
+- [Schiffe versenken]({{ '/schiffe-versenken-trinkspiel/' | url }})
+- [Mäxchen]({{ '/maexchen/' | url }})
+- [Bierjunge]({{ '/bierjunge/' | url }})
+- [Beer Pong]({{ '/beer-pong/' | url }})
+- [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
