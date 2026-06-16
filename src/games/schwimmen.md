@@ -118,6 +118,30 @@ Schwimmen ist ein **Karten-Glücksspiel** für 2 bis 9 Personen. Jeder Spieler h
   <figcaption>Die Kartenwerte – 31 als beste Hand, 30,5 für einen Drilling, sonst zählt nur die höchste Summe einer Farbe.</figcaption>
 </figure>
 
+<div class="game__table-wrap">
+<table class="game__table">
+<thead><tr><th scope="col">Karte</th><th scope="col">Punkte</th></tr></thead>
+<tbody>
+<tr><th scope="row">Ass</th><td>11</td></tr>
+<tr><th scope="row">König, Dame, Bube</th><td>je 10</td></tr>
+<tr><th scope="row">Zahlenkarten (10 bis 7)</th><td>Augenwert (10–7)</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>Wichtig: Gezählt werden immer nur Karten <strong>derselben Farbe</strong>. Das sind die wichtigsten Hände im Überblick:</p>
+
+<div class="game__table-wrap">
+<table class="game__table">
+<thead><tr><th scope="col">Hand</th><th scope="col">Wert</th></tr></thead>
+<tbody>
+<tr><th scope="row">Ass + zwei Bilder (eine Farbe)</th><td>31 – beste Hand</td></tr>
+<tr><th scope="row">Drei gleiche Werte (z. B. 9-9-9)</th><td>30,5</td></tr>
+<tr><th scope="row">Mehrere Karten einer Farbe</th><td>Summe der Augen</td></tr>
+</tbody>
+</table>
+</div>
+
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
 <figure class="game__diagram game__diagram--wide">

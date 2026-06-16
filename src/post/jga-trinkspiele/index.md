@@ -89,3 +89,18 @@ Schließlich geht es bei JGA Trinkspielen nicht nur ums Trinken, sondern auch da
 ## **Abschließende Worte**
 
 Mit diesen Trinkspielen wird euer JGA garantiert ein voller Erfolg. Ob draußen oder für die JGA-Feier der Frauen, diese Spiele sorgen für unvergessliche Erlebnisse und jede Menge Spaß. Denkt daran, verantwortungsbewusst zu trinken und vor allem den Tag in vollen Zügen zu genießen. Cheers auf einen unvergesslichen JGA!
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Passende Spiele für den Junggesellenabschied – Regeln im Detail:
+
+- [Flunkyball]({{ '/flunkyball/' | url }})
+- [Bierball]({{ '/bierball/' | url }})
+- [Beer Pong]({{ '/beer-pong/' | url }})
+- [Flip Cup]({{ '/flip-cup/' | url }})
+- [Edward Fortyhands]({{ '/edward-fortyhands/' | url }})
+- [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+

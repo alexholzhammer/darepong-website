@@ -259,3 +259,17 @@ Hier sind einige Vorschläge für Trinkregeln:
 - **Ende des Spiels**: Legt entweder eine maximale Rundenzahl oder eine Zeitgrenze fest, nach der das Spiel endet.
 
 "Remote Insensitivity" bietet eine großartige Möglichkeit, das beliebte Kartenspiel "Cards Against Humanity" online mit Freunden zu spielen und gleichzeitig ein online Trinkspiel daraus zu machen.
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Diese Spiele lassen sich auch per Videocall spielen – hier die Regeln:
+
+- [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})
+- [Wer würde eher]({{ '/wer-wuerde-eher/' | url }})
+- [Würdest du eher]({{ '/was-wuerdest-du-eher/' | url }})
+- [Picolo]({{ '/picolo/' | url }})
+- [Cheers to the Governor]({{ '/cheers-to-the-governor/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+

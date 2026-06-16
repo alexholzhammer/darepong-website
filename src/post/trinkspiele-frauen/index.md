@@ -160,3 +160,17 @@ Wenn Ihr die Beer-Pong-Runde hinter Euch habt und mehr wollt: [Dare Pong](/post/
 ## Fazit
 
 Ob Ihr einen ruhigen Abend mit Wein und Scharade oder eine ausgelassene Beer-Pong-Nacht plant — mit diesen 9 Spielen habt Ihr für jeden Mädelsabend das Richtige dabei. Einfach loslegen, Regeln anpassen, und den Rest der Nacht passieren lassen.
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Beliebt am Mädelsabend – mit ausführlicher Anleitung:
+
+- [Wer würde eher]({{ '/wer-wuerde-eher/' | url }})
+- [Würdest du eher]({{ '/was-wuerdest-du-eher/' | url }})
+- [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})
+- [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})
+- [Picolo]({{ '/picolo/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+

@@ -501,3 +501,15 @@ Das Spiel endet normalerweise, wenn ein Spieler eine bestimmte Punktzahl erreich
 "Quarters" hat kein festgelegtes Ende und wird oft gespielt, bis die Spieler aufhören möchten. Es ist ein soziales Spiel, das sich gut für Gruppen und lockere Zusammenkünfte eignet.
 
 Wie bei allen Trinkspielen ist es wichtig, "Quarters" verantwortungsvoll zu spielen. Achten Sie auf Ihre eigenen Grenzen und die Ihrer Mitspieler, und sorgen Sie dafür, dass alle Teilnehmer sicher und wohlbehalten bleiben. Trinkspiele sollten immer in einer sicheren und kontrollierten Umgebung gespielt werden.
+
+<!-- game-links -->
+## Anleitungen zu diesen Trinkspielen
+
+Zu diesen Würfel-Trinkspielen haben wir komplette Regeln:
+
+- [Mäxchen]({{ '/maexchen/' | url }})
+- [Schocken]({{ '/schocken/' | url }})
+- [Trink-Roulette]({{ '/trink-roulette/' | url }})
+
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
