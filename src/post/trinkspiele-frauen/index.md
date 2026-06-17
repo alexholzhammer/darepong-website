@@ -222,7 +222,7 @@ Kombiniert das Ganze mit einer Flasche Sekt oder zwei Cocktails, und schon habt 
 
 <h2 id="dare-pong">Dare Pong – wenn Beer Pong langweilig wird</h2>
 
-Wenn Ihr die Beer-Pong-Runde hinter Euch habt und mehr wollt: [Dare Pong](/post/darepong-vs-bier-pong-was-ist-der-unterschied/) ist die logische Erweiterung. Unter jedem Becher liegt eine Aufgabenkarte — statt zu trinken könnt Ihr die Dare annehmen. Oder beides.
+Wenn Ihr die Beer-Pong-Runde hinter Euch habt und mehr wollt: [Dare Pong]({{ '/' | url }}) ist die logische Erweiterung. Unter jedem Becher liegt eine Aufgabenkarte — statt zu trinken könnt Ihr die Dare annehmen. Oder beides.
 
 120 Karten, alle wasserfest. Perfekt für den Mädelsabend, weil die Aufgaben genau die richtige Mischung aus frech, witzig und persönlich sind. Alles dazu findest Du auf der Startseite von [Dare Pong]({{ '/' | url }}).
 

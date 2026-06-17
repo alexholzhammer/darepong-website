@@ -280,8 +280,6 @@ Das Spiel besteht aus verschiedenen Runden mit unterschiedlichen Aufgaben.
 
 Das Spiel endet, wenn alle Karten gezogen wurden oder jemand einen Hirnschaden erlitten hat.
 
-Gutes Wetter? Dann wirf einen Blick auf die [Trinkspiele für Draußen](/post/trinkspiele-draussen)!
-
 Kleiner Spaß. Bitte sauft nicht bis zum Hirnschaden.
 
 ### 5. Kartenpusten

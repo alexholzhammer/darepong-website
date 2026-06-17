@@ -81,7 +81,7 @@ Du hast Bock auf ein lustiges Studentenspiel mit Spielkarten und Fragen zu den B
 
 Ihr seid (angehende) Juristen und wollt euer Wissen im Zivilrecht unter Beweis stellen? 70 coole Spielkarten warten darauf, 2 bis 10 Spieler zu begeistern. Auch gut geeignet, um sich auf das Examen vorzubereiten oder dieses anschließend wieder zu vergessen. Das perfekte Geschenk für Juristen, für Abende mit Kommilitonen oder Arbeitskollegen.
 
-Tipp: Hier findest du viele weitere [coole Trinkspiele](/post/trinkspiele)!
+Tipp: Hier findest du viele weitere [coole Trinkspiele]({{ '/trinkspiele/' | url }})!
 
 <h2 id="beerpong-darepong">3. Beerpong inkl. Dare Pong – Spiel für Studenten</h2>
 
@@ -91,7 +91,7 @@ Tipp: Hier findest du viele weitere [coole Trinkspiele](/post/trinkspiele)!
 
 [Beerpong]({{ '/beer-pong/' | url }}) ist der Klassiker auf allen Studentenpartys. Doch schnell wird das Spiel etwas eintönig, vor allem wenn nicht alle Spieler auf einem ähnlichen Level sind. [Dare Pong]({{ '/' | url }}) bringt neuen Schwung in das Spiel: Es besteht aus 120 Spielkarten in Bierdeckelform, von denen eine unter jeden Becher gelegt wird. Wird dieser getroffen, kann man entweder die Aufgabe (Dare) ausführen oder den Becher leertrinken. Eine coole Abwechslung.
 
-Ebenfalls interessant: Die besten [Beerpong Varianten](/post/beer-pong-varianten)!
+Ebenfalls interessant: Die besten [Beerpong Varianten]({{ '/post/beer-pong-erweiterung/' | url }})!
 
 <h2 id="werwolf">4. Werwolf: Der Klassiker für große Gruppen</h2>
 
@@ -138,8 +138,6 @@ In *Secret Hitler* geht es darum, heimlich Allianzen zu schmieden, um politische
 💡 **Warum es ein Hit ist:** Es kombiniert Geschwindigkeit, Spaß und Teamdynamik. Besonders für Sportstudenten oder alle, die schnelle Reflexe haben (oder trainieren wollen), ist dieses Spiel ein Highlight.
 
 Mit *Rage Cage* hast du jetzt ein weiteres Spiel für ausgelassene Partys oder WG-Abende. Es ergänzt die Liste perfekt für diejenigen, die Action und Adrenalin suchen! 🥳
-
-Du fährst auf ein Festival? Hier findest du [die besten Festival Spiele für Erwachsene](/post/festival-spiele)!
 
 <h2 id="klask">10. Klask: Für Physikfans und Geschicklichkeitsspieler</h2>
 
@@ -216,7 +214,7 @@ Kein Studentenabend ohne ein gutes Trinkspiel: Sie bringen Tempo in jede Party, 
 
 [Flunkyball]({{ '/flunkyball/' | url }}) ist der Outdoor-Hit für den Campus oder den Park: zwei Teams, eine Flasche in der Mitte, gnadenlos viel Spaß. Wer es lieber kompakt mag, greift zu [Mäxchen]({{ '/maexchen/' | url }}) – ein reines Würfel- und Bluffspiel, für das du nur zwei Würfel und einen Becher brauchst. Und mit [Trink-Roulette]({{ '/trink-roulette/' | url }}) entscheidet schlicht das Glück, wer als Nächstes dran ist.
 
-Noch mehr Ideen findest du in unserer Übersicht der [coolsten Trinkspiele](/post/trinkspiele).
+Noch mehr Ideen findest du in unserer Übersicht der [coolsten Trinkspiele]({{ '/trinkspiele/' | url }}).
 
 > **Verantwortungsbewusst feiern:** Trinkspiele sollen Spaß machen, nicht zum Zwang werden. Achtet aufeinander, trinkt in eurem Tempo und bietet immer eine alkoholfreie Alternative an. Niemand muss mehr trinken, als er möchte – die alkoholfreie Variante ist bei jedem Spiel genauso erlaubt.
 

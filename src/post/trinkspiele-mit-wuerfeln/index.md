@@ -245,7 +245,7 @@ Das Ziel des Spiels ist es, mit den fünf Würfeln ein "Schiff" (6), einen "Kapi
 
 Das Spiel endet, wenn alle Spieler mit dem Spielen aufhören möchten. Oft wird es in einer geselligen Runde ohne festes Ende gespielt.
 
-Übrigens: In der Kategorie "[Trinkspiele zu viert](/post/trinkspiele-zu-viert-die-beste-25)" findest du nicht nur Trinkspiele mit Würfeln.
+Übrigens: In der Kategorie "[Trinkspiele zu viert]({{ '/post/trinkspiele-zu-viert/' | url }})" findest du nicht nur Trinkspiele mit Würfeln.
 
 <h2 id="mexican">Mexican</h2>
 
@@ -320,8 +320,6 @@ Das Trinkspiel "Mexican" ist ein Würfelspiel, das sowohl Glück als auch Bluffe
 ### Spielende
 
 "Beer Die" endet in der Regel, wenn ein Team die vereinbarte Punktzahl erreicht. Es kann aber auch als Freizeitspiel ohne festes Ende gespielt werden.
-
-Keinen Bock mehr auf Würfel? Für den Sommer findest du hier die besten [Trinkspiele für Draußen](/post/trinkspiele-draussen)!
 
 <h2 id="pig">Pig</h2>
 
