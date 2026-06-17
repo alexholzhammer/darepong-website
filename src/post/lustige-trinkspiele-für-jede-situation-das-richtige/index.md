@@ -98,8 +98,6 @@ Das Spiel "Ich hab' noch nie..." ist ideal für drei Personen und kann zu unerwa
 
 Diese Version des Spiels bringt mehr Interaktion und Spannung in die Runde. Es ist eine tolle Möglichkeit, sich besser kennenzulernen und gemeinsam zu lachen. Wie immer, denkt daran, verantwortungsvoll zu spielen!
 
-Lesetipp: Hier findest du [Festival Trinkspiele](/post/festival-spiele) für den Sommer!
-
 <h2 id="ohne-material">Lustiges Trinkspiel ohne Zubehör: "Wortassoziations-Spiel"</h2>
 
 Das Wortassoziations-Spiel ist ein einfaches, aber unglaublich unterhaltsames Trinkspiel, das keinerlei Zubehör benötigt. Hier ist eine erweiterte Version, die das Spiel noch spannender macht:
@@ -145,8 +143,6 @@ Ebenfalls interessant: [Trinkspiele mit Karten](/post/trinkspiele-mit-karten)!
 8. **Spielfeld-Variationen**: Experimentiert mit unterschiedlichen Spielfeldgrößen oder Hindernissen auf dem Spielfeld, um die Schwierigkeit zu erhöhen.
 
 "Flunkyball - Ultimate Edition" ist perfekt für Sommerabende, Grillpartys oder Campingausflüge. Es fördert Teamarbeit, Geschick und bringt jede Menge Spaß. Wie immer, spielt verantwortungsbewusst und achtet darauf, dass niemand zu viel trinkt!
-
-In diesem Blogbeitrag findest du [25 Trinkspiele für Draußen](/post/trinkspiele-draussen)!
 
 <h2 id="geburtstag">Lustiges Trinkspiel zum Geburtstag: "Das Geburtstagsroulette"</h2>
 

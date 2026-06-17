@@ -188,8 +188,6 @@ Kombiniere das Spiel mit einem Motto:
 
 Das nimmt das Spiel nicht zu ernst – und sorgt für legendäre Fotos.
 
-Ihr habt gutes Wetter? Hier findest du [tolle Trinkspiele für Draußen](/post/trinkspiele-draussen)!
-
 ### 👯 4. Rage Cage in Teams
 
 Wenn ihr viele Leute seid: Spielt in Teams! Zwei Spieler teilen sich einen Ball und wechseln sich ab – das fördert Zusammenarbeit (oder Chaos). Auch gut: Ein Team ruft, das andere trinkt – wer lauter ist, gewinnt.

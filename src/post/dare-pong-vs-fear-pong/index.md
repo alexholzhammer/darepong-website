@@ -98,7 +98,7 @@ Trinkt verantwortungsbewusst und kennt eure Grenzen. Niemand muss eine Dare erf�
 
 <h2 id="selber-machen">Dare Pong selber machen</h2>
 
-Wenn ihr euer eigenes Dare/Fear Pong basteln wollt, empfehlen wir euch diesen Blog-Beitrag: [Dare Pong DIY für alle Bastler](/post/dare-pong-diy-f%C3%BCr-alle-bastler). Dort zeigen wir Schritt für Schritt, wie ihr Karten gestaltet und eigene Aufgaben entwickelt.
+Euer eigenes Dare/Fear Pong zu basteln, ist ganz einfach: Legt unter jeden Beer-Pong-Becher eine kleine Karte mit einer Aufgabe (Dare). Wird der Becher getroffen, muss die Aufgabe erfüllt oder der Becher getrunken werden. Gestaltet die Karten am besten wasserfest und mischt harmlose mit frechen Aufgaben, damit für jede Runde das Richtige dabei ist. Wer es lieber fertig mag, greift direkt zu [Dare Pong]({{ '/' | url }}).
 
 <h2 id="fazit">Fazit</h2>
 

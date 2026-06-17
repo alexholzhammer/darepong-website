@@ -89,8 +89,6 @@ Und falls ihr nicht genau zu viert seid: Weiter unten findest du auch Tipps für
 
 Denk daran, dass bei all diesen Spielen der Spaß im Vordergrund stehen sollte und nicht das Trinken selbst. Passt aufeinander auf und kennt eure Grenzen.
 
-Lesetipp: Finde hier die [besten Trinkspiele für Draußen](/post/trinkspiele-draussen)!
-
 <h2 id="uebersicht">Übersicht: alle Trinkspiele zu viert auf einen Blick</h2>
 
 Du suchst schnell das passende Spiel? Diese Tabelle zeigt dir auf einen Blick, was du brauchst und wie schnell es zur Sache geht. Klicke auf den Namen, um zum jeweiligen Spiel zu springen.
@@ -137,8 +135,7 @@ Die Magie von Trinkspielen zu viert liegt in ihrer Fähigkeit, eine Atmosphäre 
 
 **Soziale Entfaltung:** Trinkspiele zu viert bieten eine perfekte Plattform, um aus sich herauszukommen. Selbst die schüchternen Freunde finden in der ausgelassenen Stimmung einen Weg, sich zu öffnen.
 
-Diese Aspekte sorgen dafür, dass Trinkspiele zu viert nicht nur als Zeitvertreib dienen, sondern auch zu einem festen Bestandteil der sozialen Kultur unter jungen Erwachsenen geworden sind. Sie bieten eine ideale Möglichkeit, den Alltag hinter sich zu lassen und einfach eine gute Zeit mit Freunden zu verbringen. Tipp: Wirf einen Blick auf die besten [Festivalspiele](/post/festival-spiele)!
-
+Diese Aspekte sorgen dafür, dass Trinkspiele zu viert nicht nur als Zeitvertreib dienen, sondern auch zu einem festen Bestandteil der sozialen Kultur unter jungen Erwachsenen geworden sind. Sie bieten eine ideale Möglichkeit, den Alltag hinter sich zu lassen und einfach eine gute Zeit mit Freunden zu verbringen.
 <h2 id="mehr-oder-weniger">Trinkspiele zu dritt und für größere Gruppen</h2>
 
 Nicht immer seid ihr exakt zu viert - mal fehlt jemand, mal kommt spontan eine ganze Truppe dazu. Die gute Nachricht: Fast alle Spiele aus dieser Liste lassen sich problemlos auf andere Gruppengrößen anpassen.
