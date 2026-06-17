@@ -1,7 +1,7 @@
 ---
 title: "Trinkspiele online - die besten Spiele + Anleitungen"
 date: 2023-12-19
-summary: "Hier findest du die besten Trinkspiele online. Auf dich warten kreative Ideen, ausführliche Anleitungen und Inspiration für sehr lustige Abende."
+summary: "Trinkspiele online: die besten Spiele für Zoom, Discord und Co. – mit Anleitungen, Trinkregeln und Tipps für zu zweit, in der Gruppe und ab 18."
 image: /post/trinkspiele-online/trinkspiele-online-beste-spiele-anleitungen.avif
 imageAlt: "Trinkspiele online - die besten Spiele und Anleitungen für virtuelle Spieleabende"
 tags:
@@ -19,19 +19,43 @@ faq:
     a: "Remote Insensitivity ist die Online-Version von Cards Against Humanity und kann zum Beispiel auf PlayingCards.io gespielt werden. Mit Trinkregeln wie trinken bei nicht gewählten Karten wird es zum Online-Trinkspiel."
 ---
 
-Du und deine Freunde seid auf der Suche nach guten Trinkspielen, die ihr online spielen könnt?
+Du suchst Trinkspiele online, die ihr per Zoom, Discord oder Videocall zusammen spielen könnt? Ob in der großen Gruppe, zu zweit auf Distanz oder als Saufspiel ab 18 – hier findest du die besten Online-Trinkspiele mit klaren Anleitungen und fertigen Trinkregeln.
 
-Wir haben eine Liste der besten online Trinkspiele erstellt. Dazu findet ihr detaillierte Anleitungen für die wirklich lustigen Spiele.
+Alle Spiele lassen sich kostenlos im Browser oder per App starten. Wähle dein Spiel aus der Übersicht, lege die Trinkregeln fest und legt direkt los.
 
-Seid ihr bereit für großen Spaß?Dann lasst uns direkt loslegen!
+## Inhaltsverzeichnis
 
-## Houseparty Trivia
+- [Übersicht: Welches Online-Trinkspiel passt zu dir?](#uebersicht)
+- [Houseparty Trivia](#houseparty-trivia)
+- [Psych!](#psych)
+- [Ich hab noch nie online (per Zoom)](#ich-hab-noch-nie)
+- [Skribbl.io](#skribbl)
+- [Among Us](#among-us)
+- [Codenames Online](#codenames)
+- [Remote Insensitivity](#remote-insensitivity)
+- [Trinkspiele zu zweit online](#zu-zweit)
+- [Trinkspiele online ab 18 (Fragen & Wahrheit oder Pflicht)](#ab-18)
+- [Trinkspiele per Zoom, Discord & Videocall](#zoom-discord)
+
+<h2 id="uebersicht">Übersicht: Welches Online-Trinkspiel passt zu dir?</h2>
+
+| Spiel | Plattform | Ideal für | Anleitung |
+| --- | --- | --- | --- |
+| Houseparty Trivia | Houseparty-App | Quiz-Fans, Gruppe | [Springen](#houseparty-trivia) |
+| Psych! | App (Smartphone) | Bluffen, Gruppe | [Springen](#psych) |
+| Ich hab noch nie | Zoom / Videocall | Kennenlernen, zu zweit & Gruppe | [Springen](#ich-hab-noch-nie) |
+| Skribbl.io | Browser (kostenlos) | Kreative, Gruppe | [Springen](#skribbl) |
+| Among Us | App / Discord | Spannung, Gruppe | [Springen](#among-us) |
+| Codenames Online | Browser (kostenlos) | Teams, Wort-Fans | [Springen](#codenames) |
+| Remote Insensitivity | Browser (kostenlos) | Humor ab 18 | [Springen](#remote-insensitivity) |
+
+<h2 id="houseparty-trivia">Houseparty Trivia</h2>
 
 Dieses Spiel kombiniert das Trivia-Format mit dem Spaß eines Trinkspiels und kann über die Houseparty-App gespielt werden. Hier ist eine schrittweise Anleitung:
 
 ### **Vorbereitung:**
 
-1. **Teilnehmer einladen**: Lade Freunde ein, die die Houseparty-App installiert haben und sicherstellen, dass alle das gesetzliche Mindestalter für Alkoholkonsum erreicht haben.
+1. **Teilnehmer einladen**: Lade Freunde ein, die die Houseparty-App installiert haben, und stelle sicher, dass alle das gesetzliche Mindestalter für Alkoholkonsum erreicht haben.
 2. **Getränke bereitstellen**: Jeder Spieler sollte sein bevorzugtes Getränk bereithalten.
 3. **Spielregeln festlegen**: Besprich die Trinkregeln mit allen Teilnehmern, um sicherzustellen, dass jeder die Regeln versteht und sich wohlfühlt.
 
@@ -60,7 +84,7 @@ Dieses Spiel kombiniert das Trivia-Format mit dem Spaß eines Trinkspiels und ka
 
 Tipp: Hier findest du [Trinkspiele mit Würfeln](/post/trinkspiele-mit-wuerfeln)
 
-## Psych! Onlinetrinkspiel
+<h2 id="psych">Psych! Onlinetrinkspiel</h2>
 
 ![Online Trinkspiele sind weit verbreitet und hier gibt es gute Beispiele](trinkspiele-online-beispiele-uebersicht.avif)
 
@@ -89,7 +113,7 @@ Dieses Spiel kombiniert Spaß mit Trivia und kann leicht in ein Trinkspiel umgew
 
 - **Spiel beenden**: Entscheide, wann das Spiel beendet wird – entweder nach einer festgelegten Anzahl von Runden oder nach Ermessen der Gruppe.
 
-## Ich hab noch nie Trinkspiel online
+<h2 id="ich-hab-noch-nie">Ich hab noch nie Trinkspiel online (per Zoom)</h2>
 
 Das Onlinetrinkspiel "Zoom 'Ich habe noch nie'" ist eine digitale Version des klassischen Partyspiels, das über die Videochat-Plattform Zoom gespielt wird. Es ist ideal für virtuelle Treffen und eine unterhaltsame Möglichkeit, mehr über deine Freunde herauszufinden. Hier ist eine Anleitung, wie man es spielt:
 
@@ -120,19 +144,19 @@ Dieses Spiel ist eine großartige Möglichkeit, sich zu amüsieren und gleichzei
 
 Ihr trefft euch doch? Dann hast du hier sehr gute [Trinkspiele mit Karten](/post/trinkspiele-mit-karten)
 
-## Skribbl.io online Trinkspiel
+<h2 id="skribbl">Skribbl.io online Trinkspiel</h2>
 
-Das Onlinetrinkspiel "[Skribbl.io](http://Skribbl.io) mit Trinkregeln" ist eine amüsante Variante des beliebten Online-Zeichenspiels, kombiniert mit Trinkspiel-Elementen. Hier ist eine schrittweise Anleitung, wie man es spielt:
+Das Onlinetrinkspiel "Skribbl.io mit Trinkregeln" ist eine amüsante Variante des beliebten Online-Zeichenspiels, kombiniert mit Trinkspiel-Elementen. Hier ist eine schrittweise Anleitung, wie man es spielt:
 
 ### **Vorbereitung:**
 
-1. [**Skribbl.io**](http://Skribbl.io) **einrichten**: Öffne die Website [skribbl.io](http://skribbl.io) und erstelle einen privaten Raum. Lade deine Freunde mit dem Link zum Spielraum ein. Stelle sicher, dass alle Spieler das gesetzliche Mindestalter für Alkoholkonsum erreicht haben.
+1. **Skribbl.io einrichten**: Öffne die Website [skribbl.io](https://skribbl.io) und erstelle einen privaten Raum. Lade deine Freunde mit dem Link zum Spielraum ein. Stelle sicher, dass alle Spieler das gesetzliche Mindestalter für Alkoholkonsum erreicht haben.
 2. **Getränke bereithalten**: Jeder Teilnehmer sollte sein bevorzugtes Getränk griffbereit haben.
 3. **Trinkregeln festlegen**: Definiere spezifische Trinkregeln für das Spiel (siehe unten).
 
 ### **Spielregeln:**
 
-1. **Spiel starten**: Beginne das Spiel in [skribbl.io](http://skribbl.io). Spieler zeichnen reihum, während die anderen raten, was das Bild darstellt.
+1. **Spiel starten**: Beginne das Spiel in [skribbl.io](https://skribbl.io). Spieler zeichnen reihum, während die anderen raten, was das Bild darstellt.
 2. **Raten und Zeichnen**: Der zeichnende Spieler wählt ein Wort und versucht, es zu zeichnen. Die anderen Spieler versuchen, das Wort so schnell wie möglich zu erraten.
 3. **Trinkregeln anwenden**: Zum Beispiel:
    - Trinke, wenn du das Wort nicht innerhalb des Zeitlimits errätst.
@@ -153,7 +177,7 @@ Das Onlinetrinkspiel "[Skribbl.io](http://Skribbl.io) mit Trinkregeln" ist eine 
 
 Dieses Spiel ist eine unterhaltsame Möglichkeit, kreativ zu sein und gleichzeitig ein geselliges Trinkspiel zu genießen.
 
-## Among Us Trinkspiel
+<h2 id="among-us">Among Us Trinkspiel</h2>
 
 Das Onlinetrinkspiel "Among Us mit Trinkregeln" kombiniert das beliebte Multiplayer-Spiel "Among Us" mit dem Spaß eines Trinkspiels. Hier ist eine Anleitung, wie du es organisieren und spielen kannst:
 
@@ -190,7 +214,7 @@ Hier sind einige Vorschläge für Trinkregeln, die du anwenden kannst:
 
 ![Trinkspiele online sind eine gute Möglichkeit mit den Freunden Kontakt zu halten](trinkspiele-online-freunde-kontakt-halten.avif)
 
-## Codenames Online Trinkspiel
+<h2 id="codenames">Codenames Online Trinkspiel</h2>
 
 "Codenames Online" mit Trinkregeln ist eine amüsante Variante des beliebten Spionage-Wortspiels "Codenames", das online gespielt und mit Trinkelementen kombiniert wird. Hier ist eine Anleitung, wie du das Spiel organisieren und spielen kannst:
 
@@ -226,7 +250,7 @@ Hier sind einige Vorschläge für Trinkregeln, die du anwenden kannst:
 
 Übrigens: Wir haben auch einen Blogbeitrag über gute [Trinkspiele zu zweit](/post/trinkspiele-zu-zweit)!
 
-## Remote Insensitivity Onlinetrinkspiel
+<h2 id="remote-insensitivity">Remote Insensitivity Onlinetrinkspiel</h2>
 
 Das Onlinetrinkspiel "Remote Insensitivity", auch bekannt als die Online-Version von "Cards Against Humanity", kombiniert das beliebte Kartenspiel mit Trinkelementen. Hier ist eine Anleitung, wie man es organisiert und spielt:
 
@@ -259,6 +283,46 @@ Hier sind einige Vorschläge für Trinkregeln:
 - **Ende des Spiels**: Legt entweder eine maximale Rundenzahl oder eine Zeitgrenze fest, nach der das Spiel endet.
 
 "Remote Insensitivity" bietet eine großartige Möglichkeit, das beliebte Kartenspiel "Cards Against Humanity" online mit Freunden zu spielen und gleichzeitig ein online Trinkspiel daraus zu machen.
+
+<h2 id="zu-zweit">Trinkspiele zu zweit online</h2>
+
+Ihr seid nur zu zweit und sitzt an verschiedenen Orten? Auch auf Distanz gibt es richtig gute Online-Trinkspiele für Paare und Freunde. Ein Videocall per Zoom, Skype oder Discord reicht völlig aus – das gemeinsame Glas vor der Kamera ersetzt den Anstoß.
+
+Besonders gut zu zweit funktionieren Frage-Antwort-Spiele, weil sie ohne Team auskommen:
+
+- **[Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})**: Macht abwechselnd Aussagen – wer es schon getan hat, trinkt. Perfekt, um sich auch aus der Ferne besser kennenzulernen.
+- **[Wer würde eher]({{ '/wer-wuerde-eher/' | url }})**: Zu zweit zeigt jeder, auf wen die Aussage eher zutrifft. Sind eure Finger auf dieselbe Person gerichtet, trinkt diese.
+- **[Würdest du eher]({{ '/was-wuerdest-du-eher/' | url }})**: Stellt euch knifflige Entweder-oder-Fragen. Wer zu lange überlegt oder kneift, trinkt.
+- **[Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})**: Klassiker für zwei Personen – die Aufgaben lassen sich locker per Kamera erledigen.
+
+Tipp: Mehr Ideen für den Zweier-Abend findest du in unserem Beitrag zu [Trinkspielen zu zweit](/post/trinkspiele-zu-zweit).
+
+<h2 id="ab-18">Trinkspiele online ab 18 (Fragen & Wahrheit oder Pflicht)</h2>
+
+Du suchst Online-Trinkspiele ab 18, bei denen es etwas frecher zugeht? Frage-Trinkspiele sind dafür ideal, denn die Inhalte bestimmt ihr selbst – von harmlos bis pikant. Voraussetzung ist nur, dass alle Mitspieler volljährig sind.
+
+So baust du dir in wenigen Minuten ein eigenes Online-Trinkspiel mit Fragen:
+
+1. **Plattform wählen**: Startet einen Videocall per Zoom, Discord oder Skype.
+2. **Fragen-Spiel aussuchen**: Gut geeignet sind [Würdest du eher]({{ '/was-wuerdest-du-eher/' | url }}), [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}) und [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}).
+3. **Trinkregel festlegen**: Wer eine Frage nicht beantworten will oder bei wem die Aussage zutrifft, nimmt einen Schluck.
+4. **Reihum spielen**: Jeder stellt abwechselnd eine Frage – so kommt jeder dran.
+
+Für noch mehr Tempo eignet sich [Picolo]({{ '/picolo/' | url }}): Die App gibt Aufgaben und Trinkregeln vor und führt durch den Abend, während ihr sie per Bildschirmfreigabe teilt.
+
+<h2 id="zoom-discord">Trinkspiele per Zoom, Discord & Videocall</h2>
+
+Egal ob virtuelles Treffen, Fernbeziehung oder Online-Meeting mit Kollegen – mit dem richtigen Setup wird jeder Videocall zur Party. Die meisten Spiele auf dieser Seite laufen kostenlos im Browser oder per App. Du brauchst nur:
+
+- **Eine Videoplattform**: Zoom, Discord, Skype oder Google Meet. Über die Bildschirmfreigabe sehen alle dasselbe Spielfeld.
+- **Ein Spiel**: Browser-Spiele wie [skribbl.io](https://skribbl.io) oder Codenames Online laufen ohne Installation. Apps wie Psych! oder Among Us brauchen kurz einen Download.
+- **Klare Trinkregeln**: Legt vor dem Start gemeinsam fest, wann getrunken wird – so versteht jeder die Regeln.
+
+Wer es lieber rundenbasiert mag, spielt [Cheers to the Governor]({{ '/cheers-to-the-governor/' | url }}) per Videocall: ein einfaches Zählspiel, das auch ohne Material auskommt.
+
+**Verantwortungsbewusst spielen:** Online verliert man die eigene Menge schneller aus dem Blick als am echten Tisch. Trinkt in eurem Tempo, alkoholfreie Getränke sind jederzeit erlaubt, und passt aufeinander auf.
+
+Lust auf den echten Klassiker, sobald ihr euch wieder seht? Dann schau dir [Dare Pong]({{ '/' | url }}) an.
 
 <!-- game-links -->
 ## Anleitungen zu diesen Trinkspielen

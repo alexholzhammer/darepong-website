@@ -1,7 +1,7 @@
 ---
 title: "Trinkspiele mit Karten | die 14 besten Karten-Trinkspiele"
 date: 2023-11-29
-summary: "Trinkspiele mit Karten - Wenn du Karten hast und saufen willst, findest du hier die besten Trinkspiele für deine Situation. Spaß garantiert!"
+summary: "Trinkspiele mit Karten: 14 Karten-Trinkspiele mit Anleitung - zu zweit, in der Gruppe und mit nur einem Skatblatt. Inklusive Regeln und Trinkspiel-Tipps."
 image: /post/trinkspiele-mit-karten/trinkspiele-mit-karten.avif
 imageAlt: "Trinkspiele mit Karten - die 14 besten Karten-Trinkspiele für jeden Anlass"
 tags:
@@ -14,24 +14,42 @@ faq:
   - q: "Was sind die besten Karten-Trinkspiele für Gruppen?"
     a: "Die besten Karten-Trinkspiele für Gruppen sind Kings Cup, Arschloch, Up and Down the River, Hirnschaden, Kartenpusten, Bullshit, Hepp Hepp Hepp und Saufquartett."
   - q: "Was braucht man für Trinkspiele mit Karten?"
-    a: "Alles was ihr benoetigt ist ein Standard-Kartenset mit 52 Karten und Getraenke. Fuer manche Spiele wie Saufquartett benoetigt ihr ein Quartett-Kartenspiel."
+    a: "Alles was ihr benötigt ist ein Standard-Kartenset mit 52 Karten und Getränke. Für manche Spiele wie Saufquartett benötigt ihr ein Quartett-Kartenspiel."
   - q: "Kann man Trinkspiele mit Karten auch ohne Alkohol spielen?"
-    a: "Ja, man kann auch ohne Alkohol spielen. Der Spass am Bluffen, Raten und gemeinsamen Spielen bleibt derselbe."
+    a: "Ja, man kann auch ohne Alkohol spielen. Der Spaß am Bluffen, Raten und gemeinsamen Spielen bleibt derselbe."
 ---
 
-Ab sofort werdet ihr nie wieder Langeweile haben.
+**Trinkspiele mit Karten** sind die einfachste Art, aus einem normalen Abend eine Party zu machen: Alles, was ihr braucht, ist ein Kartenspiel mit 52 Karten (Skatblatt) und etwas zu trinken. Egal ob ihr ein Karten-Trinkspiel zu zweit, eine Runde fürs Kartenspiel-Trinken in der großen Gruppe oder ein schnelles Spiel mit nur einem Deck sucht - hier findest du 14 Anleitungen mit klaren Regeln.
 
-Wieso?
+Unten geht es direkt los: Spiele zu zweit, Klassiker für Gruppen wie King's Cup und Arschloch sowie eine Übersichtstabelle zum schnellen Auswählen. Du kannst alle Spiele übrigens auch ohne Alkohol spielen - der Spaß am Bluffen und Raten bleibt derselbe. Trinkt verantwortungsvoll und passt aufeinander auf.
 
-Weil wir hier die besten **Trinkspiele mit Karten** für euch vorbereitet haben.
+## Inhaltsverzeichnis
 
-Alles, was ihr benötigt, ist ein Kartenset und etwas Alkohol.
+- [Trinkspiele mit Karten zu zweit](#karten-zu-zweit)
+- [Trinkspiele mit Karten für Gruppen](#karten-gruppe)
+- [Karten-Trinkspiele im Überblick (Tabelle)](#uebersicht)
+- [Trinkspiele mit nur einem Kartenspiel](#nur-ein-kartenspiel)
+- [Karten-Trinkspiele zu dritt](#zu-dritt)
+- [Anleitungen zu diesen Trinkspielen](#anleitungen)
 
-Ja, man kann auch ohne Alkohol spielen.
+<h2 id="uebersicht">Karten-Trinkspiele im Überblick</h2>
 
-Aber will man das wirklich?
+<table>
+<thead>
+<tr><th>Spiel</th><th>Personen</th><th>Schwierigkeit</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="#hoeher-oder-tiefer">Höher oder tiefer</a></td><td>ab 2</td><td>sehr einfach</td></tr>
+<tr><td><a href="#rot-oder-schwarz">Rot oder Schwarz</a></td><td>ab 2</td><td>einfach</td></tr>
+<tr><td><a href="#busfahrer">Busfahrer</a></td><td>2-8</td><td>mittel</td></tr>
+<tr><td><a href="#kings-cup">King's Cup</a></td><td>ab 4</td><td>einfach</td></tr>
+<tr><td><a href="#arschloch">Arschloch</a></td><td>ab 3</td><td>mittel</td></tr>
+<tr><td><a href="#bullshit">Bullshit (Lügen)</a></td><td>ab 3</td><td>einfach</td></tr>
+<tr><td><a href="#saufquartett">Saufquartett</a></td><td>ab 3</td><td>einfach</td></tr>
+</tbody>
+</table>
 
-## Trinkspiele mit Karten zu zweit
+<h2 id="karten-zu-zweit">Trinkspiele mit Karten zu zweit</h2>
 
 ![Trinkspiele mit Karten - diese Spiele sind der Hammer](trinkspiele-mit-karten-beste-spiele.avif)
 
@@ -39,9 +57,9 @@ Ihr seid zwei einsame Gestalten und wollt euch mit einem Karten-Trinkspiel dumms
 
 We got you covered!
 
-### 1. Höher oder tiefer
+<h3 id="hoeher-oder-tiefer">1. Höher oder tiefer</h3>
 
-Das Spiel ist super geeignet, wenn man sich stumpf die Batterie abklemmen will und selbst ihr solltet dieses einfache Spielprinzip noch mit 2 Promille verstehen.
+Das Spiel ist super geeignet, wenn man einfach abschalten und losspielen will - das simple Prinzip versteht jeder sofort.
 
 Mischt das Kartendeck und legt es geschlossen zwischen euch. Der besoffenere von euch beiden deckt nun die oberste Karte auf. Der andere muss nun raten, ob die nächste Karte höher oder tiefer als die zuvor aufgedeckte Karte ist. Liegt er falsch, muss er trinken und ist wieder an der Reihe. Liegt er richtig, ist der andere Spieler dran.
 
@@ -63,15 +81,15 @@ Vorschlag: Immer wenn man eine 7 zieht, kriegt man eine Backpfeife und muss trin
 
 Das Spiel hat kein Ende, ihr könnt so lange spielen, bis ihr am Boden liegt.
 
-### 3. Rot oder Schwarz
+<h3 id="rot-oder-schwarz">3. Rot oder Schwarz</h3>
 
 Wieder legt ihr das Kartendeck verdeckt vor euch.
 
-Der hässlichere von beiden beginnt und rät, ob die nächste Karte Rot oder Schwarz ist. Hat er Unrecht, muss er trinken und der andere Spieler ist dra.
+Einer von beiden beginnt und rät, ob die nächste Karte Rot oder Schwarz ist. Hat er Unrecht, muss er trinken und der andere Spieler ist dran.
 
 Hat er Recht, kann er entscheiden, ob sein Gegner trinken muss, oder er sein Glück auf die Probe stellt und eine weitere Karte erraten kann. Liegt er falsch, muss er trinken. Liegt er richtig, kann er entscheiden, ob sein Gegner zwei trinken muss, oder ob er sein Glück erneut auf die Probe stellen möchte. Liegt er falsch, muss er einen trinken. Liegt er richtig, trinkt sein Gegner 4-fach!
 
-### 4. Busfahrer
+<h3 id="busfahrer">4. Busfahrer</h3>
 
 Stell dir vor, du bist der Organisator einer Busreise für Durstige. Dein Ziel? Einen Tisch voller Karten in einer Pyramidenform anordnen, so wie du sie in den alten Ägypten-Filmen siehst, nur dass diese Pyramide zu einem feucht-fröhlichen Abenteuer führt.
 
@@ -82,6 +100,8 @@ Stell dir vor, du bist der Organisator einer Busreise für Durstige. Dein Ziel? 
 3. **Das große Finale - Busfahrer:** Der Spieler, der am Ende die meisten Karten gesammelt hat, wird zum Busfahrer ernannt. Dies ist kein glorreicher Titel, denn jetzt musst du eine Reihe von Karten aufdecken. Bei jeder Bildkarte musst du trinken und eine neue Reihe anfangen. Der Bus fährt so lange, bis du eine Reihe ohne Bildkarten aufdeckst.
 
 Das Spiel endet, wenn der "Busfahrer" seine Fahrt überstanden hat, oder wenn alle zu besoffen sind, um weiterzuspielen. "Busfahrer" ist das perfekte Spiel für diejenigen, die gerne lachen, trinken und den Nervenkitzel einer unvorhersehbaren Busfahrt genießen. Sicherheitsgurte sind optional, aber ein gutes Trinktempo und ein Sinn für Humor sind Pflicht!
+
+Die komplette Anleitung zum [Busfahrer Kartenspiel]({{ '/busfahrer/' | url }}) findest du im ausführlichen Datenblatt.
 
 ### 5. Karten raten
 
@@ -99,15 +119,13 @@ Gibt ein Spieler zu Beginn auf, muss er einen Schluck trinken. Begonnen wird abw
 
 Tipp: Hier findest du weitere [Trinkspiele zu zweit](/post/trinkspiele-zu-zweit)!
 
-## Trinkspiele mit Karten für Gruppen
+<h2 id="karten-gruppe">Trinkspiele mit Karten für Gruppen</h2>
 
 ![Trinkspiele Karten Gruppe betrunkener Männer](trinkspiele-karten-gruppe.avif)
 
-Du hast mehr als einen Freund?
+Ihr seid mehr als zwei Leute? Dann sind diese Karten-Trinkspiele für Gruppen genau richtig - von King's Cup bis Arschloch funktioniert hier alles mit einem einzigen Kartenspiel.
 
-Herzlichen Glückwunsch. Du hast dich erfolgreich für diese Spiele qualifiziert.
-
-#### 1. King's Cup
+<h3 id="kings-cup">1. King's Cup</h3>
 
 "King's Cup" (auch bekannt als "Circle of Death" oder "Ring of Fire") ist ein beliebtes Trinkspiel, das sich hervorragend für größere Gruppen eignet. Hier ist eine Anleitung, wie man es spielt:
 
@@ -144,9 +162,9 @@ Jede Karte im Spiel hat eine bestimmte Regel oder Aktion zugeordnet. Die Spieler
 
 Das Spiel endet, wenn alle Karten gezogen wurden oder wenn jemand den Inhalt des King's Cups trinken muss.
 
-Lesetipp: Finde hier die besten [Trinkspiele zu viert](/post/trinkspiele-zu-viert-die-beste-25)!
+Mehr Varianten und die Vollversion gibt es im Datenblatt zu [King's Cup]({{ '/kings-cup/' | url }}). Lesetipp: Finde hier die besten [Trinkspiele zu viert]({{ '/post/trinkspiele-zu-viert/' | url }})!
 
-### 2. Arschloch!
+<h3 id="arschloch">2. Arschloch!</h3>
 
 Beruhig dich.
 
@@ -186,6 +204,8 @@ Hier sind die Regeln.
 #### Spielende:
 
 Das Spiel endet nach einer festgelegten Anzahl von Runden oder wenn die Spieler nicht mehr weiterspielen möchten. In manchen Gruppen wird das "Arschloch" in der nächsten Runde bestraft, beispielsweise muss es zusätzliche Schlucke trinken oder bestimmte Aufgaben erfüllen.
+
+Die ausführliche Anleitung mit allen Sonderregeln findest du im Datenblatt zu [Arschloch]({{ '/arschloch/' | url }}).
 
 ### 3. Up and Down the River
 
@@ -292,7 +312,7 @@ Das Ziel des Spiels ist es, die Karten vom Glas zu pusten, ohne dass alle Karten
 - **Strafen**: Ihr könnt zusätzliche Strafen einführen, wie z.B. doppelte Trinkmenge, wenn mehr als die Hälfte der Karten herunterfällt.
 - **Zusätzliche Herausforderungen**: Um das Spiel schwieriger zu machen, kann man Regeln hinzufügen, wie z.B. dass man nur mit einer bestimmten Seite des Mundes pusten darf.
 
-### 6. Bullshit
+<h3 id="bullshit">6. Bullshit</h3>
 
 "Bullshit" (auch bekannt als "Cheat", "I Doubt It" oder "Lügen") ist ein beliebtes Kartentrinkspiel, bei dem Täuschung und Bluffen im Mittelpunkt stehen. Hier ist eine Schritt-für-Schritt-Anleitung:
 
@@ -363,9 +383,9 @@ Das Trinkspiel "Hepp Hepp Hepp" ist ein einfaches, aber unterhaltsames Spiel, da
 - **Erhöhte Schwierigkeit**: Für eine größere Herausforderung können zusätzliche "Hepp"-Regeln eingeführt werden, z.B. für Zahlen, die durch 5 teilbar sind oder eine 5 enthalten.
 - **Tempo**: Das Spiel kann in verschiedenen Geschwindigkeiten gespielt werden. Ein schnelleres Tempo erhöht die Schwierigkeit.
 
-### 8. Saufquartett
+<h3 id="saufquartett">8. Saufquartett</h3>
 
-"SAufquartett" ist eine trinkspielorientierte Variante des klassischen Kartenspiels Quartett. Es kombiniert die Grundprinzipien des Sammelns von Kartenquartetten mit Trinkregeln. Hier ist eine Schritt-für-Schritt-Anleitung:
+"Saufquartett" ist eine trinkspielorientierte Variante des klassischen Kartenspiels Quartett. Es kombiniert die Grundprinzipien des Sammelns von Kartenquartetten mit Trinkregeln. Hier ist eine Schritt-für-Schritt-Anleitung:
 
 #### Materialien:
 
@@ -395,8 +415,30 @@ Das Ziel des Spiels ist es, möglichst viele Quartette zu sammeln.
 - **Falsche Anfrage**: Wenn ein Spieler eine Karte anfragt, die er nicht anfragen kann (weil er keine Karte aus demselben Quartett hat), muss er trinken.
 - **Spielende**: Wenn alle Quartette vervollständigt sind oder die Spieler entscheiden, das Spiel zu beenden.
 
+<h2 id="nur-ein-kartenspiel">Trinkspiele mit nur einem Kartenspiel</h2>
+
+Du hast nur ein einziges Kartenspiel zur Hand und sonst kein Zubehör? Kein Problem - die meisten Karten-Trinkspiele auf dieser Seite brauchen genau das: ein Skatblatt mit 52 Karten. Diese Spiele funktionieren komplett ohne Würfel, Bechertürme oder Apps:
+
+- **King's Cup**: Karten kreisförmig auslegen, ziehen, Regel ausführen - mehr braucht es nicht.
+- **Arschloch** und **Bullshit**: Karten gleichmäßig verteilen und losspielen.
+- **Höher oder tiefer** sowie **Rot oder Schwarz**: ideal, wenn ihr nur zu zweit seid.
+- **Busfahrer**: braucht nur das Deck und etwas Platz für die Kartenpyramide.
+
+Wer das Kartenspiel-Trinken ohne viel Vorbereitung mag, ist mit diesen Klassikern bestens bedient. Tipp: Entfernt vorher die Joker, dann passen alle Regeln auf ein normales Blatt. Wenn ihr lieber ein fertiges Spielprinzip wollt, schau dir auch [UNO als Trinkspiel]({{ '/uno-trinkspiel/' | url }}) an - das funktioniert mit einem UNO-Deck.
+
+<h2 id="zu-dritt">Karten-Trinkspiele zu dritt</h2>
+
+Zu dritt ist eine etwas knifflige Gruppengröße: zu zweit-Spiele werden zäh, klassische Gruppenrunden funktionieren erst richtig ab vier Leuten. Diese Karten-Trinkspiele sind aber wie gemacht für drei Personen:
+
+- **Bullshit (Lügen)**: lebt vom Bluffen - mit drei Leuten ist die Spannung am größten, weil jeder jeden im Blick hat.
+- **Saufquartett**: ausgewogen verteilbar und schnell erklärt.
+- **Schwimmen (Schwimmen / 31)**: ein echtes Kartenspiel, das auch zu dritt super läuft - die Anleitung gibt es bei [Schwimmen]({{ '/schwimmen/' | url }}).
+- **Mäxchen**: braucht zwar Würfel, ist zu dritt aber ideal - siehe [Mäxchen]({{ '/maexchen/' | url }}).
+
+Für noch mehr Auswahl in kleiner Runde lohnt ein Blick auf [17 und 4]({{ '/17-und-4/' | url }}) als schnelles Kartenspiel mit Trinkregeln. Und falls aus drei doch vier werden, übernehmt einfach [King's Cup]({{ '/kings-cup/' | url }}).
+
 <!-- game-links -->
-## Anleitungen zu diesen Trinkspielen
+<h2 id="anleitungen">Anleitungen zu diesen Trinkspielen</h2>
 
 Die beliebtesten Karten-Trinkspiele mit ausführlicher Anleitung:
 
@@ -406,6 +448,7 @@ Die beliebtesten Karten-Trinkspiele mit ausführlicher Anleitung:
 - [17 und 4]({{ '/17-und-4/' | url }})
 - [Arschloch]({{ '/arschloch/' | url }})
 - [UNO Trinkspiel]({{ '/uno-trinkspiel/' | url }})
+- [Mäxchen]({{ '/maexchen/' | url }})
 
-Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}). Lust auf mehr Action? Dann probiert [Dare Pong]({{ '/' | url }}) - das Trinkspiel mit Mutproben und Bechern. Egal für welches Karten-Trinkspiel ihr euch entscheidet: Trinkt verantwortungsvoll und passt aufeinander auf.
 

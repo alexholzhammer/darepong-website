@@ -1,7 +1,7 @@
 ---
 title: "Rage Cage: Das Trinkspiel für legendäre Abende"
 date: 2025-09-18
-summary: "Erfahre alles über Rage Cage. Regeln (mit Video), Aufbau, die besten Lieder und Erweiterungen. Danach weißt du wie es geht und du viel Spaß damit hast!"
+summary: "Rage Cage Trinkspiel: Regeln, Aufbau, Spieleranzahl, die besten Lieder (Gas Gas Gas) und Varianten. Komplette Anleitung Schritt für Schritt erklärt."
 image: /post/rage-cage/rage-cage.avif
 imageAlt: "Rage Cage Trinkspiel Aufbau mit Bechern und Ping-Pong-Bällen auf einem Tisch"
 tags:
@@ -19,13 +19,27 @@ faq:
     a: "Klassiker sind Gas Gas von Goran Bregovic, Shots von LMFAO oder Turn Down for What von DJ Snake & Lil Jon. Viele Gruppen spielen das komplette Spiel mit einem einzigen Song in Dauerschleife."
 ---
 
-Du suchst nach einem Trinkspiel, das schnell, laut und einfach nur verrückt ist? Dann bist du beim **Rage Cage** genau richtig. Das Spiel bringt Chaos, Spaß und jede Menge Action auf jede Party. Kein Wunder, dass das **Rage Cage Trinkspiel** bei Studenten, in WGs und auf Festivals so beliebt ist.
+Das **Rage Cage Trinkspiel** ist schnell, laut und chaotisch: Reihum greift jeder einen Becher, ext ihn und versucht, den Ping-Pong-Ball schneller zu versenken als der Nachbar. Hier findest du die kompletten **Rage Cage Regeln**, den Aufbau, die ideale Spieleranzahl, die besten Lieder und clevere Varianten.
+
+Beliebt ist Rage Cage vor allem bei Studenten, in WGs und auf Festivals, weil du kaum Material brauchst und sofort loslegen kannst. Diese Anleitung erklärt dir Schritt für Schritt, wie das Spiel funktioniert, und gibt dir Tipps, mit denen du weniger trinkst.
 
 {% gamePreview "rage-cage" %}
 
-## Was ist Rage Cage und was braucht man für das Spiel?
+## Inhaltsverzeichnis
+
+- [Was ist Rage Cage & was braucht man?](#was-ist-rage-cage)
+- [Die Rage Cage Regeln](#regeln)
+- [Aufbau & Spieleranzahl](#aufbau)
+- [Die perfekte Strategie](#strategie)
+- [Die besten Rage Cage Lieder](#lieder)
+- [Varianten & Erweiterungen](#varianten)
+- [Häufige Fragen (FAQ)](#faq)
+
+<h2 id="was-ist-rage-cage">Was ist Rage Cage und was braucht man für das Spiel?</h2>
 
 Fragst du dich: **Was ist Rage Cage eigentlich?** Dann stell dir ein Trinkspiel vor, das Geschwindigkeit, Chaos und jede Menge Gelächter vereint. Manche nennen es auch „Stack Cup“ oder „Boom Cup“, aber am Ende läuft es immer auf dasselbe hinaus: viele Becher, ein paar Ping-Pong-Bälle und der Versuch, schneller zu treffen als dein Nebenmann.
+
+**Rage Cage Übersetzung & Bedeutung:** Wörtlich heißt „Rage Cage“ so viel wie „Wut-Käfig“ – ein passender Name, denn auf engstem Raum kreisen die Becher, und der Druck steigt von Sekunde zu Sekunde. Im Deutschen gibt es keinen eigenen Begriff; gespielt wird es einfach unter dem englischen Namen oder als Stack Cup.
 
 ![Rage Cage Regeln, Trinkspiel Aufbau und Anleitung](rage-cage-was-du-brauchst.webp)
 
@@ -40,7 +54,7 @@ Das gehört auf jeden Fall dazu:
 
 So entsteht ein Spielfeld, das auf den ersten Blick harmlos aussieht, aber im Laufe des Spiels schnell zur tobenden Party-Arena wird. Schon nach den ersten Würfen merkst du: Hier zählt nicht nur Geschick, sondern auch Reaktion, Schnelligkeit – und ein bisschen Glück.
 
-## Die Rage Cage Regeln
+<h2 id="regeln">Die Rage Cage Regeln</h2>
 
 Jetzt wird's wild – hier kommen die offiziellen **Rage Cage Regeln**, so wie sie wirklich gespielt werden. Schnell, laut, chaotisch – und einfach verdammt witzig.
 
@@ -60,7 +74,30 @@ Jetzt wird's wild – hier kommen die offiziellen **Rage Cage Regeln**, so wie s
 
 Zu wenige Mitspieler? Hier findest du die [besten Trinkspiele zu zweit](/post/trinkspiele-zu-zweit)!
 
-## Rage Cage Trinkspiel | Die perfekte Strategie
+<h2 id="aufbau">Rage Cage Aufbau & Spieleranzahl</h2>
+
+Der **Rage Cage Aufbau** ist in zwei Minuten erledigt – genau das macht das Spiel so spontan einsetzbar. Du brauchst keinen speziellen Tisch: Jeder stabile, runde oder eckige Tisch funktioniert, solange alle Spieler bequem herankommen.
+
+So baust du **Rage Cage** richtig auf:
+
+1. Stell **20 bis 30 Plastikbecher** dicht zusammen in die Tischmitte (kein Kreis nötig, ein Pulk reicht).
+2. Fülle jeden Becher mit nur **einem kleinen Schluck** Bier oder Mischgetränk – ihr ext schließlich viele davon.
+3. Platziere in der Mitte den **großen „Bitch-Cup“** und fülle ihn fast randvoll. Habt ihr nur eine Bechergröße, nehmt einfach mehr Flüssigkeit oder einen Schuss Schnaps.
+4. Legt **zwei Ping-Pong-Bälle** bereit – je einer für die zwei Startspieler.
+
+### Wie viele Spieler braucht man für Rage Cage?
+
+Rage Cage funktioniert ab **4 Spielern** und wird mit jeder weiteren Person besser. Eine feste Obergrenze gibt es nicht – ab etwa 10 bis 12 Leuten lohnt sich das Spielen in **Teams**, damit niemand zu lange warten muss. Die folgende Tabelle gibt dir einen schnellen Überblick:
+
+| Spieleranzahl | Becher | Bälle | Empfehlung |
+| --- | --- | --- | --- |
+| 4–6 Spieler | ca. 15–20 | 2 | Klassisch im Kreis |
+| 7–10 Spieler | ca. 20–25 | 2 | Schnelles Tempo, dichter Kreis |
+| 11+ Spieler | 25–30 | 2–3 | In [Teams](#varianten) spielen |
+
+Tipp: Sucht ihr noch mehr schnelle Becher-Spiele für die Runde? Probiert [Flip Cup]({{ '/flip-cup/' | url }}) oder [Beer Pong]({{ '/beer-pong/' | url }}) als Aufwärmer.
+
+<h2 id="strategie">Rage Cage Trinkspiel | Die perfekte Strategie</h2>
 
 Klar: Bei **Rage Cage** geht's in erster Linie um Spaß. Aber wer nicht ständig den großen Becher trinken will, sollte ein paar Dinge beachten. Mit der richtigen Strategie kommst du weiter – und hast trotzdem jede Menge Gaudi dabei.
 
@@ -83,7 +120,7 @@ Am Ende bleibt's dabei: Rage Cage ist laut, wild und witzig – aber wer clever 
 
 Lesetipp: Entdecke [die besten Trinkspiele mit Karten](/post/trinkspiele-mit-karten).
 
-## Rage Cage Lied | Diese Songs sind besonders beliebt
+<h2 id="lieder">Rage Cage Lied | Diese Songs sind besonders beliebt</h2>
 
 Musik ist bei **Rage Cage** fast genauso wichtig wie die Becher und der Ball. Ohne den richtigen Sound wirkt das Spiel halb so wild – mit dem passenden Song dagegen wird's zur Eskalation pur.
 
@@ -113,7 +150,7 @@ Keine Lust der DJ zu sein? Hier ein paar Empfehlungen für Rage Cage Playlists:
 - <https://open.spotify.com/playlist/4mUYeW6jV2TTrMBqiJdas0>
 - <https://www.youtube.com/playlist?list=PLw8uEms2cdQa2RtXWqvet-we3h5gf8qM8>
 
-## Wie kann man das Rage Cage Drinking Game noch lustiger machen?
+<h2 id="varianten">Wie kann man das Rage Cage Drinking Game noch lustiger machen?</h2>
 
 Eins vorweg: **Rage Cage ist schon ziemlich unterhaltsam**, so wie es ist. Aber wenn ihr öfter spielt oder einfach mal was Neues ausprobieren wollt, gibt's jede Menge Möglichkeiten, das Spiel noch wilder, chaotischer oder einfach witziger zu gestalten.
 
@@ -138,7 +175,7 @@ Wem der Becher in den Becher gestellt wird (also wer „eingeholt“ wird), der 
 - ein peinliches Geständnis machen,
 - mit Dialekt sprechen bis zum nächsten Wurf.
 
-So kommt noch mehr Stimmung rein – und der Trash-Faktor steigt. Perfekt geeignet ist dazu natürlich [Dare Pong](https://www.darepong.eu). Einfach die Dares unter die Becher legen und genießen!
+So kommt noch mehr Stimmung rein – und der Trash-Faktor steigt. Perfekt geeignet ist dazu natürlich [Dare Pong]({{ '/' | url }}). Einfach die Dares unter die Becher legen und genießen!
 
 ### 👕 3. Kostüm-/Mottopartys
 
@@ -170,6 +207,22 @@ Das bringt neuen Schwung rein – besonders bei Gruppen, die das Spiel schon oft
 ### 📷 6. Live-Kommentar & Highlights
 
 Schnappt euch eine Kamera oder macht Insta-Stories. Noch besser: Lasst einen Mitspieler das Spiel als „Sport-Kommentator“ begleiten. Sätze wie „Oh, da zittert der Becher!“, „Mutiger Wurf – und er geht rein!“ machen das Ganze noch absurder – aber genau das ist der Spaß.
+
+<h2 id="faq">Häufige Fragen zu Rage Cage (FAQ)</h2>
+
+**Was ist Rage Cage?**
+Rage Cage ist ein schnelles Becher-Trinkspiel mit Ping-Pong-Bällen, auch bekannt als Stack Cup oder Boom Cup. Reihum wird getrunken und geworfen – wer eingeholt wird, muss nachziehen.
+
+**Was braucht man für Rage Cage?**
+20–30 Plastikbecher, einen großen Becher für die Mitte, mindestens zwei Ping-Pong-Bälle und ein Getränk deiner Wahl (klassisch Bier, alternativ Radler oder Cider).
+
+**Wie viele Spieler braucht man für Rage Cage?**
+Ab 4 Spielern; ab etwa 10–12 Personen empfiehlt sich das Spielen in Teams. Eine feste Obergrenze gibt es nicht.
+
+**Welches Lied passt am besten zu Rage Cage?**
+Beliebt sind „Gas Gas Gas“ von Goran Bregovic, „Shots“ von LMFAO oder „Turn Down for What“. Viele Gruppen spielen die ganze Runde mit einem einzigen Song in Dauerschleife.
+
+> **Trink mit Verstand:** Rage Cage lebt vom Tempo, aber dein Wohlbefinden geht vor. Trinkt in eurem eigenen Tempo, stellt Wasser bereit und respektiert ein „Nein“. Alkohol nur ab 18 – und niemals fahren.
 
 <!-- game-links -->
 ## Anleitungen zu diesen Trinkspielen
