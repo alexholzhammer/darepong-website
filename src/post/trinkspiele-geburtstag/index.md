@@ -28,6 +28,8 @@ Jedes Spiel erklären wir mit Material, Ablauf und den wichtigsten Regeln, sodas
 - [Was ein gutes Geburtstags-Trinkspiel ausmacht](#kriterien)
 - [Übersicht: alle 10 Spiele auf einen Blick](#uebersicht)
 - [Die 10 besten Trinkspiele im Detail](#top10)
+- [Trinkspiele für große Gruppen](#grosse-gruppen)
+- [Trinkspiele nach Anlass: 16., 18., 30. & runder Geburtstag](#nach-alter)
 
 <h2 id="kriterien">Was macht ein gutes Trinkspiel zum Geburtstag aus?</h2>
 
@@ -428,5 +430,39 @@ Das Spiel endet, wenn ein Team alle seine Getränke geleert hat. Es kann auch ei
 #### Spielende:
 
 Das Spiel endet, wenn alle Nägel komplett eingeschlagen sind. Der Spieler mit dem zuerst komplett eingeschlagenen Nagel wird als Gewinner gefeiert.
+
+<h2 id="grosse-gruppen">Trinkspiele für große Gruppen</h2>
+
+Je größer die Geburtstagsrunde, desto wichtiger sind Spiele, bei denen **alle gleichzeitig mitmachen** – ohne langes Warten, bis man an der Reihe ist. Diese Trinkspiele funktionieren auch ab 8, 10 oder noch mehr Personen zuverlässig:
+
+- **[Flunkyball](#flunkyball)** – Team gegen Team draußen: Zwei beliebig große Mannschaften treten gegeneinander an, alle trinken parallel. Der Klassiker für große Gruppen im Garten oder Park.
+- **[Flip Cup](#flip-cup)** – als Staffel in zwei großen Teams. Je mehr Leute, desto spannender wird das Kopf-an-Kopf-Rennen.
+- **Rage Cage** – ein rasantes Becher-Spiel, das mit großen Runden erst richtig Spaß macht. → [Rage Cage Anleitung]({{ '/rage-cage/' | url }})
+- **[Ich hab noch nie](#ich-hab-noch-nie)** – funktioniert mit beliebig vielen Mitspielern im Kreis und sorgt schnell für Gesprächsstoff.
+- **Power Hour** – 60 Minuten, jede Minute ein Schluck: ein gemeinsamer Rhythmus, bei dem die ganze Gruppe gleichzeitig dabei ist. → [Power Hour Anleitung]({{ '/power-hour/' | url }})
+
+> 💡 **Tipp für große Partys:** Baut bei vielen Gästen lieber zwei Stationen parallel auf (z. B. Beer Pong und Flip Cup), damit niemand nur zuschaut. So bleibt die ganze Gruppe in Bewegung.
+
+<h2 id="nach-alter">Trinkspiele nach Anlass: vom 16. bis zum runden Geburtstag</h2>
+
+Welches Trinkspiel am besten passt, hängt auch vom Anlass ab. Hier unsere Empfehlungen für die beliebtesten Geburtstage:
+
+<h3>Trinkspiele zum 16. Geburtstag</h3>
+
+In Deutschland sind Bier und Wein ab 16 Jahren erlaubt, Spirituosen erst ab 18. Setzt deshalb auf leichte, gesellige Spiele – oder spielt die Klassiker einfach mit **alkoholfreien Getränken**. Gut geeignet sind Spiele ohne harten Alkohol wie [Buzz](#buzz), [Most Likely](#most-likely) und [Ich hab noch nie](#ich-hab-noch-nie), die auch ohne viel Promille für jede Menge Lacher sorgen.
+
+<h3>Trinkspiele zum 18. Geburtstag</h3>
+
+Endlich volljährig – der 18. ist für viele der erste große Party-Geburtstag. Hier dürfen die echten Klassiker ran: [King's Cup](#kings-cup), [Beer Pong](#beer-pong) und [Flunkyball](#flunkyball). Für extra Stimmung kombinierst du Beer Pong mit [Dare Pong]({{ '/' | url }}): Unter jedem Becher liegt eine lustige Aufgabe, die erfüllt werden muss – das perfekte Geschenk und Highlight für den 18.
+
+<h3>Trinkspiele zum 30. Geburtstag</h3>
+
+Mit 30 steht der gesellige Abend im Vordergrund. Spiele, die zum Reden und Erinnern anregen, kommen besonders gut an: [Ich hab noch nie](#ich-hab-noch-nie) und [Most Likely](#most-likely) bringen alte Geschichten auf den Tisch, während [King's Cup](#kings-cup) für einen entspannten Einstieg in den Abend sorgt.
+
+<h3>Trinkspiele zum 40., 50. & runden Geburtstag</h3>
+
+Bei runden Geburtstagen ist eine gemütliche, nicht zu wilde Runde meist genau richtig. Setze auf Spiele mit Köpfchen und Geselligkeit statt auf Tempo: [Quarters](#quarters), [Ich hab noch nie](#ich-hab-noch-nie) oder eine Runde Schätzfragen. Wer draußen feiert, liegt mit [Nageln](#nageln) goldrichtig – ein Spiel, das Generationen verbindet.
+
+> ⚠️ **Wichtig:** Egal bei welchem Geburtstag – Trinkspiele machen am meisten Spaß, wenn alle verantwortungsbewusst mitspielen. Stellt immer alkoholfreie Alternativen bereit und zwingt niemanden zum Trinken.
 
 Hast du weitere Ideen für passende Trinkspiele zum Geburtstag? Schick uns gerne eine E-Mail an <info@spielleute.eu> und wir werden die besten Vorschläge in diese Liste aufnehmen!
