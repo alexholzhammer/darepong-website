@@ -118,6 +118,11 @@ Würfelpoker ist ein **geselliges Würfelspiel** für 2 bis 8 Personen, das mit 
 
 <h2 id="rangfolge">Die Rangfolge der Hände</h2>
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/wuerfelpoker-rangfolge.svg' | url }}" width="600" height="392" loading="lazy" decoding="async" eleventy:ignore alt="Würfelpoker Rangfolge der Hände von hoch nach niedrig: Fünfling, Vierling, Full House, große Straße, kleine Straße, Drilling, zwei Paare, ein Paar, höchste Zahl">
+  <figcaption>Die Rangfolge der Würfelpoker-Hände – oben die höchste (Fünfling), unten die niedrigste (höchste Einzelzahl). Wer am Ende die niedrigste Hand hat, trinkt.</figcaption>
+</figure>
+
 Die Reihenfolge der Pokerhände zu kennen, ist beim Würfelpoker alles – von oben (am höchsten) nach unten:
 
 <div class="game__table-wrap">

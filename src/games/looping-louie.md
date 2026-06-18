@@ -118,6 +118,11 @@ Looping Louie ist ein **batteriebetriebenes Geschicklichkeitsspiel** für 2 bis 
 
 <h2 id="ablauf">So funktioniert es</h2>
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/looping-louie-aufbau.svg' | url }}" width="600" height="330" loading="lazy" decoding="async" eleventy:ignore alt="Looping Louie Aufbau: in der Mitte dreht sich Louie im Flugzeug, rundherum vier Basen mit je drei Hühnern und einem Hebel">
+  <figcaption>Looping-Louie-Aufbau: Louie kreist in der Mitte, bis zu vier Spieler verteidigen mit dem Hebel ihre je drei Hühner – für jedes verlorene Huhn wird getrunken.</figcaption>
+</figure>
+
 Der Motor lässt Louie unaufhörlich im Kreis fliegen. Kommt er auf deine Basis zu, hast du nur einen kurzen Moment: Schlägst du den Hebel im **richtigen Augenblick**, fliegt Louie über deine Hühner hinweg zur nächsten Basis. Schlägst du zu früh oder zu spät, sackt er ab und holt sich deine Hühner. Das Ziel ist also doppelt – die eigenen Hühner retten und Louie gleichzeitig so weiterschicken, dass er bei den Mitspielern landet.
 
 <h2 id="trinkspiel">Looping Louie als Trinkspiel</h2>

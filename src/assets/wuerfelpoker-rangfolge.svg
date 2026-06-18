@@ -1,0 +1,30 @@
+<svg viewBox="0 0 600 392" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Würfelpoker Rangfolge der Hände von hoch nach niedrig: Fünfling, Vierling, Full House, große Straße, kleine Straße, Drilling, zwei Paare, ein Paar, höchste Zahl.">
+  <title>Würfelpoker – Rangfolge der Hände</title>
+  <desc>Die Pokerhände beim Würfelpoker von der höchsten zur niedrigsten: Fünfling (5 gleiche), Vierling, Full House, große Straße, kleine Straße, Drilling, zwei Paare, ein Paar, höchste Einzelzahl. Wer die niedrigste Hand hat, trinkt.</desc>
+  <text x="20" y="30" font-family="sans-serif" font-size="17" font-weight="700" fill="#0E0E10">Würfelpoker – Rangfolge der Hände (hoch → niedrig)</text>
+  <g font-family="sans-serif">
+    <!-- rows -->
+    <g>
+      <rect x="20" y="48" width="560" height="34" rx="8" fill="#F2B829"/>
+      <circle cx="42" cy="65" r="12" fill="#0E0E10"/><text x="42" y="69" text-anchor="middle" font-size="13" font-weight="700" fill="#F2B829">1</text>
+      <text x="66" y="70" font-size="14" font-weight="700" fill="#0E0E10">Fünfling</text>
+      <text x="250" y="70" font-size="12" font-weight="400" fill="#0E0E10">fünf gleiche Würfel – die höchste Hand</text>
+    </g>
+    <g><circle cx="42" cy="103" r="12" fill="#1A1A1D"/><text x="42" y="107" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">2</text>
+      <text x="66" y="108" font-size="14" font-weight="700" fill="#0E0E10">Vierling (Poker)</text><text x="250" y="108" font-size="12" fill="#4A4A4F">vier gleiche Würfel</text></g>
+    <g><circle cx="42" cy="141" r="12" fill="#1A1A1D"/><text x="42" y="145" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">3</text>
+      <text x="66" y="146" font-size="14" font-weight="700" fill="#0E0E10">Full House</text><text x="250" y="146" font-size="12" fill="#4A4A4F">Drilling + Paar</text></g>
+    <g><circle cx="42" cy="179" r="12" fill="#1A1A1D"/><text x="42" y="183" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">4</text>
+      <text x="66" y="184" font-size="14" font-weight="700" fill="#0E0E10">Große Straße</text><text x="250" y="184" font-size="12" fill="#4A4A4F">fünf in Folge (z. B. 2-3-4-5-6)</text></g>
+    <g><circle cx="42" cy="217" r="12" fill="#1A1A1D"/><text x="42" y="221" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">5</text>
+      <text x="66" y="222" font-size="14" font-weight="700" fill="#0E0E10">Kleine Straße</text><text x="250" y="222" font-size="12" fill="#4A4A4F">vier in Folge</text></g>
+    <g><circle cx="42" cy="255" r="12" fill="#1A1A1D"/><text x="42" y="259" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">6</text>
+      <text x="66" y="260" font-size="14" font-weight="700" fill="#0E0E10">Drilling</text><text x="250" y="260" font-size="12" fill="#4A4A4F">drei gleiche Würfel</text></g>
+    <g><circle cx="42" cy="293" r="12" fill="#1A1A1D"/><text x="42" y="297" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">7</text>
+      <text x="66" y="298" font-size="14" font-weight="700" fill="#0E0E10">Zwei Paare</text><text x="250" y="298" font-size="12" fill="#4A4A4F">zwei verschiedene Paare</text></g>
+    <g><circle cx="42" cy="331" r="12" fill="#1A1A1D"/><text x="42" y="335" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">8</text>
+      <text x="66" y="336" font-size="14" font-weight="700" fill="#0E0E10">Ein Paar</text><text x="250" y="336" font-size="12" fill="#4A4A4F">zwei gleiche Würfel</text></g>
+    <g><circle cx="42" cy="369" r="12" fill="#C62828"/><text x="42" y="373" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">9</text>
+      <text x="66" y="374" font-size="14" font-weight="700" fill="#0E0E10">Höchste Zahl</text><text x="250" y="374" font-size="12" fill="#4A4A4F">nichts davon – Verlierer trinkt</text></g>
+  </g>
+</svg>
