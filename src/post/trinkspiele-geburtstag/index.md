@@ -223,7 +223,7 @@ Das Spiel endet, wenn alle Becher eines Teams getroffen wurden. Das Team, das zu
 
 #### Besondere Hinweise:
 
-- **Kreativität bei Anweisungen**: Sei kreativ bei den Anweisungen auf den Blöcken. Du kannst das Spiel so harmlos oder gewagt gestalten, wie es der Gruppe gefällt.
+- **Kreativität bei Anweisungen**: Sei kreativ bei den Anweisungen auf den Blöcken. Du kannst das Spiel so harmlos oder gewagt gestalten, wie es der Gruppe gefällt. Über 50 Vorlagen findest du in unserer Liste mit [Aufgaben für Trinkspiele]({{ '/trinkspiele/aufgaben/' | url }}).
 - **Anpassung der Schwierigkeit**: Je nachdem, wie schwierig du das Spiel machen möchtest, kannst du Regeln hinzufügen, wie z.B. dass Blöcke nur mit zwei Fingern gezogen werden dürfen.
 
 <h3 id="ich-hab-noch-nie">Never have I ever (Ich hab noch nie)</h3>
