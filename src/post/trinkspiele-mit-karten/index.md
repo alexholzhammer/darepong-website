@@ -1,6 +1,7 @@
 ---
 title: "Trinkspiele mit Karten | die 14 besten Karten-Trinkspiele"
 date: 2023-11-29
+updated: 2026-06-18
 summary: "Trinkspiele mit Karten: 14 Karten-Trinkspiele mit Anleitung - zu zweit, in der Gruppe und mit nur einem Skatblatt. Inklusive Regeln und Trinkspiel-Tipps."
 image: /post/trinkspiele-mit-karten/trinkspiele-mit-karten.avif
 imageAlt: "Trinkspiele mit Karten - die 14 besten Karten-Trinkspiele für jeden Anlass"

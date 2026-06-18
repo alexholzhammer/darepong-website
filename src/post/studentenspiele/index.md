@@ -1,6 +1,7 @@
 ---
 title: "15 Studentenspiele - beste Spiele für Studenten"
 date: 2024-12-06
+updated: 2026-06-18
 summary: "Die 15 besten Studentenspiele für WG, Party und Vorglühen – von Karten- und Gesellschaftsspielen über fachspezifische Spiele bis zu beliebten Trinkspielen, inklusive Kennenlernspielen für neue Kommilitonen."
 image: /post/studentenspiele/beste-studentenspiele.avif
 imageAlt: "Die besten Studentenspiele – Spielesammlung für Studenten und WG-Abende"

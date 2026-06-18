@@ -1,6 +1,7 @@
 ---
 title: "Trinkspiele zu viert - die besten 25+"
 date: 2025-11-08
+updated: 2026-06-18
 summary: "Trinkspiele zu viert: 25 erprobte Spiele für 4 Personen mit Regeln, plus Varianten zu dritt, ohne Material und mit Karten. Mit Übersicht und Sprungmarken."
 image: /post/trinkspiele-zu-viert/trinkspiele-zu-viert.avif
 imageAlt: "Trinkspiele zu viert - die besten 25 Spiele für 4 Personen"

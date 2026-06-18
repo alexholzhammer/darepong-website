@@ -1,6 +1,7 @@
 ---
 title: "Trinkspiele online - die besten Spiele + Anleitungen"
 date: 2023-12-19
+updated: 2026-06-18
 summary: "Trinkspiele online: die besten Spiele für Zoom, Discord und Co. – mit Anleitungen, Trinkregeln und Tipps für zu zweit, in der Gruppe und ab 18."
 image: /post/trinkspiele-online/trinkspiele-online-beste-spiele-anleitungen.avif
 imageAlt: "Trinkspiele online - die besten Spiele und Anleitungen für virtuelle Spieleabende"

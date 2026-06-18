@@ -28,6 +28,14 @@ Trinkspiele sollen Spaß machen – nie Druck oder Zwang. Deshalb gilt für alle
 - **Jedes Spiel geht auch alkoholfrei.** Wasser, Saft oder alkoholfreie Getränke funktionieren genauso – wir weisen bei jedem Spiel darauf hin.
 - **Maß halten.** Niemand muss mitmachen oder „nachziehen". Trinkt mit Bedacht, stellt Wasser bereit und fahrt niemals alkoholisiert.
 
+## Quellen & rechtlicher Rahmen
+
+Unsere Hinweise zum Jugendschutz richten sich nach dem deutschen **Jugendschutzgesetz (JuSchG)**. Maßgeblich ist dabei § 9 JuSchG zur Abgabe alkoholischer Getränke in der Öffentlichkeit: Bier, Wein und Sekt dürfen an Jugendliche erst ab 16 Jahren, Spirituosen und spirituosenhaltige Getränke erst ab 18 Jahren abgegeben werden. Weil viele unserer Spiele Schnaps und Shots vorsehen und die meisten Runden ohnehin gemischt trinken, empfehlen wir alle Trinkspiele ausdrücklich **erst ab 18 Jahren** – und immer als alkoholfreie Variante als gleichwertige Alternative.
+
+Den vollständigen Gesetzestext findest du beim Bundesministerium der Justiz unter [gesetze-im-internet.de/juschg](https://www.gesetze-im-internet.de/juschg/). Eine verständliche Einordnung bietet die Bundeszentrale für gesundheitliche Aufklärung (BZgA) unter [kenn-dein-limit.de](https://www.kenn-dein-limit.de/).
+
+Für die Spielregeln selbst greifen wir auf etablierte Spielregel-Portale, die offiziellen Anleitungen der jeweiligen Hersteller sowie unsere eigene Spielpraxis zurück. Wo eine Regel umstritten ist, nennen wir die gängigste Variante und kennzeichnen Hausregeln.
+
 ## Kontakt
 
 Fehler entdeckt, eine bessere Variante oder einen Spielwunsch? Schreib uns über die [Kontaktseite]({{ '/kontakt/' | url }}) – wir freuen uns über jede Rückmeldung und bessern gern nach.
