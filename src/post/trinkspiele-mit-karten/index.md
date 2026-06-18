@@ -51,8 +51,6 @@ Unten geht es direkt los: Spiele zu zweit, Klassiker für Gruppen wie King's Cup
 
 <h2 id="karten-zu-zweit">Trinkspiele mit Karten zu zweit</h2>
 
-![Trinkspiele mit Karten - diese Spiele sind der Hammer](trinkspiele-mit-karten-beste-spiele.avif)
-
 Ihr seid zwei einsame Gestalten und wollt euch mit einem Karten-Trinkspiel dummsaufen?
 
 We got you covered!
