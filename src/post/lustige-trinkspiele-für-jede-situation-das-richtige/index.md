@@ -144,6 +144,8 @@ Ebenfalls interessant: [Trinkspiele mit Karten](/post/trinkspiele-mit-karten)!
 
 "Flunkyball - Ultimate Edition" ist perfekt für Sommerabende, Grillpartys oder Campingausflüge. Es fördert Teamarbeit, Geschick und bringt jede Menge Spaß. Wie immer, spielt verantwortungsbewusst und achtet darauf, dass niemand zu viel trinkt!
 
+Lesetipp: Hier findest du weitere [Trinkspiele für draußen]({{ '/trinkspiele/draussen/' | url }}) für den Sommer!
+
 <h2 id="geburtstag">Lustiges Trinkspiel zum Geburtstag: "Das Geburtstagsroulette"</h2>
 
 "Das Geburtstagsroulette" ist ein aufregendes Trinkspiel, das perfekt für Geburtstagsfeiern geeignet ist. In der "Deluxe Edition" gibt es einige zusätzliche Elemente, um das Spiel noch unterhaltsamer zu gestalten:

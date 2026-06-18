@@ -2,3 +2,39 @@
 /partyspiele   /trinkspiele/  301
 /post/flunkyball-regeln-spielablauf-einfach-erklaert/  /flunkyball/  301
 /post/flunkyball-regeln-spielablauf-einfach-erklaert   /flunkyball/  301
+
+# --- Migration alter (Wix) URLs ohne Entsprechung im neuen Build -> 301 auf bestes Äquivalent ---
+# Trinkspiele-Listen -> zentrale Trinkspiele-Hub-Seite
+/post/trinkspiele/  /trinkspiele/  301
+/post/trinkspiele   /trinkspiele/  301
+/post/unsere-liste-der-6-besten-trinkspiele/  /trinkspiele/  301
+/post/unsere-liste-der-6-besten-trinkspiele   /trinkspiele/  301
+# "Trinkspiele zu viert" alte URL -> migrierter Beitrag
+/post/trinkspiele-zu-viert-die-beste-25/  /post/trinkspiele-zu-viert/  301
+/post/trinkspiele-zu-viert-die-beste-25   /post/trinkspiele-zu-viert/  301
+# Beer-Pong-Varianten / Extra-Regeln -> Beer-Pong-Erweiterung
+/post/beer-pong-varianten/  /post/beer-pong-erweiterung/  301
+/post/beer-pong-varianten   /post/beer-pong-erweiterung/  301
+/post/acht-extra-regeln-die-beer-pong-spiele-noch-lustiger-machen/  /post/beer-pong-erweiterung/  301
+/post/acht-extra-regeln-die-beer-pong-spiele-noch-lustiger-machen   /post/beer-pong-erweiterung/  301
+# Beer-Pong-Geschichte / Trickshots -> Beer-Pong-Datenblatt
+/post/dropping-bombs-die-geschichte-des-beer-pong-s/  /beer-pong/  301
+/post/dropping-bombs-die-geschichte-des-beer-pong-s   /beer-pong/  301
+/post/die-epischsten-beer-pong-trickshots-aller-zeiten/  /beer-pong/  301
+/post/die-epischsten-beer-pong-trickshots-aller-zeiten   /beer-pong/  301
+# Wahrheit oder Pflicht mit Dare-Pong-Karten -> Spiel-Datenblatt
+/post/wahrheit-oder-pflicht-mit-dare-pong-karten/  /wahrheit-oder-pflicht/  301
+/post/wahrheit-oder-pflicht-mit-dare-pong-karten   /wahrheit-oder-pflicht/  301
+# Dare Pong DIY -> Dare Pong vs. Fear Pong (enthält Abschnitt "Dare Pong selber machen")
+/post/dare-pong-diy-für-alle-bastler/  /post/dare-pong-vs-fear-pong/  301
+/post/dare-pong-diy-für-alle-bastler   /post/dare-pong-vs-fear-pong/  301
+/post/dare-pong-diy-f%C3%BCr-alle-bastler/  /post/dare-pong-vs-fear-pong/  301
+/post/dare-pong-diy-f%C3%BCr-alle-bastler   /post/dare-pong-vs-fear-pong/  301
+# Kurz erklärt: Dare-Pong-Regeln -> Startseite (Produkt/Regeln)
+/post/kurz-erklärt-die-dare-pong-regeln/  /  301
+/post/kurz-erklärt-die-dare-pong-regeln   /  301
+/post/kurz-erkl%C3%A4rt-die-dare-pong-regeln/  /  301
+/post/kurz-erkl%C3%A4rt-die-dare-pong-regeln   /  301
+# Festival-Spiele -> Outdoor-Trinkspiele (thematisch nächste Seite)
+/post/festival-spiele/  /trinkspiele/draussen/  301
+/post/festival-spiele   /trinkspiele/draussen/  301
