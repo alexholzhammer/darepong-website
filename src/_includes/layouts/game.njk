@@ -229,6 +229,19 @@ pageCSS: game.css
           </ul>
         </div>
 
+        <nav class="game__equipment-card game__cat-card" aria-label="Passende Kategorien">
+          <h2 class="game__equipment-title">Mehr Trinkspiele</h2>
+          <ul class="game__cat-list">
+            <li><a href="{{ '/trinkspiele/' | url }}">Alle Trinkspiele</a></li>
+            <li><a href="{{ '/partyspiele/' | url }}">Partyspiele</a></li>
+            {% if players.max >= 6 %}<li><a href="{{ '/trinkspiele/gruppe/' | url }}">Für große Gruppen</a></li>{% endif %}
+            {% if 'ohne-material' in tags %}<li><a href="{{ '/trinkspiele/ohne-zubehoer/' | url }}">Ohne Zubehör</a></li>{% endif %}
+            {% if 'draußen' in location %}<li><a href="{{ '/trinkspiele/draussen/' | url }}">Für draußen</a></li>{% endif %}
+            {% if 'kartenspiel' in tags %}<li><a href="{{ '/post/trinkspiele-mit-karten/' | url }}">Trinkspiele mit Karten</a></li>{% endif %}
+            {% if 'würfelspiel' in tags %}<li><a href="{{ '/post/trinkspiele-mit-wuerfeln/' | url }}">Trinkspiele mit Würfeln</a></li>{% endif %}
+          </ul>
+        </nav>
+
         <div class="game__cta-card">
           <span class="eyebrow" style="color: var(--dp-beer)">Noch kein Dare Pong?</span>
           <p>Bringt 120 Dare-Karten in eure nächste Runde Beer Pong.</p>
