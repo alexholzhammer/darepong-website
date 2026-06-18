@@ -1,27 +1,31 @@
-<svg viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nageln Technik: Geschlagen wird nur mit der schmalen, spitzen Seite (Finne) des Hammers. Die breite, flache Schlagfläche ist verboten. Pro Zug ist genau ein Schlag erlaubt.">
+<svg viewBox="0 0 600 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nageln Technik: Geschlagen wird nur mit der schmalen, spitzen Seite (Finne) des Hammers. Die breite, flache Schlagfläche ist verboten. Pro Zug ist genau ein Schlag erlaubt.">
   <title>Nageln Technik – nur die spitze Hammerseite</title>
   <desc>Beim Nageln darf nur mit der schmalen, spitzen Seite des Hammers (der Finne) auf den Nagel geschlagen werden. Die breite, flache Schlagfläche ist verboten. Pro Zug ist genau ein Schlag erlaubt – das macht das Versenken schwierig.</desc>
 
-  <!-- Hammer: Stiel -->
-  <rect x="294" y="92" width="14" height="74" rx="6" fill="#8A5A2B" stroke="#0E0E10" stroke-width="1.6"/>
+  <!-- ── Labels oben ── -->
+  <!-- links: flache Seite verboten -->
+  <circle cx="58" cy="30" r="11" fill="#C62828"/>
+  <path d="M54 26l8 8M62 26l-8 8" stroke="#fff" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <text x="76" y="35" font-family="sans-serif" font-size="13" font-weight="700" fill="#C62828">flache Seite – verboten</text>
+  <!-- kurzer Zeiger unter dem Text zur flachen Seite -->
+  <path d="M238 44 L240 86" fill="none" stroke="#C62828" stroke-width="1.6" stroke-dasharray="4 3"/>
+
+  <!-- rechts: spitze Seite erlaubt -->
+  <text x="402" y="35" font-family="sans-serif" font-size="13" font-weight="700" fill="#2E7D32">spitze Seite (Finne) ✓</text>
+  <!-- kurzer Zeiger unter dem Text zur Finne -->
+  <path d="M438 44 Q420 70 404 100" fill="none" stroke="#2E7D32" stroke-width="1.6" stroke-dasharray="4 3"/>
+
+  <!-- ── Hammer (Mitte) ── -->
+  <!-- Stiel -->
+  <rect x="293" y="120" width="14" height="56" rx="6" fill="#8A5A2B" stroke="#0E0E10" stroke-width="1.6"/>
   <!-- Kopf: Körper -->
-  <rect x="244" y="58" width="104" height="30" rx="4" fill="#6B6B72" stroke="#0E0E10" stroke-width="1.6"/>
+  <rect x="244" y="88" width="104" height="30" rx="4" fill="#6B6B72" stroke="#0E0E10" stroke-width="1.6"/>
   <!-- flache Schlagfläche (links, verboten) -->
-  <rect x="228" y="50" width="22" height="46" rx="3" fill="#6B6B72" stroke="#0E0E10" stroke-width="1.6"/>
+  <rect x="228" y="80" width="22" height="46" rx="3" fill="#6B6B72" stroke="#0E0E10" stroke-width="1.6"/>
   <!-- Finne / spitze Seite (rechts, erlaubt) -->
-  <path d="M348 60 L406 73 L348 86 Z" fill="#6B6B72" stroke="#0E0E10" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M348 90 L406 103 L348 116 Z" fill="#6B6B72" stroke="#0E0E10" stroke-width="1.6" stroke-linejoin="round"/>
 
-  <!-- Label links: flache Seite verboten -->
-  <circle cx="116" cy="40" r="11" fill="#C62828"/>
-  <path d="M112 36l8 8M120 36l-8 8" stroke="#fff" stroke-width="2" stroke-linecap="round" fill="none"/>
-  <text x="134" y="44" font-family="sans-serif" font-size="12" font-weight="700" fill="#C62828">flache Seite – verboten</text>
-  <path d="M238 50 Q205 34 165 41" fill="none" stroke="#C62828" stroke-width="1.5" stroke-dasharray="3 3"/>
-
-  <!-- Label rechts: spitze Seite ok -->
-  <text x="424" y="44" font-family="sans-serif" font-size="12" font-weight="700" fill="#2E7D32">spitze Seite (Finne) ✓</text>
-  <path d="M406 71 Q432 56 452 50" fill="none" stroke="#2E7D32" stroke-width="1.5" stroke-dasharray="3 3"/>
-
-  <!-- Hinweis -->
-  <text x="300" y="146" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#0E0E10">Nur mit der spitzen Seite (Finne) schlagen –</text>
-  <text x="300" y="166" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="400" fill="#4A4A4F">die flache Seite ist verboten · 1 Schlag pro Zug</text>
+  <!-- ── Hinweis unter dem Hammer ── -->
+  <text x="300" y="208" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#0E0E10">Nur mit der spitzen Seite (Finne) schlagen –</text>
+  <text x="300" y="230" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="400" fill="#4A4A4F">die flache Seite ist verboten · 1 Schlag pro Zug</text>
 </svg>
