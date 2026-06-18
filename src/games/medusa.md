@@ -113,6 +113,11 @@ Medusa ist ein **geselliges Partyspiel** für Gruppen, das ohne jedes Zubehör a
 
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/medusa-ablauf.svg' | url }}" width="600" height="150" loading="lazy" decoding="async" eleventy:ignore alt="Medusa Ablauf in drei Schritten: alle Köpfe runter, auf Kommando Medusa hoch und eine Person anschauen, bei gegenseitigem Blickkontakt trinken beide">
+  <figcaption>Medusa in drei Schritten: Köpfe runter, auf „Medusa!“ hoch und eine Person anschauen – treffen sich zwei Blicke, trinken beide.</figcaption>
+</figure>
+
 Der Ablauf wiederholt sich in schneller Folge – jede Runde besteht aus nur wenigen Sekunden:
 
 <div class="game__table-wrap">

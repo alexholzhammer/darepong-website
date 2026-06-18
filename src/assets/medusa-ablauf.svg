@@ -1,0 +1,22 @@
+<svg viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Medusa Ablauf in drei Schritten: erstens alle senken den Blick, zweitens auf das Kommando Medusa schauen alle hoch und eine Person an, drittens wer sich gegenseitig anschaut, trinkt.">
+  <title>Medusa – Ablauf in 3 Schritten</title>
+  <desc>So läuft Medusa: Schritt 1 – alle senken den Kopf und schauen nach unten. Schritt 2 – auf das Kommando „Medusa“ heben alle gleichzeitig den Kopf und schauen sofort eine bestimmte Person an. Schritt 3 – treffen sich zwei Blicke gegenseitig, rufen beide „Medusa“ und trinken.</desc>
+  <g font-family="sans-serif">
+    <rect x="14" y="40" width="170" height="70" rx="10" fill="#fff" stroke="#0E0E10" stroke-width="2"/>
+    <text x="99" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#0E0E10">1. Köpfe runter</text>
+    <text x="99" y="90" text-anchor="middle" font-size="11" fill="#4A4A4F">alle schauen nach unten</text>
+
+    <rect x="215" y="40" width="170" height="70" rx="10" fill="#fff" stroke="#0E0E10" stroke-width="2"/>
+    <text x="300" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#0E0E10">2. „Medusa!“</text>
+    <text x="300" y="84" text-anchor="middle" font-size="11" fill="#4A4A4F">Köpfe hoch, eine</text>
+    <text x="300" y="98" text-anchor="middle" font-size="11" fill="#4A4A4F">Person anschauen</text>
+
+    <rect x="416" y="40" width="170" height="70" rx="10" fill="#F2B829" stroke="#0E0E10" stroke-width="2"/>
+    <text x="501" y="64" text-anchor="middle" font-size="13" font-weight="700" fill="#0E0E10">3. Blickkontakt?</text>
+    <text x="501" y="86" text-anchor="middle" font-size="11" fill="#0E0E10">beide trinken</text>
+
+    <path d="M186 75 L213 75" stroke="#0E0E10" stroke-width="2" marker-end="url(#m1)"/>
+    <path d="M387 75 L414 75" stroke="#0E0E10" stroke-width="2" marker-end="url(#m1)"/>
+    <defs><marker id="m1" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6z" fill="#0E0E10"/></marker></defs>
+  </g>
+</svg>

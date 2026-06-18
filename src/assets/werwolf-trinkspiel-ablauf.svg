@@ -1,0 +1,22 @@
+<svg viewBox="0 0 600 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Werwolf Trinkspiel Ablauf: Nacht und Tag wechseln sich ab. In der Nacht wählen die Werwölfe ein Opfer, das trinkt. Am Tag diskutiert das Dorf und lyncht einen Verdächtigen, der trinkt.">
+  <title>Werwolf-Trinkspiel – Nacht- und Tag-Phase</title>
+  <desc>Das Werwolf-Trinkspiel wechselt zwischen zwei Phasen. Nacht: Alle schließen die Augen, die Werwölfe wählen heimlich ein Opfer – das gewählte Opfer trinkt. Tag: Das Dorf diskutiert und stimmt ab, wer ein Werwolf ist; der gelynchte Spieler trinkt und deckt seine Rolle auf. Das geht reihum, bis eine Seite gewinnt.</desc>
+  <text x="300" y="28" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="700" fill="#0E0E10">Werwolf-Trinkspiel – Nacht &amp; Tag im Wechsel</text>
+  <g font-family="sans-serif">
+    <!-- Nacht -->
+    <rect x="40" y="55" width="220" height="100" rx="12" fill="#1A1A1D" stroke="#0E0E10" stroke-width="2"/>
+    <text x="150" y="84" text-anchor="middle" font-size="15" font-weight="700" fill="#F2B829">🌙 NACHT</text>
+    <text x="150" y="110" text-anchor="middle" font-size="12" fill="#E5E1D8">Werwölfe wählen ein Opfer</text>
+    <text x="150" y="130" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Opfer trinkt</text>
+    <!-- Tag -->
+    <rect x="340" y="55" width="220" height="100" rx="12" fill="#FFF7E3" stroke="#0E0E10" stroke-width="2"/>
+    <text x="450" y="84" text-anchor="middle" font-size="15" font-weight="700" fill="#0E0E10">☀ TAG</text>
+    <text x="450" y="110" text-anchor="middle" font-size="12" fill="#4A4A4F">Dorf diskutiert &amp; lyncht</text>
+    <text x="450" y="130" text-anchor="middle" font-size="12" font-weight="700" fill="#0E0E10">Gelynchter trinkt</text>
+    <!-- arrows loop -->
+    <path d="M262 88 L338 88" stroke="#0E0E10" stroke-width="2" marker-end="url(#w1)"/>
+    <path d="M338 122 L262 122" stroke="#0E0E10" stroke-width="2" marker-end="url(#w1)"/>
+    <defs><marker id="w1" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6z" fill="#0E0E10"/></marker></defs>
+    <text x="300" y="180" text-anchor="middle" font-size="11" fill="#6B6B72">Wiederholt sich, bis Dorf oder Werwölfe gewinnen</text>
+  </g>
+</svg>

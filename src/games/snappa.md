@@ -122,6 +122,11 @@ Snappa ist ein **geselliges Würfel-Trinkspiel für zwei Teams** mit je zwei Spi
 
 <h2 id="aufbau">Aufbau & Ablauf</h2>
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/snappa-aufbau.svg' | url }}" width="600" height="300" loading="lazy" decoding="async" eleventy:ignore alt="Snappa Aufbau: langer Tisch, zwei Teams sitzen sich gegenüber, Becher in der Tischmitte, der Würfel wird über den Tisch zur gegnerischen Seite geschnippt">
+  <figcaption>Snappa-Aufbau: zwei Teams gegenüber, Becher in der Mitte, Würfel über den Tisch zur Gegenseite – dort wird nach dem Aufprall gefangen.</figcaption>
+</figure>
+
 Stellt einen langen Tisch in die Mitte und bildet zwei Teams. Jedes Team nimmt an einer Längsseite Platz, sodass sich die Spieler paarweise gegenübersitzen. Vor jedem Spieler steht ein Becher mit Bier. Reihum wird der Würfel über den Tisch zum gegnerischen Team geschnippt oder gerollt – er muss mindestens einmal aufprallen und auf der gegnerischen Hälfte ankommen. Die Gegner versuchen, ihn nach dem ersten Aufprall mit einer Hand zu fangen.
 
 <h2 id="punkte">Punkte & Trink-Aktionen</h2>

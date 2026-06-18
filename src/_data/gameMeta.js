@@ -30,4 +30,10 @@ module.exports = {
   "wasserfall":          { icon: "🌊", image: "/assets/wasserfall-prinzip.svg" },
   "was-wuerdest-du-eher": { icon: "🤔", image: "/assets/was-wuerdest-du-eher-ablauf.svg" },
   "wer-wuerde-eher":     { icon: "👉", image: "/assets/wer-wuerde-eher-ablauf.svg" },
+  "wuerfelpoker":        { icon: "🎲", image: "/assets/wuerfelpoker-rangfolge.svg" },
+  "beer-die":            { icon: "🎲", image: "/assets/beer-die-aufbau.svg" },
+  "snappa":              { icon: "🎲", image: "/assets/snappa-aufbau.svg" },
+  "looping-louie":       { icon: "🛩️", image: "/assets/looping-louie-aufbau.svg" },
+  "medusa":              { icon: "🐍", image: "/assets/medusa-ablauf.svg" },
+  "werwolf-trinkspiel":  { icon: "🐺", image: "/assets/werwolf-trinkspiel-ablauf.svg" },
 };

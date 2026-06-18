@@ -135,6 +135,11 @@ Das Werwolf-Trinkspiel ist ein **geselliges Rollen- und Bluffspiel** für größ
 
 <h2 id="ablauf">Spielablauf: Nacht und Tag</h2>
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/werwolf-trinkspiel-ablauf.svg' | url }}" width="600" height="210" loading="lazy" decoding="async" eleventy:ignore alt="Werwolf-Trinkspiel Ablauf: Nacht und Tag wechseln sich ab – nachts wählen die Werwölfe ein Opfer das trinkt, tagsüber lyncht das Dorf einen Verdächtigen der trinkt">
+  <figcaption>Der Wechsel aus Nacht und Tag: nachts trinkt das Werwolf-Opfer, tagsüber der gelynchte Spieler – bis Dorf oder Werwölfe gewinnen.</figcaption>
+</figure>
+
 Eine Runde besteht immer aus dem Wechsel von **Nacht** und **Tag**. In der Nacht schließen alle die Augen, der Spielleiter ruft die Rollen nacheinander auf: Die Werwölfe wählen ihr Opfer, die Seherin deckt eine Rolle auf, die Hexe entscheidet über ihre Tränke. Am Tag verkündet der Spielleiter die Toten der Nacht – dann beginnt die Diskussion, an deren Ende die Gruppe einen Verdächtigen lyncht. Das Ganze wiederholt sich, bis eine Partei gewinnt.
 
 <h2 id="trinkregeln">Die Trink-Regeln</h2>

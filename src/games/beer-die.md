@@ -123,6 +123,11 @@ Beer Die ist ein **geselliges Tisch- und Geschicklichkeitsspiel** für vier Pers
 
 <h2 id="aufbau">Aufbau & Material</h2>
 
+<figure class="game__diagram game__diagram--wide">
+  <img src="{{ '/assets/beer-die-aufbau.svg' | url }}" width="600" height="340" loading="lazy" decoding="async" eleventy:ignore alt="Beer Die Aufbau: quadratischer Tisch, an jeder Ecke ein Spieler mit Becher, zwei Teams sitzen sich diagonal gegenüber, der Würfel wird im Bogen über die Mitte geworfen">
+  <figcaption>Beer-Die-Aufbau: vier Spieler an den Ecken eines Quadrattisches (2 vs. 2), Becher vor jedem, Wurf im hohen Bogen über die Höhenlinie.</figcaption>
+</figure>
+
 Klassisch wird Beer Die an einem quadratischen Tisch von etwa **2,40 m (8 ft)** Kantenlänge gespielt – zu Hause genügt aber jeder stabile, ebene quadratische Tisch. Dazu kommen ein einzelner **Würfel**, **vier Becher** (einer pro Spieler) und **Bier** oder ein Getränk nach Wahl. Die vier Becher werden meist in die Tischecken gestellt und halb gefüllt; eine gedachte Mittellinie teilt die Spielfläche in zwei gleich große Hälften.
 
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
