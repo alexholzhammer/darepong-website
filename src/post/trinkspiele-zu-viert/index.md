@@ -89,6 +89,8 @@ Und falls ihr nicht genau zu viert seid: Weiter unten findest du auch Tipps für
 
 Denk daran, dass bei all diesen Spielen der Spaß im Vordergrund stehen sollte und nicht das Trinken selbst. Passt aufeinander auf und kennt eure Grenzen.
 
+Lesetipp: Bei gutem Wetter findest du hier die besten [Trinkspiele für draußen]({{ '/trinkspiele/draussen/' | url }})!
+
 <h2 id="uebersicht">Übersicht: alle Trinkspiele zu viert auf einen Blick</h2>
 
 Du suchst schnell das passende Spiel? Diese Tabelle zeigt dir auf einen Blick, was du brauchst und wie schnell es zur Sache geht. Klicke auf den Namen, um zum jeweiligen Spiel zu springen.
@@ -152,7 +154,7 @@ Werdet ihr fünf, sechs oder mehr, kommen die schnellen Reaktions- und Teamspiel
 
 Kein Würfel, keine Karten, kein Becher zur Hand? Kein Problem. Einige der besten **Trinkspiele ohne Zubehör** brauchst du nur euch selbst. **Never Have I Ever**, **Most Likely**, **Zwei Wahrheiten, eine Lüge**, **Speed Facts** und **Medusa** lassen sich komplett spontan spielen - im Park, im Zug oder beim Vorglühen.
 
-Der Vorteil: Diese Spiele bringen euch ins Gespräch und sorgen für jede Menge Lacher, ohne dass ihr etwas vorbereiten müsst. Eine größere Auswahl findest du in unserer Übersicht der [Trinkspiele ohne Zubehör]({{ '/post/trinkspiele-zu-zweit/' | url }}). Wer es lieber gesprächig mag, kombiniert sie mit [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) oder [Wer würde eher]({{ '/wer-wuerde-eher/' | url }}).
+Der Vorteil: Diese Spiele bringen euch ins Gespräch und sorgen für jede Menge Lacher, ohne dass ihr etwas vorbereiten müsst. Eine größere Auswahl findest du in unserer Übersicht der [Trinkspiele ohne Zubehör]({{ '/trinkspiele/ohne-zubehoer/' | url }}). Wer es lieber gesprächig mag, kombiniert sie mit [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) oder [Wer würde eher]({{ '/wer-wuerde-eher/' | url }}).
 
 <h2 id="karten">Karten-Trinkspiele zu viert</h2>
 

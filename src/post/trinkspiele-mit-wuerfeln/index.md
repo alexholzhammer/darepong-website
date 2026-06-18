@@ -321,6 +321,8 @@ Das Trinkspiel "Mexican" ist ein Würfelspiel, das sowohl Glück als auch Bluffe
 
 "Beer Die" endet in der Regel, wenn ein Team die vereinbarte Punktzahl erreicht. Es kann aber auch als Freizeitspiel ohne festes Ende gespielt werden.
 
+Keinen Bock mehr auf Würfel? Für den Sommer findest du hier die besten [Trinkspiele für draußen]({{ '/trinkspiele/draussen/' | url }})!
+
 <h2 id="pig">Pig</h2>
 
 "Pig" ist ein einfaches Würfel-Trinkspiel, das auf Glück und Risikomanagement basiert. Es wird mit einem einzelnen Würfel gespielt und eignet sich gut für eine lockere und gesellige Runde. Hier sind die Grundregeln:
