@@ -221,6 +221,37 @@
   gap: 0;
 }
 
+.game__cat-card {
+  margin-top: 20px;
+}
+
+.game__cat-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.game__cat-list li {
+  border-bottom: 1px solid var(--border);
+}
+
+.game__cat-list li:last-child {
+  border-bottom: none;
+}
+
+.game__cat-list a {
+  display: block;
+  padding: 11px 0;
+  color: var(--dp-black);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.game__cat-list a:hover {
+  color: var(--dp-beer);
+}
+
 .game__equipment-item {
   display: grid;
   grid-template-columns: 22px 1fr;
