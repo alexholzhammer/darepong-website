@@ -38,3 +38,8 @@
 # Festival-Spiele -> Outdoor-Trinkspiele (thematisch nächste Seite)
 /post/festival-spiele/  /trinkspiele/draussen/  301
 /post/festival-spiele   /trinkspiele/draussen/  301
+# Produktseiten ohne Entsprechung -> Startseite
+/festival-edition/  /  301
+/festival-edition   /  301
+/das-shirt/  /  301
+/das-shirt   /  301
