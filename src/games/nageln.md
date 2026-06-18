@@ -135,7 +135,7 @@ Nageln ist ein **Wettkampf-Trinkspiel für draußen**, bei dem jeder Spieler ein
 Der ganze Trick steckt in der Hammerseite – und genau das macht Nageln so schwer:
 
 <figure class="game__diagram game__diagram--wide">
-  <img src="{{ '/assets/nageln-technik.svg' | url }}" width="600" height="180" loading="lazy" decoding="async" eleventy:ignore alt="Nageln Technik: nur mit der schmalen spitzen Hammerseite schlagen, die flache Seite ist verboten, ein Schlag pro Zug">
+  <img src="{{ '/assets/nageln-technik.svg' | url }}" width="600" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Nageln Technik: nur mit der schmalen spitzen Hammerseite schlagen, die flache Seite ist verboten, ein Schlag pro Zug">
   <figcaption>Die Nageln-Technik: nur mit der spitzen Seite schlagen, ein Schlag pro Zug – die flache Seite ist verboten.</figcaption>
 </figure>
 
