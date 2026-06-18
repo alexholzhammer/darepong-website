@@ -1,6 +1,7 @@
 ---
 title: "Die 10 besten Beerpong-Erweiterungen für mehr Partyspaß"
 date: 2024-08-27
+updated: 2026-06-18
 summary: "Die 10 besten Beer Pong Erweiterungen und Varianten im Überblick: Dare Pong, Riesen-Beerpong, leuchtendes Beer Pong, Flip Cup Pong und mehr – inklusive Regeln, Tipps und Ideen für deine Party."
 image: /post/beer-pong-erweiterung/beerpong-erweiterung-partyspass-uebersicht.avif
 imageAlt: "Die 10 besten Beerpong-Erweiterungen für mehr Partyspaß"

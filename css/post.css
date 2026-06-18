@@ -62,6 +62,23 @@
   max-width: 60ch;
 }
 
+.post__byline {
+  margin-top: 16px;
+  font: 400 13px/1.5 var(--font-body);
+  color: var(--dp-stone);
+}
+
+.post__byline a {
+  color: var(--dp-paper);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(246, 244, 239, .3);
+  transition: border-color var(--dur-fast);
+}
+
+.post__byline a:hover { border-bottom-color: var(--dp-beer); }
+
+.post__byline strong { font-weight: 700; }
+
 /* ---- Hero image ---- */
 
 .post__hero-img {

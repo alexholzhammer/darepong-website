@@ -1,6 +1,7 @@
 ---
 title: "26 Trinkspiele zu zweit - Klassiker & Neuheiten"
 date: 2023-11-23
+updated: 2026-06-18
 summary: "Trinkspiele zu zweit: 26 Spiele für 2 Personen mit Anleitung - mit Karten, ohne Material, online und für Paare. Inklusive Regeln und Übersichtstabelle."
 image: /post/trinkspiele-zu-zweit/trinkspiele-zu-zweit-klassiker-neuheiten.avif
 imageAlt: "Trinkspiele zu zweit - Klassiker und Neuheiten für Pärchen und beste Freunde"

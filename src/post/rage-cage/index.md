@@ -1,6 +1,7 @@
 ---
 title: "Rage Cage: Das Trinkspiel für legendäre Abende"
 date: 2025-09-18
+updated: 2026-06-18
 summary: "Rage Cage Trinkspiel: Regeln, Aufbau, Spieleranzahl, die besten Lieder (Gas Gas Gas) und Varianten. Komplette Anleitung Schritt für Schritt erklärt."
 image: /post/rage-cage/rage-cage.avif
 imageAlt: "Rage Cage Trinkspiel Aufbau mit Bechern und Ping-Pong-Bällen auf einem Tisch"

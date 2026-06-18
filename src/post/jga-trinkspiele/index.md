@@ -1,6 +1,7 @@
 ---
 title: "JGA Spiele & Trinkspiele: Ideen, Aufgaben & Anleitung"
 date: 2024-01-05
+updated: 2026-06-18
 summary: "JGA Ideen, Spiele und Aufgaben für den Junggesellenabschied: Programm, Motto und über 30 Aufgaben für Braut & Bräutigam – plus Trinkspiele für drinnen, draußen und unterwegs."
 image: /post/jga-trinkspiele/jga-trinkspiele-beste-ideen-anleitung.avif
 imageAlt: "JGA Trinkspiele - die besten Ideen und Anleitungen für den Junggesellenabschied"

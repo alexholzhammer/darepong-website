@@ -21,6 +21,7 @@ ogType: article
         <time class="post__date" datetime="{{ date | dateISO }}">{{ date | dateDE }}</time>
       </div>
       <h1 class="post__title">{{ title }}</h1>
+      <p class="post__byline">Von der <a href="{{ '/redaktion/' | url }}"><strong>Dare Pong</strong> Redaktion</a>{% if updated %} · zuletzt geprüft am <time datetime="{{ updated | dateISO }}">{{ updated | dateDE }}</time>{% endif %}</p>
       {% if summary %}
       <p class="post__summary">{{ summary }}</p>
       {% endif %}
