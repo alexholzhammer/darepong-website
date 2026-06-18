@@ -83,6 +83,8 @@ faq:
   <li><span class="game__fact-num">ab 18</span><span class="game__fact-lbl">Jahren</span></li>
 </ul>
 
+Du brauchst Nachschub? Hier findest du über 100 [Wahrheit-oder-Pflicht-Fragen & Aufgaben]({{ '/wahrheit-oder-pflicht/fragen/' | url }}) – von harmlos über Paare bis pikant (ab 18).
+
 <nav class="game__toc" aria-label="Inhaltsverzeichnis">
   <span class="game__toc-title">Inhalt</span>
   <ul>
