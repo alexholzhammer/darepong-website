@@ -53,8 +53,6 @@ Doch worin unterscheiden sich Dare Pong und Fear Pong konkret? In diesem Verglei
 
 Das Spielprinzip von Beer Pong mit Aufgaben hat in den vergangenen Jahren stark an Beliebtheit gewonnen. Sobald ein Becher vom gegnerischen Team getroffen wird, muss die darunterliegende Dare erfüllt oder der Becher getrunken werden.
 
-![Fear Pong Spielaufbau mit 6 Bechern und Dare-Karten](fear-pong-spielaufbau-6-becher-dare-karten.avif)
-
 *Spielaufbau mit 6 Bechern*
 
 Zum Start beider Spiele müsst ihr eure Becher – wie beim regulären Beer Pong – in der typischen Pyramiden-Formation aufstellen. Dabei könnt ihr entscheiden, ob ihr mit 6 oder 10 Bechern pro Team spielen wollt.
@@ -70,8 +68,6 @@ Dare Pong wurde in Deutschland entwickelt. Fear Pong stammt aus den USA. Beide S
 Der offensichtlichste Unterschied ist dementsprechend, dass Fear Pong aktuell nur auf Englisch zu erhalten ist, während Dare Pong auch auf Deutsch veröffentlicht wurde. Dare Pong ist der europäischen Partykultur angepasst, mit einem klaren Fokus auf WG- und Hauspartys. Studenten und junge Erwachsene werden mit dem Spiel eine Menge Spaß haben. Fear Pong hingegen merkt man den Youtube Background an. Trotz vieler lustiger Aufgaben sind einige der Dares sehr extrem, so dass diese auf regulären deutschen Partys wohl kaum durchgeführt werden. Daher auch der Name Fear Pong (Eng. für Angst). Durch diese harten Dares kommt es leider oft vor, dass Spieler Aufgaben ablehnen, was den Spielfluss stört.
 
 Fear Pong beinhaltet 100 wasserfeste Karten mit zwei Dares je Karte. Bei Dare Pong sind es 120 wasserfeste Karten mit einer Dare je Karte. Die Menge an Dares reicht bei beiden Spielen für Dutzende Runden Spaß mit viel Abwechslung.
-
-![Dare Pong Aufgabenkarte – Beispiel einer Dare](dare-pong-aufgabenkarte-beispiel.avif)
 
 *Eine Dare Pong Karte*
 

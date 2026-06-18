@@ -43,3 +43,6 @@
 /festival-edition   /  301
 /das-shirt/  /  301
 /das-shirt   /  301
+# Phantom-URL aus alten internen Links -> echte Outdoor-Seite
+/post/trinkspiele-draussen/  /trinkspiele/draussen/  301
+/post/trinkspiele-draussen   /trinkspiele/draussen/  301
