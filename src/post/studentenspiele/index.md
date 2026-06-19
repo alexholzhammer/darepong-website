@@ -4,6 +4,7 @@ date: 2024-12-06
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-studentenspiele.jpg"
 summary: "Die 15 besten Studentenspiele für WG, Party und Vorglühen – von Karten- und Gesellschaftsspielen über fachspezifische Spiele bis zu beliebten Trinkspielen, inklusive Kennenlernspielen für neue Kommilitonen."
+answer: "Die besten Studentenspiele fürs Vorglühen sind King's Cup, Beer Pong, Flunkyball, Busfahren und Ich hab noch nie. Sie kosten wenig, brauchen kaum Material und funktionieren in jeder WG – auch alkoholfrei."
 image: /post/studentenspiele/beste-studentenspiele.avif
 imageAlt: "Die besten Studentenspiele – Spielesammlung für Studenten und WG-Abende"
 tags:

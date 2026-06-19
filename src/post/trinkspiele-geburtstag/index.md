@@ -4,6 +4,7 @@ date: 2024-01-02
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-geburtstag.jpg"
 summary: "Die 10 besten Trinkspiele für deinen Geburtstag – mit Anleitung, Material und Regeln. Von King's Cup über Beer Pong bis zu Spielen für große Gruppen und draußen."
+answer: "Die besten Trinkspiele zum Geburtstag sind King's Cup, Beer Pong, Flip Cup, das Jenga-Trinkspiel und Ich hab noch nie. Für große Runden eignen sich Flunkyball und Flip Cup, für gesellige Abende Ich hab noch nie – alle auch alkoholfrei spielbar."
 image: /post/trinkspiele-geburtstag/trinkspiele-geburtstag-beste-spiele.avif
 imageAlt: "Die 10 besten Trinkspiele für Geburtstage - Spaßgarantie für jede Party"
 tags:

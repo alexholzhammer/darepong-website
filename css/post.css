@@ -93,6 +93,32 @@
   object-fit: cover;
 }
 
+/* ---- Direkt-Antwort (Featured-Snippet-Box) ---- */
+
+.post__answer {
+  max-width: 72ch;
+  margin: 32px 0 0;
+  padding: 20px 24px;
+  background: var(--dp-foam);
+  border-left: 4px solid var(--dp-beer);
+  border-radius: 0 10px 10px 0;
+}
+
+.post__answer-label {
+  display: block;
+  font: 700 11px/1 var(--font-body);
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--dp-red);
+  margin-bottom: 8px;
+}
+
+.post__answer p {
+  margin: 0;
+  font: 500 18px/1.6 var(--font-body);
+  color: var(--dp-black);
+}
+
 /* ---- Body ---- */
 
 .post__body {
