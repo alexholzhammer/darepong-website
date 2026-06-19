@@ -22,7 +22,7 @@ faq:
 
 Ein **Film Trinkspiel** macht aus jedem Filmabend ein interaktives Erlebnis: Ihr legt vorher fest, bei welchen Szenen, Wörtern oder Charakteren getrunken wird – und schon wird aus passivem Schauen ein gemeinsames Spiel. Egal ob Action, Rom-Com, Horror oder eure Lieblingsserie, mit den richtigen Regeln passt ein Trinkspiel zu jedem Film.
 
-Auf dieser Seite findest du die kompletten Regeln für Film Trinkspiele, abwechslungsreiche Trinkspiel-Ideen sowie die 20 besten Filme und Serien zum Filmsaufen – inklusive Vorlagen für ein Harry Potter und Herr der Ringe Trinkspiel. Du suchst weitere [lustige Trinkspiele](/post/lustige-trinkspiele-f%C3%BCr-jede-situation-das-richtige) oder ein Kartenspiel für zwischendurch? Wirf auch einen Blick auf [Dare Pong]({{ '/' | url }}).
+Auf dieser Seite findest du die kompletten Regeln für Film Trinkspiele, abwechslungsreiche Trinkspiel-Ideen sowie die 20 besten Filme und Serien zum Filmsaufen – inklusive Vorlagen für ein Harry Potter und Herr der Ringe Trinkspiel. Du suchst weitere [lustige Trinkspiele](/post/lustige-trinkspiele-f%C3%BCr-jede-situation-das-richtige/) oder ein Kartenspiel für zwischendurch? Wirf auch einen Blick auf [Dare Pong]({{ '/' | url }}).
 
 ## Inhaltsverzeichnis
 

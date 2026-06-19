@@ -17,7 +17,7 @@ permalink: /blog/
   <div class="container">
     <div class="blog-index__grid">
       {% for post in collections.posts %}
-      <a href="{{ post.url | url }}" class="post-card">
+      <a href="{{ post.url | url | encodeUrl }}" class="post-card">
         {% if post.data.image %}
         <div class="post-card__img">
           <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" sizes="(max-width: 600px) 100vw, 400px" loading="lazy">
