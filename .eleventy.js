@@ -139,6 +139,36 @@ module.exports = function (eleventyConfig) {
     return new Date(date).toISOString().split("T")[0];
   });
 
+  // Inject a contextual Dare-Pong call-to-action into rendered post HTML, placed
+  // before the middle <h2> so it lands mid-article (never right at the table of
+  // contents). `pitch` is a post-specific hook sentence; falls back to a generic
+  // line. Returns content unchanged when there are too few headings to place it.
+  const CTA_AMZN = "https://amzn.to/4nA0xYQ";
+  eleventyConfig.addFilter("injectCta", function (content, pitch) {
+    const text =
+      pitch ||
+      "Bringt Dare Pong mit 120 wasserfesten Dares an euren Beer-Pong-Tisch.";
+    const positions = [];
+    const re = /<h2\b/g;
+    let m;
+    while ((m = re.exec(content)) !== null) positions.push(m.index);
+    if (positions.length < 2) return content; // not enough structure
+    const at = positions[Math.floor(positions.length / 2)];
+    const cta =
+      '<aside class="inline-cta">' +
+      '<div class="inline-cta__body">' +
+      '<span class="inline-cta__eyebrow">Tipp für eure Runde</span>' +
+      "<p>" +
+      text +
+      "</p>" +
+      "</div>" +
+      '<a href="' +
+      CTA_AMZN +
+      '" class="btn-primary inline-cta__btn" target="_blank" rel="sponsored noopener">Dare Pong ansehen &mdash; &euro;9,97</a>' +
+      "</aside>";
+    return content.slice(0, at) + cta + content.slice(at);
+  });
+
   // Percent-encode non-ASCII in a URL path (e.g. "ü" -> "%C3%BC") while leaving
   // slashes and already-safe chars untouched. Keeps canonical, og:url, sitemap
   // <loc> and internal links protocol-compliant and consistent. No-op for plain

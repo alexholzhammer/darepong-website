@@ -4,6 +4,7 @@ date: 2024-02-29
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-frauen.jpg"
 summary: "Trinkspiele für Frauen und Spiele für den Mädelsabend: 9 Ideen mit Regeln und Beispielen – von Wahrheit oder Pflicht über Ich hab noch nie bis Beer Pong, auch ohne Alkohol und für den JGA."
+ctaPitch: "Für den Mädelsabend mit Pfiff: Die 120 Dares von Dare Pong liefern Geständnisse und Mutproben für die nächste Beer-Pong-Runde."
 answer: "Für den Mädelsabend eignen sich Trinkspiele wie Wahrheit oder Pflicht, Wer würde eher, Ich hab noch nie und Most Likely besonders gut. Sie brauchen kein Material, sorgen für die besten Geschichten und gehen auch alkoholfrei."
 image: /post/trinkspiele-frauen/trinkspiele-frauen-maedelsabend.avif
 imageAlt: "Gruppe Frauen lacht beim Trinkspiel auf dem Sofa mit Getränken"

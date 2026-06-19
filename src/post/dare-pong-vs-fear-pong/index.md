@@ -4,6 +4,7 @@ date: 2022-01-16
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-dare-pong-vs-fear-pong.jpg"
 summary: "Dare Pong vs. Fear Pong im Vergleich: Unterschiede bei Aufgaben, Kartenanzahl, Preis und Sprache. Plus Beispiele für Dares und wie du dein eigenes Beer Pong mit Aufgaben bastelst."
+ctaPitch: "Du willst die deutschsprachige Variante? Dare Pong liefert 120 wasserfeste Dares zum fairen Preis."
 answer: "Dare Pong und Fear Pong sind Beer-Pong-Erweiterungen mit Aufgabenkarten unter den Bechern. Dare Pong ist deutschsprachig, mit 120 wasserfesten Dares und günstiger; Fear Pong stammt aus den USA und ist meist englisch."
 image: /post/dare-pong-vs-fear-pong/dare-pong-vs-fear-pong-vergleich.avif
 imageAlt: "Dare Pong vs. Fear Pong – Vergleich der beiden Beer Pong Erweiterungen"

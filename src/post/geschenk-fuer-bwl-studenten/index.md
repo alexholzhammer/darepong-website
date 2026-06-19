@@ -4,6 +4,7 @@ date: 2024-09-06
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-geschenk-fuer-bwl-studenten.jpg"
 summary: "Geschenke für BWL Studenten: 11 nützliche und originelle Ideen für Geburtstag, Weihnachten, Studienstart und Abschluss – mit Kaufkriterien, Übersicht und FAQ."
+ctaPitch: "Schon das passende Geschenk gefunden? Dare Pong ist mit 120 Dares ein originelles, günstiges Mitbringsel für jeden Studenten."
 answer: "Gute Geschenke für BWL-Studenten sind praktische Helfer fürs Studium, originelle Gadgets und Partyspiele wie Dare Pong. Beliebt sind außerdem Finanz-Bücher, Notebook-Zubehör und Gutscheine – passend für Studienstart, Geburtstag oder Abschluss."
 image: /post/geschenk-fuer-bwl-studenten/geschenk-bwl-studenten-beste-ideen.avif
 imageAlt: "Geschenke für BWL Studenten – die besten Ideen für Geburtstag und Weihnachten"

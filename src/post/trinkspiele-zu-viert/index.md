@@ -4,6 +4,7 @@ date: 2025-11-08
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-zu-viert.jpg"
 summary: "Trinkspiele zu viert: 25 erprobte Spiele für 4 Personen mit Regeln, plus Varianten zu dritt, ohne Material und mit Karten. Mit Übersicht und Sprungmarken."
+ctaPitch: "Ideal für 2-gegen-2: Dare Pong bringt 120 Dares an den Beer-Pong-Tisch und macht aus vier Leuten einen unvergesslichen Abend."
 answer: "Zu viert sind Beer Pong (2 gegen 2), King's Cup, Flip Cup und Busfahren ideal. Mit vier Leuten klappen Team-Spiele genauso wie Karten- und Würfelrunden – und alle Spiele gehen auch ohne Alkohol."
 image: /post/trinkspiele-zu-viert/trinkspiele-zu-viert.avif
 imageAlt: "Trinkspiele zu viert - die besten 25 Spiele für 4 Personen"

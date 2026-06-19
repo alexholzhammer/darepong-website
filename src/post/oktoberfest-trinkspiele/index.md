@@ -4,6 +4,7 @@ date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-oktoberfest-trinkspiele.jpg"
 summary: "Oktoberfest-Trinkspiele für Wiesn, Bierzelt & Bayern-Party: Maßkrug-Stemmen, Ein-Prosit-Spiel, Bierdeckel-Schnipsen und Klassiker – mit Regeln."
+ctaPitch: "Nach der Wiesn weiterfeiern: Dare Pong macht aus jeder Beer-Pong-Runde ein Aufgaben-Spiel mit 120 wasserfesten Dares."
 answer: "Typische Oktoberfest-Trinkspiele sind Maßkrug-Stemmen, das „Ein Prosit“-Trinkspiel und Bierdeckel-Schnipsen, dazu Wiesn-Klassiker wie Flunkyball, Schocken und Mäxchen. Alle brauchen wenig Material und passen in jedes Bierzelt – auch mit alkoholfreiem Weißbier."
 tags:
   - post

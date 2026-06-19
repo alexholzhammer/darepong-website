@@ -4,6 +4,7 @@ date: 2023-12-13
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-mit-wuerfeln.jpg"
 summary: "Trinkspiele mit Würfeln: 14 Würfel-Trinkspiele mit Regeln, Würfelanzahl und Varianten - von Mäxchen über Chicago bis Schiff, Kapitän und Crew. Auch zu zweit und mit nur 2 Würfeln spielbar."
+ctaPitch: "Nach dem Würfeln zurück an den Tisch: Dare Pong macht Beer Pong mit 120 Dares zum Aufgaben-Spiel."
 answer: "Die besten Würfel-Trinkspiele sind Mäxchen (Meiern), Schocken, Würfelpoker und das Kniffel-Trinkspiel. Ihr braucht nur Würfel und einen Becher – ideal für unterwegs und für jede Runde ab zwei Personen."
 image: /post/trinkspiele-mit-wuerfeln/trinkspiele-mit-wuerfeln.avif
 imageAlt: "Trinkspiele mit Würfeln - die 14 besten Würfeltrinkspiele für jede Party"

@@ -4,6 +4,7 @@ date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-halloween-trinkspiele.jpg"
 summary: "Die besten Halloween-Trinkspiele für deine Grusel-Party: Horrorfilm-Trinkspiel, Süßes-oder-Saures-Shots, Grusel-Wahrheit-oder-Pflicht und mehr."
+ctaPitch: "Für die Grusel-Party danach: Dare Pong verwandelt Beer Pong mit 120 wasserfesten Dares in ein Mutproben-Spiel."
 answer: "Die besten Halloween-Trinkspiele sind das Horrorfilm-Trinkspiel, Süßes-oder-Saures-Shots, Grusel-Wahrheit-oder-Pflicht sowie thematische Klassiker wie Werwolf oder Medusa. Mit blutroten Mocktails funktionieren alle auch alkoholfrei."
 tags:
   - post
