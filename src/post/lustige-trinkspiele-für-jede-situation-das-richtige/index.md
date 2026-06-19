@@ -4,6 +4,7 @@ date: 2024-01-26
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-lustige-trinkspiele.jpg"
 summary: "Lustige Trinkspiele für jede Situation: zu zweit, zu dritt, für Gruppen, ohne Material und für draußen. Regeln, Varianten und Tipps für den passenden Spielspaß."
+answer: "Die lustigsten Trinkspiele leben von Geständnissen und Mutproben: Ich hab noch nie, Wer würde eher, Würdest du eher und Wahrheit oder Pflicht. Sie passen in jede Situation – zu zweit, in der Gruppe und ganz ohne Material."
 image: /post/lustige-trinkspiele-für-jede-situation-das-richtige/lustige-trinkspiele-jede-situation.avif
 imageAlt: "Lustige Trinkspiele für jede Situation - Freunde lachen beim Spielen"
 tags:

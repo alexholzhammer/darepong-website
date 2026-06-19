@@ -4,6 +4,7 @@ date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-karneval-trinkspiele.jpg"
 summary: "Karneval-Trinkspiele für Fasching & Fastnacht: Helau- & Alaaf-Spiel, Kostüm-Regeln, Sitzungs-Spiel und Karnevalslieder-Trinkspiel – mit Anleitungen."
+answer: "Beliebte Karneval-Trinkspiele sind das Helau-/Alaaf-Trinkspiel, Kostüm-Regeln, das Karnevalssitzungs-Trinkspiel und das Karnevalslieder-Trinkspiel. Sie greifen typische Fasching-Rituale auf und sorgen schon beim Vorglühen für Stimmung – wahlweise auch alkoholfrei."
 tags:
   - post
   - Trinkspiele

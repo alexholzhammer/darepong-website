@@ -37,6 +37,12 @@ ogType: article
   {% endif %}
 
   <div class="container">
+    {% if answer %}
+    <div class="post__answer">
+      <span class="post__answer-label">Kurz &amp; knapp</span>
+      <p>{{ answer }}</p>
+    </div>
+    {% endif %}
     <div class="post__body">
       {{ content | safe }}
     </div>

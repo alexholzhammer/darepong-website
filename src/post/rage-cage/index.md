@@ -4,6 +4,7 @@ date: 2025-09-18
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-rage-cage.jpg"
 summary: "Rage Cage Trinkspiel: Regeln, Aufbau, Spieleranzahl, die besten Lieder (Gas Gas Gas) und Varianten. Komplette Anleitung Schritt für Schritt erklärt."
+answer: "Rage Cage (auch Stack Cup oder Boom Cup) ist ein rasantes Trinkspiel mit vielen Bechern und zwei Ping-Pong-Bällen. Ziel ist, seinen Ball schneller im Becher zu versenken als der Nebenmann – sonst droht der Death Cup."
 image: /post/rage-cage/rage-cage.avif
 imageAlt: "Rage Cage Trinkspiel Aufbau mit Bechern und Ping-Pong-Bällen auf einem Tisch"
 tags:

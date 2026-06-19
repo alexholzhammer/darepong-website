@@ -4,6 +4,7 @@ date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-weihnachtsfeier-trinkspiele.jpg"
 summary: "Die besten Weihnachtsfeier-Trinkspiele für Firma und Freunde: Wichteln, Last-Christmas-Trinkspiel, Glühwein-Roulette & mehr – mit Regeln und Tipps."
+answer: "Für die Weihnachtsfeier eignen sich das Wichteln-Trinkspiel, das „Last Christmas“-Trinkspiel, ein Weihnachtsfilm-Trinkspiel und Glühwein-Roulette. Auf der Firmenfeier gilt: Maß halten und alkoholfreie Varianten – etwa mit Punsch – bereitstellen."
 tags:
   - post
   - Trinkspiele

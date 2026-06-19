@@ -4,6 +4,7 @@ date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-fussball-trinkspiel.jpg"
 summary: "Fußball-Trinkspiel zur WM 2026: das ultimative Regelwerk mit Trink-Auslösern für Tor, Elfmeter, Karten & VAR – plus Varianten, Public-Viewing-Tipps und Spiele-Ideen."
+answer: "Bei einem Fußball-Trinkspiel legt ihr vor dem Anpfiff feste Trink-Regeln für Spielereignisse fest: ein Schluck bei jedem Tor, Elfmeter, jeder gelben Karte oder Werbeunterbrechung. So wird aus jedem WM-, EM- oder Bundesliga-Spiel beim Public Viewing ein interaktives Partyspiel – wahlweise auch alkoholfrei."
 tags:
   - post
   - Trinkspiele

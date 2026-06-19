@@ -4,6 +4,7 @@ date: 2023-11-23
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-zu-zweit.jpg"
 summary: "Trinkspiele zu zweit: 26 Spiele für 2 Personen mit Anleitung - mit Karten, ohne Material, online und für Paare. Inklusive Regeln und Übersichtstabelle."
+answer: "Zu zweit funktionieren Trinkspiele wie Mäxchen, Beer Pong (1 gegen 1), Wahrheit oder Pflicht, 17+4 und Schwimmen besonders gut. Ihr braucht meist nur Karten oder Würfel – und alle Spiele lassen sich problemlos alkoholfrei spielen."
 image: /post/trinkspiele-zu-zweit/trinkspiele-zu-zweit-klassiker-neuheiten.avif
 imageAlt: "Trinkspiele zu zweit - Klassiker und Neuheiten für Pärchen und beste Freunde"
 tags:
