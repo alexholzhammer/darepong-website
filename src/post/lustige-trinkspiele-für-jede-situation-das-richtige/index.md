@@ -2,6 +2,7 @@
 title: "Lustige Trinkspiele - für jede Situation das Richtige"
 date: 2024-01-26
 updated: 2026-06-18
+ogImage: "https://www.darepong.eu/assets/og/blog-lustige-trinkspiele.jpg"
 summary: "Lustige Trinkspiele für jede Situation: zu zweit, zu dritt, für Gruppen, ohne Material und für draußen. Regeln, Varianten und Tipps für den passenden Spielspaß."
 image: /post/lustige-trinkspiele-für-jede-situation-das-richtige/lustige-trinkspiele-jede-situation.avif
 imageAlt: "Lustige Trinkspiele für jede Situation - Freunde lachen beim Spielen"

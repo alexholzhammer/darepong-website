@@ -2,6 +2,7 @@
 title: "Trinkspiele mit Würfeln - die 14 besten Spiele"
 date: 2023-12-13
 updated: 2026-06-18
+ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-mit-wuerfeln.jpg"
 summary: "Trinkspiele mit Würfeln: 14 Würfel-Trinkspiele mit Regeln, Würfelanzahl und Varianten - von Mäxchen über Chicago bis Schiff, Kapitän und Crew. Auch zu zweit und mit nur 2 Würfeln spielbar."
 image: /post/trinkspiele-mit-wuerfeln/trinkspiele-mit-wuerfeln.avif
 imageAlt: "Trinkspiele mit Würfeln - die 14 besten Würfeltrinkspiele für jede Party"

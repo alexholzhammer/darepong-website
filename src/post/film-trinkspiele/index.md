@@ -2,6 +2,7 @@
 title: "Film Trinkspiele - die 20 besten Ideen und Filme"
 date: 2024-02-07
 updated: 2026-06-18
+ogImage: "https://www.darepong.eu/assets/og/blog-film-trinkspiele.jpg"
 summary: "Film Trinkspiel-Regeln, Ideen und die 20 besten Filme und Serien zum Filmsaufen – inklusive Harry Potter und Herr der Ringe Trinkspiel."
 image: /post/film-trinkspiele/film-trinkspiel-regeln-ideen.avif
 imageAlt: "Film Trinkspiel - Regeln, Ideen und die besten Filme für den Filmabend"
