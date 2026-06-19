@@ -77,6 +77,14 @@ module.exports = function (eleventyConfig) {
     return api.getFilteredByTag("post").sort((a, b) => b.date - a.date);
   });
 
+  // Gift-guide posts (tag "Geschenke") for the /geschenke/ hub + its ItemList schema
+  eleventyConfig.addCollection("giftPosts", function (api) {
+    return api
+      .getFilteredByTag("post")
+      .filter((p) => (p.data.tags || []).includes("Geschenke"))
+      .sort((a, b) => b.date - a.date);
+  });
+
   // Games collection
   eleventyConfig.addCollection("games", function (api) {
     return api.getFilteredByTag("game");

@@ -311,6 +311,19 @@ button { font-family: inherit; cursor: pointer; }
   border-radius: 8px 8px 0 0 !important;
 }
 
+.nav-dropdown__head {
+  display: block;
+  padding: 11px 12px 4px;
+  font: 700 11px/1 var(--font-body);
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--dp-stone);
+}
+
+.nav-dropdown__head:first-child {
+  padding-top: 4px;
+}
+
 /* =========================================================
    FOOTER
    ========================================================= */

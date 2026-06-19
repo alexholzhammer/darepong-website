@@ -219,22 +219,43 @@
         <span></span><span></span><span></span>
       </button>
       <nav class="site-header__nav">
-        <a href="{{ '/#how' | url }}">So geht's</a>
-        <a href="{{ '/#dares' | url }}">Dares</a>
         <div class="nav-dropdown">
-          <button type="button" class="nav-dropdown__toggle" aria-haspopup="true" aria-expanded="false" aria-controls="nav-partyspiele">
+          <button type="button" class="nav-dropdown__toggle" aria-haspopup="true" aria-expanded="false" aria-controls="nav-trinkspiele">
             Trinkspiele
             <svg class="nav-dropdown__caret" width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </button>
-          <div class="nav-dropdown__menu" id="nav-partyspiele">
+          <div class="nav-dropdown__menu" id="nav-trinkspiele">
             <a href="{{ '/trinkspiele/' | url }}" class="nav-dropdown__all">Alle Trinkspiele &rarr;</a>
-            {% for game in collections.games %}
-            <a href="{{ game.url | url }}">{{ game.data.name }}</a>
-            {% endfor %}
+            <span class="nav-dropdown__head">Kategorien</span>
+            <a href="{{ '/partyspiele/' | url }}">Partyspiele</a>
+            <a href="{{ '/trinkspiele/draussen/' | url }}">Für draußen</a>
+            <a href="{{ '/trinkspiele/gruppe/' | url }}">Für große Gruppen</a>
+            <a href="{{ '/trinkspiele/ohne-zubehoer/' | url }}">Ohne Zubehör</a>
+            <a href="{{ '/trinkspiele/aufgaben/' | url }}">Aufgaben &amp; Dares</a>
+            <a href="{{ '/wahrheit-oder-pflicht/fragen/' | url }}">Wahrheit oder Pflicht</a>
+            <span class="nav-dropdown__head">Beliebte Spiele</span>
+            <a href="{{ '/beer-pong/' | url }}">Beer Pong</a>
+            <a href="{{ '/kings-cup/' | url }}">King&rsquo;s Cup</a>
+            <a href="{{ '/flunkyball/' | url }}">Flunkyball</a>
+            <a href="{{ '/rage-cage/' | url }}">Rage Cage</a>
+            <a href="{{ '/maexchen/' | url }}">Mäxchen</a>
           </div>
         </div>
-        <a href="https://amzn.to/4nA0xYQ">Kaufen</a>
-        <a href="{{ '/blog/' | url }}">Blog</a>
+        <div class="nav-dropdown">
+          <button type="button" class="nav-dropdown__toggle" aria-haspopup="true" aria-expanded="false" aria-controls="nav-ratgeber">
+            Ratgeber
+            <svg class="nav-dropdown__caret" width="12" height="12" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <div class="nav-dropdown__menu" id="nav-ratgeber">
+            <a href="{{ '/blog/' | url }}" class="nav-dropdown__all">Alle Artikel &rarr;</a>
+            <span class="nav-dropdown__head">Geschenke</span>
+            <a href="{{ '/geschenke/' | url }}">Geschenke-Übersicht</a>
+            <a href="{{ '/post/trinkspiel-geschenk/' | url }}">Trinkspiel als Geschenk</a>
+            <a href="{{ '/post/wichtelgeschenk-unter-10-euro/' | url }}">Wichtelgeschenk unter 10 €</a>
+            <a href="{{ '/post/jga-geschenk/' | url }}">JGA-Geschenk</a>
+          </div>
+        </div>
+        <a href="{{ '/#how' | url }}">So geht's</a>
         <a href="{{ '/#faq' | url }}">FAQ</a>
       </nav>
       <a href="https://amzn.to/4nA0xYQ" class="site-header__cta" target="_blank" rel="noopener">
@@ -260,8 +281,15 @@
           <span class="site-footer__col-head">Spiel</span>
           <a href="{{ '/#how' | url }}">So geht's</a>
           <a href="{{ '/#dares' | url }}">Dares</a>
-          <a href="{{ '/trinkspiele/' | url }}">Trinkspiele</a>
           <a href="https://amzn.to/4nA0xYQ">Kaufen</a>
+        </div>
+        <div class="site-footer__col">
+          <span class="site-footer__col-head">Trinkspiele</span>
+          <a href="{{ '/trinkspiele/' | url }}">Alle Trinkspiele</a>
+          <a href="{{ '/partyspiele/' | url }}">Partyspiele</a>
+          <a href="{{ '/trinkspiele/draussen/' | url }}">Für draußen</a>
+          <a href="{{ '/trinkspiele/gruppe/' | url }}">Große Gruppen</a>
+          <a href="{{ '/trinkspiele/ohne-zubehoer/' | url }}">Ohne Zubehör</a>
         </div>
         <div class="site-footer__col">
           <span class="site-footer__col-head">Hilfe</span>
@@ -275,8 +303,9 @@
           <a href="https://www.facebook.com/DarePongOfficial/" target="_blank" rel="noopener">Facebook</a>
         </div>
         <div class="site-footer__col">
-          <span class="site-footer__col-head">Blog</span>
-          <a href="{{ '/blog/' | url }}">Alle Artikel</a>
+          <span class="site-footer__col-head">Ratgeber</span>
+          <a href="{{ '/blog/' | url }}">Blog</a>
+          <a href="{{ '/geschenke/' | url }}">Geschenke</a>
         </div>
       </div>
     </div>

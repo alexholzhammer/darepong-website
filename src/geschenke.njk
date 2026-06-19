@@ -1,0 +1,130 @@
+---
+layout: layouts/blog.njk
+title: "Geschenke: Trinkspiel- & Party-Geschenkideen für jeden Anlass"
+description: "Die besten Geschenkideen rund um Trinkspiele und Partys: vom Wichtelgeschenk unter 10 Euro über den JGA bis zum originellen Mitbringsel – mit Dare Pong als Geschenk-Tipp."
+permalink: /geschenke/
+updated: 2026-06-19
+ogImage: "https://www.darepong.eu/assets/og/geschenke.jpg"
+faqs:
+  - q: "Was ist ein gutes Geschenk für Partygänger?"
+    a: "Originelle Partyspiele kommen fast immer an – allen voran Dare Pong, ein günstiges Karten-Set mit 120 wasserfesten Dares für die Beer-Pong-Runde. Daneben eignen sich Trinkspiel-Klassiker, ein Beer-Pong-Set oder personalisierte Gläser."
+  - q: "Welches Trinkspiel eignet sich am besten als Geschenk?"
+    a: "Als Geschenk besonders beliebt sind Dare Pong, ein gutes Beer-Pong-Set, ein Karten-Trinkspiel wie King's Cup und Trinkspiel-Brettspiele. Dare Pong punktet als günstige, originelle Idee, die zu fast jeder Zielgruppe passt – mehr dazu im Ratgeber „Trinkspiel als Geschenk“."
+  - q: "Was kann man unter 10 Euro verschenken?"
+    a: "Unter 10 Euro gibt es viele gute Ideen: Dare Pong für ca. 9,97 Euro ist die perfekte Punktlandung fürs Wichteln, dazu kommen kleine Gadgets, Spiele und Mitbringsel. Eine ganze Liste findest du im Ratgeber „Wichtelgeschenk unter 10 Euro“."
+  - q: "Was schenkt man zum JGA?"
+    a: "Zum Junggesellenabschied passen Party- und Aufgaben-Spiele wie Dare Pong, personalisierte Geschenke und Erlebnis-Gutscheine. Ideen für Braut und Bräutigam stehen im Ratgeber „JGA-Geschenk“."
+---
+
+<div class="blog-index">
+  <div class="blog-index__header">
+    <div class="container">
+      <span class="eyebrow">Geschenke</span>
+      <h1 class="blog-index__title">Geschenkideen für<br>Partylöwen.</h1>
+      <p class="blog-index__lede">Vom <strong>Wichtelgeschenk unter 10 Euro</strong> über den JGA bis zum originellen Mitbringsel: Hier findest du die besten Geschenke rund um Trinkspiele und Partys – inklusive <a href="{{ '/' | url }}">Dare Pong</a> als günstigem Geschenk-Tipp für unter 10 €.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="blog-index__grid">
+      {% for post in collections.giftPosts %}
+      {% set cardImg = post.data.image or (post.data.ogImage | replace(site.url, "")) %}
+      <a href="{{ post.url | url | encodeUrl }}" class="post-card">
+        {% if cardImg %}
+        <div class="post-card__img">
+          <img src="{{ cardImg }}" alt="{{ post.data.imageAlt or post.data.title }}" sizes="(max-width: 600px) 100vw, 400px" loading="lazy">
+        </div>
+        {% else %}
+        <div class="post-card__img post-card__img--placeholder">
+          <svg width="48" height="56" viewBox="0 0 120 140" aria-hidden="true">
+            <ellipse cx="60" cy="34" rx="44" ry="8" fill="#FFF7E3" opacity=".4"/>
+            <path d="M22 34 L98 34 L88 130 L32 130 Z" fill="#E1342B" opacity=".4"/>
+            <path d="M22 34 L98 34 L96 42 L24 42 Z" fill="#B82822" opacity=".4"/>
+          </svg>
+        </div>
+        {% endif %}
+        <div class="post-card__body">
+          {% if post.data.tags %}
+          <div class="post-card__tags">
+            {% for tag in post.data.tags %}
+            {% if tag != "post" %}
+            <span class="post-card__tag">{{ tag }}</span>
+            {% endif %}
+            {% endfor %}
+          </div>
+          {% endif %}
+          <h2 class="post-card__title">{{ post.data.title }}</h2>
+          {% if post.data.summary %}
+          <p class="post-card__summary">{{ post.data.summary }}</p>
+          {% endif %}
+          <div class="post-card__meta">
+            <time datetime="{{ post.date | dateISO }}">{{ post.date | dateDE }}</time>
+            <span class="post-card__arrow">&rarr;</span>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+
+    <aside class="hub-cta">
+      <div class="hub-cta__body">
+        <span class="hub-cta__eyebrow">Der Geschenk-Tipp</span>
+        <p>Originell, günstig und für fast jeden: <strong>Dare Pong</strong> bringt 120 wasserfeste Dares an den Beer-Pong-Tisch – für unter 10 €.</p>
+      </div>
+      <a href="https://amzn.to/4nA0xYQ" class="btn-primary" target="_blank" rel="sponsored noopener">Dare Pong ansehen &mdash; &euro;9,97</a>
+    </aside>
+
+    <section class="hub-faq">
+      <h2 class="hub-faq__title">Häufige Fragen zu Geschenken</h2>
+      <div class="faq__list">
+        {% for f in faqs %}
+        <div class="faq__item{% if loop.first %} is-open{% endif %}">
+          <button class="faq__question" onclick="toggleFaq(this)">
+            <span>{{ f.q }}</span>
+            <span class="faq__chevron">+</span>
+          </button>
+          <div class="faq__answer"><p>{{ f.a }}</p></div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "{{ site.url }}{{ page.url }}#webpage",
+      "url": "{{ site.url }}{{ page.url }}",
+      "name": {{ title | dump | safe }},
+      "description": {{ description | dump | safe }}
+    },
+    {
+      "@type": "ItemList",
+      "itemListElement": [
+        {% for post in collections.giftPosts %}
+        { "@type": "ListItem", "position": {{ loop.index }}, "name": {{ post.data.title | dump | safe }}, "url": "{{ site.url }}{{ post.url }}" }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "{{ site.url }}/" },
+        { "@type": "ListItem", "position": 2, "name": "Geschenke", "item": "{{ site.url }}{{ page.url }}" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for f in faqs %}
+        { "@type": "Question", "name": {{ f.q | dump | safe }}, "acceptedAnswer": { "@type": "Answer", "text": {{ f.a | dump | safe }} } }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
+    }
+  ]
+}
+</script>
