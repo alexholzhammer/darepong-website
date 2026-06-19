@@ -1,7 +1,7 @@
 ---
 title: "Film Trinkspiele - die 20 besten Ideen und Filme"
 date: 2024-02-07
-updated: 2026-06-18
+updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-film-trinkspiele.jpg"
 summary: "Film Trinkspiel-Regeln, Ideen und die 20 besten Filme und Serien zum Filmsaufen – inklusive Harry Potter und Herr der Ringe Trinkspiel."
 image: /post/film-trinkspiele/film-trinkspiel-regeln-ideen.avif
@@ -24,6 +24,8 @@ faq:
 Ein **Film Trinkspiel** macht aus jedem Filmabend ein interaktives Erlebnis: Ihr legt vorher fest, bei welchen Szenen, Wörtern oder Charakteren getrunken wird – und schon wird aus passivem Schauen ein gemeinsames Spiel. Egal ob Action, Rom-Com, Horror oder eure Lieblingsserie, mit den richtigen Regeln passt ein Trinkspiel zu jedem Film.
 
 Auf dieser Seite findest du die kompletten Regeln für Film Trinkspiele, abwechslungsreiche Trinkspiel-Ideen sowie die 20 besten Filme und Serien zum Filmsaufen – inklusive Vorlagen für ein Harry Potter und Herr der Ringe Trinkspiel. Du suchst weitere [lustige Trinkspiele](/post/lustige-trinkspiele-f%C3%BCr-jede-situation-das-richtige/) oder ein Kartenspiel für zwischendurch? Wirf auch einen Blick auf [Dare Pong]({{ '/' | url }}).
+
+Besonders gut passt das Film-Trinkspiel zu bestimmten Anlässen: An Halloween wird der Horrorfilm zum Spiel – die besten Regeln dafür findest du bei den [Halloween-Trinkspielen](/post/halloween-trinkspiele/). Zu Silvester ist das Dinner-for-One-Trinkspiel Pflicht (siehe [Silvester-Trinkspiele](/post/silvester-trinkspiele/)), und für gemütliche Dezember-Abende lohnt das Weihnachtsfilm-Trinkspiel aus den [Weihnachtsfeier-Trinkspielen](/post/weihnachtsfeier-trinkspiele/).
 
 ## Inhaltsverzeichnis
 
