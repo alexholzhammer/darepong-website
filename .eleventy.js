@@ -1,9 +1,15 @@
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+const { minify: minifyHtml } = require("html-minifier-terser");
+const CleanCSS = require("clean-css");
 const fs = require("fs");
 const path = require("path");
 const gameMeta = require("./src/_data/gameMeta.js");
 
 const INPUT_DIR = "src";
+const RUN_MODE = process.env.ELEVENTY_RUN_MODE;
+const PRODUCTION = RUN_MODE !== "serve" && RUN_MODE !== "watch";
+
+const cleanCSS = new CleanCSS({});
 
 // Resolve an <img src> to its source file path (mirrors eleventy-img's logic):
 // absolute paths are relative to the content dir, relative paths to the template.
@@ -141,9 +147,37 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("inlineCSS", function (name) {
     if (cssCache.has(name)) return cssCache.get(name);
     const file = path.join(__dirname, "css", name);
-    const css = fs.readFileSync(file, "utf8");
+    let css = fs.readFileSync(file, "utf8");
+    if (PRODUCTION) {
+      const out = cleanCSS.minify(css);
+      if (out.errors.length) {
+        console.warn(`[minify-css] ${name}: ${out.errors.join("; ")}`);
+      } else {
+        css = out.styles;
+      }
+    }
     cssCache.set(name, css);
     return css;
+  });
+
+  // Minify the final HTML output (production builds only — keeps `--serve`
+  // readable). Runs after the image transform and posthtml plugins.
+  eleventyConfig.addTransform("minifyHtml", async function (content) {
+    if (!PRODUCTION || !this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
+      return content;
+    }
+    return minifyHtml(content, {
+      collapseWhitespace: true,
+      conservativeCollapse: true,
+      removeComments: true,
+      minifyCSS: true,
+      minifyJS: true,
+      removeRedundantAttributes: true,
+      removeScriptTypeAttributes: true,
+      removeStyleLinkTypeAttributes: true,
+      useShortDoctype: true,
+      keepClosingSlash: true,
+    });
   });
 
   return {
