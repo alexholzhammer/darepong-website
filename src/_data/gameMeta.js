@@ -36,4 +36,10 @@ module.exports = {
   "looping-louie":       { icon: "🛩️", image: "/assets/looping-louie-aufbau.svg" },
   "medusa":              { icon: "🐍", image: "/assets/medusa-ablauf.svg" },
   "werwolf-trinkspiel":  { icon: "🐺", image: "/assets/werwolf-trinkspiel-ablauf.svg" },
+  "stadt-land-fluss":    { icon: "✏️", image: "/assets/og/stadt-land-fluss.jpg" },
+  "wer-bin-ich":         { icon: "🧠", image: "/assets/og/wer-bin-ich.jpg" },
+  "pferderennen":        { icon: "🐎", image: "/assets/og/pferderennen.jpg" },
+  "pyramide":            { icon: "🔺", image: "/assets/og/pyramide.jpg" },
+  "hoch-oder-tief":      { icon: "🎴", image: "/assets/og/hoch-oder-tief.jpg" },
+  "tabu-trinkspiel":     { icon: "🗣️", image: "/assets/og/tabu-trinkspiel.jpg" },
 };
