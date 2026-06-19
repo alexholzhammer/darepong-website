@@ -118,7 +118,7 @@ Die Magie von Trinkspielen zu viert liegt in ihrer Fähigkeit, eine Atmosphäre 
 
 **Interaktivität:** Im Gegensatz zu Spielen, bei denen man nur sitzt und zuschaut, fordern Trinkspiele zu viert die Spieler dazu auf, aktiv teilzunehmen. Dies fördert die Interaktion und stärkt die Bindungen zwischen Freunden.
 
-**Wettbewerb mit einem Augenzwinkern:** Auch wenn es ums Gewinnen geht, bleibt der Wettbewerb freundlich und sorgt für Gelächter. Ein gutes Trinkspiel zu viert erlaubt spielerische Sticheleien, ohne dass jemand ernsthaft verärgert ist. Übrigens: Wusstest du, dass wir auch unter den [Geschenken für Juristen](/post/geschenke-f%C3%BCr-juristen) ein einzigartiges Trinkspiel mit viel Wettbewerb haben?
+**Wettbewerb mit einem Augenzwinkern:** Auch wenn es ums Gewinnen geht, bleibt der Wettbewerb freundlich und sorgt für Gelächter. Ein gutes Trinkspiel zu viert erlaubt spielerische Sticheleien, ohne dass jemand ernsthaft verärgert ist. Übrigens: Wusstest du, dass wir auch unter den [Geschenken für Juristen](/post/geschenke-f%C3%BCr-juristen/) ein einzigartiges Trinkspiel mit viel Wettbewerb haben?
 
 **Vielseitigkeit:** Sie sind anpassungsfähig an verschiedene Gruppengrößen, Alkoholpräferenzen und Stimmungen. Es gibt Trinkspiele für 4, die eher ruhig und strategisch sind, während andere laut und schnell sind.
 

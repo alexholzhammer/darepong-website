@@ -346,7 +346,7 @@ Das Ziel des Spiels ist es, als Erster keine Karten mehr zu haben.
 
 Das Spiel endet, wenn ein Spieler keine Karten mehr hat. Optional kann das Spiel fortgesetzt werden, um den zweiten, dritten Platz usw. zu ermitteln.
 
-Übrigens: Hier findest du die besten [Geschenke für Juristen](/post/geschenke-f%C3%BCr-juristen)!
+Übrigens: Hier findest du die besten [Geschenke für Juristen](/post/geschenke-f%C3%BCr-juristen/)!
 
 ### 7. Hepp Hepp Hepp
 

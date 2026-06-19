@@ -34,7 +34,7 @@ Du willst kein fertiges Spiel umbauen, sondern ein **Trinkspiel selber machen**?
 
 <h2 id="beliebt">Wieso sind Brettspiel-Trinkspiele so beliebt?</h2>
 
-**Trinkspiel-Brettspiele** haben einen besonderen Reiz, der weit über das bloße Zusammenspiel von Brettspiel und Alkohol hinausgeht. Sie vereinen die nostalgische Liebe zu Brettspielen aus unserer Kindheit mit einer Prise Erwachsenenhumor und geselligem Beisammensein. Diese Spiele bieten eine perfekte Balance zwischen vertrauter Strategie und unvorhersehbarem Spaß. Tipp: Besonders [lustige Trinkspiele](/post/lustige-trinkspiele-f%C3%BCr-jede-situation-das-richtige) findest du hier!
+**Trinkspiel-Brettspiele** haben einen besonderen Reiz, der weit über das bloße Zusammenspiel von Brettspiel und Alkohol hinausgeht. Sie vereinen die nostalgische Liebe zu Brettspielen aus unserer Kindheit mit einer Prise Erwachsenenhumor und geselligem Beisammensein. Diese Spiele bieten eine perfekte Balance zwischen vertrauter Strategie und unvorhersehbarem Spaß. Tipp: Besonders [lustige Trinkspiele](/post/lustige-trinkspiele-f%C3%BCr-jede-situation-das-richtige/) findest du hier!
 
 Einer der Hauptgründe für ihre Beliebtheit liegt in der Fähigkeit dieser Spiele, Menschen zusammenzubringen. Sie lockern die Atmosphäre auf, brechen das Eis und fördern die Interaktion in der Gruppe. In einer Welt, in der digitale Kommunikation oft überwiegt, bieten Trinkspiel-Brettspiele eine wunderbare Gelegenheit, sich persönlich zu treffen, gemeinsam zu lachen und unvergessliche Momente zu schaffen.
 

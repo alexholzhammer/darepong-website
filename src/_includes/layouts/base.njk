@@ -23,7 +23,7 @@
   <title>{{ pageTitle }}</title>
   <meta name="description" content="{{ description or site.description }}">
   <meta name="robots" content="{{ robots or 'index, follow' }}">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | encodeUrl }}">
 
   <!-- Favicons -->
   <link rel="icon" href="/favicon.ico" sizes="any">
@@ -40,7 +40,7 @@
   <meta property="og:title" content="{{ pageTitle }}">
   <meta property="og:description" content="{{ description or site.description }}">
   <meta property="og:type" content="{{ ogType or 'website' }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url | encodeUrl }}">
   <meta property="og:image" content="{{ pageOgImage }}">
   <meta property="og:locale" content="{{ site.locale }}">
 
@@ -136,7 +136,7 @@
         "datePublished": "{{ date | dateISO }}",
         "dateModified": "{{ date | dateISO }}",
         "image": "{{ ogImage or site.ogImage }}",
-        "url": "{{ site.url }}{{ page.url }}",
+        "url": "{{ site.url }}{{ page.url | encodeUrl }}",
         "publisher": {
           "@type": "Organization",
           "name": "{{ site.name }}",
@@ -144,7 +144,7 @@
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "{{ site.url }}{{ page.url }}"
+          "@id": "{{ site.url }}{{ page.url | encodeUrl }}"
         }
       }{% if faq %},
       {

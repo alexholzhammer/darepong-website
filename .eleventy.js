@@ -139,6 +139,14 @@ module.exports = function (eleventyConfig) {
     return new Date(date).toISOString().split("T")[0];
   });
 
+  // Percent-encode non-ASCII in a URL path (e.g. "ü" -> "%C3%BC") while leaving
+  // slashes and already-safe chars untouched. Keeps canonical, og:url, sitemap
+  // <loc> and internal links protocol-compliant and consistent. No-op for plain
+  // ASCII URLs; safe on already-encoded input (encodeURI leaves "%" alone).
+  eleventyConfig.addFilter("encodeUrl", function (urlPath) {
+    return encodeURI(urlPath || "");
+  });
+
   // Inline a stylesheet from /css straight into the <head>. Eliminates the
   // render-blocking request for the file (the critical FCP lever) — the CSS
   // ships in the HTML document instead of a separate round trip. Reads are
