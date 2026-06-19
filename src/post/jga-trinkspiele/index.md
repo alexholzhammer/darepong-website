@@ -4,6 +4,7 @@ date: 2024-01-05
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-jga-trinkspiele.jpg"
 summary: "JGA Ideen, Spiele und Aufgaben für den Junggesellenabschied: Programm, Motto und über 30 Aufgaben für Braut & Bräutigam – plus Trinkspiele für drinnen, draußen und unterwegs."
+ctaPitch: "Pflichtprogramm für den JGA: Dare Pong bringt 120 freche Dares an den Beer-Pong-Tisch – für Aufgaben, über die ihr noch lange redet."
 answer: "Beliebte JGA-Trinkspiele sind Flunkyball, Beer Pong, Ich hab noch nie und spezielle Aufgaben-Spiele für Braut oder Bräutigam. Sie funktionieren drinnen wie draußen und lassen sich an Gruppengröße und Stimmung anpassen."
 image: /post/jga-trinkspiele/jga-trinkspiele-beste-ideen-anleitung.avif
 imageAlt: "JGA Trinkspiele - die besten Ideen und Anleitungen für den Junggesellenabschied"

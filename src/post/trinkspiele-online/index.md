@@ -4,6 +4,7 @@ date: 2023-12-19
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-online.jpg"
 summary: "Trinkspiele online: die besten Spiele für Zoom, Discord und Co. – mit Anleitungen, Trinkregeln und Tipps für zu zweit, in der Gruppe und ab 18."
+ctaPitch: "Wenn ihr euch wieder in echt trefft: Dare Pong bringt 120 wasserfeste Dares an den Beer-Pong-Tisch."
 answer: "Online-Trinkspiele für Zoom, Discord oder Videocall sind zum Beispiel Ich hab noch nie, Wer würde eher, Wahrheit oder Pflicht und Most Likely. Sie brauchen außer Kamera und Getränk kein Material – ideal für die Fernparty."
 image: /post/trinkspiele-online/trinkspiele-online-beste-spiele-anleitungen.avif
 imageAlt: "Trinkspiele online - die besten Spiele und Anleitungen für virtuelle Spieleabende"

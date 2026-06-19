@@ -4,6 +4,7 @@ date: 2023-11-29
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-mit-karten.jpg"
 summary: "Trinkspiele mit Karten: 14 Karten-Trinkspiele mit Anleitung - zu zweit, in der Gruppe und mit nur einem Skatblatt. Inklusive Regeln und Trinkspiel-Tipps."
+ctaPitch: "Wenn die Karten zur Seite gelegt werden: Dare Pong bringt mit 120 wasserfesten Dares neuen Schwung in die Beer-Pong-Runde."
 answer: "Die beliebtesten Karten-Trinkspiele sind King's Cup (Ring of Fire), Busfahren, Mogeln und Schwimmen. Ein normales Skat- oder Pokerdeck genügt. Die Regeln sind schnell erklärt und für jede Gruppengröße anpassbar."
 image: /post/trinkspiele-mit-karten/trinkspiele-mit-karten.avif
 imageAlt: "Trinkspiele mit Karten - die 14 besten Karten-Trinkspiele für jeden Anlass"

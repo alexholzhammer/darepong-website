@@ -44,7 +44,7 @@ ogType: article
     </div>
     {% endif %}
     <div class="post__body">
-      {{ content | safe }}
+      {{ content | injectCta(ctaPitch) | safe }}
     </div>
 
     {% if faq %}

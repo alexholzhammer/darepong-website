@@ -4,6 +4,7 @@ date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-silvester-trinkspiele.jpg"
 summary: "Silvester-Trinkspiele für die perfekte Neujahrsparty: Dinner-for-One-Special, Countdown-Shot, Bleigießen-Variante & Klassiker fürs Vorglühen – mit Anleitung."
+ctaPitch: "Die Wartezeit bis Mitternacht überbrücken? Dare Pong bringt 120 wasserfeste Dares in eure Beer-Pong-Runde an Silvester."
 answer: "Die besten Silvester-Trinkspiele verbinden Neujahrs-Rituale mit dem Spiel: das Dinner-for-One-Trinkspiel, ein Countdown-Shot um Mitternacht, eine Bleigießen-Variante und das Vorsätze-Trinkspiel. Sie brauchen kaum Material und funktionieren mit Sekt genauso wie alkoholfrei."
 tags:
   - post

@@ -4,6 +4,7 @@ date: 2024-02-07
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-film-trinkspiele.jpg"
 summary: "Film Trinkspiel-Regeln, Ideen und die 20 besten Filme und Serien zum Filmsaufen – inklusive Harry Potter und Herr der Ringe Trinkspiel."
+ctaPitch: "In der Werbepause an den Tisch: Dare Pong bringt 120 wasserfeste Dares in die Beer-Pong-Runde zum Filmabend."
 answer: "Bei einem Film-Trinkspiel legt ihr vorher fest, bei welchen Szenen, Wörtern oder Charakteren getrunken wird. Gut geeignet sind Filme mit wiederkehrenden Motiven wie Harry Potter, Herr der Ringe oder Game of Thrones – auch alkoholfrei spielbar."
 image: /post/film-trinkspiele/film-trinkspiel-regeln-ideen.avif
 imageAlt: "Film Trinkspiel - Regeln, Ideen und die besten Filme für den Filmabend"

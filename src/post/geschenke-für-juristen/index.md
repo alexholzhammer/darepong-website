@@ -4,6 +4,7 @@ date: 2023-10-25
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-geschenke-fuer-juristen.jpg"
 summary: "Geschenke für Juristen, Anwälte und Jurastudenten: praktische und ausgefallene Ideen für Examen, Referendariat, Geburtstag und Weihnachten – für jeden Geldbeutel."
+ctaPitch: "Als witziges Mitbringsel: Dare Pong bringt mit 120 wasserfesten Dares Abwechslung in jede Feier – ein origineller Geschenk-Tipp."
 answer: "Gute Geschenke für Juristen reichen von hochwertigem Schreibgerät und Fachliteratur über witzige Jura-Gadgets bis zu Partyspielen. Für Examen, Referendariat, Geburtstag oder Weihnachten gibt es für jeden Geldbeutel die passende Idee."
 image: /post/geschenke-für-juristen/geschenke-fuer-juristen-beste-ideen.avif
 imageAlt: "Geschenke für Juristen – die 26 besten Ideen für jeden Anlass und Geldbeutel"
