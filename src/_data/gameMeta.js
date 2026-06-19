@@ -42,4 +42,10 @@ module.exports = {
   "pyramide":            { icon: "🔺", image: "/assets/og/pyramide.jpg" },
   "hoch-oder-tief":      { icon: "🎴", image: "/assets/og/hoch-oder-tief.jpg" },
   "tabu-trinkspiel":     { icon: "🗣️", image: "/assets/og/tabu-trinkspiel.jpg" },
+  "wikingerschach":      { icon: "🪵", image: "/assets/og/wikingerschach.jpg" },
+  "cornhole":            { icon: "🎯", image: "/assets/og/cornhole.jpg" },
+  "roxanne":             { icon: "🎵", image: "/assets/og/roxanne.jpg" },
+  "twister-trinkspiel":  { icon: "🤸", image: "/assets/og/twister-trinkspiel.jpg" },
+  "activity-trinkspiel": { icon: "🎭", image: "/assets/og/activity-trinkspiel.jpg" },
+  "bingo-trinkspiel":    { icon: "🔢", image: "/assets/og/bingo-trinkspiel.jpg" },
 };
