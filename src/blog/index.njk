@@ -17,10 +17,11 @@ permalink: /blog/
   <div class="container">
     <div class="blog-index__grid">
       {% for post in collections.posts %}
+      {% set cardImg = post.data.image or (post.data.ogImage | replace(site.url, "")) %}
       <a href="{{ post.url | url | encodeUrl }}" class="post-card">
-        {% if post.data.image %}
+        {% if cardImg %}
         <div class="post-card__img">
-          <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt or post.data.title }}" sizes="(max-width: 600px) 100vw, 400px" loading="lazy">
+          <img src="{{ cardImg }}" alt="{{ post.data.imageAlt or post.data.title }}" sizes="(max-width: 600px) 100vw, 400px" loading="lazy">
         </div>
         {% else %}
         <div class="post-card__img post-card__img--placeholder">
