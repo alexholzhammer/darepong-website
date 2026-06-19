@@ -2,6 +2,7 @@
 title: "Geschenke für Juristen: Die besten Ideen für jeden Anlass"
 date: 2023-10-25
 updated: 2026-06-18
+ogImage: "https://www.darepong.eu/assets/og/blog-geschenke-fuer-juristen.jpg"
 summary: "Geschenke für Juristen, Anwälte und Jurastudenten: praktische und ausgefallene Ideen für Examen, Referendariat, Geburtstag und Weihnachten – für jeden Geldbeutel."
 image: /post/geschenke-für-juristen/geschenke-fuer-juristen-beste-ideen.avif
 imageAlt: "Geschenke für Juristen – die 26 besten Ideen für jeden Anlass und Geldbeutel"

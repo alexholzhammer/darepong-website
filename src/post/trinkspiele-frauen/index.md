@@ -2,6 +2,7 @@
 title: "9 lustige Trinkspiele für Frauen – die besten Ideen für den Mädelsabend"
 date: 2024-02-29
 updated: 2026-06-18
+ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-frauen.jpg"
 summary: "Trinkspiele für Frauen und Spiele für den Mädelsabend: 9 Ideen mit Regeln und Beispielen – von Wahrheit oder Pflicht über Ich hab noch nie bis Beer Pong, auch ohne Alkohol und für den JGA."
 image: /post/trinkspiele-frauen/trinkspiele-frauen-maedelsabend.avif
 imageAlt: "Gruppe Frauen lacht beim Trinkspiel auf dem Sofa mit Getränken"
