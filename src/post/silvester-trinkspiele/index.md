@@ -25,6 +25,11 @@ An Silvester ist das Warten auf Mitternacht oft das halbe Programm. Häppchen si
 
 Wir haben hier die 10 besten Silvester-Trinkspiele zusammengestellt: typisch deutsche Rituale wie das Dinner-for-One-Trinkspiel und die Bleigießen-Variante, dazu erprobte Klassiker fürs Vorglühen. Jedes Spiel kommt mit klaren Regeln, und zu den passenden [Dare Pong]({{ '/' | url }})-Anleitungen verlinken wir direkt. So tragt ihr euch vom Vorglühen über das Feuerwerk bis ins neue Jahr.
 
+<figure>
+  <img src="{{ '/assets/silvester-trinkspiele-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Silvester-Trinkspiele: Feuerwerk und Sektgläser zum Jahreswechsel">
+  <figcaption>Silvester-Trinkspiele für den Jahreswechsel.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Warum Silvester perfekt für Trinkspiele ist](#warum-silvester)
@@ -154,3 +159,7 @@ Und: **Jedes Spiel auf dieser Seite funktioniert auch ohne Alkohol.** Statt Shot
 Mit dieser Mischung aus deutschen Ritualen und erprobten Klassikern hast du für jede Phase der Neujahrsparty etwas: Dinner-for-One und die Wachsgieß-Variante tragen euch durch den frühen Abend, die Klassiker fürs Vorglühen halten die Stimmung hoch, und rund um Mitternacht legen Countdown-Shot, Feuerwerk- und Vorsätze-Trinkspiel nach. So zieht sich das Warten auf den Jahreswechsel nicht, und ihr startet mit den besten Geschichten ins neue Jahr.
 
 Schnapp dir die Regeln, lade die Runde ein und lass das Jahr ausklingen. Mehr Ideen für jeden Anlass gibt es in der [Trinkspiele-Übersicht]({{ '/trinkspiele/' | url }}) und bei den [Aufgaben für Trinkspiele]({{ '/trinkspiele/aufgaben/' | url }}). Guten Rutsch und ein frohes neues Jahr – Cheers!
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/silvester-trinkspiele-motiv.svg' | url }}","name":"Silvester-Trinkspiele","caption":"Silvester-Trinkspiele für den Jahreswechsel."}]}
+</script>

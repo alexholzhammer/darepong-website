@@ -25,6 +25,11 @@ Ohne Becher und Bälle kein Spiel. Beim **Beer Pong Becher kaufen** kommen aber 
 
 Beruhigend vorweg: Becher und Bälle kosten fast nichts und sind in zehn Minuten besorgt. Steht die Grundausstattung, lohnt sich noch ein kleines Extra. Mit [Dare Pong]({{ '/' | url }}) legst du 120 wasserfeste Aufgaben unter die Becher – wer trifft, drückt dem Gegner eine Aufgabe aufs Auge, statt ihn nur trinken zu lassen.
 
+<figure>
+  <img src="{{ '/assets/beer-pong-becher-und-baelle-setup.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Beer-Pong-Setup: zehn Becher als Pyramide pro Seite, Becher mit 16 oz bzw. 0,5 l und ein 40-mm-Ball">
+  <figcaption>Das Standard-Setup: pro Seite zehn Becher als Pyramide, dazu ein 40-mm-Ball.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Auf einen Blick](#auf-einen-blick)
@@ -75,3 +80,7 @@ Becher und Bälle hast du jetzt beisammen. Was noch fehlt, ist das gewisse Etwas
 Und das für rund **9,97 €**. Neue Becher oder Bälle brauchst du dafür nicht, die Karten kommen einfach unter dein bestehendes Setup. Mehr Action, mehr Lacher, kaum Aufwand.
 
 Suchst du noch mehr für die nächste Feier? In unserem Ratgeber zu [Trinkspielen für den Geburtstag]({{ '/post/trinkspiele-geburtstag/' | url }}) findest du jede Menge Ideen – Beer Pong mit Dare Pong ist dabei selten verkehrt.
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/beer-pong-becher-und-baelle-setup.svg' | url }}","name":"Beer-Pong-Setup – Becher und Ball","caption":"Das Standard-Setup: pro Seite zehn Becher als Pyramide, dazu ein 40-mm-Ball."}]}
+</script>

@@ -25,6 +25,11 @@ Die Kürbisse leuchten, Kunstblut klebt an der Wand, im Hintergrund knarrt und �
 
 Es gibt komplette Regeln, eine Übersichts-Tabelle und jede Menge Inspiration. Wir mischen echte Halloween-Klassiker mit thematisch passenden Trinkspielen wie [Werwolf]({{ '/werwolf-trinkspiel/' | url }}) und [Medusa]({{ '/medusa/' | url }}). Noch mehr Ideen gefällig? Stöbere in der großen Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) oder schau direkt bei [Dare Pong]({{ '/' | url }}) vorbei.
 
+<figure>
+  <img src="{{ '/assets/halloween-trinkspiele-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Halloween-Trinkspiele: Kürbis und roter Becher als Symbol für die Grusel-Party">
+  <figcaption>Halloween-Trinkspiele für die Grusel-Party.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Halloween-Trinkspiele auf einen Blick](#uebersicht)
@@ -176,3 +181,7 @@ Verantwortungsvoll feiern und Spaß haben schließt sich nicht aus, im Gegenteil
 Mit dieser Mischung aus Horrorfilm-Trinkspiel, Süßes-oder-Saures-Shots, Grusel-Wahrheit-oder-Pflicht und schaurigen Klassikern wie [Werwolf]({{ '/werwolf-trinkspiel/' | url }}) und [Medusa]({{ '/medusa/' | url }}) wird deine Halloween-Party zur Nacht, die hängenbleibt. Ruf die Freunde, zieht die Kostüme an, dimmt das Licht – und lasst die Spiele beginnen.
 
 Du brauchst die ganze Nacht über Nachschub? Stöbere durch die komplette Sammlung der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) und finde dein neues Lieblingsspiel bei [Dare Pong]({{ '/' | url }}). Happy Halloween – und trinkt verantwortungsvoll!
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/halloween-trinkspiele-motiv.svg' | url }}","name":"Halloween-Trinkspiele","caption":"Halloween-Trinkspiele für die Grusel-Party."}]}
+</script>

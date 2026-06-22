@@ -25,6 +25,11 @@ Du suchst die besten **Partyspiele für Erwachsene** zum Kaufen? Ob Geburtstag, 
 
 Unser klarer Top-Pick: [Dare Pong]({{ '/' | url }}). Das deutschsprachige Partyspiel ist mit rund 9,97 € günstig, originell und in einer Minute erklärt. Wenn du **Partyspiele für Erwachsene zum Kaufen** suchst, die zuverlässig für Lacher gut sind, bekommst du hier die beste Mischung aus Preis und Spaß. Weiter unten folgen Empfehlungen nach Gruppengröße und konkrete Kauf-Tipps.
 
+<figure>
+  <img src="{{ '/assets/partyspiele-fuer-erwachsene-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Partyspiele für Erwachsene: Becher, Spielkarte und Würfel">
+  <figcaption>Partyspiele für Erwachsene – von Becher bis Karten.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Die 12 besten Partyspiele für Erwachsene](#top12)
@@ -103,3 +108,7 @@ Damit dein neues Partyspiel auch oft auf den Tisch kommt, lohnt sich ein Blick a
 - **Robustheit:** Auf Partys geht es feuchtfröhlich zu. Wasserfeste Karten und stabiles Material überstehen auch ein verschüttetes Getränk.
 
 Unser Fazit: Für die meisten Erwachsenenrunden ist [Dare Pong]({{ '/' | url }}) die beste Wahl, günstig, originell und schnell erklärt. Kombiniert mit Klassikern wie [Beer Pong]({{ '/beer-pong/' | url }}) oder [King's Cup]({{ '/kings-cup/' | url }}) hast du genug Auswahl für jeden Abend. Viel Spaß und spielt verantwortungsbewusst!
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/partyspiele-fuer-erwachsene-motiv.svg' | url }}","name":"Partyspiele für Erwachsene","caption":"Partyspiele für Erwachsene – von Becher bis Karten."}]}
+</script>

@@ -25,6 +25,11 @@ Du suchst ein **Wichtelgeschenk unter 10 Euro**, das ankommt und nicht direkt in
 
 Unser klarer Top-Tipp: [Dare Pong]({{ '/' | url }}) für ca. 9,97 € – eine deutschsprachige Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten. Knapp unter 10 Euro, also eine echte Punktlandung beim Budget, und trotzdem ein Geschenk, das die ganze Gruppe gemeinsam erlebt. Damit liegst du als **Wichtelgeschenk unter 10 Euro** richtig, wenn du Spaß verschenken willst.
 
+<figure>
+  <img src="{{ '/assets/wichtelgeschenk-unter-10-euro-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Wichtelgeschenk unter 10 Euro: Geschenkbox mit einem Preis-Badge unter 10 Euro">
+  <figcaption>Wichtelgeschenke mit Budget unter 10 Euro.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Wichtelgeschenke auf einen Blick](#uebersicht)
@@ -85,3 +90,7 @@ Damit das Wichteln rund läuft, helfen ein paar einfache Regeln:
 - **Beim Schrottwichteln Humor zeigen:** Hier darf das Geschenk absichtlich kurios sein, Hauptsache es bringt alle zum Lachen. Wer trotzdem etwas Brauchbares verschenken will, greift zu einem günstigen Mini-Spiel.
 
 Soll das Wichteln in einen geselligen Abend übergehen, lohnt sich ein Vorrat an Spielen. Schau dazu auch in unsere [Studentenspiele](/post/studentenspiele/), von denen viele genauso gut auf jede Wichtel-Feier passen.
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/wichtelgeschenk-unter-10-euro-motiv.svg' | url }}","name":"Wichtelgeschenk unter 10 Euro","caption":"Wichtelgeschenke mit Budget unter 10 Euro."}]}
+</script>

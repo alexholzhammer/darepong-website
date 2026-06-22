@@ -25,6 +25,11 @@ Die Blasmusik spielt an, die Bänke wackeln, alle heben den Krug – dann ist kl
 
 In diesem Guide stecken die typischen Wiesn-Trinkspiele – vom **Maßkrug-Stemmen** bis zum bayerischen Vokabel-Spiel – plus die besten Würfel- und Karten-Klassiker fürs Bierzelt. Zu allen Spielen gibt es kurze Anleitungen, die ausführlichen Regeln verlinken wir direkt zu den passenden [Dare Pong]({{ '/' | url }})-Spielen. Damit bist du startklar für „O'zapft is!".
 
+<figure>
+  <img src="{{ '/assets/oktoberfest-trinkspiele-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Oktoberfest-Trinkspiele: Maßkrug mit Bierschaum">
+  <figcaption>Oktoberfest-Trinkspiele für die Wiesn.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Was macht ein gutes Oktoberfest-Trinkspiel aus?](#was-gutes-wiesn-spiel)
@@ -144,3 +149,7 @@ Und das Beste: **All diese Spiele funktionieren genauso gut ohne Alkohol.** Alko
 ## Pfiat di – auf eine zünftige Wiesn!
 
 Mit diesen Oktoberfest-Trinkspielen wird aus jeder Bierzelt-Runde, jeder Wiesn-Party und jedem Bayern-Abend ein Fest. Schnapp dir die Maß, üb schon mal das Maßkrug-Stemmen und lern ein paar bayerische Vokabeln – dann steht der Gaudi nichts mehr im Weg. Die Spiel-Regeln im Detail findest du jederzeit in unserer [Trinkspiele-Übersicht]({{ '/trinkspiele/' | url }}) und bei den [Partyspielen]({{ '/partyspiele/' | url }}). O'zapft is – und Prosit der Gemütlichkeit!
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/oktoberfest-trinkspiele-motiv.svg' | url }}","name":"Oktoberfest-Trinkspiele","caption":"Oktoberfest-Trinkspiele für die Wiesn."}]}
+</script>

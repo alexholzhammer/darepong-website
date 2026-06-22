@@ -25,6 +25,11 @@ Anpfiff, die Tribüne brüllt, dein Team rennt an – und du sitzt mit Freunden 
 
 Hier bekommst du das komplette Regelwerk als übersichtliche Tabelle, milde und harte Varianten, eine Team-Variante für echte Fanlager und Tipps fürs Public Viewing mit großer Gruppe. Und ja, alles lässt sich genauso gut alkoholfrei spielen.
 
+<figure>
+  <img src="{{ '/assets/fussball-trinkspiel-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Fußball-Trinkspiel: Ball, rote Karte und Becher fürs Public Viewing">
+  <figcaption>Fußball-Trinkspiel fürs Public Viewing.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Was ist ein Fußball-Trinkspiel?](#was-ist)
@@ -122,3 +127,7 @@ Und das Wichtigste: **Jedes hier beschriebene Fußball-Trinkspiel funktioniert g
 Ein Fußball-Trinkspiel macht aus jedem Spiel – WM-Finale 2026, Bundesliga-Konferenz oder spontaner Champions-League-Abend – eine gemeinsame Sache. Das Regelwerk oben gibt dir die komplette Basis, dazu Varianten für jede Stimmung und Tipps fürs große Public Viewing. Stell dir deine fünf bis acht Lieblings-Auslöser zusammen, teilt euch in Fanlager auf und los geht's.
 
 Wenn euch zwischen den Spielen die Action ausgeht, klick dich durch unsere [Partyspiele]({{ '/partyspiele/' | url }}) und [Trinkspiele für die Gruppe]({{ '/trinkspiele/gruppe/' | url }}) – oder hol dir mit [Dare Pong]({{ '/' | url }}) den Beer-Pong-Klassiker mit der extra Portion Mutproben für die Halbzeit. Jetzt aber: Anpfiff, Becher hoch, und möge das bessere Team gewinnen.
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/fussball-trinkspiel-motiv.svg' | url }}","name":"Fußball-Trinkspiel","caption":"Fußball-Trinkspiel fürs Public Viewing."}]}
+</script>
