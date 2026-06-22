@@ -21,9 +21,9 @@ faq:
     a: "Für große Kostümpartys eignen sich Flip Cup, Rage Cage und Beer Pong, weil viele Leute gleichzeitig mitmachen. Das Helau/Alaaf-Spiel und das Karnevalslieder-Trinkspiel funktionieren sogar mit der ganzen Halle."
 ---
 
-Wenn die fünfte Jahreszeit beginnt, gibt es kein Halten mehr: **Karneval-Trinkspiele** machen aus jeder Kostümparty, jeder Sitzung und jedem Umzug ein noch geselligeres Erlebnis. Egal ob bei dir **Helau** oder **Alaaf** gerufen wird, ob du Fasching, Fastnacht oder Karneval feierst – mit den richtigen Spielen wird aus einer normalen Feier ein Tag, über den noch im Sommer geredet wird.
+Sobald die fünfte Jahreszeit beginnt, gibt es kein Halten mehr: **Karneval-Trinkspiele** machen jede Kostümparty, jede Sitzung und jeden Umzug noch geselliger. Ob bei dir **Helau** oder **Alaaf** gerufen wird, ob du Fasching, Fastnacht oder Karneval feierst – mit den richtigen Spielen wird aus der Feier ein Tag, über den noch im Sommer geredet wird.
 
-In diesem Guide findest du die besten **Fasching-Trinkspiele** und Karneval-Klassiker: speziell auf Kostüme, Schunkeln, Büttenreden und Karnevalslieder zugeschnitten – plus bewährte Trinkspiele für die große Kostümparty. Alle Anleitungen sind in der [du-Form](#abschluss) erklärt, und die passenden [Dare Pong]({{ '/' | url }})-Spiele verlinken wir direkt im Beitrag. Schnapp dir Pappnase und Becher – es geht los!
+In diesem Guide stecken die besten **Fasching-Trinkspiele** und Karneval-Klassiker, zugeschnitten auf Kostüme, Schunkeln, Büttenreden und Karnevalslieder – dazu bewährte Trinkspiele für die große Kostümparty. Die passenden [Dare Pong]({{ '/' | url }})-Spiele verlinken wir direkt im Beitrag. Schnapp dir Pappnase und Becher, es geht los!
 
 ## Inhaltsverzeichnis
 
@@ -39,11 +39,11 @@ In diesem Guide findest du die besten **Fasching-Trinkspiele** und Karneval-Klas
 
 <h2 id="was-besonders">Was Karneval-Trinkspiele besonders macht</h2>
 
-Karneval ist anders als jede andere Feier. Es gibt eine eigene Sprache (Helau, Alaaf, Kamelle), eine eigene Kleiderordnung (je verrückter das Kostüm, desto besser) und einen eigenen Soundtrack aus Karnevalsliedern und Schlagern, bei denen die ganze Halle schunkelt. Genau diese Eigenheiten machen Karneval-Trinkspiele so reizvoll: Sie greifen auf, was sowieso passiert.
+Karneval tickt anders als jede andere Feier. Eigene Sprache (Helau, Alaaf, Kamelle), eigene Kleiderordnung (je verrückter das Kostüm, desto besser) und ein eigener Soundtrack aus Karnevalsliedern und Schlagern, bei denen die ganze Halle schunkelt. Diese Eigenheiten machen Karneval-Trinkspiele so reizvoll: Sie greifen auf, was sowieso schon passiert.
 
-Statt also irgendein x-beliebiges Trinkspiel zu spielen, knüpfst du an die Rituale der Session an. Bei jedem Helau wird getrunken, jedes Kostüm bringt eigene Regeln mit, und sobald die Büttenrede beginnt oder das nächste Stimmungslied läuft, wird daraus ein Spiel. Das Schöne: Diese Spiele laufen nebenbei, während du feierst, tanzt und schunkelst – du musst dich nicht extra hinsetzen.
+Statt also irgendein x-beliebiges Trinkspiel zu spielen, knüpfst du an die Rituale der Session an. Bei jedem Helau wird getrunken, jedes Kostüm bringt eigene Regeln mit, und sobald die Büttenrede beginnt oder das nächste Stimmungslied läuft, wird daraus ein Spiel. Das Beste: Das läuft alles nebenbei, während du feierst, tanzt und schunkelst – hinsetzen musst du dich nicht.
 
-Ein guter Karneval-Trinkspiel-Mix ist außerdem inklusiv. Auf einer Kostümparty sind oft alle Generationen und Trinktypen dabei. Deshalb gilt: lieber viele kleine Schlücke als wenige große Shots, und immer eine alkoholfreie Variante anbieten. So bleibt die Stimmung bis zum Kehraus oben.
+Ein guter Karneval-Trinkspiel-Mix nimmt außerdem alle mit. Auf einer Kostümparty stehen oft alle Generationen und Trinktypen zusammen. Deshalb: lieber viele kleine Schlücke als wenige große Shots, und immer eine alkoholfreie Variante anbieten. So bleibt die Stimmung bis zum Kehraus oben.
 
 <h2 id="uebersicht">Spiele-Übersicht auf einen Blick</h2>
 

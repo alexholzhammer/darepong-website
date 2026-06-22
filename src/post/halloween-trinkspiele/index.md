@@ -21,9 +21,9 @@ faq:
     a: "Das hängt vom Spiel ab. Das Horrorfilm-Trinkspiel geht schon zu zweit, Werwolf und Geister-Geschichten machen ab vier bis fünf Leuten richtig Laune. Für die große Grusel-Party sind acht und mehr ideal."
 ---
 
-Wenn die Kürbisse leuchten, Kunstblut die Wände ziert und im Hintergrund unheimliche Geräusche laufen, fehlt nur noch eins: das richtige Spiel. Mit den passenden **Halloween-Trinkspielen** wird aus einer normalen Kostümparty ein schauriges Erlebnis, an das sich alle noch lange erinnern. Egal ob beim Horrorfilm-Marathon, beim gemütlichen Beisammensein im Kerzenschein oder auf der großen Grusel-Sause: Hier findest du die gruseligsten, lustigsten und gemeinsten Spiele für deine Halloween-Nacht.
+Die Kürbisse leuchten, Kunstblut klebt an der Wand, im Hintergrund knarrt und ächzt es – jetzt fehlt nur noch das richtige Spiel. Mit den passenden **Halloween-Trinkspielen** wird aus der Kostümparty eine Nacht, von der noch im Frühling erzählt wird. Beim Horrorfilm-Marathon, beim Beisammensein im Kerzenschein oder auf der großen Grusel-Sause – hier findest du die gruseligsten, lustigsten und gemeinsten Spiele für die Halloween-Nacht.
 
-Auf dieser Seite bekommst du komplette Regeln, eine Übersichts-Tabelle und jede Menge Inspiration. Wir kombinieren echte Halloween-Klassiker mit thematisch passenden Trinkspielen wie [Werwolf]({{ '/werwolf-trinkspiel/' | url }}) und [Medusa]({{ '/medusa/' | url }}). Du suchst noch mehr Ideen? Wirf einen Blick in unsere große Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) oder schau direkt bei [Dare Pong]({{ '/' | url }}) vorbei.
+Es gibt komplette Regeln, eine Übersichts-Tabelle und jede Menge Inspiration. Wir mischen echte Halloween-Klassiker mit thematisch passenden Trinkspielen wie [Werwolf]({{ '/werwolf-trinkspiel/' | url }}) und [Medusa]({{ '/medusa/' | url }}). Noch mehr Ideen gefällig? Stöbere in der großen Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) oder schau direkt bei [Dare Pong]({{ '/' | url }}) vorbei.
 
 ## Inhaltsverzeichnis
 
@@ -39,7 +39,7 @@ Auf dieser Seite bekommst du komplette Regeln, eine Übersichts-Tabelle und jede
 
 <h2 id="uebersicht">Halloween-Trinkspiele auf einen Blick</h2>
 
-Bevor wir ins Detail gehen, hier die schnelle Übersicht. So findest du sofort das passende Spiel für deine Gruppengröße und dein Setting – egal ob auf dem Sofa vor dem Fernseher oder mitten in der wilden Kostümparty.
+Erst die schnelle Übersicht, dann die Details. So findest du sofort das Spiel, das zu eurer Gruppengröße und eurem Setting passt – ob auf dem Sofa vor dem Fernseher oder mitten in der wilden Kostümparty.
 
 | Spiel | Spieler | Material | Setting |
 | --- | --- | --- | --- |
@@ -55,9 +55,9 @@ Tipp: Kombiniere mehrere Spiele über den Abend hinweg. Startet entspannt mit ei
 
 <h2 id="horrorfilm">Horrorfilm-Trinkspiel</h2>
 
-Das **Horrorfilm-Trinkspiel** ist der absolute Halloween-Klassiker und der perfekte Einstieg in den Abend. Das Prinzip ist denkbar einfach: Ihr sucht euch einen Horror- oder Slasher-Film aus und trinkt immer dann, wenn ein typisches Genre-Klischee auftaucht. Und glaub uns – in einem durchschnittlichen Horrorfilm passiert davon eine ganze Menge.
+Das **Horrorfilm-Trinkspiel** ist der Halloween-Klassiker schlechthin und ein idealer Einstieg in den Abend. Das Prinzip: Sucht euch einen Horror- oder Slasher-Film aus und trinkt, sobald ein typisches Genre-Klischee auftaucht. Und glaub uns, davon gibt es in einem durchschnittlichen Horrorfilm reichlich.
 
-Legt vor dem Film gemeinsam fest, welche Trink-Auslöser gelten. Hier ist unsere bewährte Liste der schaurigsten Klischees:
+Legt vor dem Film gemeinsam fest, welche Trink-Auslöser gelten. Unsere bewährte Liste der schaurigsten Klischees:
 
 | Trink-Auslöser | Was passiert | Strafe |
 | --- | --- | --- |
@@ -80,7 +80,7 @@ Mehr Ideen rund ums Filmsaufen findest du in unserem ausführlichen Guide zu [Fi
 
 <h2 id="suesses-saures">Süßes-oder-Saures-Shot</h2>
 
-„Süßes oder Saures?" – diese Frage kennt jedes Kind. In der Erwachsenen-Version wird daraus ein herrlich gemeines Trinkspiel. Stellt zwei verschiedene Shot-Sorten bereit: einen **süßen** (z. B. ein cremiger Likör, Sahne-Shot oder ein fruchtiger Sirup-Drink) und einen **sauren** (z. B. Zitronen-Shot, saurer Apfel oder ein scharfer „Saurer").
+„Süßes oder Saures?" kennt jedes Kind. In der Erwachsenen-Version wird daraus ein herrlich gemeines Trinkspiel. Stellt zwei Shot-Sorten bereit: einen **süßen** (cremiger Likör, Sahne-Shot, fruchtiger Sirup-Drink) und einen **sauren** (Zitronen-Shot, saurer Apfel, ein scharfer „Saurer").
 
 So läuft's:
 
@@ -88,7 +88,7 @@ So läuft's:
 2. Die ausgewählte Person muss den entsprechenden Shot trinken – die Gruppe bestimmt also über dein Schicksal.
 3. Wer kneift, zieht eine Aufgabe aus dem Aufgaben-Stapel. Inspiration für gemeine Challenges findest du in unseren [Trinkspiel-Aufgaben]({{ '/trinkspiele/aufgaben/' | url }}).
 
-Variante mit Glücksrad: Beschriftet kleine Zettel mit „Süß", „Sauer" und – für die Mutigen – „Mystery-Shot" (eine geheime Mischung aus mehreren Getränken). Gezogen wird blind aus einem Hexenkessel oder einer Schüssel. So bleibt bis zum letzten Moment ungewiss, was dich erwartet.
+Variante mit Glücksrad: Beschriftet kleine Zettel mit „Süß", „Sauer" und – für die Mutigen – „Mystery-Shot" (eine geheime Mischung aus mehreren Getränken). Gezogen wird blind aus einem Hexenkessel oder einer Schüssel. Bis zum letzten Moment weißt du nicht, was dich erwartet.
 
 <h2 id="grusel-wop">Grusel-Wahrheit-oder-Pflicht</h2>
 
@@ -112,7 +112,7 @@ Wer trinkt, statt zu antworten oder die Aufgabe zu erfüllen, nimmt einen Strafs
 
 <h2 id="geister">Geister-Geschichten-Trinkspiel</h2>
 
-Dieses Spiel ist etwas für die ruhigeren, atmosphärischen Momente der Nacht – am besten im Halbdunkel, mit einer einzelnen Kerze in der Mitte. Beim **Geister-Geschichten-Trinkspiel** erzählt ihr gemeinsam eine fortlaufende Gruselgeschichte.
+Dieses Spiel ist etwas für die ruhigeren Momente der Nacht – am besten im Halbdunkel, mit einer einzelnen Kerze in der Mitte. Beim **Geister-Geschichten-Trinkspiel** spinnt ihr gemeinsam eine fortlaufende Gruselgeschichte.
 
 So funktioniert's:
 
@@ -121,13 +121,13 @@ So funktioniert's:
 3. Es gilt: Wer zögert, stockt, lacht oder „äh" sagt, trinkt einen Schluck.
 4. Jedes Mal, wenn in der Geschichte ein **Geist, ein Tod oder ein unheimliches Geräusch** vorkommt, trinken alle.
 
-Die Geschichte wird mit jeder Runde absurder und gruseliger – und genau das ist der Spaß. Wer einen besonders fiesen Cliffhanger einbaut und damit den Nächsten ins Schwitzen bringt, darf einen beliebigen Mitspieler zum Trinken verdonnern.
+Mit jeder Runde wird die Geschichte absurder und gruseliger – genau das ist der Reiz. Wer einen besonders fiesen Cliffhanger einbaut und damit den Nächsten ins Schwitzen bringt, darf einen beliebigen Mitspieler zum Trinken verdonnern.
 
 Tipp: Macht das Ganze noch stimmungsvoller, indem ihr ein paar Sound-Effekte im Hintergrund laufen lasst – knarrende Türen, Wind, ferne Schreie.
 
 <h2 id="kostuem">Kostüm-Grusel-Regeln</h2>
 
-Auf einer Halloween-Party tragen alle Kostüme – warum also nicht zum Spielelement machen? Die **Kostüm-Grusel-Regeln** laufen den ganzen Abend über nebenbei und sorgen für ständige kleine Trink-Überraschungen. Vereinbart zu Beginn der Party ein paar einfache Regeln, die für alle gelten:
+Auf einer Halloween-Party tragen alle Kostüme – warum also nicht das Kostüm selbst zum Spiel machen? Die **Kostüm-Grusel-Regeln** laufen den ganzen Abend nebenbei und bringen immer wieder kleine Trink-Überraschungen. Vereinbart zu Beginn ein paar einfache Regeln, die für alle gelten:
 
 - Wer aus der Rolle fällt und beim falschen Namen genannt wird (statt beim Kostüm-Charakter), trinkt.
 - Jedes Mal, wenn jemand sein eigenes Kostüm erklären muss, weil es keiner erkennt: ein Schluck.
@@ -139,7 +139,7 @@ Für den extra Wettbewerbskick: Vergebt am Ende des Abends per Abstimmung einen 
 
 <h2 id="klassiker">Thematisch passende Klassiker</h2>
 
-Manche Trinkspiele sind nicht speziell für Halloween gemacht, passen aber durch ihr düsteres Thema perfect in die Nacht der Geister. Diese beiden Klassiker dürfen auf keiner Grusel-Party fehlen:
+Manche Trinkspiele sind nicht speziell für Halloween gemacht, fügen sich durch ihr düsteres Thema aber perfekt in die Nacht der Geister. Diese beiden Klassiker dürfen auf keiner Grusel-Party fehlen:
 
 **[Werwolf]({{ '/werwolf-trinkspiel/' | url }})** ist das ultimative Spiel für größere Runden. Heimlich werden Werwölfe unter den Dorfbewohnern verteilt, die Nacht für Nacht jemanden „fressen", während das Dorf versucht, sie zu entlarven. Misstrauen, Lügen und dramatische Anklagen – mehr Halloween-Stimmung geht kaum. Mit der passenden Trink-Variante wird jede falsche Beschuldigung und jedes nächtliche Opfer mit einem Schluck quittiert.
 
@@ -155,7 +155,7 @@ Noch mehr Ideen für die Gruppe findest du in unserer Übersicht der besten [Par
 
 <h2 id="verantwortung">Alkoholfrei & verantwortungsvoll feiern</h2>
 
-So viel Spaß die Grusel-Nacht auch macht – die Sicherheit aller geht vor. Halloween-Trinkspiele funktionieren genauso gut **ohne Alkohol**. Statt Shots und Cocktails gibt es einfach thematisch passende, alkoholfreie Alternativen, die optisch genauso viel hermachen:
+So viel Spaß die Grusel-Nacht auch macht – die Sicherheit aller geht vor. Halloween-Trinkspiele funktionieren genauso gut **ohne Alkohol**. Statt Shots und Cocktails gibt es thematisch passende, alkoholfreie Alternativen, die optisch mindestens so viel hermachen:
 
 - **Blutrote Mocktails** aus Granatapfel- oder Kirschsaft mit Sprudel – sehen aus wie Vampirblut.
 - **Hexen-Punsch** mit Trockeneis, das nebelnd aus dem Kessel quillt (Trockeneis nie pur trinken).
@@ -169,10 +169,10 @@ Ein paar Grundregeln für eine gute Nacht:
 - Niemand wird zum Mittrinken gedrängt – wer pausieren möchte, trinkt alkoholfrei mit.
 - Sorgt dafür, dass alle sicher nach Hause kommen: Taxi, Fahrer oder Schlafplatz im Voraus klären.
 
-Verantwortungsvoll feiern und Spaß haben schließt sich nicht aus – im Gegenteil. Wer die Nacht in Maßen genießt, hat am nächsten Morgen die besseren Geschichten zu erzählen.
+Verantwortungsvoll feiern und Spaß haben schließt sich nicht aus, im Gegenteil. Wer die Nacht in Maßen genießt, hat am Morgen danach die besseren Geschichten parat.
 
 <h2 id="cta">Bereit für die Grusel-Party?</h2>
 
-Mit dieser Mischung aus Horrorfilm-Trinkspiel, Süßes-oder-Saures-Shots, Grusel-Wahrheit-oder-Pflicht und schaurigen Klassikern wie [Werwolf]({{ '/werwolf-trinkspiel/' | url }}) und [Medusa]({{ '/medusa/' | url }}) wird deine Halloween-Party garantiert unvergesslich. Schnapp dir deine Freunde, zieht die Kostüme an, dimmt das Licht – und lasst die Spiele beginnen.
+Mit dieser Mischung aus Horrorfilm-Trinkspiel, Süßes-oder-Saures-Shots, Grusel-Wahrheit-oder-Pflicht und schaurigen Klassikern wie [Werwolf]({{ '/werwolf-trinkspiel/' | url }}) und [Medusa]({{ '/medusa/' | url }}) wird deine Halloween-Party zur Nacht, die hängenbleibt. Ruf die Freunde, zieht die Kostüme an, dimmt das Licht – und lasst die Spiele beginnen.
 
-Du willst die ganze Nacht über Nachschub an Spielen? Stöbere durch unsere komplette Sammlung der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) und finde dein neues Lieblingsspiel bei [Dare Pong]({{ '/' | url }}). Happy Halloween – und trinkt verantwortungsvoll!
+Du brauchst die ganze Nacht über Nachschub? Stöbere durch die komplette Sammlung der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) und finde dein neues Lieblingsspiel bei [Dare Pong]({{ '/' | url }}). Happy Halloween – und trinkt verantwortungsvoll!

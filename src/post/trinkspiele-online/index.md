@@ -5,7 +5,7 @@ updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-online.jpg"
 summary: "Trinkspiele online: die besten Spiele für Zoom, Discord und Co. – mit Anleitungen, Trinkregeln und Tipps für zu zweit, in der Gruppe und ab 18."
 ctaPitch: "Wenn ihr euch wieder in echt trefft: Dare Pong bringt 120 wasserfeste Dares an den Beer-Pong-Tisch."
-answer: "Online-Trinkspiele für Zoom, Discord oder Videocall sind zum Beispiel Ich hab noch nie, Wer würde eher, Wahrheit oder Pflicht und Most Likely. Sie brauchen außer Kamera und Getränk kein Material – ideal für die Fernparty."
+answer: "Online klappen zum Beispiel Ich hab noch nie, Wer würde eher, Wahrheit oder Pflicht und Most Likely. Außer Kamera und einem Getränk braucht Ihr nichts, damit eignen sie sich gut für die Fernparty."
 image: /post/trinkspiele-online/trinkspiele-online-beste-spiele-anleitungen.avif
 imageAlt: "Trinkspiele online - die besten Spiele und Anleitungen für virtuelle Spieleabende"
 tags:
@@ -16,16 +16,16 @@ faq:
   - q: "Welche Trinkspiele kann man online spielen?"
     a: "Zu den besten Online-Trinkspielen zählen Houseparty Trivia, Psych!, Ich hab noch nie via Zoom, Skribbl.io, Among Us, Codenames Online und Remote Insensitivity – alle mit einfachen Trinkregeln erweiterbar."
   - q: "Wie spielt man Ich hab noch nie online?"
-    a: "Einfach ein Zoom-Meeting erstellen, alle Teilnehmer einladen und abwechselnd Aussagen mit Ich habe noch nie... machen. Wer die genannte Sache schon gemacht hat, trinkt."
+    a: "Zoom-Meeting erstellen, alle einladen und reihum Aussagen mit Ich habe noch nie... machen. Wer die genannte Sache schon gemacht hat, trinkt."
   - q: "Kann man Among Us als Trinkspiel spielen?"
     a: "Ja – wer getötet wird, trinkt; wer fälschlicherweise beschuldigt, trinkt; alle trinken bei einer Notfallsitzung. Die Trinkregeln werden vor dem Spiel gemeinsam festgelegt."
   - q: "Was ist Remote Insensitivity?"
     a: "Remote Insensitivity ist die Online-Version von Cards Against Humanity und kann zum Beispiel auf PlayingCards.io gespielt werden. Mit Trinkregeln wie trinken bei nicht gewählten Karten wird es zum Online-Trinkspiel."
 ---
 
-Du suchst Trinkspiele online, die ihr per Zoom, Discord oder Videocall zusammen spielen könnt? Ob in der großen Gruppe, zu zweit auf Distanz oder als Saufspiel ab 18 – hier findest du die besten Online-Trinkspiele mit klaren Anleitungen und fertigen Trinkregeln.
+Du brauchst Trinkspiele online, die ihr per Zoom, Discord oder Videocall zusammen spielen könnt? Ob in der großen Gruppe, zu zweit auf Distanz oder als Saufspiel ab 18 – wir haben die besten Online-Trinkspiele zusammengetragen, jeweils mit klarer Anleitung und fertigen Trinkregeln.
 
-Alle Spiele lassen sich kostenlos im Browser oder per App starten. Wähle dein Spiel aus der Übersicht, lege die Trinkregeln fest und legt direkt los.
+Starten lässt sich alles kostenlos im Browser oder per App. Such dir ein Spiel aus der Übersicht, legt die Trinkregeln fest und los geht's.
 
 ## Inhaltsverzeichnis
 
@@ -55,7 +55,7 @@ Alle Spiele lassen sich kostenlos im Browser oder per App starten. Wähle dein S
 
 <h2 id="houseparty-trivia">Houseparty Trivia</h2>
 
-Dieses Spiel kombiniert das Trivia-Format mit dem Spaß eines Trinkspiels und kann über die Houseparty-App gespielt werden. Hier ist eine schrittweise Anleitung:
+Trivia trifft Trinkspiel, gespielt über die Houseparty-App. So geht's Schritt für Schritt:
 
 ### **Vorbereitung:**
 
@@ -90,7 +90,7 @@ Tipp: Hier findest du [Trinkspiele mit Würfeln](/post/trinkspiele-mit-wuerfeln)
 
 <h2 id="psych">Psych! Onlinetrinkspiel</h2>
 
-Dieses Spiel kombiniert Spaß mit Trivia und kann leicht in ein Trinkspiel umgewandelt werden.
+Auch Psych! lässt sich mit ein paar Zusatzregeln zum Trinkspiel machen.
 
 ### **Vorbereitung:**
 
@@ -117,7 +117,7 @@ Dieses Spiel kombiniert Spaß mit Trivia und kann leicht in ein Trinkspiel umgew
 
 <h2 id="ich-hab-noch-nie">Ich hab noch nie Trinkspiel online (per Zoom)</h2>
 
-Das Onlinetrinkspiel "Zoom 'Ich habe noch nie'" ist eine digitale Version des klassischen Partyspiels, das über die Videochat-Plattform Zoom gespielt wird. Es ist ideal für virtuelle Treffen und eine unterhaltsame Möglichkeit, mehr über deine Freunde herauszufinden. Hier ist eine Anleitung, wie man es spielt:
+"Ich habe noch nie" funktioniert per Zoom genauso gut wie am Küchentisch, nur dass alle zu Hause sitzen. Ein verlässlicher Weg, um über den Videochat Dinge über die anderen zu erfahren, die man so nie erfragt hätte. So spielt ihr es:
 
 ### **Vorbereitung:**
 
@@ -142,7 +142,7 @@ Das Onlinetrinkspiel "Zoom 'Ich habe noch nie'" ist eine digitale Version des kl
 
 - **Flexibles Ende**: Das Spiel kann so lange fortgesetzt werden, wie die Gruppe möchte. Es gibt kein formelles Ende, es endet, wenn alle genug haben oder die Zeit abgelaufen ist.
 
-Dieses Spiel ist eine großartige Möglichkeit, sich zu amüsieren und gleichzeitig über Videochat in Verbindung zu bleiben. Wie immer gilt: Verantwortungsbewusst spielen und aufeinander aufpassen!
+So bleibt ihr trotz Distanz in Verbindung und habt nebenbei viel zu lachen. Und wie immer: in eurem Tempo trinken und aufeinander aufpassen.
 
 Ihr trefft euch doch? Dann hast du hier sehr gute [Trinkspiele mit Karten](/post/trinkspiele-mit-karten)
 
