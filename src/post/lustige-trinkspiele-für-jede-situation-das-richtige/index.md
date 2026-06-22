@@ -208,13 +208,13 @@ Ab sechs Personen brauchst du Spiele, bei denen niemand lange Pause hat und alle
 - **[Kings Cup]({{ '/kings-cup/' | url }})**: Das Kartenspiel rund um einen zentralen Becher. Jede gezogene Karte löst eine Aktion oder Regel aus - so bleibt die ganze Runde dauerhaft eingebunden. Mit beliebig vielen Mitspielern spielbar.
 - **[Wasserfall]({{ '/wasserfall/' | url }})**: Ein simpler Trink-Klassiker, bei dem reihum getrunken wird und niemand absetzen darf, bevor der Vordermann aufgehört hat. Braucht kein Material außer Getränken.
 
-Für noch mehr Action holst du dir [Dare Pong]({{ '/' | url }}) dazu: Die Karten-Erweiterung bringt witzige Aufgaben in jedes Becher-Spiel und macht aus einer großen Runde einen unvergesslichen Abend. Achtet gerade bei vielen Mitspielern darauf, dass jeder im eigenen Tempo trinkt.
+Für mehr Action holst du dir [Dare Pong]({{ '/' | url }}) dazu: Die Karten-Erweiterung bringt witzige Aufgaben in jedes Becher-Spiel und gibt der großen Runde noch eine Schippe drauf. Achtet gerade bei vielen Leuten darauf, dass jeder im eigenen Tempo trinkt.
 
 <h2 id="ohne-zubehoer-extra">Lustige Trinkspiele ohne Material - spontan überall spielbar</h2>
 
-Kein Becher, keine Karten, kein Ball zur Hand? Kein Problem. Diese Trinkspiele brauchen nichts außer Getränken und sind ideal für unterwegs, im Park oder spontan auf der Couch.
+Kein Becher, keine Karten, kein Ball zur Hand? Macht nichts. Diese Trinkspiele brauchen nur Getränke und laufen überall, unterwegs, im Park oder spontan auf der Couch.
 
-- **[Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})**: Jeder nennt etwas, das er noch nie getan hat - wer es doch schon gemacht hat, trinkt. Ein Garant für überraschende Geständnisse.
+- **[Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})**: Jeder nennt etwas, das er noch nie getan hat, und wer es doch schon gemacht hat, trinkt. Die überraschenden Geständnisse kommen von allein.
 - **[Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }})**: Der Klassiker funktioniert komplett ohne Zubehör und passt von zwei Personen bis zur großen Runde.
 - **[Buffalo]({{ '/buffalo/' | url }})**: Den ganzen Abend mit der linken Hand trinken - wer es mit rechts vergisst, muss austrinken. Läuft nebenbei und braucht keinerlei Vorbereitung.
 
