@@ -25,6 +25,11 @@ Sobald die ersten Lichterketten leuchten und es nach Zimt und Nelken riecht, ist
 
 Für jede Stimmung ist etwas dabei: vom albernen Schrottwichteln über das Kult-Spiel zu „Last Christmas“ bis zum gemütlichen Weihnachtsfilm-Abend. Mehr Ideen fürs ganze Jahr gibt es in unserer Übersicht der besten [Trinkspiele]({{ '/trinkspiele/' | url }}) und bei [Dare Pong]({{ '/' | url }}).
 
+<figure>
+  <img src="{{ '/assets/weihnachtsfeier-trinkspiele-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Weihnachtsfeier-Trinkspiele: Christbaumkugel und ein Glas Glühwein">
+  <figcaption>Trinkspiele für die Weihnachtsfeier.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Übersicht: Weihnachts-Trinkspiele auf einen Blick](#uebersicht)
@@ -170,3 +175,7 @@ Und ganz wichtig: **Personen unter 18 Jahren spielen selbstverständlich ausschl
 ## Macht eure Weihnachtsfeier unvergesslich
 
 Ob albernes Schrottwichteln, Last-Christmas-Wahnsinn oder ein gemütlicher Filmabend mit Punsch – mit diesen Weihnachtsfeier-Trinkspielen wird jede Adventsrunde besser. Schnapp dir deinen Becher, such dir dein Lieblingsspiel aus und leg los. Mehr Spiele mit kompletten Regeln findest du in unserer Übersicht der besten [Trinkspiele]({{ '/trinkspiele/' | url }}) und bei [Dare Pong]({{ '/' | url }}). Frohe Feiertage und viel Spaß!
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/weihnachtsfeier-trinkspiele-motiv.svg' | url }}","name":"Weihnachtsfeier-Trinkspiele","caption":"Trinkspiele für die Weihnachtsfeier."}]}
+</script>

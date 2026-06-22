@@ -25,6 +25,11 @@ Sobald die fünfte Jahreszeit beginnt, gibt es kein Halten mehr: **Karneval-Trin
 
 In diesem Guide stecken die besten **Fasching-Trinkspiele** und Karneval-Klassiker, zugeschnitten auf Kostüme, Schunkeln, Büttenreden und Karnevalslieder – dazu bewährte Trinkspiele für die große Kostümparty. Die passenden [Dare Pong]({{ '/' | url }})-Spiele verlinken wir direkt im Beitrag. Schnapp dir Pappnase und Becher, es geht los!
 
+<figure>
+  <img src="{{ '/assets/karneval-trinkspiele-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Karneval-Trinkspiele: Maske und Konfetti für Fasching und Fastnacht">
+  <figcaption>Karneval-Trinkspiele für Fasching und Fastnacht.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Was Karneval-Trinkspiele besonders macht](#was-besonders)
@@ -180,3 +185,7 @@ Passende Spiele für Karneval & Fasching – Regeln im Detail:
 - [Rage Cage]({{ '/rage-cage/' | url }})
 
 Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/karneval-trinkspiele-motiv.svg' | url }}","name":"Karneval-Trinkspiele","caption":"Karneval-Trinkspiele für Fasching und Fastnacht."}]}
+</script>

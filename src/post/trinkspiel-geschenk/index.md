@@ -25,6 +25,11 @@ Du suchst ein **Trinkspiel als Geschenk** und willst nicht schon wieder einen Gu
 
 Wir haben die 12 besten Ideen für ein **Trinkspiel zum Verschenken** zusammengestellt – sortiert nach Budget, Anlass und Zielgruppe. Ob Geburtstag, JGA oder Wichteln: Da ist das passende Geschenk dabei, mit dem du beim Beschenkten punktest.
 
+<figure>
+  <img src="{{ '/assets/trinkspiel-geschenk-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Trinkspiel als Geschenk: Geschenkbox mit einem roten Becher">
+  <figcaption>Trinkspiele als originelles Geschenk.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Auf einen Blick: Die besten Trinkspiel-Geschenke](#auf-einen-blick)
@@ -100,3 +105,7 @@ Damit dein Trinkspiel-Geschenk auch wirklich ankommt, lohnt sich ein Blick auf e
 - **Verpackung:** Eine kleine, hübsch verpackte Box wirkt oft mehr als ein großes, sperriges Geschenk. Und sie lässt sich leichter überreichen.
 
 So findest du das passende Trinkspiel zum Verschenken. Unser Favorit bleibt [Dare Pong]({{ '/' | url }}): originell, günstig und in fast jeder Runde für beste Stimmung gut. Prost und viel Spaß beim Schenken!
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/trinkspiel-geschenk-motiv.svg' | url }}","name":"Trinkspiel als Geschenk","caption":"Trinkspiele als originelles Geschenk."}]}
+</script>

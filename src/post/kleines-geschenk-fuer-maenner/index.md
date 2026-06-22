@@ -25,6 +25,11 @@ Du brauchst **kleine Geschenke für Männer**, ein **Mitbringsel für Männer**,
 
 Unser klarer Top-Tipp ist [Dare Pong]({{ '/' | url }}): eine deutschsprachige Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten, die unter die Becher kommen. Wer trifft, verteilt eine Aufgabe, und schon wird aus einer normalen Runde ein Abend, über den am nächsten Tag noch geredet wird. Für rund 9,97 € ist das ein originelles kleines Mitbringsel. Darunter findest du 15 Ideen, sortiert nach Typ und Anlass.
 
+<figure>
+  <img src="{{ '/assets/kleines-geschenk-fuer-maenner-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Kleine Geschenke für Männer: eine rote Geschenkbox">
+  <figcaption>Kleine, originelle Geschenke für Männer.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Auf einen Blick](#ueberblick)
@@ -136,3 +141,7 @@ Der Student liebt alles, was günstig ist und Stimmung macht. Dare Pong ist hier
 Du brauchst schnell ein **Mitbringsel für Männer** und hast wenig Zeit? Setz auf Geschenke, die ein Erlebnis bringen und sicher ankommen. Ein Partyspiel wie Dare Pong ist dafür wie gemacht: günstig, originell und sofort einsatzbereit, ob zur Hausparty, zum Geburtstag oder einfach als nette Aufmerksamkeit.
 
 Generell gilt: Ein kleines Geschenk wirkt am stärksten, wenn es persönlich ist und zum Humor des Beschenkten passt. Lieber ein günstiges, durchdachtes Mitbringsel mit Augenzwinkern als ein teures Standardgeschenk ohne Bezug. Wer einen ganzen Abend planen will, kombiniert das Geschenk gleich mit passenden Spielideen, etwa aus unseren [Trinkspielen zum Geburtstag]({{ '/post/trinkspiele-geburtstag/' | url }}), und macht aus dem Mitbringsel das Highlight der Feier.
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/kleines-geschenk-fuer-maenner-motiv.svg' | url }}","name":"Kleine Geschenke für Männer","caption":"Kleine, originelle Geschenke für Männer."}]}
+</script>

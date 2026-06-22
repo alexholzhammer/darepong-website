@@ -25,6 +25,11 @@ Du brauchst ein **JGA-Geschenk** für die Braut oder den Bräutigam und willst n
 
 Wir haben originelle Ideen für Braut und Bräutigam gesammelt, vom Partyspiel über personalisierte Shirts bis zum Erlebnis-Gutschein. Unser Favorit in der Party-Kategorie ist [Dare Pong]({{ '/' | url }}): Die deutschsprachige Beer-Pong-Erweiterung legt 120 wasserfeste Dare-Karten unter die Becher, und wer trifft, verteilt eine Mutprobe. Für rund 10 Euro hast du damit ein günstiges, praktisches JGA-Geschenk, das sofort peinlich-witzige Momente liefert.
 
+<figure>
+  <img src="{{ '/assets/jga-geschenk-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="JGA-Geschenk: Geschenkbox mit zwei Eheringen">
+  <figcaption>Geschenkideen für den Junggesellenabschied.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Die besten JGA-Geschenke](#beste-jga-geschenke)
@@ -81,3 +86,7 @@ Ob du allein oder gemeinsam mit den anderen Gästen schenkst, prägt Idee und Bu
 - **Mischung statt Einzelgeschenk:** Kombiniert ein gemeinsames Erlebnis mit kleinen persönlichen Mitbringseln. So gibt es einen Höhepunkt und trotzdem für jeden eine Überraschung.
 
 Tipp: Plant das Programm rund ums Geschenk. Ein Partyspiel zum Vorglühen, ein Outdoor-Klassiker für den Tag und ein Erlebnis als Highlight ergeben zusammen einen runden JGA. Weitere Ideen für die passenden Spiele stehen in unserem großen Guide zu [JGA-Trinkspielen]({{ '/post/jga-trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/jga-geschenk-motiv.svg' | url }}","name":"JGA-Geschenk","caption":"Geschenkideen für den Junggesellenabschied."}]}
+</script>

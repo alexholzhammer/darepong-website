@@ -25,6 +25,11 @@ Du suchst ein **Kartenspiel für Erwachsene**, das eine müde Runde sofort in ei
 
 Wir zeigen dir, welches **Kartenspiel für Erwachsene** sich wirklich lohnt: vom fertigen Partyspiel bis zu den großen Klassikern, die du nur mit einem normalen Skat- oder Pokerdeck spielst. Dazu eine Übersichtstabelle, eine nummerierte Bestenliste und konkrete Kauf-Tipps, damit der Karton hinterher nicht im Schrank verstaubt. Eines vorweg: Trinkt verantwortungsvoll und passt aufeinander auf.
 
+<figure>
+  <img src="{{ '/assets/kartenspiel-fuer-erwachsene-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Kartenspiele für Erwachsene: aufgefächerte Spielkarten">
+  <figcaption>Kartenspiele für Erwachsene.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Kartenspiele für Erwachsene auf einen Blick](#ueberblick)
@@ -86,3 +91,7 @@ Bevor du ein Kartenspiel für Erwachsene kaufst, lohnt ein kurzer Blick auf dies
 - **Wiederspielwert:** Achte auf genug Karten und Varianten, damit es nicht nach zwei Runden langweilig wird.
 
 Kannst du dich zwischen zwei Mutproben-Konzepten nicht entscheiden, hilft dir unser Vergleich [Dare Pong vs. Fear Pong]({{ '/post/dare-pong-vs-fear-pong/' | url }}) weiter. Für welches Kartenspiel für Erwachsene du dich am Ende auch entscheidest: Trinkt verantwortungsvoll und passt aufeinander auf.
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/kartenspiel-fuer-erwachsene-motiv.svg' | url }}","name":"Kartenspiele für Erwachsene","caption":"Kartenspiele für Erwachsene."}]}
+</script>

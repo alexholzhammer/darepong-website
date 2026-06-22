@@ -25,6 +25,11 @@ Du willst einen **Beer Pong Tisch kaufen**, bist dir aber bei den Maßen oder de
 
 Eins vorweg: Den größten Unterschied auf der Party macht nicht das Material, sondern das Spiel selbst. Mit [Dare Pong]({{ '/' | url }}) legst du 120 wasserfeste Aufgaben unter die Becher – ein günstiges Extra, das aus jedem neuen Tisch sofort mehr macht. Mehr dazu später, jetzt erst mal zum Tisch.
 
+<figure>
+  <img src="{{ '/assets/beer-pong-tisch-kaufen-masse.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Beer-Pong-Tisch Maße: 2,44 m lang, 0,61 m breit und rund 0,70 m hoch">
+  <figcaption>Die Standardmaße eines Beer-Pong-Tischs: 2,44 × 0,61 m bei ca. 0,70 m Höhe.</figcaption>
+</figure>
+
 ## Inhaltsverzeichnis
 
 - [Beer-Pong-Tisch: die richtigen Maße](#masse)
@@ -92,3 +97,7 @@ Mit rund 9,97 € ist Dare Pong das günstige Extra zum neuen Tisch. Für den Ti
 Suchst du nach dem Tischkauf noch mehr für deine Runde, schau dir [Bierball]({{ '/bierball/' | url }}) an – ein temporeicher Beer-Pong-Verwandter, der auf demselben Tisch bestens funktioniert.
 
 **Verantwortungsvoll feiern:** Beer Pong und Dare Pong lassen sich problemlos mit alkoholfreien Getränken wie Wasser, Saft oder Schorle spielen. Kennt eure Grenzen, trinkt mit Bedacht und legt regelmäßig Pausen ein – so bleibt der Spaß für alle im Vordergrund.
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/beer-pong-tisch-kaufen-masse.svg' | url }}","name":"Beer-Pong-Tisch – Maße","caption":"Die Standardmaße eines Beer-Pong-Tischs: 2,44 × 0,61 m bei ca. 0,70 m Höhe."}]}
+</script>
