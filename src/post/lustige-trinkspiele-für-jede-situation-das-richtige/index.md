@@ -62,7 +62,7 @@ Tipp: Hier findest du [Trinkspiele für den JGA](/post/jga-trinkspiele)!
 
 ![Lustiges Trinkspiel bringt Freunde zum Lachen](lustige-trinkspiele-freunde-lachen.avif)
 
-"Wahrheit oder Pflicht" ist der Klassiker unter den Trinkspielen, perfekt für zwei Personen. Dabei wird das traditionelle Spiel mit einem alkoholischen Twist gespielt. Hier sind die Regeln:
+"Wahrheit oder Pflicht" ist der Klassiker schlechthin und funktioniert auch zu zweit. Hier kommt einfach eine Trinkregel dazu. So geht's:
 
 1. **Wahrheit oder Pflicht wählen**: Abwechselnd fragt ihr euch, ob ihr "Wahrheit" oder "Pflicht" bevorzugt. Bei "Wahrheit" müsst ihr eine persönliche Frage ehrlich beantworten, bei "Pflicht" eine gestellte Aufgabe erfüllen.
 
@@ -76,13 +76,13 @@ Tipp: Hier findest du [Trinkspiele für den JGA](/post/jga-trinkspiele)!
 
 6. **Sonderregeln hinzufügen**: Ihr könnt Sonderregeln einführen, wie z.B. "jede fünfte Runde muss immer 'Pflicht' gewählt werden".
 
-Dieses Spiel bietet eine Mischung aus persönlichen Enthüllungen und witzigen Herausforderungen, perfekt für einen unterhaltsamen Abend zu zweit. Denkt daran, das Spiel verantwortungsbewusst zu genießen und respektiert immer die Grenzen des anderen!
+Aus persönlichen Geständnissen und schrägen Aufgaben wird so ein richtig guter Abend zu zweit. Trinkt in eurem Tempo und achtet auf die Grenzen des anderen.
 
 Hier findest du weitere [Trinkspiele zu zweit](/post/trinkspiele-zu-zweit).
 
 <h2 id="zu-dritt">Lustiges Trinkspiel zu dritt: "Ich hab' noch nie..."</h2>
 
-Das Spiel "Ich hab' noch nie..." ist ideal für drei Personen und kann zu unerwarteten Geständnissen und viel Gelächter führen. Hier ist eine erweiterte Version des Spiels:
+"Ich hab' noch nie..." läuft zu dritt besonders gut und fördert oft die überraschendsten Geständnisse zutage. Hier eine etwas ausgebaute Version:
 
 1. **Spielablauf**: Jeder von euch sagt abwechselnd einen Satz, der mit "Ich hab' noch nie..." beginnt. Zum Beispiel: "Ich hab' noch nie Bungee-Jumping gemacht."
 
@@ -100,7 +100,7 @@ Das Spiel "Ich hab' noch nie..." ist ideal für drei Personen und kann zu unerwa
 
 "Joker-Karten": Jeder Spieler bekommt pro Spiel zwei "Joker-Karten", die er einsetzen kann, um eine Frage zu überspringen. Dafür muss er aber natürlich trinken.
 
-Diese Version des Spiels bringt mehr Interaktion und Spannung in die Runde. Es ist eine tolle Möglichkeit, sich besser kennenzulernen und gemeinsam zu lachen. Wie immer, denkt daran, verantwortungsvoll zu spielen!
+Mit diesen Zusätzen kommt mehr Bewegung in die Runde, und man lernt sich nebenbei besser kennen. Und wie immer: in eurem Tempo spielen.
 
 <h2 id="ohne-material">Lustiges Trinkspiel ohne Zubehör: "Wortassoziations-Spiel"</h2>
 

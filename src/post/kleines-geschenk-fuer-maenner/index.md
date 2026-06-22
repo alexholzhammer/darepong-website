@@ -133,6 +133,6 @@ Der Student liebt alles, was günstig ist und Stimmung macht. Dare Pong ist hier
 
 <h2 id="mitbringsel">Mitbringsel & Last-Minute-Tipps</h2>
 
-Du brauchst schnell ein **Mitbringsel für Männer** und hast wenig Zeit? Setze auf Geschenke, die ein Erlebnis bieten und garantiert ankommen. Ein Partyspiel wie Dare Pong ist dafür perfekt: günstig, originell und sofort einsatzbereit – egal ob zur Hausparty, zum Geburtstag oder einfach als nette Aufmerksamkeit.
+Du brauchst schnell ein **Mitbringsel für Männer** und hast wenig Zeit? Setz auf Geschenke, die ein Erlebnis bringen und sicher ankommen. Ein Partyspiel wie Dare Pong ist dafür wie gemacht: günstig, originell und sofort einsatzbereit, ob zur Hausparty, zum Geburtstag oder einfach als nette Aufmerksamkeit.
 
-Generell gilt: Ein kleines Geschenk wirkt am stärksten, wenn es persönlich ist und zum Humor des Beschenkten passt. Lieber ein günstiges, durchdachtes Mitbringsel mit Augenzwinkern als ein teures Standardgeschenk ohne Bezug. Wer einen ganzen Abend vorbereiten will, kombiniert das Geschenk gleich mit passenden Spielideen – etwa aus unseren [Trinkspielen zum Geburtstag]({{ '/post/trinkspiele-geburtstag/' | url }}) – und macht aus dem Mitbringsel direkt das Highlight der Feier.
+Generell gilt: Ein kleines Geschenk wirkt am stärksten, wenn es persönlich ist und zum Humor des Beschenkten passt. Lieber ein günstiges, durchdachtes Mitbringsel mit Augenzwinkern als ein teures Standardgeschenk ohne Bezug. Wer einen ganzen Abend planen will, kombiniert das Geschenk gleich mit passenden Spielideen, etwa aus unseren [Trinkspielen zum Geburtstag]({{ '/post/trinkspiele-geburtstag/' | url }}), und macht aus dem Mitbringsel das Highlight der Feier.
