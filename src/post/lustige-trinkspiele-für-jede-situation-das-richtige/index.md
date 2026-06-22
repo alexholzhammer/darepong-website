@@ -20,12 +20,12 @@ faq:
   - q: "Welches Trinkspiel eignet sich am besten zu zweit?"
     a: "Wahrheit oder Pflicht – Trink-Edition ist perfekt für zwei Personen: Abwechselnd wählt man Wahrheit oder Pflicht, bei Verweigerung wird getrunken. Je kreativer die Fragen und Aufgaben, desto mehr Spaß."
   - q: "Was ist ein gutes Trinkspiel für eine große Party?"
-    a: "Bier-Pong in der Epic Edition mit Spezialregeln wie Spezialwällen, Dare Pong-Karten, Blind Shots und Trick Shot-Runden eignet sich hervorragend für große Gruppen und sorgt für garantierte Stimmung."
+    a: "Bier-Pong in der Epic Edition mit Spezialbällen, Dare Pong-Karten, Blind Shots und Trick-Shot-Runden ist wie gemacht für große Gruppen und bringt die ganze Runde in Fahrt."
 ---
 
-Du suchst lustige Trinkspiele für den nächsten Abend? Hier findest du für jede Situation das richtige Spiel: zu zweit, zu dritt, für große Gruppen, ohne Material und für draußen. Jedes Spiel kommt mit klaren Regeln und Varianten, damit du sofort loslegen kannst.
+Du brauchst lustige Trinkspiele für den nächsten Abend? Für jede Situation gibt es hier das passende Spiel: zu zweit, zu dritt, für große Gruppen, ohne Material und für draußen. Jedes kommt mit klaren Regeln und Varianten, sodass du sofort loslegen kannst.
 
-Ob spontaner Abend zu zweit oder große Party - ein gutes Trinkspiel sorgt für Lacher und bringt die Runde zusammen. Wir haben witzige Klassiker und kreative Editionen gesammelt. Trink dabei immer verantwortungsbewusst und respektiere die Grenzen aller Mitspieler.
+Spontaner Abend zu zweit oder große Party, ein gutes Trinkspiel bringt die Lacher und die Runde zusammen. Wir haben witzige Klassiker und ein paar kreative Editionen gesammelt. Trink dabei in deinem Tempo und respektiere die Grenzen aller Mitspieler.
 
 ## Übersicht: Welches Trinkspiel passt zu deiner Situation?
 
@@ -52,9 +52,9 @@ Inhalt:
 
 <h2 id="was-ausmacht">Was macht ein lustiges Trinkspiel aus?</h2>
 
-Ein super lustiges Trinkspiel zeichnet sich durch mehrere Dinge aus. Es sollte vor allem leicht zu verstehen sein, damit jeder sofort mitspielen kann. Ein guter Mix aus Zufall und Geschicklichkeit sorgt für Spannung und Überraschungsmomente. Humor ist natürlich das A und O – je mehr gelacht wird, desto besser. Interaktive Elemente, wie Aufgaben stellen oder persönliche Geschichten erzählen, fördern die Gruppendynamik und bringen die Leute zusammen.
+Ein gutes Trinkspiel ist vor allem leicht zu verstehen, damit jeder sofort mitkommt. Ein bisschen Zufall und ein bisschen Geschick halten die Spannung hoch, und Humor ist sowieso die Hauptsache, je öfter gelacht wird, desto besser läuft der Abend. Spiele, bei denen man Aufgaben stellt oder Geschichten erzählt, ziehen die Leute außerdem stärker zusammen als reines Würfeln.
 
-Nicht zuletzt ist die Anpassungsfähigkeit wichtig: Das Spiel sollte sowohl in kleinen als auch in größeren Runden funktionieren und idealerweise mit oder ohne viel Zubehör spielbar sein. Und natürlich, das Wichtigste: Es sollte immer im Rahmen verantwortungsvollen Trinkens bleiben. Also, auf ein Spiel, das nicht nur eure Gläser, sondern auch eure Herzen füllt!
+Praktisch ist es auch, wenn ein Spiel in der kleinen wie in der großen Runde läuft und nicht an irgendeinem Zubehör hängt. Und das Wichtigste bleibt: Es soll im Rahmen bleiben. Niemand muss mehr trinken, als er möchte.
 
 Tipp: Hier findest du [Trinkspiele für den JGA](/post/jga-trinkspiele)!
 

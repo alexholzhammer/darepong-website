@@ -12,7 +12,7 @@ tags:
   - Silvester
 faq:
   - q: "Welche Trinkspiele eignen sich am besten für Silvester?"
-    a: "Besonders beliebt zu Silvester sind das Dinner-for-One-Trinkspiel, der Countdown-Shot zu Mitternacht, eine Bleigießen- bzw. Wachsgießen-Variante, das Feuerwerk-Trinkspiel und das Vorsätze-Trinkspiel. Sie greifen typische Silvester-Rituale auf und sorgen für Stimmung von der ersten Stunde bis nach dem Countdown."
+    a: "Besonders beliebt zu Silvester sind das Dinner-for-One-Trinkspiel, der Countdown-Shot zu Mitternacht, eine Bleigießen- bzw. Wachsgießen-Variante, das Feuerwerk-Trinkspiel und das Vorsätze-Trinkspiel. Sie greifen typische Silvester-Rituale auf und halten die Stimmung von der ersten Stunde bis nach dem Countdown."
   - q: "Wie funktioniert das Dinner-for-One-Trinkspiel?"
     a: "Beim Dinner-for-One-Trinkspiel schaut ihr den TV-Klassiker und trinkt nach festen Regeln: einen Schluck bei jedem „same procedure”, einen bei jedem Stolpern über den Tigerkopf und einen pro Gang, den James serviert. So wird die Sketch-Tradition zum interaktiven Silvester-Spiel."
   - q: "Welche Silvester-Trinkspiele gehen auch mit wenig Material?"

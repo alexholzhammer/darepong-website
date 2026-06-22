@@ -89,7 +89,7 @@ Für Kaffeeliebhaber ist eine edle Bohnen-Auswahl oder ein besonderer Espresso e
 
 ### 10. Outdoor- oder Grill-Gewürze
 
-Eine Box mit besonderen Gewürzen oder Rubs trifft den Geschmack jedes Hobbygrillers und Hobbykochs. Originell, nützlich und für wenig Geld zu haben.
+Eine Box mit besonderen Gewürzen oder Rubs trifft jeden Hobbygriller und Hobbykoch. Originell, nützlich und für wenig Geld zu haben.
 
 ### 11. Knobel- oder Geduldsspiel
 
@@ -97,7 +97,7 @@ Ein cleveres Knobelspiel sorgt für Beschäftigung in der Pause und passt gut au
 
 ### 12. Mini-Powerbank oder Tech-Zubehör
 
-Eine kompakte Powerbank oder nützliches Tech-Zubehör ist für den modernen Mann ein praktisches Geschenk, das er garantiert oft nutzt.
+Eine kompakte Powerbank oder anderes Tech-Zubehör ist für den modernen Mann ein praktisches Geschenk, das schnell zum täglichen Begleiter wird.
 
 ### 13. Gutschein für ein Erlebnis
 
@@ -113,11 +113,11 @@ Wer mit Dare Pong startet, kann den Spaß mit einem zweiten Partyspiel abrunden.
 
 <h2 id="nach-typ">Kleine Geschenke nach Typ</h2>
 
-Nicht jedes **kleine Geschenk für Männer** passt zu jedem. Wer den Typ des Beschenkten kennt, trifft die Wahl deutlich leichter.
+Nicht jedes **kleine Geschenk für Männer** passt zu jedem. Wer den Typ des Beschenkten kennt, tut sich bei der Wahl viel leichter.
 
 ### Der Partylöwe
 
-Für den Partylöwen zählt der Spaßfaktor. Hier ist [Dare Pong]({{ '/' | url }}) die erste Wahl: ein günstiges, originelles Spiel, das jede Runde aufmischt. Dazu passt eine Craft-Beer-Auswahl, und für den nächsten Geburtstag lohnt ein Blick in unsere Ideen für [Trinkspiele zum Geburtstag]({{ '/post/trinkspiele-geburtstag/' | url }}).
+Beim Partylöwen zählt der Spaßfaktor. Hier ist [Dare Pong]({{ '/' | url }}) die erste Wahl: ein günstiges, originelles Spiel, das jede Runde aufmischt. Dazu eine Craft-Beer-Auswahl, und für den nächsten Geburtstag lohnt ein Blick in unsere Ideen für [Trinkspiele zum Geburtstag]({{ '/post/trinkspiele-geburtstag/' | url }}).
 
 ### Der Genießer
 
@@ -125,7 +125,7 @@ Der Genießer freut sich über ein Bier-Tasting-Set, hochwertigen Kaffee oder ei
 
 ### Der Sportler
 
-Beim Sportler kommen praktische Begleiter gut an: eine kompakte Trinkflasche, ein Multitool für unterwegs oder ein witziges Gadget mit Sport-Bezug. Klein, robust und sofort einsatzbereit.
+Beim Sportler ziehen praktische Begleiter: eine kompakte Trinkflasche, ein Multitool für unterwegs oder ein witziges Gadget mit Sport-Bezug. Klein, robust und sofort einsatzbereit.
 
 ### Der Student
 
