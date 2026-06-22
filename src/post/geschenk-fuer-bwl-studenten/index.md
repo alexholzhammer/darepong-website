@@ -170,16 +170,16 @@ Am besten kommen Geschenke an, die im Studienalltag taugen und trotzdem Spaß ma
 
 ### Was ist das beste Partyspiel als Geschenk für BWL Studenten?
 
-Arbitrage ist der Geheimtipp: ein BWL-Partyspiel mit Karten zu Finance, Marketing und Economics – perfekt zum Vorglühen und gleichzeitig lehrreich. Für mehr Auswahl lohnt ein Blick in unsere Liste der besten [Trinkspiele]({{ '/trinkspiele/' | url }}).
+Arbitrage. Das BWL-Partyspiel hat Karten zu Finance, Marketing und Economics, macht beim Vorglühen Laune und bringt nebenbei Stoff mit. Mehr Auswahl gibt es in unserer Liste der besten [Trinkspiele]({{ '/trinkspiele/' | url }}).
 
 ### Welche Kriterien machen ein gutes BWL Geschenk aus?
 
-Ein gutes *BWL Geschenk* sollte praktisch und nützlich im Studienalltag sein, einen Bezug zur Wirtschaft oder Karriere haben, stilvoll wirken und idealerweise einen langfristigen Nutzen bieten.
+Ein gutes *BWL Geschenk* taugt im Studienalltag, hat einen Bezug zu Wirtschaft oder Karriere, sieht ordentlich aus und bringt im besten Fall über das Studium hinaus etwas.
 
 ### Was schenkt man zum BWL-Studienabschluss?
 
-Zum *Studienabschluss* passen Geschenke mit Zukunftsbezug besonders gut: ein kleines Startkapital in Aktien oder ETFs, eine hochwertige Business-Tasche für den Berufseinstieg oder ein Online-Kurs-Gutschein zur gezielten Weiterbildung.
+Zum *Studienabschluss* passen Geschenke mit Blick nach vorn: ein kleines Startkapital in Aktien oder ETFs, eine gute Business-Tasche für den Berufseinstieg oder ein Online-Kurs-Gutschein zur gezielten Weiterbildung.
 
 ### Kann man Aktien oder ETFs als Geschenk für BWL Studenten verschenken?
 
-Ja – ein kleines Startkapital für erste Investitionen ist ein originelles und zukunftsorientiertes Geschenk, das BWL-Studenten direkt in die Welt der Finanzen einführt.
+Ja. Ein kleines Startkapital für erste Investitionen ist mal etwas anderes und holt BWL-Studenten genau dort ab, wo ihre Interessen liegen.

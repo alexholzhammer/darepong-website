@@ -150,4 +150,4 @@ Karten-Trinkspiele sind perfekt, wenn ihr klare Regeln und etwas Taktik mögt, a
 
 <h2 id="abschluss">Abschließende Worte</h2>
 
-Ob du nun einen ruhigen Abend mit Freunden aufpeppen möchtest oder eine volle Party zu einer legendären Nacht machen willst – Trinkspiele für 4 sind eine tolle Option, um allen Beteiligten eine geniale Zeit zu bereiten. Wichtig ist natürlich immer, dass ihr verantwortungsbewusst spielt und jeder seine Grenzen kennt. Denkt dran, es geht um den Spaß und die gemeinsame Zeit, nicht um den Alkohol. Jetzt, wo du eine ganze Liste von Spielen hast, steht dem nächsten Spieleabend nichts mehr im Weg. Auf die Becher, fertig, Prost!
+Ob ihr einen ruhigen Abend zu viert aufpeppen oder eine Party zur langen Nacht machen wollt - mit diesen Spielen habt ihr für beides was in der Hand. Spielt trotzdem mit Köpfchen, jeder kennt seine Grenze. Es geht um den Spaß und die gemeinsame Zeit, nicht um den Alkohol. Du hast jetzt die Liste, dem nächsten Spieleabend steht also nichts mehr im Weg. Auf die Becher, fertig, Prost!

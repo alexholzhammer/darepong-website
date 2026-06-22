@@ -21,9 +21,9 @@ faq:
     a: "Maßkrug-Stemmen ist anstrengend, aber bei vernünftigem Umgang harmlos. Wichtig: trockenen, festen Stand wählen, niemanden in der Schwenk-Reichweite stehen lassen und bei Schulter- oder Rückenproblemen lieber zuschauen. Eine volle Maß wiegt rund zwei Kilo – nicht unterschätzen."
 ---
 
-Wenn die Blasmusik anspielt, die Bänke wackeln und alle den Krug heben, dann ist klar: **Oktoberfest-Trinkspiele** gehören zur Wiesn wie die Brezn zum Hendl. Egal ob du wirklich im Bierzelt sitzt, eine Wiesn-Party zu Hause schmeißt oder im Garten eine Bayern-Sause feierst – mit den richtigen Spielen kommt die Bierzelt-Stimmung sofort auf. Lederhosn an, Dirndl geschnürt, Maß in die Hand, und los geht's.
+Die Blasmusik spielt an, die Bänke wackeln, alle heben den Krug – dann ist klar: **Oktoberfest-Trinkspiele** gehören zur Wiesn wie die Brezn zum Hendl. Ob du wirklich im Bierzelt sitzt, eine Wiesn-Party zu Hause schmeißt oder im Garten eine Bayern-Sause feierst – mit den richtigen Spielen kommt die Bierzelt-Stimmung sofort auf. Lederhosn an, Dirndl geschnürt, Maß in die Hand, und los geht's.
 
-In diesem Guide findest du die typischen Wiesn-Trinkspiele – vom **Maßkrug-Stemmen** bis zum bayerischen Vokabel-Spiel – und dazu die besten Würfel- und Karten-Klassiker, die in jedes Bierzelt passen. Zu allen Spielen gibt es kurze Anleitungen, und die ausführlichen Regeln verlinken wir direkt zu den passenden [Dare Pong]({{ '/' | url }})-Spielen. So bist du startklar für „O'zapft is!".
+In diesem Guide stecken die typischen Wiesn-Trinkspiele – vom **Maßkrug-Stemmen** bis zum bayerischen Vokabel-Spiel – plus die besten Würfel- und Karten-Klassiker fürs Bierzelt. Zu allen Spielen gibt es kurze Anleitungen, die ausführlichen Regeln verlinken wir direkt zu den passenden [Dare Pong]({{ '/' | url }})-Spielen. Damit bist du startklar für „O'zapft is!".
 
 ## Inhaltsverzeichnis
 
@@ -40,9 +40,9 @@ In diesem Guide findest du die typischen Wiesn-Trinkspiele – vom **Maßkrug-St
 
 <h2 id="was-gutes-wiesn-spiel">Was macht ein gutes Oktoberfest-Trinkspiel aus?</h2>
 
-Ein gutes Wiesn-Trinkspiel muss vor allem eines: in den Trubel passen. Im Bierzelt ist es laut, eng und voll – lange Erklärungen oder filigranes Material funktionieren da nicht. Die besten Oktoberfest-Spiele kommen deshalb mit wenig aus: ein Maßkrug, ein paar Bierdeckel, vielleicht Würfel oder ein Kartenspiel. Alles, was auf den Biertisch passt oder direkt in die Lederhosn-Tasche, ist ideal.
+Ein gutes Wiesn-Trinkspiel muss vor allem eines: in den Trubel passen. Im Bierzelt ist es laut, eng und voll – lange Erklärungen oder filigranes Material sind da chancenlos. Die besten Oktoberfest-Spiele kommen mit wenig aus: ein Maßkrug, ein paar Bierdeckel, vielleicht Würfel oder ein Kartenspiel. Alles, was auf den Biertisch passt oder in die Lederhosn-Tasche, ist ideal.
 
-Außerdem soll ein Wiesn-Spiel die ganze Runde mitnehmen. Schunkeln, Anstoßen, gemeinsam grölen – das funktioniert nur, wenn niemand außen vor bleibt. Spiele mit klarer, einfacher Regel und einem Mitmach-Faktor für alle gewinnen hier immer gegen komplizierte Konstruktionen. Und schließlich darf das Trinken nie Selbstzweck sein: Es geht um Geselligkeit, Gaudi und ein gutes Gefühl am Tisch. Genau diese Mischung haben wir bei der Auswahl der folgenden Spiele im Blick gehabt.
+Und ein Wiesn-Spiel soll die ganze Runde mitnehmen. Schunkeln, Anstoßen, gemeinsam grölen – das klappt nur, wenn niemand außen vor bleibt. Klare, einfache Regeln mit Mitmach-Faktor für alle schlagen hier jede komplizierte Konstruktion. Das Trinken ist dabei nie Selbstzweck: Es geht um Geselligkeit, Gaudi und ein gutes Gefühl am Tisch. Genau danach haben wir die folgenden Spiele ausgesucht.
 
 <h2 id="uebersicht">Wiesn-Spiele auf einen Blick</h2>
 
@@ -60,7 +60,7 @@ Außerdem soll ein Wiesn-Spiel die ganze Runde mitnehmen. Schunkeln, Anstoßen, 
 
 <h2 id="masskrug-stemmen">Maßkrug-Stemmen</h2>
 
-Das **Maßkrug-Stemmen** ist die Königsdisziplin der Wiesn – ein echter Wettbewerb, der jedes Jahr eigene Meisterschaften füllt. Die Regel ist denkbar simpel und genau das macht den Reiz aus: Wer hält die volle Maß am längsten?
+Das **Maßkrug-Stemmen** ist die Königsdisziplin der Wiesn – ein echter Wettbewerb, der jedes Jahr eigene Meisterschaften füllt. Die Regel ist denkbar simpel, und genau das macht den Reiz aus: Wer hält die volle Maß am längsten?
 
 **So geht's:** Jeder Teilnehmer nimmt eine volle Maß (ein Liter Bier im schweren Glaskrug, zusammen rund zwei Kilo) und streckt den Arm waagerecht nach vorn aus – Krug am ausgestreckten Arm auf Schulterhöhe, Henkel zeigt nach vorn. Der Arm darf nicht angewinkelt, nicht aufgestützt und nicht abgesenkt werden. Wer den Arm beugt, zittert, das Glas senkt oder Bier verschüttet, scheidet aus. Der Letzte mit ausgestrecktem Arm gewinnt.
 
@@ -70,7 +70,7 @@ Das **Maßkrug-Stemmen** ist die Königsdisziplin der Wiesn – ein echter Wettb
 
 <h2 id="bierdeckel">Bierdeckel-Schnipsen & Bierdeckel-Spiele</h2>
 
-Bierdeckel liegen auf jedem Biertisch herum – und sind damit das perfekte Spielmaterial für zwischendurch. Das klassische **Bierdeckel-Schnipsen** ist ein Geschicklichkeitsduell, das keinerlei Vorbereitung braucht.
+Bierdeckel liegen auf jedem Biertisch herum – also das ideale Spielmaterial für zwischendurch. Das klassische **Bierdeckel-Schnipsen** ist ein Geschicklichkeitsduell ganz ohne Vorbereitung.
 
 **Schnipsen über die Tischkante:** Lege einen Bierdeckel so an die Tischkante, dass er ein Stück übersteht. Mit einem schnellen Schlag von unten lässt du ihn hochschnellen und versuchst, ihn in der Luft zu fangen. Erst einen, dann einen Stapel von zwei, drei, vier Deckeln – wer am meisten fängt, gewinnt. Jeder, der danebengreift, trinkt einen Schluck.
 
@@ -80,17 +80,17 @@ Bierdeckel liegen auf jedem Biertisch herum – und sind damit das perfekte Spie
 
 <h2 id="ein-prosit">Das „Ein Prosit"-Trinkspiel</h2>
 
-Kein Lied wird auf der Wiesn so oft gespielt wie „Ein Prosit der Gemütlichkeit". Genau das macht es zur perfekten Grundlage für ein Trinkspiel, das die ganze Runde gleichzeitig einbindet – das Herzstück jeder Bierzelt-Stimmung.
+Kein Lied läuft auf der Wiesn so oft wie „Ein Prosit der Gemütlichkeit". Genau das macht es zur idealen Grundlage für ein Trinkspiel, bei dem die ganze Runde gleichzeitig mitmacht – das Herzstück jeder Bierzelt-Stimmung.
 
 **So geht's:** Sobald die Kapelle „Ein Prosit" anstimmt, gilt volle Aufmerksamkeit. Beim abschließenden „Oans, zwoa, gsuffa!" hebt jeder seine Maß und nimmt einen ordentlichen Schluck – das ist Pflicht. Wer zu spät hebt, den Krug nicht hoch genug hält oder beim Anstoßen jemandem ausweicht, muss als Strafe nachlegen.
 
-**Schunkel-Regel:** Erweitert das Spiel um eine Schunkel-Pflicht. Sobald geschunkelt wird, müssen alle einhaken. Wer aus der Reihe schunkelt (also gegen den Takt der Nachbarn) oder die Verbindung löst, trinkt. Das sorgt für Chaos und Gelächter, weil garantiert jemand verkehrt herum schwingt.
+**Schunkel-Regel:** Baut eine Schunkel-Pflicht ein. Sobald geschunkelt wird, haken alle ein. Wer aus der Reihe schunkelt (also gegen den Takt der Nachbarn) oder die Verbindung löst, trinkt. Gibt Chaos und Gelächter, weil immer jemand verkehrt herum schwingt.
 
-**Anstoß-Etikette als Spielregel:** Auf der Wiesn schaut man sich beim Anstoßen in die Augen. Macht daraus eine Regel: Wer beim Prosit jemandem nicht in die Augen sieht, muss trinken. Klingt streng, ist aber ein Riesenspaß – und nebenbei lernt ihr die echte Bierzelt-Etikette.
+**Anstoß-Etikette als Spielregel:** Auf der Wiesn schaut man sich beim Anstoßen in die Augen. Macht daraus eine Regel: Wer beim Prosit jemandem nicht in die Augen sieht, muss trinken. Klingt streng, ist aber ein Riesenspaß – und nebenbei sitzt die echte Bierzelt-Etikette.
 
 <h2 id="fingerhakeln">Fingerhakeln-Variante mit Schluck-Einsatz</h2>
 
-Fingerhakeln ist ein uralter bayerischer Kraftsport – zwei Gegner haken je einen Finger in ein Lederband und versuchen, den anderen über den Tisch zu ziehen. Für die Party gibt es eine entschärfte, sichere Variante ohne Lederband, die wunderbar als Duell-Trinkspiel funktioniert.
+Fingerhakeln ist ein uralter bayerischer Kraftsport – zwei Gegner haken je einen Finger in ein Lederband und versuchen, den anderen über den Tisch zu ziehen. Für die Party gibt es eine entschärfte Variante ohne Lederband, die sich prima als Duell-Trinkspiel eignet.
 
 **So geht's:** Zwei Spieler setzen sich an einen stabilen Tisch gegenüber. Beide haken den Mittel- oder Zeigefinger ineinander (kein scharfes Ziehen am einzelnen Finger – lieber die ganze Hand fassen, das schont die Gelenke). Auf „Drei!" versucht jeder, den anderen zu sich über die Tischmitte zu ziehen. Wer die Markierung in der Mitte überquert, hat verloren – und trinkt.
 
@@ -100,7 +100,7 @@ Fingerhakeln ist ein uralter bayerischer Kraftsport – zwei Gegner haken je ein
 
 <h2 id="vokabel">Bayerisches Vokabel-Trinkspiel</h2>
 
-Dieses Spiel ist perfekt, wenn Wiesn-Profis auf Bayern-Neulinge treffen – und es läuft den ganzen Abend nebenbei. Die Idee: Auf der Wiesn wird Mundart gesprochen, und wer ins Hochdeutsche rutscht, muss trinken.
+Dieses Spiel ist wie gemacht, wenn Wiesn-Profis auf Bayern-Neulinge treffen – und es läuft den ganzen Abend nebenbei. Die Idee: Auf der Wiesn wird Mundart gesprochen, und wer ins Hochdeutsche rutscht, muss trinken.
 
 **So geht's:** Legt zu Beginn ein paar bayerische Vokabeln fest, die ab sofort Pflicht sind. Statt „Mädchen" sagt man „Madl", statt „Junge" „Bua", statt „gemütlich" „gmiatlich", statt „eins, zwei, drei" „oans, zwoa, gsuffa", und das Bier heißt „a Maß". Wer das hochdeutsche Wort benutzt, muss sofort einen Schluck nehmen.
 
@@ -110,7 +110,7 @@ Dieses Spiel ist perfekt, wenn Wiesn-Profis auf Bayern-Neulinge treffen – und 
 
 <h2 id="wuerfel-klassiker">Würfel-Klassiker fürs Bierzelt</h2>
 
-Würfelspiele sind wie gemacht für den Biertisch: Becher drauf, würfeln, fertig. Sie brauchen kaum Platz, funktionieren auch im Lärm und halten die Pausen zwischen den Liedern lebendig.
+Würfelspiele sind wie gemacht für den Biertisch: Becher drauf, würfeln, fertig. Sie brauchen kaum Platz, kommen mit dem Lärm klar und füllen die Pausen zwischen den Liedern.
 
 - [Schocken]({{ '/schocken/' | url }}) – der Theken-Klassiker schlechthin. Mit drei Würfeln und einem Becher wird ausgespielt, wer die nächste Runde zahlt oder trinkt. Perfekt fürs Bierzelt, weil es in jeder Runde anders läuft.
 - [Mäxchen]({{ '/maexchen/' | url }}) – das Bluff-Spiel mit zwei Würfeln. Hier zählt nicht nur das Glück, sondern vor allem die Lüge: Wer beim Schwindeln auffliegt, trinkt. Ideal für eine ausgelassene Tischrunde.
@@ -121,7 +121,7 @@ Wer noch mehr Würfel-Ideen sucht, wird in unserem großen Guide zu [Trinkspiele
 
 <h2 id="karten-klassiker">Karten-Klassiker fürs Bierzelt</h2>
 
-Ein Kartenspiel passt in jede Lederhosn-Tasche und ist damit das ideale Mitbringsel für die Wiesn oder die Bierzelt-Party daheim. Diese Klassiker funktionieren am Biertisch besonders gut:
+Ein Kartenspiel passt in jede Lederhosn-Tasche und ist damit das ideale Mitbringsel für die Wiesn oder die Bierzelt-Party daheim. Am Biertisch laufen diese Klassiker besonders gut:
 
 - [Schwimmen]({{ '/schwimmen/' | url }}) – Kartenwerte sammeln, um nicht „abzusaufen". Spannend, schnell und auch für größere Runden geeignet.
 - [Kings Cup]({{ '/kings-cup/' | url }}) – das Kartenspiel mit den meisten Regeln. Ein Becher in der Mitte, ein Kartenkranz drum herum – perfekt für eine lange, gesellige Runde.
@@ -132,15 +132,15 @@ Den vollständigen Überblick liefert unser Beitrag zu [Trinkspielen mit Karten]
 
 <h2 id="verantwortung">Verantwortungsvoll feiern & alkoholfrei spielen</h2>
 
-So viel Gaudi die Wiesn auch macht – gerade beim Oktoberfest ist verantwortungsvoller Umgang Pflicht. Eine Maß hat einen Liter, und das Festbier ist oft stärker als normales Bier. Wer Krug um Krug leert, ist schneller hinüber, als ihm lieb ist. Deshalb gilt:
+So viel Gaudi die Wiesn auch macht – gerade beim Oktoberfest ist verantwortungsvoller Umgang Pflicht. Eine Maß hat einen Liter, und das Festbier ist oft stärker als normales Bier. Wer Krug um Krug leert, ist schneller hinüber, als ihm lieb ist. Also:
 
 - **Wasser zwischendurch:** Nach jeder Maß eine Halbe Wasser – das hält länger fit und beugt dem Kater vor.
 - **Essen nicht vergessen:** Hendl, Brezn oder eine deftige Brotzeit sind kein Luxus, sondern Grundlage. Mit vollem Magen verträgt der Körper das Bier deutlich besser.
 - **Tempo drosseln:** Niemand muss bei jedem Spiel mittrinken. Ein „Ich setz die Runde aus" ist auf jeder guten Wiesn völlig okay.
 - **Heimweg planen:** Nüchtern fahren oder ganz auf Bus, Bahn und Taxi setzen. Kein Spiel ist es wert, sich oder andere zu gefährden.
 
-Und das Beste: **All diese Spiele funktionieren genauso gut ohne Alkohol.** Alkoholfreies Weißbier ist auf der Wiesn längst Standard und schmeckt erstaunlich echt – damit lässt sich sogar das Maßkrug-Stemmen austragen. Wer noch leichter feiern will, greift zu alkoholfreiem Radler, Apfelschorle oder Spezi. Beim „Ein Prosit"-Spiel, beim Vokabel-Spiel und beim Bierdeckel-Schnipsen merkt ohnehin niemand, was im Krug ist. Die Bierzelt-Stimmung kommt vom Schunkeln, Anstoßen und Mitlachen – nicht vom Promille.
+Und das Beste: **All diese Spiele funktionieren genauso gut ohne Alkohol.** Alkoholfreies Weißbier ist auf der Wiesn längst Standard und schmeckt erstaunlich echt – damit lässt sich sogar das Maßkrug-Stemmen austragen. Wer noch leichter feiern will, greift zu alkoholfreiem Radler, Apfelschorle oder Spezi. Beim „Ein Prosit"-Spiel, beim Vokabel-Spiel und beim Bierdeckel-Schnipsen merkt sowieso keiner, was im Krug ist. Die Bierzelt-Stimmung kommt vom Schunkeln, Anstoßen und Mitlachen – nicht vom Promille.
 
 ## Pfiat di – auf eine zünftige Wiesn!
 
-Mit diesen Oktoberfest-Trinkspielen wird aus jeder Bierzelt-Runde, jeder Wiesn-Party und jedem Bayern-Abend ein Fest. Schnapp dir die Maß, üb schon mal das Maßkrug-Stemmen und lern ein paar bayerische Vokabeln – dann steht der Gaudi nichts mehr im Weg. Die passenden Spiel-Regeln im Detail findest du jederzeit in unserer [Trinkspiele-Übersicht]({{ '/trinkspiele/' | url }}) und bei den [Partyspielen]({{ '/partyspiele/' | url }}). O'zapft is – und Prosit der Gemütlichkeit!
+Mit diesen Oktoberfest-Trinkspielen wird aus jeder Bierzelt-Runde, jeder Wiesn-Party und jedem Bayern-Abend ein Fest. Schnapp dir die Maß, üb schon mal das Maßkrug-Stemmen und lern ein paar bayerische Vokabeln – dann steht der Gaudi nichts mehr im Weg. Die Spiel-Regeln im Detail findest du jederzeit in unserer [Trinkspiele-Übersicht]({{ '/trinkspiele/' | url }}) und bei den [Partyspielen]({{ '/partyspiele/' | url }}). O'zapft is – und Prosit der Gemütlichkeit!

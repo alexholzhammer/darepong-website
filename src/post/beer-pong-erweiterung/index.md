@@ -239,13 +239,13 @@ Diese Tipps lassen sich mit jeder Variante kombinieren – ob beim klassischen [
 
 <h2 id="welche-variante">Welche Beer Pong Variante passt zu dir?</h2>
 
-Bei so vielen **Beer Pong Varianten und Alternativen** fällt die Wahl schwer. Diese kurze Orientierung hilft dir, die passende Erweiterung für deine Party zu finden:
+Bei so vielen **Beer Pong Varianten und Alternativen** fällt die Wahl schwer. Diese kurze Orientierung hilft dir weiter:
 
-- **Du willst Abwechslung und Aufgaben?** Dann ist [Dare Pong]({{ '/' | url }}) die beste Wahl – Beer Pong mit Mutproben statt nur Trinken.
-- **Ihr feiert draußen im Garten oder am Strand?** Riesen-Beerpong mit Eimern und Ball sorgt für Bewegung und Spaß für große Gruppen.
-- **Die Party steigt nachts oder auf einem Festival?** Leuchtendes Beer Pong mit LED-Bechern und Schwarzlicht ist der optische Hingucker.
-- **Ihr mögt Tempo und Teamgeist?** Flip Cup Pong und Speed Pong bringen Action und Hektik ins Spiel.
-- **Du suchst eine Herausforderung für Profis?** Profi-Beerpong mit Hindernissen testet echtes Können.
+- **Du willst Abwechslung und Aufgaben?** [Dare Pong]({{ '/' | url }}) – Beer Pong mit Mutproben statt nur Trinken.
+- **Ihr feiert im Garten oder am Strand?** Riesen-Beerpong mit Eimern und Ball, ideal für große Gruppen.
+- **Party nachts oder auf dem Festival?** Leuchtendes Beer Pong mit LED-Bechern und Schwarzlicht.
+- **Ihr mögt Tempo und Teamgeist?** Flip Cup Pong und Speed Pong bringen Hektik ins Spiel.
+- **Du suchst die Profi-Herausforderung?** Profi-Beerpong mit Hindernissen testet echtes Können.
 
 Wer lieber ganz ohne Becherwerfen feiert, findet bei uns auch viele weitere Trinkspiele wie [Flunkyball]({{ '/flunkyball/' | url }}), [Kings Cup]({{ '/kings-cup/' | url }}) oder [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
 

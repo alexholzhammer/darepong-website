@@ -99,4 +99,4 @@ Damit dein Trinkspiel-Geschenk auch wirklich ankommt, lohnt sich ein Blick auf e
 
 - **Verpackung:** Eine kleine, hübsch verpackte Box wirkt oft mehr als ein großes, sperriges Geschenk. Und sie lässt sich leichter überreichen.
 
-So findest du das passende Trinkspiel zum Verschenken. Unser Favorit bleibt Dare Pong: [originell, günstig]({{ '/' | url }}) und in fast jeder Runde für beste Stimmung gut. Prost und viel Spaß beim Schenken!
+So findest du das passende Trinkspiel zum Verschenken. Unser Favorit bleibt [Dare Pong]({{ '/' | url }}): originell, günstig und in fast jeder Runde für beste Stimmung gut. Prost und viel Spaß beim Schenken!
