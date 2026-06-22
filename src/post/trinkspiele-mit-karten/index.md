@@ -4,8 +4,8 @@ date: 2023-11-29
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-mit-karten.jpg"
 summary: "Trinkspiele mit Karten: 14 Karten-Trinkspiele mit Anleitung - zu zweit, in der Gruppe und mit nur einem Skatblatt. Inklusive Regeln und Trinkspiel-Tipps."
-ctaPitch: "Wenn die Karten zur Seite gelegt werden: Dare Pong bringt mit 120 wasserfesten Dares neuen Schwung in die Beer-Pong-Runde."
-answer: "Die beliebtesten Karten-Trinkspiele sind King's Cup (Ring of Fire), Busfahren, Mogeln und Schwimmen. Ein normales Skat- oder Pokerdeck genügt. Die Regeln sind schnell erklärt und für jede Gruppengröße anpassbar."
+ctaPitch: "Karten weglegen, Becher aufstellen: Dare Pong packt 120 wasserfeste Dares in die Beer-Pong-Runde."
+answer: "Die beliebtesten Karten-Trinkspiele sind King's Cup (Ring of Fire), Busfahren, Mogeln und Schwimmen. Ein normales Skat- oder Pokerdeck reicht. Die Regeln hat jeder in zwei Minuten drauf, egal wie groß die Runde ist."
 image: /post/trinkspiele-mit-karten/trinkspiele-mit-karten.avif
 imageAlt: "Trinkspiele mit Karten - die 14 besten Karten-Trinkspiele für jeden Anlass"
 tags:
@@ -20,12 +20,12 @@ faq:
   - q: "Was braucht man für Trinkspiele mit Karten?"
     a: "Alles was ihr benötigt ist ein Standard-Kartenset mit 52 Karten und Getränke. Für manche Spiele wie Saufquartett benötigt ihr ein Quartett-Kartenspiel."
   - q: "Kann man Trinkspiele mit Karten auch ohne Alkohol spielen?"
-    a: "Ja, man kann auch ohne Alkohol spielen. Der Spaß am Bluffen, Raten und gemeinsamen Spielen bleibt derselbe."
+    a: "Klar. Ersetz den Alkohol durch was Alkoholfreies, am Bluffen und Raten ändert das nichts."
 ---
 
-**Trinkspiele mit Karten** sind die einfachste Art, aus einem normalen Abend eine Party zu machen: Alles, was ihr braucht, ist ein Kartenspiel mit 52 Karten (Skatblatt) und etwas zu trinken. Egal ob ihr ein Karten-Trinkspiel zu zweit, eine Runde fürs Kartenspiel-Trinken in der großen Gruppe oder ein schnelles Spiel mit nur einem Deck sucht - hier findest du 14 Anleitungen mit klaren Regeln.
+Für ein gutes **Trinkspiel mit Karten** braucht ihr erstaunlich wenig: ein Kartenspiel mit 52 Karten (ein Skatblatt tut es) und ein paar Getränke. Schon wird aus einem ruhigen Abend eine Runde, die kippt. Ob ihr zu zweit spielt, mit einer großen Gruppe oder einfach nur ein Deck zur Hand habt - die 14 Spiele hier haben wir mit klaren Regeln aufgeschrieben.
 
-Unten geht es direkt los: Spiele zu zweit, Klassiker für Gruppen wie King's Cup und Arschloch sowie eine Übersichtstabelle zum schnellen Auswählen. Du kannst alle Spiele übrigens auch ohne Alkohol spielen - der Spaß am Bluffen und Raten bleibt derselbe. Trinkt verantwortungsvoll und passt aufeinander auf.
+Wir starten mit Spielen zu zweit, danach kommen die Gruppen-Klassiker wie King's Cup und Arschloch, und in der Tabelle weiter oben findest du auf einen Blick das passende Spiel. Alkoholfrei geht übrigens alles genauso - am Bluffen und Raten ändert das nichts. Trinkt mit Maß und passt aufeinander auf.
 
 ## Inhaltsverzeichnis
 
@@ -61,7 +61,7 @@ We got you covered!
 
 <h3 id="hoeher-oder-tiefer">1. Höher oder tiefer</h3>
 
-Das Spiel ist super geeignet, wenn man einfach abschalten und losspielen will - das simple Prinzip versteht jeder sofort.
+Wenn ihr einfach abschalten und sofort loslegen wollt, ist das euer Spiel. Das Prinzip versteht jeder beim ersten Hinhören.
 
 Mischt das Kartendeck und legt es geschlossen zwischen euch. Der besoffenere von euch beiden deckt nun die oberste Karte auf. Der andere muss nun raten, ob die nächste Karte höher oder tiefer als die zuvor aufgedeckte Karte ist. Liegt er falsch, muss er trinken und ist wieder an der Reihe. Liegt er richtig, ist der andere Spieler dran.
 
@@ -125,7 +125,7 @@ Tipp: Hier findest du weitere [Trinkspiele zu zweit](/post/trinkspiele-zu-zweit)
 
 ![Trinkspiele Karten Gruppe betrunkener Männer](trinkspiele-karten-gruppe.avif)
 
-Ihr seid mehr als zwei Leute? Dann sind diese Karten-Trinkspiele für Gruppen genau richtig - von King's Cup bis Arschloch funktioniert hier alles mit einem einzigen Kartenspiel.
+Ihr seid mehr als zwei? Dann ran an diese Gruppen-Spiele. Von King's Cup bis Arschloch läuft alles mit einem einzigen Kartenspiel.
 
 <h3 id="kings-cup">1. King's Cup</h3>
 
@@ -419,18 +419,18 @@ Das Ziel des Spiels ist es, möglichst viele Quartette zu sammeln.
 
 <h2 id="nur-ein-kartenspiel">Trinkspiele mit nur einem Kartenspiel</h2>
 
-Du hast nur ein einziges Kartenspiel zur Hand und sonst kein Zubehör? Kein Problem - die meisten Karten-Trinkspiele auf dieser Seite brauchen genau das: ein Skatblatt mit 52 Karten. Diese Spiele funktionieren komplett ohne Würfel, Bechertürme oder Apps:
+Nur ein Kartenspiel da und sonst nichts? Reicht völlig. Die meisten Spiele auf dieser Seite kommen mit genau einem Skatblatt aus - kein Würfel, kein Becherturm, keine App nötig:
 
 - **King's Cup**: Karten kreisförmig auslegen, ziehen, Regel ausführen - mehr braucht es nicht.
 - **Arschloch** und **Bullshit**: Karten gleichmäßig verteilen und losspielen.
 - **Höher oder tiefer** sowie **Rot oder Schwarz**: ideal, wenn ihr nur zu zweit seid.
 - **Busfahrer**: braucht nur das Deck und etwas Platz für die Kartenpyramide.
 
-Wer das Kartenspiel-Trinken ohne viel Vorbereitung mag, ist mit diesen Klassikern bestens bedient. Tipp: Entfernt vorher die Joker, dann passen alle Regeln auf ein normales Blatt. Wenn ihr lieber ein fertiges Spielprinzip wollt, schau dir auch [UNO als Trinkspiel]({{ '/uno-trinkspiel/' | url }}) an - das funktioniert mit einem UNO-Deck.
+Wer ohne großes Vorgeplänkel loslegen will, fährt mit diesen Klassikern am besten. Ein Tipp noch: Nehmt vorher die Joker raus, dann passen alle Regeln auf ein normales Blatt. Und wenn euch ein fertiges Spielprinzip lieber ist, schau dir [UNO als Trinkspiel]({{ '/uno-trinkspiel/' | url }}) an - das läuft mit einem UNO-Deck.
 
 <h2 id="zu-dritt">Karten-Trinkspiele zu dritt</h2>
 
-Zu dritt ist eine etwas knifflige Gruppengröße: zu zweit-Spiele werden zäh, klassische Gruppenrunden funktionieren erst richtig ab vier Leuten. Diese Karten-Trinkspiele sind aber wie gemacht für drei Personen:
+Zu dritt ist so eine Zwischengröße: Spiele für zwei werden zäh, die großen Gruppenrunden zünden erst ab vier Leuten richtig. Diese Karten-Trinkspiele passen aber genau für drei:
 
 - **Bullshit (Lügen)**: lebt vom Bluffen - mit drei Leuten ist die Spannung am größten, weil jeder jeden im Blick hat.
 - **Saufquartett**: ausgewogen verteilbar und schnell erklärt.
@@ -452,5 +452,5 @@ Die beliebtesten Karten-Trinkspiele mit ausführlicher Anleitung:
 - [UNO Trinkspiel]({{ '/uno-trinkspiel/' | url }})
 - [Mäxchen]({{ '/maexchen/' | url }})
 
-Noch mehr Spiele mit Regeln findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}). Lust auf mehr Action? Dann probiert [Dare Pong]({{ '/' | url }}) - das Trinkspiel mit Mutproben und Bechern. Egal für welches Karten-Trinkspiel ihr euch entscheidet: Trinkt verantwortungsvoll und passt aufeinander auf.
+Noch mehr Spiele mit Regeln gibt es in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}). Lust auf mehr Action? Dann probiert [Dare Pong]({{ '/' | url }}) - das Trinkspiel mit Mutproben und Bechern. Welches Karten-Trinkspiel es auch wird: Trinkt mit Maß und passt aufeinander auf.
 

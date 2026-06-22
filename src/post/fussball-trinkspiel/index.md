@@ -21,9 +21,9 @@ faq:
     a: "Es funktioniert ab zwei Personen und skaliert problemlos bis zur großen Public-Viewing-Runde. Bei vielen Mitspielern lohnt sich die Aufteilung in Teams, klar sichtbare Regeln und mildere Auslöser, damit alle bis zum Abpfiff durchhalten."
 ---
 
-Anpfiff, Tribüne brüllt, dein Team rennt an – und du sitzt mit Freunden vorm Bildschirm. Ein **Fußball-Trinkspiel** macht aus jedem 0:0 ein Spektakel und aus dem Public Viewing einen Abend, über den ihr noch lange redet. Während die WM 2026 läuft, ist genau jetzt die beste Zeit, ein eigenes Regelwerk aufzustellen: Tor, Elfmeter, Gelbe Karte, VAR-Check – jedes Ereignis auf dem Platz bekommt seine eigene Trink-Aktion. Das Beste daran: Die Regeln funktionieren bei jedem Spiel, egal ob Weltmeisterschaft, EM, Champions-League-Abend oder Bundesliga-Konferenz.
+Anpfiff, die Tribüne brüllt, dein Team rennt an – und du sitzt mit Freunden vorm Bildschirm. Ein **Fußball-Trinkspiel** macht aus jedem 0:0 ein Spektakel und aus dem Public Viewing einen Abend, über den ihr noch lange redet. Während die WM 2026 läuft, ist genau jetzt der richtige Moment, ein eigenes Regelwerk aufzustellen: Tor, Elfmeter, Gelbe Karte, VAR-Check – jedes Ereignis auf dem Platz bekommt seine eigene Trink-Aktion. Und die Regeln passen auf jedes Spiel, ob Weltmeisterschaft, EM, Champions-League-Abend oder Bundesliga-Konferenz.
 
-In diesem Artikel bekommst du das komplette Regelwerk als übersichtliche Tabelle, milde und harte Varianten, eine Team-Variante für echte Fanlager sowie Tipps fürs Public Viewing mit großer Gruppe. Und ja – alles lässt sich genauso gut alkoholfrei spielen.
+Hier bekommst du das komplette Regelwerk als übersichtliche Tabelle, milde und harte Varianten, eine Team-Variante für echte Fanlager und Tipps fürs Public Viewing mit großer Gruppe. Und ja, alles lässt sich genauso gut alkoholfrei spielen.
 
 ## Inhaltsverzeichnis
 
@@ -39,13 +39,13 @@ In diesem Artikel bekommst du das komplette Regelwerk als übersichtliche Tabell
 
 Ein Fußball-Trinkspiel ist im Kern ganz simpel: Ihr verknüpft bestimmte Ereignisse im Spiel mit Trink-Aktionen. Fällt ein Tor, gibt es eine Eckball, zückt der Schiri eine Karte oder ruft der Kommentator zum fünften Mal „packendes Spiel" – dann wird getrunken. Vor dem Anpfiff einigt ihr euch auf eure Auslöser, und ab Anstoß läuft alles von selbst.
 
-Der Clou: Du schaust das Spiel sowieso. Das Trinkspiel legt nur eine Ebene Spannung obendrauf. Plötzlich jubelst du beim Abseitspfiff, fieberst beim VAR-Check mit und feuerst sogar die Werbeunterbrechung an. Genau deshalb ist es das perfekte Spiel für Turniere wie die WM 2026, wenn ihr ohnehin in der Gruppe vor dem Bildschirm sitzt – ob daheim auf der Couch oder draußen beim Public Viewing.
+Der Clou: Du schaust das Spiel sowieso. Das Trinkspiel legt nur eine Ebene Spannung obendrauf. Auf einmal jubelst du beim Abseitspfiff, fieberst beim VAR-Check mit und feuerst sogar die Werbeunterbrechung an. Deshalb passt es so gut zu Turnieren wie der WM 2026, wenn ihr ohnehin in der Gruppe vor dem Bildschirm sitzt – daheim auf der Couch oder draußen beim Public Viewing.
 
-Damit es funktioniert, brauchst du nur drei Dinge: ein Spiel zum Schauen, Getränke (mit oder ohne Alkohol) und ein paar Mitspieler, die Lust auf Regeln haben. Den Rest erledigt der Schiedsrichter auf dem Platz.
+Mehr als drei Dinge brauchst du nicht: ein Spiel zum Schauen, Getränke (mit oder ohne Alkohol) und ein paar Mitspieler mit Lust auf Regeln. Den Rest erledigt der Schiedsrichter auf dem Platz.
 
 <h2 id="regelwerk">Das große Fußball-Trinkspiel-Regelwerk</h2>
 
-Das hier ist das Herzstück. Nimm diese Tabelle als Basis und streiche oder ergänze, was zu eurer Runde passt. Wichtig: Such dir am Anfang lieber **fünf bis acht Auslöser** aus, statt alle gleichzeitig zu nutzen – sonst seid ihr vor der Halbzeit unter dem Tisch. „Schluck" meint einen normalen Schluck, „ex" bedeutet den Becher leeren (bitte nur in vernünftiger Menge).
+Das hier ist das Herzstück. Nimm die Tabelle als Basis und streiche oder ergänze, was zu eurer Runde passt. Ein Rat: Pick dir am Anfang lieber **fünf bis acht Auslöser** heraus, statt alle gleichzeitig zu nutzen – sonst liegt ihr vor der Halbzeit unter dem Tisch. „Schluck" heißt ein normaler Schluck, „ex" heißt Becher leeren (bitte in vernünftiger Menge).
 
 | Spielereignis | Trink-Aktion |
 | --- | --- |
@@ -119,6 +119,6 @@ Und das Wichtigste: **Jedes hier beschriebene Fußball-Trinkspiel funktioniert g
 
 <h2 id="fazit">Fazit & los geht's</h2>
 
-Ein Fußball-Trinkspiel verwandelt jedes Spiel – ob WM-Finale 2026, Bundesliga-Konferenz oder spontaner Champions-League-Abend – in ein gemeinsames Erlebnis. Mit dem Regelwerk oben hast du die komplette Basis, dazu Varianten für jede Stimmung und Tipps fürs große Public Viewing. Stell dir deine fünf bis acht Lieblings-Auslöser zusammen, teilt euch in Fanlager auf und genießt das Spiel.
+Ein Fußball-Trinkspiel macht aus jedem Spiel – WM-Finale 2026, Bundesliga-Konferenz oder spontaner Champions-League-Abend – eine gemeinsame Sache. Das Regelwerk oben gibt dir die komplette Basis, dazu Varianten für jede Stimmung und Tipps fürs große Public Viewing. Stell dir deine fünf bis acht Lieblings-Auslöser zusammen, teilt euch in Fanlager auf und los geht's.
 
 Wenn euch zwischen den Spielen die Action ausgeht, klick dich durch unsere [Partyspiele]({{ '/partyspiele/' | url }}) und [Trinkspiele für die Gruppe]({{ '/trinkspiele/gruppe/' | url }}) – oder hol dir mit [Dare Pong]({{ '/' | url }}) den Beer-Pong-Klassiker mit der extra Portion Mutproben für die Halbzeit. Jetzt aber: Anpfiff, Becher hoch, und möge das bessere Team gewinnen.
