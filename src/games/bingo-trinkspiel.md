@@ -106,6 +106,12 @@ Das Beste am **Bingo Trinkspiel**: Es braucht kaum Vorbereitung, funktioniert f�
 
 Das Bingo Trinkspiel ist ein **lockeres Party-Trinkspiel** für 3 bis 20 Personen, das auf den klassischen Bingo-Regeln aufbaut. Jeder Spieler bekommt eine Bingo-Karte mit einem Raster aus Feldern – entweder klassische Zahlen oder typische Party-Ereignisse. Ein Spielleiter zieht reihum Zahlen aus einer Lostrommel oder per App, beim Party-Bingo treten die Ereignisse einfach im Laufe des Abends ein. Wer ein passendes Feld auf seiner Karte hat, markiert es und trinkt einen Schluck. Wer zuerst eine komplette Reihe voll hat – waagerecht, senkrecht oder diagonal – ruft „Bingo!“, woraufhin alle anderen trinken müssen.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/bingo-trinkspiel-karte.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Bingo Trinkspiel Karte mit einer komplett markierten Reihe">
+  <figcaption>Wer zuerst eine volle Reihe hat, ruft Bingo – alle anderen trinken.</figcaption>
+</figure>
+
 <h2 id="party-bingo">Party-Bingo: Ideen für die Felder</h2>
 
 Statt nüchterner Zahlen kannst du deine Karten mit Ereignissen füllen, die auf jeder Party früher oder später passieren. Hier ein paar Anregungen zum Loslegen:
@@ -163,3 +169,7 @@ Du magst gesellige Partyspiele für große Runden? Dann probiere als Nächstes d
 {% gamePreview "wasserfall" %}
 
 <p class="game__disclaimer"><strong>Verantwortung:</strong> Trinkspiele machen nur in Maßen Spaß. Trinkt bewusst, achtet aufeinander und kennt eure Grenzen. Das Bingo Trinkspiel lässt sich genauso gut alkoholfrei mit Wasser oder Softdrinks spielen – niemand muss mittrinken. Nur für Volljährige.</p>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/bingo-trinkspiel-karte.svg' | url }}","name":"Bingo Trinkspiel – Karte","caption":"Wer zuerst eine volle Reihe hat, ruft Bingo – alle anderen trinken."}]}
+</script>

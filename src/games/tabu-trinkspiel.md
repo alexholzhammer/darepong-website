@@ -108,6 +108,12 @@ Beim **Tabu Trinkspiel** kommt zur Ratejagd ein lockerer Trink-Twist dazu: Jedes
 
 Tabu ist ein **Begriffe-Erklärspiel für zwei Teams**. Auf jeder Karte steht ein Begriff und darunter vier bis fünf „Tabu-Wörter“ – also verbotene Hinweiswörter. Der Erklärer muss den Begriff so umschreiben, dass sein Team ihn errät, ohne den Begriff selbst oder eines dieser Tabu-Wörter auszusprechen. Ein Gegenspieler überwacht das mit Auge und Summer, eine Sanduhr setzt das Zeitlimit. Wie bei [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) lebt das Spiel von der Gruppe – je ausgelassener die Runde, desto mehr Spaß macht es.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/tabu-trinkspiel-karte.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Tabu Trinkspiel Karte: Begriff Strand mit den verbotenen Tabu-Wörtern Meer, Sand, Sonne, Urlaub">
+  <figcaption>Den Begriff erklären, ohne eines der fünf Tabu-Wörter zu sagen.</figcaption>
+</figure>
+
 <h2 id="karten">Tabu-Karten selbst machen</h2>
 
 Du brauchst nicht zwingend das Originalspiel. Mit etwas Papier baust du in wenigen Minuten einen eigenen Stapel: Schreibe oben den **Begriff** und darunter vier bis fünf naheliegende **Tabu-Wörter**, die der Erklärer nicht benutzen darf. Gute Tabu-Wörter sind genau die, die einem als Erstes einfallen.
@@ -161,3 +167,7 @@ Du magst gesellige Partyspiele für die Gruppe? Dann probiere diese – oder bri
 {% gamePreview "wer-wuerde-eher" %}
 
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/tabu-trinkspiel-karte.svg' | url }}","name":"Tabu Trinkspiel – Beispielkarte","caption":"Den Begriff erklären, ohne eines der fünf Tabu-Wörter zu sagen."}]}
+</script>

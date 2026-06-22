@@ -105,6 +105,12 @@ Der Reiz steckt im einfachen Prinzip mit cleverer Wertung: Liegen bleiben bringt
 
 Cornhole ist ein **Geschicklichkeits-Trinkspiel für draußen**, bei dem zwei Teams ihre Säckchen auf ein gegenüberliegendes Brett mit Loch werfen. Wer das Loch trifft, kassiert die meisten Punkte und schickt das Gegnerteam zum Trinken. Das Team, das zuerst genau oder mindestens 21 Punkte erreicht, gewinnt – das Verliererteam trinkt am Ende. Wie [Flunkyball]({{ '/flunkyball/' | url }}) und [Bierball]({{ '/bierball/' | url }}) gehört Cornhole zu den klassischen Outdoor-Trinkspielen für den Garten oder das Festival.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/cornhole-aufbau.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Cornhole Aufbau: zwei Boards im Abstand von rund acht Metern, das Loch zählt drei Punkte">
+  <figcaption>Zwei Boards im Abstand von ca. 8 m – ins Loch gibt es 3 Punkte, aufs Brett 1.</figcaption>
+</figure>
+
 <h2 id="aufbau">Aufbau &amp; Punktewertung</h2>
 
 Der Aufbau ist schnell erledigt: Zwei schräge Boards mit Loch stehen sich gegenüber, offiziell rund 8 Meter zwischen den vorderen Kanten. Jedes Team wirft seine vier Säckchen abwechselnd aufs andere Brett. So wird gewertet:
@@ -157,3 +163,7 @@ Du magst Wurf- und Outdoor-Spiele? Dann probiere diese Klassiker – oder bring 
 {% gamePreview "nageln" %}
 
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/cornhole-aufbau.svg' | url }}","name":"Cornhole – Aufbau","caption":"Zwei Boards im Abstand von ca. 8 m – ins Loch gibt es 3 Punkte, aufs Brett 1."}]}
+</script>

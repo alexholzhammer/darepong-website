@@ -104,6 +104,12 @@ Das Prinzip bleibt dasselbe wie früher: Ein Buchstabe wird bestimmt, dann füll
 
 Stadt Land Fluss ist ein **Kategorien-Spiel mit Papier und Stift** für 3 bis 8 Personen. Jeder bekommt einen Zettel, auf dem die vereinbarten Kategorien als Spalten stehen. Ein Spieler geht im Kopf still das Alphabet durch, ein anderer sagt „Stopp“ – der erreichte Buchstabe gilt für die ganze Runde. Jetzt füllen alle gleichzeitig zu jeder Kategorie ein Wort aus, das mit diesem Buchstaben beginnt. Wer zuerst fertig ist, ruft „Stopp“ und stoppt damit alle anderen. Anschließend werden die Antworten vorgelesen, Punkte verteilt und in der Trinkspiel-Variante getrunken.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/stadt-land-fluss-spielzettel.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Stadt Land Fluss Spielzettel mit den Kategorien Stadt, Land, Fluss und Tier für den Buchstaben M">
+  <figcaption>Der Spielzettel: alle Kategorien mit dem ausgelosten Buchstaben füllen.</figcaption>
+</figure>
+
 <h2 id="kategorien">Die besten Kategorien</h2>
 
 Klassisch sind Stadt, Land, Fluss, Name, Tier, Beruf und Marke. Wer den Klassiker aufpeppen will, mischt ein paar lustige oder partytaugliche Kategorien dazu:
@@ -160,3 +166,7 @@ Du magst Spiele, die mit Köpfchen und Wörtern punkten? Dann probiere als Näch
 {% gamePreview "wer-wuerde-eher" %}
 
 Wird daraus ein Trinkspiel, gilt: in Maßen genießen, immer Wasser bereitstellen und nur mitspielen, wer das möchte. Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/stadt-land-fluss-spielzettel.svg' | url }}","name":"Stadt Land Fluss – Spielzettel","caption":"Der Spielzettel: alle Kategorien mit dem ausgelosten Buchstaben füllen."}]}
+</script>

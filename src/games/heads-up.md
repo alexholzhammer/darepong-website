@@ -114,6 +114,12 @@ Das Beste: Du brauchst nicht zwingend die App. Mit selbst beschrifteten Kärtche
 
 Heads Up ist ein **Team-Partyspiel**, bei dem es ums schnelle Erraten von Begriffen geht. Ein Rater hält das Display nach außen an die Stirn, die Mitspieler umschreiben den angezeigten Begriff, ohne das Wort zu nennen. Gespielt wird gegen die Uhr (meist 60 Sekunden) und in Kategorien wie Promis, Filme, Tiere oder Songs. Wie [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) lebt es von der Gruppe – je größer und ausgelassener, desto besser.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/heads-up-prinzip.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Heads Up: das Smartphone mit dem zu erratenden Begriff an der Stirn">
+  <figcaption>Das Handy zeigt allen außer dir den Begriff – du errätst ihn aus den Tipps.</figcaption>
+</figure>
+
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
 Der Ablauf ist in Sekunden erklärt: Kategorie wählen, Handy an die Stirn, Timer starten. Das Team umschreibt, der Rater kippt das Handy nach unten (richtig erraten) oder nach oben (passen). Nach 60 Sekunden wird gezählt, dann ist das nächste Team dran. Wer nach mehreren Runden die meisten Begriffe erraten hat, gewinnt.
@@ -160,3 +166,7 @@ Du magst schnelle Partyspiele für die Gruppe? Dann probiere diese – oder brin
 {% gamePreview "wer-wuerde-eher" %}
 
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/heads-up-prinzip.svg' | url }}","name":"Heads Up – Spielprinzip","caption":"Das Handy zeigt allen außer dir den Begriff – du errätst ihn aus den Tipps."}]}
+</script>

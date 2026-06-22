@@ -109,6 +109,12 @@ Ursprünglich ist **Ich packe meinen Koffer** ein Kinder- und Reisespiel zum Ged
 
 Ich packe meinen Koffer ist ein **Kettenspiel fürs Gedächtnis** für 2 bis 12 Personen. Es gibt kein Spielbrett, keine Karten und keine Würfel – gespielt wird nur mit dem Kopf. Jeder Spieler merkt sich die wachsende Liste der gepackten Gegenstände und fügt einen neuen hinzu. Wie bei [Buffalo]({{ '/buffalo/' | url }}) liegt der ganze Reiz in einer einzigen, einfachen Regel, die mit der Zeit überraschend schwer wird.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/ich-packe-meinen-koffer-prinzip.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Ich packe meinen Koffer: die wachsende Merk-Kette aus Gegenständen">
+  <figcaption>Jeder wiederholt die ganze Kette und ergänzt einen weiteren Gegenstand.</figcaption>
+</figure>
+
 <h2 id="ablauf">So läuft die Kette ab</h2>
 
 Setzt euch in eine Runde und legt eine Spielrichtung fest. Der erste Spieler eröffnet mit „Ich packe meinen Koffer und nehme mit … eine Zahnbürste“. Der nächste sagt „Ich packe meinen Koffer und nehme mit eine Zahnbürste und einen Regenschirm“ – und so geht es reihum weiter. Mit jedem Durchgang kommt ein Gegenstand dazu, und die komplette Liste muss jedes Mal **fehlerfrei und in der richtigen Reihenfolge** aufgesagt werden. Wer stockt, etwas auslässt oder vertauscht, hat verloren.
@@ -153,3 +159,7 @@ Du magst Spiele, die ganz ohne Material auskommen? Dann probiere als Nächstes d
 {% gamePreview "ich-hab-noch-nie" %}
 
 Wird daraus ein Trinkspiel, gilt: in Maßen genießen, immer Wasser bereitstellen und nur mitspielen, wer das möchte. Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/ich-packe-meinen-koffer-prinzip.svg' | url }}","name":"Ich packe meinen Koffer – Prinzip","caption":"Jeder wiederholt die ganze Kette und ergänzt einen weiteren Gegenstand."}]}
+</script>

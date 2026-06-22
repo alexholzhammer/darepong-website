@@ -114,6 +114,12 @@ Wie bei [Mäxchen]({{ '/maexchen/' | url }}) entscheidet nicht das Glück, sonde
 
 Mogeln ist ein **Bluff-Kartenspiel** für 3 bis 8 Personen, das mit einem gewöhnlichen Skat- oder Pokerblatt gespielt wird. Alle Karten werden verteilt, und Ziel ist es, als Erster die eigene Hand loszuwerden. Reihum legt jeder verdeckt eine oder mehrere Karten ab und sagt einen Wert an, der der Reihenfolge folgt – wahr oder gelogen, das bleibt dein Geheimnis. Als Trinkspiel trinkt, wer den aufgenommenen Stapel kassiert. Ähnlich bluffig geht es bei [Schwimmen]({{ '/schwimmen/' | url }}) zu, nur dort sammelt man Punkte statt Lügen.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/mogeln-prinzip.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Mogeln Trinkspiel: Karten verdeckt ablegen mit einer Ansage, die geblufft sein kann">
+  <figcaption>Karten verdeckt ablegen und ansagen – wer zweifelt, deckt auf.</figcaption>
+</figure>
+
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
 Der Ablauf ist in wenigen Minuten erklärt: Die Karten werden gleichmäßig verteilt, dann legt der erste Spieler verdeckt ein oder mehrere Asse (oder den vereinbarten Startwert) ab und sagt die Menge an. Reihum geht es zum nächsthöheren Wert weiter – Zwei, Drei, Vier und so fort. Wer keine passende Karte hat, muss bluffen und etwas Falsches ablegen.
@@ -162,3 +168,7 @@ Du magst Bluff- und Kartenspiele? Dann probiere als Nächstes diese Klassiker �
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) und im Beitrag zu [Trinkspielen mit Karten]({{ '/post/trinkspiele-mit-karten/' | url }}).
 
 <p class="game__responsibility"><strong>Verantwortung:</strong> Mogeln ist als Spaß für volljährige Spieler gedacht. Trinkt mit Maß, respektiert ein Nein und sorgt dafür, dass alkoholfreie Alternativen bereitstehen. Niemand muss mehr trinken, als er möchte – der Bluff-Spaß steht im Vordergrund.</p>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/mogeln-prinzip.svg' | url }}","name":"Mogeln – Spielprinzip","caption":"Karten verdeckt ablegen und ansagen – wer zweifelt, deckt auf."}]}
+</script>

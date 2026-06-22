@@ -101,6 +101,12 @@ Weil die Regeln in 30 Sekunden erklärt sind und keinerlei Aufbau nötig ist, ei
 
 Hoch oder Tief ist ein Karten-Glücksspiel für 2 bis 8 Personen. Ein verdeckter Stapel liegt in der Mitte, die oberste Karte wird aufgedeckt. Der Spieler, der an der Reihe ist, tippt, ob die nächste Karte einen höheren oder tieferen Wert hat. Dann wird aufgedeckt: Bei richtigem Tipp darf er Schlucke verteilen, bei falschem trinkt er selbst. Anschließend ist der Nächste dran, und die frisch aufgedeckte Karte wird zum neuen Vergleichswert. Mehr Strategie als beim Mitzählen der bereits gefallenen Karten gibt es kaum – es ist deutlich entspannter als etwa [Busfahrer]({{ '/busfahrer/' | url }}).
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/hoch-oder-tief-prinzip.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Hoch oder Tief Trinkspiel: ist die nächste Karte höher oder tiefer als die offene Sieben">
+  <figcaption>Tippe, ob die nächste Karte höher oder tiefer liegt als die aktuelle.</figcaption>
+</figure>
+
 <h2 id="varianten">Hoch oder Tief Varianten</h2>
 
 <div class="game__variants">
@@ -141,3 +147,7 @@ Du magst schnelle Kartentrinkspiele mit Glücksfaktor? Dann probiere diese Klass
 {% gamePreview "17-und-4" %}
 
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) und im Beitrag zu [Trinkspielen mit Karten]({{ '/post/trinkspiele-mit-karten/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/hoch-oder-tief-prinzip.svg' | url }}","name":"Hoch oder Tief – Prinzip","caption":"Tippe, ob die nächste Karte höher oder tiefer liegt als die aktuelle."}]}
+</script>
