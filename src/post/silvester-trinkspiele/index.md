@@ -134,7 +134,7 @@ Bevor die Silvester-Specials losgehen, läuft der Abend mit bewährten Klassiker
 - [Beer Pong]({{ '/beer-pong/' | url }}) – der Wurf-Klassiker für zwei Teams, perfekt als kleines Silvester-Turnier.
 - [Flip Cup]({{ '/flip-cup/' | url }}) – schnelles Team-Spiel, das die ganze Party in zwei Lager teilt.
 - [Busfahrer]({{ '/busfahrer/' | url }}) – Karten raten und trinken, ein toller Aufwärmer für die ganze Gruppe.
-- [Rage Cage]({{ '/rage-cage/' | url }}) – hektisches Becher-Stapeln für viele Personen gleichzeitig, sorgt für Tempo.
+- [Rage Cage]({{ '/rage-cage/' | url }}) – hektisches Becher-Stapeln für viele gleichzeitig, bringt Tempo rein.
 - [Wer würde eher]({{ '/wer-wuerde-eher/' | url }}) – verrät, was die Runde wirklich übereinander denkt, und passt perfekt zur Reflexion am Jahresende.
 
 Mehr Auswahl gibt es in unserer [Trinkspiele-Übersicht]({{ '/trinkspiele/' | url }}) und bei den [Partyspielen]({{ '/partyspiele/' | url }}). Wer auf Kartenspiele steht, wird im Guide zu [Trinkspielen mit Karten](/post/trinkspiele-mit-karten/) fündig. Und falls ihr nach dem Feuerwerk vorm Fernseher landet: Die besten [Film-Trinkspiele](/post/film-trinkspiele/) tragen euch durch den Rest der Nacht.
@@ -144,7 +144,7 @@ Mehr Auswahl gibt es in unserer [Trinkspiele-Übersicht]({{ '/trinkspiele/' | ur
 Bei allem Spaß: Der wichtigste Vorsatz fürs neue Jahr ist, gesund und sicher anzukommen. Plant deshalb ein paar Dinge bewusst ein:
 
 - **Klein dosieren:** Haltet Shots und Schlucke bewusst klein. Der Abend ist lang, und es geht um Spaß, nicht um Tempo.
-- **Wasser und Essen:** Stellt genug Wasser bereit und sorgt für eine ordentliche Grundlage – Häppchen, Raclette oder Fondue passen ohnehin perfekt zu Silvester.
+- **Wasser und Essen:** Stellt genug Wasser bereit und legt eine ordentliche Grundlage – Häppchen, Raclette oder Fondue passen ohnehin perfekt zu Silvester.
 - **Sicher nach Hause:** Klärt vorher den Heimweg. ÖPNV, Taxi oder eine nüchterne Begleitung gehören in jede gute Silvester-Planung.
 
 Und: **Jedes Spiel auf dieser Seite funktioniert auch ohne Alkohol.** Statt Shots gibt es alkoholfreien Sekt, Saft, Schorle oder Mocktails. Beim Countdown kippst du eben einen Mini-Saft, beim Dinner-for-One trinkst du Schorle. Am Spielspaß ändert das nichts, und so feiern wirklich alle mit – ob mit oder ohne Promille.

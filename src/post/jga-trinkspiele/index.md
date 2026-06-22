@@ -160,7 +160,7 @@ Beim Männer-JGA darf es gern kompetitiv und etwas härter zugehen. Diese Klassi
 
 <h2 id="jga-aufgaben">Lustige JGA Aufgaben für Braut und Bräutigam</h2>
 
-Neben den Spielen gehören kleine JGA Aufgaben zum Pflichtprogramm. Sie geben dem Tag Struktur, sorgen für Lacher und beziehen auch Passanten mit ein. Wer eine Aufgabe nicht schafft, trinkt – so wird aus Mutproben ganz nebenbei ein Trinkspiel.
+Neben den Spielen gehören kleine JGA Aufgaben zum Pflichtprogramm. Sie geben dem Tag Struktur, bringen Lacher und beziehen auch Passanten mit ein. Wer eine Aufgabe nicht schafft, trinkt – so wird aus Mutproben ganz nebenbei ein Trinkspiel.
 
 Noch mehr Vorlagen findest du in unserer großen Liste mit [Aufgaben für Trinkspiele]({{ '/trinkspiele/aufgaben/' | url }}) – von harmlos bis frech.
 

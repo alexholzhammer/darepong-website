@@ -152,7 +152,7 @@ Der wichtigste Grundsatz: Niemand sollte sich gedrängt fühlen, Alkohol zu trin
 Nicht jedes Spiel braucht ein eigenes Weihnachts-Thema. Viele gesellige Klassiker passen genauso an den Adventsabend – Glühwein in die Hand und los. Diese Spiele bringen zuverlässig Stimmung in die Runde:
 
 - [Kings Cup]({{ '/kings-cup/' | url }}) – das ultimative Kartentrinkspiel mit unzähligen Regeln, perfekt für die große Runde am Glühweintisch.
-- [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}) – sorgt für überraschende Geständnisse und ist im Nu erklärt.
+- [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}) – bringt überraschende Geständnisse und ist im Nu erklärt.
 - [Wer würde eher]({{ '/wer-wuerde-eher/' | url }}) – ideal, um die Gruppe besser kennenzulernen, auch auf der Firmenfeier (mit harmlosen Fragen).
 - [Flip Cup]({{ '/flip-cup/' | url }}) – das schnelle Teamspiel für alle, die nach Plätzchen noch Action wollen.
 - [Beer Pong]({{ '/beer-pong/' | url }}) – der Party-Klassiker schlechthin, der sich mit Punsch problemlos alkoholfrei spielen lässt.

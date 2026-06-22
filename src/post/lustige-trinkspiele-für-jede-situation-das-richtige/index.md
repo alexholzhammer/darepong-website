@@ -5,7 +5,7 @@ updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-lustige-trinkspiele.jpg"
 summary: "Lustige Trinkspiele für jede Situation: zu zweit, zu dritt, für Gruppen, ohne Material und für draußen. Regeln, Varianten und Tipps für den passenden Spielspaß."
 ctaPitch: "Noch mehr zu lachen: Die 120 Dares von Dare Pong machen aus Beer Pong ein Mutproben-Spiel voller schräger Aufgaben."
-answer: "Die lustigsten Trinkspiele leben von Geständnissen und Mutproben: Ich hab noch nie, Wer würde eher, Würdest du eher und Wahrheit oder Pflicht. Sie passen in jede Situation – zu zweit, in der Gruppe und ganz ohne Material."
+answer: "Die lustigsten Trinkspiele leben von Geständnissen und Mutproben: Ich hab noch nie, Wer würde eher, Würdest du eher und Wahrheit oder Pflicht. Sie passen zu zweit genauso wie in die große Runde und kommen ganz ohne Material aus."
 image: /post/lustige-trinkspiele-für-jede-situation-das-richtige/lustige-trinkspiele-jede-situation.avif
 imageAlt: "Lustige Trinkspiele für jede Situation - Freunde lachen beim Spielen"
 tags:

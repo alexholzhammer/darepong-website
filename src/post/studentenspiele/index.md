@@ -216,12 +216,12 @@ Kein Studentenabend ohne ein gutes Trinkspiel: Sie bringen Tempo in die Party, l
 | [Beerpong]({{ '/beer-pong/' | url }}) | Becher, Bälle | ab 4 | mittel |
 | [Rage Cage]({{ '/rage-cage/' | url }}) | Becher, Bälle | ab 4 | mittel |
 
-[Flunkyball]({{ '/flunkyball/' | url }}) ist der Outdoor-Hit für den Campus oder den Park: zwei Teams, eine Flasche in der Mitte, gnadenlos viel Spaß. Wer es lieber kompakt mag, greift zu [Mäxchen]({{ '/maexchen/' | url }}) – ein reines Würfel- und Bluffspiel, für das du nur zwei Würfel und einen Becher brauchst. Und mit [Trink-Roulette]({{ '/trink-roulette/' | url }}) entscheidet schlicht das Glück, wer als Nächstes dran ist.
+[Flunkyball]({{ '/flunkyball/' | url }}) ist der Outdoor-Hit für Campus oder Park: zwei Teams, eine Flasche in der Mitte, viel Geschrei. Wer's kompakter mag, nimmt [Mäxchen]({{ '/maexchen/' | url }}), ein reines Würfel- und Bluffspiel, für das zwei Würfel und ein Becher reichen. Und beim [Trink-Roulette]({{ '/trink-roulette/' | url }}) entscheidet schlicht das Glück, wer als Nächstes dran ist.
 
 Noch mehr Ideen findest du in unserer Übersicht der [coolsten Trinkspiele]({{ '/trinkspiele/' | url }}).
 
-> **Verantwortungsbewusst feiern:** Trinkspiele sollen Spaß machen, nicht zum Zwang werden. Achtet aufeinander, trinkt in eurem Tempo und bietet immer eine alkoholfreie Alternative an. Niemand muss mehr trinken, als er möchte – die alkoholfreie Variante ist bei jedem Spiel genauso erlaubt.
+> **Verantwortungsbewusst feiern:** Trinkspiele sollen Spaß machen, nicht zum Zwang werden. Achtet aufeinander, trinkt in eurem Tempo und stellt immer eine alkoholfreie Alternative bereit. Niemand muss mehr trinken, als er will, und mit Wasser oder Limo spielt es sich genauso gut.
 
 <h2 id="faq">FAQ zu Studentenspielen</h2>
 
-Die wichtigsten Fragen rund um Spiele für Studenten, WG-Abende und Studentenpartys beantworten wir dir direkt unten in den häufigen Fragen.
+Die häufigsten Fragen rund um Spiele für Studenten, WG-Abende und Studentenpartys beantworten wir dir direkt unten.
