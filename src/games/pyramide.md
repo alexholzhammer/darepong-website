@@ -104,6 +104,12 @@ Der Reiz liegt im Mut zur Lüge: Bei **Pyramide** darfst du behaupten, einen pas
 
 Pyramide ist ein **Karten-Trinkspiel mit Bluff** für 3 bis 8 Personen, ideal sind etwa 5 Spieler. Gespielt wird mit einem gewöhnlichen Skat- oder Pokerblatt: In der Tischmitte liegt eine Pyramide aus verdeckten Karten, die ihr nach und nach aufdeckt, während jeder geheime Handkarten hält. Bei jeder aufgedeckten Karte darf, wer den gleichen Wert besitzt oder es behauptet, Schlucke verteilen. Ähnlich bluffig geht es bei [Mäxchen]({{ '/maexchen/' | url }}) zu, nur dort lügst du mit Würfeln statt mit Karten.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/pyramide-aufbau.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Pyramide Trinkspiel: Karten-Pyramide, die Reihe bestimmt die Schluckzahl von 1 bis 5">
+  <figcaption>Je höher die aufgedeckte Reihe, desto mehr Schlucke darfst du verteilen.</figcaption>
+</figure>
+
 <h2 id="aufbau">Aufbau der Pyramide</h2>
 
 Der Aufbau ist schnell erledigt: Mischt das Deck und legt aus verdeckten Karten eine Pyramide in die Tischmitte. Eine bewährte Form sind fünf Reihen von unten nach oben mit 5, 4, 3, 2 und 1 Karte – zusammen 15 Karten. Die restlichen Karten verteilt ihr gleichmäßig als Handkarten an alle Spieler, die sich ihre Werte heimlich einprägen.
@@ -162,3 +168,7 @@ Du magst Karten- und Bluff-Spiele? Dann probiere als Nächstes diese Klassiker �
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) und im Beitrag zu [Trinkspielen mit Karten]({{ '/post/trinkspiele-mit-karten/' | url }}).
 
 <p class="game__responsibility"><strong>Verantwortung:</strong> Pyramide ist als Spaß für volljährige Spieler gedacht. Trinkt mit Maß, respektiert ein Nein und sorgt dafür, dass alkoholfreie Alternativen bereitstehen. Niemand muss mehr trinken, als er möchte – der Bluff-Spaß steht im Vordergrund.</p>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/pyramide-aufbau.svg' | url }}","name":"Pyramide – Aufbau","caption":"Je höher die aufgedeckte Reihe, desto mehr Schlucke darfst du verteilen."}]}
+</script>

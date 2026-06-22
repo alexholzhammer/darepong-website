@@ -103,6 +103,12 @@ Als **Trinkspiel** bekommt der Klassiker noch mehr Würze: Für jeden umgeworfen
 
 Wikingerschach ist ein **Geschicklichkeits-Wurfspiel für draußen**, bei dem zwei Teams gegeneinander antreten. Auf einem rechteckigen Spielfeld stehen an beiden Grundlinien je fünf Kubbs, in der Mitte der König. Ihr werft eure Wurfhölzer immer **untenhand**, um zuerst die gegnerischen Kubbs und ganz am Ende den König umzuwerfen. Wer den König zuerst legt – aber nicht zu früh! – gewinnt. Wie [Flunkyball]({{ '/flunkyball/' | url }}) und [Bierball]({{ '/bierball/' | url }}) gehört Wikingerschach zu den beliebtesten Outdoor-Trinkspielen.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/wikingerschach-spielfeld.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Wikingerschach Kubb Spielfeld: fünf Kubbs an jeder Grundlinie, der König in der Mitte">
+  <figcaption>Spielfeld-Aufbau: je fünf Kubbs an den Grundlinien, der König steht in der Mitte.</figcaption>
+</figure>
+
 <h2 id="aufbau">Aufbau &amp; Spielfeld</h2>
 
 Der Aufbau ist schnell gemacht und braucht nur etwas Platz auf einer ebenen Wiese:
@@ -152,3 +158,7 @@ Du magst Wurf- und Outdoor-Spiele? Dann probiere diese Klassiker – oder bring 
 {% gamePreview "bierball" %}
 
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/wikingerschach-spielfeld.svg' | url }}","name":"Wikingerschach – Spielfeld","caption":"Spielfeld-Aufbau: je fünf Kubbs an den Grundlinien, der König steht in der Mitte."}]}
+</script>

@@ -114,6 +114,12 @@ Das Beste daran: Du brauchst kein physisches Material. Ein Smartphone mit der Ap
 
 Bomb Party ist ein **geselliges Wortspiel** für 3 bis 10 Personen, das fast ohne Vorbereitung auskommt: App öffnen, Silbe abwarten, Wort nennen, weitergeben. Gewonnen wird nicht mit Glück, sondern mit einem schnellen Kopf und ruhigen Nerven – wer unter Druck als Erstes ein Wort parat hat, gibt die tickende Bombe rechtzeitig los. Ähnlich flott und gesellig wie [Buffalo]({{ '/buffalo/' | url }}).
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/bomb-party-prinzip.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Bomb Party: die Spieler geben die Bombe im Kreis weiter">
+  <figcaption>Schnell einen passenden Begriff nennen und die Bombe weiterreichen.</figcaption>
+</figure>
+
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
 Setzt euch in einen Kreis und startet die Bombe per App. Reihum bekommt jeder eine Silbe und muss schnell ein passendes Wort nennen, bevor er das Handy weiterreicht. Wer kein Wort findet, hält die Bombe – und hofft, dass sie nicht ausgerechnet bei ihm explodiert. Alle Details findest du in den [Bomb Party Regeln](#regeln) weiter unten.
@@ -160,3 +166,7 @@ Du magst schnelle, gesellige Partyspiele? Dann probiere als Nächstes diese – 
 Lust auf mehr Wort- und Redespiele? Dann passt auch der Klassiker [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}). Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
 
 <p class="game__note">Trinkt verantwortungsvoll: Spielt nur mit Volljährigen, achtet auf eure Grenzen und haltet immer ein alkoholfreies Getränk bereit. Bomb Party funktioniert mit Wasser oder Saft genauso gut wie mit Bier.</p>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/bomb-party-prinzip.svg' | url }}","name":"Bomb Party – Spielprinzip","caption":"Schnell einen passenden Begriff nennen und die Bombe weiterreichen."}]}
+</script>

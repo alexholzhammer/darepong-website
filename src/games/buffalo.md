@@ -128,8 +128,18 @@ Buffalo lässt sich mit ein paar Hausregeln beliebig anpassen:
 
 Du magst Spiele, die ganz ohne Equipment auskommen? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/buffalo-regel.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Buffalo-Regel: das Getränk immer mit der linken Hand halten">
+  <figcaption>Die Grundregel: immer mit links trinken – wer es vergisst, trinkt aus.</figcaption>
+</figure>
+
 {% gamePreview "ich-hab-noch-nie" %}
 
 {% gamePreview "wer-wuerde-eher" %}
 
 {% gamePreview "wahrheit-oder-pflicht" %}
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/buffalo-regel.svg' | url }}","name":"Buffalo – die Regel","caption":"Die Grundregel: immer mit links trinken – wer es vergisst, trinkt aus."}]}
+</script>

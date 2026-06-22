@@ -102,6 +102,12 @@ Der Reiz von **Roxanne** liegt im Tempo: Was harmlos beginnt, eskaliert mit jede
 
 Roxanne ist ein **Lied-Trinkspiel**: Die Spielregeln hängen direkt am Text des Songs „Roxanne“ von The Police. Die Runde wird in zwei Teams geteilt. Das eine Team reagiert auf das Wort „Roxanne“, das andere auf die Zeile „Put on the red light“. Bei jeder zugeteilten Phrase trinkt das jeweilige Team einen Schluck. Da im Refrain beide Phrasen dicht aufeinanderfolgen, entsteht ein rasantes Wechselspiel, das bis zum Songende immer schneller wird.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/roxanne-prinzip.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Roxanne Trinkspiel: Team A trinkt bei Roxanne, Team B bei Put on the red light">
+  <figcaption>Zwei Teams, zwei Trigger-Wörter – und der Song wird immer schneller.</figcaption>
+</figure>
+
 <h2 id="ablauf">So läuft eine Runde ab</h2>
 
 Eine Runde dauert nur so lange wie der Song – rund drei Minuten. So läuft sie ab:
@@ -155,3 +161,7 @@ Du magst schnelle, gesellige Spiele für die ganze Runde? Dann probiere diese:
 {% gamePreview "kings-cup" %}
 
 Mehr Inspiration gibt es in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}) und unter [Trinkspiele ohne Zubehör]({{ '/trinkspiele/' | url }}#ohne-zubehoer).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/roxanne-prinzip.svg' | url }}","name":"Roxanne – Spielprinzip","caption":"Zwei Teams, zwei Trigger-Wörter – und der Song wird immer schneller."}]}
+</script>

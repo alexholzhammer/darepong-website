@@ -99,6 +99,12 @@ Die Grundidee ist denkbar einfach und gerade deshalb so beliebt. **Twister** sor
 
 Das Twister Trinkspiel ist ein **aktives Geschicklichkeits-Trinkspiel** für drinnen. Gespielt wird mit der klassischen Twister-Matte, deren Felder in den vier Farben rot, gelb, grün und blau angeordnet sind, sowie der dazugehörigen Drehscheibe. Eine Person übernimmt den Schiedsrichter, dreht und sagt an, welche Hand oder welcher Fuß auf welche Farbe gehört. Die Spieler verknoten sich dadurch immer stärker, bis der Erste das Gleichgewicht verliert. Wer umfällt, trinkt – und die letzte stehende Person darf am Ende Schlucke verteilen.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/twister-trinkspiel-matte.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Twister Trinkspiel: Matte mit farbigen Punkten und die Drehscheibe">
+  <figcaption>Die Drehscheibe sagt an, welche Hand oder welcher Fuß auf welche Farbe muss.</figcaption>
+</figure>
+
 <h2 id="varianten">Twister Trinkspiel Varianten</h2>
 
 <div class="game__variants">
@@ -137,3 +143,7 @@ Du magst aktive Spiele mit Action und Reaktion? Dann probiere als Nächstes dies
 {% gamePreview "heads-up" %}
 
 {% gamePreview "flip-cup" %}
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/twister-trinkspiel-matte.svg' | url }}","name":"Twister Trinkspiel – Matte","caption":"Die Drehscheibe sagt an, welche Hand oder welcher Fuß auf welche Farbe muss."}]}
+</script>

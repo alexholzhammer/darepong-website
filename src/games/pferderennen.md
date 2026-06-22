@@ -103,6 +103,12 @@ Pferderennen ist ein reines **Wett-Trinkspiel mit Karten**: Man braucht nur ein 
 
 Weil das Ergebnis komplett vom Zufall abhängt, ist Pferderennen schnell erklärt und sofort spielbar. Jeder kann mitmachen, niemand wird durch komplizierte Regeln abgehängt – und am Ende trinkt oder verteilt jeder je nachdem, wie gut sein Pferd gelaufen ist.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/pferderennen-rennbahn.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Pferderennen Trinkspiel: die vier Asse als Pferde auf der Rennbahn bis zur Ziellinie">
+  <figcaption>Die vier Asse sind die Pferde – pro passender Farbe rückt ein Ass ein Feld vor.</figcaption>
+</figure>
+
 <h2 id="aufbau">Aufbau der Rennstrecke</h2>
 
 Der Aufbau ist in einer Minute erledigt:
@@ -154,3 +160,7 @@ Du magst Karten- und Glücks-Trinkspiele? Dann probiere als Nächstes diese Klas
 {% gamePreview "kings-cup" %}
 
 {% gamePreview "schwimmen" %}
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/pferderennen-rennbahn.svg' | url }}","name":"Pferderennen – Rennbahn","caption":"Die vier Asse sind die Pferde – pro passender Farbe rückt ein Ass ein Feld vor."}]}
+</script>

@@ -102,6 +102,12 @@ Der Trink-Twist macht aus dem Ratespiel ein lockeres **Wer bin ich Trinkspiel**:
 
 Wer bin ich? ist ein **geselliges Gruppen- und Partyspiel**, bei dem jeder seine eigene, ihm unbekannte Identität erraten muss. Dazu klebt man sich gegenseitig Zettel mit berühmten Personen an die Stirn und stellt reihum Ja/Nein-Fragen. Als Trinkspiel gespielt, wird bei jedem „Nein“ und jedem falschen Rate-Versuch getrunken. Wie [Ich packe meinen Koffer]({{ '/ich-packe-meinen-koffer/' | url }}) oder [Heads Up]({{ '/heads-up/' | url }}) lebt es ganz von der Gruppe und braucht kaum Material.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/wer-bin-ich-prinzip.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Wer bin ich Trinkspiel: ein Spieler trägt einen Klebezettel mit unbekanntem Namen an der Stirn">
+  <figcaption>Jeder klebt dem Nachbarn einen Namen an die Stirn und errät ihn per Ja-Nein-Fragen.</figcaption>
+</figure>
+
 <h2 id="ideen">Ideen für Namen & Figuren</h2>
 
 Die Namen sind das Herz des Spiels. Wähle Personen, die alle am Tisch kennen – sonst wird das Raten zur Geduldsprobe. Eine bunte Mischung aus diesen Kategorien sorgt für Abwechslung:
@@ -158,3 +164,7 @@ Du magst Rate- und Wortspiele für die ganze Gruppe? Dann probiere diese – ode
 {% gamePreview "was-wuerdest-du-eher" %}
 
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/wer-bin-ich-prinzip.svg' | url }}","name":"Wer bin ich – Spielprinzip","caption":"Jeder klebt dem Nachbarn einen Namen an die Stirn und errät ihn per Ja-Nein-Fragen."}]}
+</script>

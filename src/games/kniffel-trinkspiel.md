@@ -117,6 +117,12 @@ Du brauchst kaum Material: fünf Würfel, einen Block pro Spieler und Getränke 
 
 Das Kniffel-Trinkspiel ist ein **geselliges Würfel-Trinkspiel** für 2 bis 6 Personen, das auf den klassischen Kniffel-Regeln aufbaut. Jeder Spieler füllt über mehrere Runden seinen eigenen Spielblock und versucht, möglichst viele Punkte zu sammeln. Wer streichen muss, am schlechtesten würfelt oder am Ende die wenigsten Punkte hat, trinkt – wer dagegen einen Kniffel landet, darf Schlücke verteilen.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/kniffel-trinkspiel-wuerfel.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Kniffel Trinkspiel: fünf Würfel zeigen fünfmal die Sechs">
+  <figcaption>Der Kniffel: fünf gleiche Augen sind der höchste Wurf im Spiel.</figcaption>
+</figure>
+
 <h2 id="kategorien">Der Spielblock & seine Kategorien</h2>
 
 Der Spielblock teilt sich in einen oberen und einen unteren Block. Hier die Kategorien im Überblick:
@@ -196,3 +202,7 @@ Du magst Würfelspiele und Klassiker? Dann probiere als Nächstes diese – oder
 Lust auf das schnellere Schwesterspiel? Schau dir den **[Würfelpoker]({{ '/wuerfelpoker/' | url }})** an, der nur die beste Pokerhand pro Runde wertet. Wer es lieber bluffig mag, ist bei [Mäxchen]({{ '/maexchen/' | url }}) oder [Schocken]({{ '/schocken/' | url }}) richtig; Kartenfans probieren [Schwimmen]({{ '/schwimmen/' | url }}). Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
 
 <p class="game__disclaimer"><strong>Verantwortung:</strong> Trinkspiele machen nur in Maßen Spaß. Trinkt bewusst, achtet aufeinander und kennt eure Grenzen. Das Kniffel-Trinkspiel lässt sich genauso gut alkoholfrei mit Wasser oder Softdrinks spielen – niemand muss mittrinken. Nur für Volljährige.</p>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/kniffel-trinkspiel-wuerfel.svg' | url }}","name":"Kniffel Trinkspiel – Würfel","caption":"Der Kniffel: fünf gleiche Augen sind der höchste Wurf im Spiel."}]}
+</script>

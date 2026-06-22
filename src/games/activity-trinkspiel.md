@@ -108,6 +108,12 @@ Beim **Activity Trinkspiel** kommt zur Ratejagd ein lockerer Trink-Twist dazu: V
 
 Activity ist ein **Begriffe-Darstellspiel für zwei Teams**. Ein Spieler zieht einen Begriff und stellt ihn seinem Team auf eine von drei Arten dar, während eine Sanduhr das Zeitlimit setzt – nur das eigene Team darf raten. Errät es den Begriff rechtzeitig, gibt es Punkte und das Team rückt auf dem Spielplan vor. Als Trinkspiel kommt dazu: Ein verpasster Begriff kostet das Team einen Schluck, ein erratener bringt das Recht, Schlucke ans Gegnerteam zu verteilen. Wie bei [Wer bin ich]({{ '/wer-bin-ich/' | url }}) lebt das Spiel von der Gruppe – je ausgelassener die Runde, desto mehr Spaß macht es.
 
+
+<figure class="game__diagram">
+  <img src="{{ '/assets/activity-trinkspiel-disziplinen.svg' | url }}" width="320" height="240" loading="lazy" decoding="async" eleventy:ignore alt="Activity Trinkspiel: die drei Disziplinen Erklären, Zeichnen und Pantomime">
+  <figcaption>Begriffe auf drei Arten darstellen: erklären, zeichnen oder als Pantomime.</figcaption>
+</figure>
+
 <h2 id="disziplinen">Die drei Disziplinen: Erklären, Zeichnen, Pantomime</h2>
 
 Das Herz von Activity sind die drei Arten, einen Begriff darzustellen. Welche gefragt ist, gibt meist das Feld auf dem Spielplan oder die Karte vor – sonst lost ihr sie aus:
@@ -158,3 +164,7 @@ Du magst gesellige Partyspiele für die Gruppe? Dann probiere diese – oder bri
 {% gamePreview "wer-bin-ich" %}
 
 Mehr Ideen findest du in der Übersicht der [besten Trinkspiele]({{ '/trinkspiele/' | url }}).
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/activity-trinkspiel-disziplinen.svg' | url }}","name":"Activity Trinkspiel – Disziplinen","caption":"Begriffe auf drei Arten darstellen: erklären, zeichnen oder als Pantomime."}]}
+</script>
