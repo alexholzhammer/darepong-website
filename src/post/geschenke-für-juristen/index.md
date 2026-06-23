@@ -1,13 +1,13 @@
 ---
-title: "Geschenkideen für Juristen: 26 Geschenke für jeden Anlass"
+title: "Geschenkideen für Juristen: 30 Geschenke für jeden Anlass"
 date: 2023-10-25
 updated: 2026-06-23
 ogImage: "https://www.darepong.eu/assets/og/blog-geschenke-fuer-juristen.jpg"
-summary: "Geschenkideen für Juristen, Anwälte und Jurastudenten: 26 praktische und ausgefallene Geschenke für Examen, Referendariat, Geburtstag und Weihnachten – für jeden Geldbeutel."
+summary: "Geschenkideen für Juristen, Anwälte und Jurastudenten: 30 praktische und ausgefallene Geschenke für Examen, Referendariat, Geburtstag und Weihnachten – für jeden Geldbeutel."
 ctaPitch: "Als witziges Mitbringsel macht Dare Pong was her: 120 wasserfeste Dares bringen Abwechslung in jede Feier."
 answer: "Die besten Geschenkideen für Juristen reichen von hochwertigem Schreibgerät und Fachliteratur über witzige Jura-Gadgets bis zum Partyspiel. Ob Examen, Referendariat, Geburtstag oder Weihnachten – für jeden Anlass und Geldbeutel ist eine Idee dabei."
 image: /post/geschenke-für-juristen/geschenke-fuer-juristen-beste-ideen.avif
-imageAlt: "Geschenkideen für Juristen – die 26 besten Geschenke für jeden Anlass und Geldbeutel"
+imageAlt: "Geschenkideen für Juristen – die 30 besten Geschenke für jeden Anlass und Geldbeutel"
 tags:
   - post
   - Geschenke
@@ -135,6 +135,16 @@ Wenig Zeit? Diese Tabelle ordnet die beliebtesten Geschenkideen für Juristen na
 
 - **E-Book-Reader:** Praktisch für unterwegs, um immer und überall lesen zu können. Der Klassiker ist natürlich ein [Kindle](https://amzn.to/40aJlxh).
 
+- **Gag-Gesetzbuch:** Humorbücher wie „das bessere Gesetzbuch" mit erfundenen Paragrafen sind ein Dauerbrenner – ein Witz, der nur im eigenen Berufsstand so richtig zündet.
+
+- **Badeente in Richterrobe:** Die Justitia-Badeente mit Robe und Perücke ist ein liebevoll-albernes Mitbringsel, das auf jedem Schreibtisch für Schmunzeln sorgt.
+
+- **Paragraphen-Ausstechform:** Für die backfreudige Juristin – damit gelingen Plätzchen in §-Form. Ein originelles, günstiges Geschenk, gern kombiniert mit Paragraphen-Nudeln.
+
+- **Jura-Duftkerze:** Kerzen mit Sprüchen wie „Im Namen des Volkes" verbinden Deko und Augenzwinkern und passen in jedes Budget.
+
+- **Wein mit Justitia-Etikett:** Eine gute Flasche mit juristischem Motiv ist ein stilvolles Mitbringsel zum Examen, zur Beförderung oder zum gewonnenen Fall.
+
 <h2 id="examen">Geschenke zum bestandenen Examen und Referendariat</h2>
 
 Kaum ein Anlass im Juristenleben wiegt schwerer als das bestandene Staatsexamen. Nach Jahren des Lernens ist ein durchdachtes Geschenk dazu die schönste Anerkennung. Bewährt haben sich hochwertige Klassiker, die den neuen Lebensabschnitt begleiten:
@@ -155,6 +165,8 @@ Teuer muss es nicht sein. Viele der schönsten Geschenke für Juristen liegen un
 - **Partyspiel Meinungsstreit:** Lustiges Geschenk für Kommilitonen und das nächste Vorglühen.
 - **Tasse oder Shirt mit Jura-Spruch:** Kleine Geste mit großem Wiedererkennungswert.
 - **Personalisiertes Visitenkartenetui:** Stilvoll und trotzdem günstig.
+- **Gag-Gesetzbuch & Paragraphen-Ausstechform:** Klassiker des Jura-Humors – günstig und garantiert ein Lacher.
+- **Badeente in Richterrobe:** Das wohl niedlichste Jura-Geschenk unter 15 Euro.
 
 Feiert der Beschenkte gern, ist ein gemeinsames Partyspiel ohnehin eine sichere Bank. Reichlich Ideen für den nächsten geselligen Abend liefert unser Partyspiel [Dare Pong]({{ '/' | url }}).
 
