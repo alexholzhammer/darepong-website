@@ -144,7 +144,7 @@ Aufgedeckt wird Karte für Karte, beginnend ganz unten und reihenweise nach oben
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Nur Farbe zählt</span>
-      <p>Statt des Werts müssen die Handkarten nur die Farbe der aufgedeckten Karte treffen. Dadurch gibt es viel mehr Treffer – und entsprechend mehr Gelegenheiten zum Bluffen.</p>
+      <p>Statt des Werts müssen die Handkarten nur die Farbe der aufgedeckten Karte treffen. Das gibt viel mehr Treffer und entsprechend mehr Gelegenheiten zum Bluffen.</p>
     </div>
   </div>
   <div class="game__variant">

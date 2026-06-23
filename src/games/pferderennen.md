@@ -99,9 +99,9 @@ Der Reiz liegt im gemeinsamen Mitfiebern. Sobald die ersten Karten aufgedeckt we
 
 <h2 id="was-ist">Was ist Pferderennen?</h2>
 
-Pferderennen ist ein reines **Wett-Trinkspiel mit Karten**: Man braucht nur ein Kartendeck, Getränke und ein paar Mitspieler. Die vier Asse stehen für vier Pferde – eines pro Farbe (Kreuz, Pik, Herz, Karo) – und treten in einem Rennen gegeneinander an. Statt mit Geld wird mit Schlucken gewettet, was das Spiel zum perfekten Einstieg für Vorglüh-Runden, WG-Partys und gesellige Abende macht.
+Pferderennen ist ein reines **Wett-Trinkspiel mit Karten**: Du brauchst nur ein Kartendeck, Getränke und ein paar Mitspieler. Die vier Asse stehen für vier Pferde – eines pro Farbe (Kreuz, Pik, Herz, Karo) – und treten in einem Rennen gegeneinander an. Gewettet wird mit Schlucken statt mit Geld. Damit passt das Spiel gut ins Vorglühen, auf WG-Partys und an gesellige Abende.
 
-Weil das Ergebnis komplett vom Zufall abhängt, ist Pferderennen schnell erklärt und sofort spielbar. Jeder kann mitmachen, niemand wird durch komplizierte Regeln abgehängt – und am Ende trinkt oder verteilt jeder je nachdem, wie gut sein Pferd gelaufen ist.
+Das Ergebnis hängt komplett vom Zufall ab, deshalb ist Pferderennen schnell erklärt und sofort spielbar. Jeder kann mitmachen, niemand wird von komplizierten Regeln abgehängt. Am Ende trinkt oder verteilt jeder, je nachdem, wie gut sein Pferd gelaufen ist.
 
 
 <figure class="game__diagram">
@@ -122,7 +122,7 @@ Sobald alle ihre Wette platziert haben, kann das Rennen starten – einfach Kart
 
 <h2 id="varianten">Pferderennen Varianten</h2>
 
-Pferderennen lässt sich leicht an deine Runde anpassen. Diese Varianten lohnen sich:
+Pferderennen lässt sich leicht an deine Runde anpassen. Diese Varianten sind einen Versuch wert:
 
 <div class="game__variants">
   <div class="game__variant">

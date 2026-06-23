@@ -100,7 +100,7 @@ Der Trink-Twist macht aus dem Ratespiel ein lockeres **Wer bin ich Trinkspiel**:
 
 <h2 id="was-ist">Was ist Wer bin ich?</h2>
 
-Wer bin ich? ist ein **geselliges Gruppen- und Partyspiel**, bei dem jeder seine eigene, ihm unbekannte Identität erraten muss. Dazu klebt man sich gegenseitig Zettel mit berühmten Personen an die Stirn und stellt reihum Ja/Nein-Fragen. Als Trinkspiel gespielt, wird bei jedem „Nein“ und jedem falschen Rate-Versuch getrunken. Wie [Ich packe meinen Koffer]({{ '/ich-packe-meinen-koffer/' | url }}) oder [Heads Up]({{ '/heads-up/' | url }}) lebt es ganz von der Gruppe und braucht kaum Material.
+Wer bin ich? ist ein **Gruppen- und Partyspiel**, bei dem jeder seine eigene, ihm unbekannte Identität erraten muss. Dazu klebt ihr euch gegenseitig Zettel mit berühmten Personen an die Stirn und stellt reihum Ja/Nein-Fragen. Als Trinkspiel gespielt, wird bei jedem „Nein“ und jedem falschen Rate-Versuch getrunken. Wie [Ich packe meinen Koffer]({{ '/ich-packe-meinen-koffer/' | url }}) oder [Heads Up]({{ '/heads-up/' | url }}) lebt es von der Gruppe und braucht kaum Material.
 
 
 <figure class="game__diagram">
@@ -110,7 +110,7 @@ Wer bin ich? ist ein **geselliges Gruppen- und Partyspiel**, bei dem jeder seine
 
 <h2 id="ideen">Ideen für Namen & Figuren</h2>
 
-Die Namen sind das Herz des Spiels. Wähle Personen, die alle am Tisch kennen – sonst wird das Raten zur Geduldsprobe. Eine bunte Mischung aus diesen Kategorien sorgt für Abwechslung:
+An den Namen hängt das ganze Spiel. Wähle Personen, die alle am Tisch kennen – sonst wird das Raten zur Geduldsprobe. Eine bunte Mischung aus diesen Kategorien hält die Runde abwechslungsreich:
 
 <ul>
   <li><strong>Promis &amp; Stars:</strong> Heidi Klum, Dwayne Johnson, Taylor Swift, Elon Musk</li>

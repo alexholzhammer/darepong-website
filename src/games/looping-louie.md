@@ -106,11 +106,11 @@ faq:
   </ul>
 </nav>
 
-**Looping Louie** ist einer der beliebtesten **Action-Partyspiele** überhaupt – und längst ein Kult-Trinkspiel auf jeder Studentenparty. Eigentlich ein Geschicklichkeitsspiel von Hasbro/MB für Kinder, entfaltet **Looping Louie** seinen wahren Reiz erst in geselliger Erwachsenenrunde: Louie fliegt im Flugzeug an einem rotierenden Arm im Kreis, und du musst ihn mit deinem Hebel von deinen Hühnern fernhalten.
+**Looping Louie** ist eines der beliebtesten **Action-Partyspiele** überhaupt – und längst ein Kult-Trinkspiel auf jeder Studentenparty. Eigentlich ist es ein Geschicklichkeitsspiel von Hasbro/MB für Kinder, doch sein wahrer Reiz zeigt sich erst in der Erwachsenenrunde: Louie fliegt im Flugzeug an einem rotierenden Arm im Kreis, und du musst ihn mit deinem Hebel von deinen Hühnern fernhalten.
 
-Das Schöne an **Looping Louie** ist, wie schnell es jeden packt. Die Regeln sind in 30 Sekunden erklärt, eine Runde dauert nur ein paar Minuten, und der Adrenalinpegel steigt sofort, wenn Louie auf deine Basis zusteuert. Hier zählt reines Timing – ein zu hektischer Schlag, und schon räumt Louie deine Hühner ab.
+Das Spiel packt jeden sofort. Die Regeln sind in 30 Sekunden erklärt, eine Runde dauert nur ein paar Minuten, und der Puls steigt, sobald Louie auf deine Basis zusteuert. Hier zählt das Timing – ein zu hektischer Schlag, und schon räumt Louie deine Hühner ab.
 
-Als Trinkspiel kostet jedes verlorene Huhn einen Schluck. Genau diese Mischung aus Hektik, Lachen und der ständigen Gefahr, gleich trinken zu müssen, macht **Looping Louie** zum Dauerbrenner – ähnlich actionreich wie [Beer Pong]({{ '/beer-pong/' | url }}) oder [Flunkyball]({{ '/flunkyball/' | url }}).
+Als Trinkspiel kostet jedes verlorene Huhn einen Schluck. Diese Mischung aus Hektik, Lachen und der Gefahr, gleich trinken zu müssen, macht es zum Dauerbrenner – ähnlich actionreich wie [Beer Pong]({{ '/beer-pong/' | url }}) oder [Flunkyball]({{ '/flunkyball/' | url }}).
 
 <h2 id="was-ist">Was ist Looping Louie?</h2>
 

@@ -174,9 +174,9 @@ Die Wurzeln von Beer Pong reichen bis in die **1950er- und 60er-Jahre** an das *
 
 Diese schlägerlose Wurf-Version verbreitete sich in den **1980er-Jahren** über US-amerikanische Studentenverbindungen und war zunächst vielerorts unter dem Namen **„Beirut"** bekannt. Heute meint „Beer Pong" in den allermeisten Fällen genau diese geworfene Variante, die wir auch in dieser Anleitung beschreiben.
 
-Aus dem College-Zeitvertreib ist längst ein ernstzunehmender Wettbewerb geworden: Mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** (seit 2006 in Las Vegas) gibt es offizielle Turniere mit festen Regelwerken und Preisgeldern. Nach Deutschland, Österreich und in die Schweiz kam Beer Pong über die Party- und Festivalkultur – heute gehört es hier zu den beliebtesten Trinkspielen überhaupt.
+Aus dem College-Zeitvertreib ist längst ein ernstzunehmender Wettbewerb geworden: Mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** (seit 2006 in Las Vegas) gibt es offizielle Turniere mit festen Regelwerken und Preisgeldern. Nach Deutschland, Österreich und in die Schweiz kam Beer Pong über die Party- und Festivalkultur – heute gehört es auch hier zu den beliebtesten Trinkspielen.
 
-Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorglüh-Runden, bei denen ein bisschen Wettkampf für Stimmung sorgen soll. Die Grundregeln sind in wenigen Minuten erklärt, das Equipment hat fast jeder zuhause, und dank zahlreicher optionaler Hausregeln lässt sich das Spiel flexibel an jede Gruppe anpassen – vom entspannten Einsteiger-Match bis zum ehrgeizigen Turnier.
+Beer Pong passt auf jede Hausparty, jeden Geburtstag, jede WG-Feier und in jede Vorglüh-Runde, in der ein bisschen Wettkampf nicht schadet. Die Grundregeln sitzen in wenigen Minuten, das Equipment hat fast jeder zu Hause, und über die vielen optionalen Hausregeln passt du das Spiel an jede Gruppe an – vom entspannten Einsteiger-Match bis zum ehrgeizigen Turnier.
 
 <h2 id="spielablauf">Beer Pong Spielablauf in 5 Schritten</h2>
 
@@ -198,7 +198,7 @@ Lieber zuschauen statt lesen? Dieses Video erklärt Aufbau und Ablauf in wenigen
 
 <h2 id="aufbau">Beer Pong Aufbau: Wie viele Becher und welche Aufstellung?</h2>
 
-Der klassische Beer-Pong-Aufbau besteht aus **zwei Becher-Pyramiden** – eine an jedem Tischende. Pro Team werden dabei **10 Becher in der Anordnung 4-3-2-1** dicht zusammengeschoben, sodass die Pyramide auf den Gegner zeigt. Insgesamt brauchst du also **20 Becher**.
+Der klassische Beer-Pong-Aufbau besteht aus **zwei Becher-Pyramiden** – eine an jedem Tischende. Pro Team schiebst du **10 Becher in der Anordnung 4-3-2-1** dicht zusammen, sodass die Spitze auf den Gegner zeigt. Macht zusammen **20 Becher**.
 
 <figure class="game__diagram">
   <svg viewBox="0 0 300 470" role="img" aria-label="Beer Pong Tisch von oben: zwei gespiegelte Becher-Pyramiden aus je 10 Bechern (Anordnung 4-3-2-1) an beiden Tischenden, dazu ein optionaler Wasserbecher rechts an der Tischkante." xmlns="http://www.w3.org/2000/svg">
@@ -237,9 +237,9 @@ Der klassische Beer-Pong-Aufbau besteht aus **zwei Becher-Pyramiden** – eine a
   <figcaption>Beer Pong Aufbau von oben: pro Seite 10 Becher als 4-3-2-1-Pyramide, Spitze zur Tischmitte. Der gestrichelte Wasserbecher (zum Abspülen des Balls) steht optional vom Werfer aus rechts an der Tischkante.</figcaption>
 </figure>
 
-Jeder Becher wird etwa zu einem Drittel mit Bier (oder einem alkoholfreien Getränk) gefüllt. Zusätzlich gehört an jede Tischseite ein Wasserbecher, in dem die Bälle zwischen den Würfen abgespült werden. Soll es schneller gehen, spielt ihr mit einer kleineren Aufstellung aus **6 Bechern (3-2-1)** pro Team.
+Jeder Becher wird etwa zu einem Drittel mit Bier (oder einem alkoholfreien Getränk) gefüllt. An jede Tischseite gehört zusätzlich ein Wasserbecher, in dem die Bälle zwischen den Würfen abgespült werden. Soll es schneller gehen, spielt ihr mit einer kleineren Aufstellung aus **6 Bechern (3-2-1)** pro Team.
 
-Wichtig für eine saubere Aufstellung: Die Becher müssen sich gegenseitig berühren, damit die Pyramide stabil steht und beim „Re-Rack“ – dem einmaligen Neuanordnen der Becher – schnell wieder in Form gebracht werden kann.
+Wichtig für eine saubere Aufstellung: Die Becher müssen sich berühren. Nur so steht die Pyramide stabil und lässt sich beim „Re-Rack“ – dem einmaligen Neuanordnen der Becher – schnell wieder in Form bringen.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/beer-pong-aufstellungen.svg' | url }}" width="600" height="210" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Aufstellungen nach Becherzahl: 10 Becher als 4-3-2-1-Pyramide, 6 Becher als 3-2-1 und 3 Becher als 2-1 für die Verlängerung">

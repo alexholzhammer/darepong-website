@@ -43,7 +43,7 @@ tips:
     text: "Legt gemeinsam fest, was tabu ist – niemand sollte zu etwas Unangenehmem gedrängt werden."
   - icon: "🍾"
     title: "Flasche drehen"
-    text: "Eine gedrehte Flasche in der Mitte sorgt für eine zufällige und faire Auswahl, wer dran ist."
+    text: "Eine gedrehte Flasche in der Mitte wählt zufällig und fair aus, wer als Nächstes dran ist."
   - icon: "🎭"
     title: "Gut mischen"
     text: "Kombiniert lustige, harmlose und etwas mutigere Fragen und Aufgaben für die richtige Dynamik."

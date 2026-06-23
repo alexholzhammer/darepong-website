@@ -3,7 +3,7 @@ id: trink-roulette
 name: Trink-Roulette
 slug: trink-roulette
 title: "Trink-Roulette: Regeln, Aufbau & Varianten – Trinkspiel erklärt"
-description: "Trink-Roulette – das Glücks-Trinkspiel mit Rad und Shot-Gläsern: alle Regeln, der Aufbau, Varianten (Zahlen, Aufgaben, Russisch Roulette) und Tipps. Einfach erklärt."
+description: "Trink-Roulette, das Glücks-Trinkspiel mit Rad und Shot-Gläsern: Regeln, Aufbau, Varianten (Zahlen, Aufgaben, Russisch Roulette) und Tipps. Klar erklärt."
 updated: 2026-06-15
 rulesPdf: /assets/trink-roulette-regeln.pdf
 rulesPdfLabel: "Trink-Roulette Regeln als PDF herunterladen"
@@ -104,9 +104,9 @@ faq:
   </ul>
 </nav>
 
-**Trink-Roulette** bringt den Nervenkitzel des Casinos an den Partytisch – nur dass hier statt um Geld um **Shots** gespielt wird. Das Prinzip ist reines Glück: drehen, abwarten, trinken. Genau diese Einfachheit macht Trink-Roulette zum perfekten **geselligen Tischspiel**, das ohne lange Erklärung sofort startklar ist.
+**Trink-Roulette** bringt den Nervenkitzel des Casinos an den Partytisch, nur dass es hier um **Shots** geht statt um Geld. Das Prinzip ist reines Glück: drehen, abwarten, trinken. Wegen dieser Einfachheit braucht das **gesellige Tischspiel** keine lange Erklärung und läuft sofort.
 
-Anders als Strategie- oder Bluff-Spiele wie [Mäxchen]({{ '/maexchen/' | url }}) oder [Schocken]({{ '/schocken/' | url }}) kann hier jeder mitspielen – Können spielt keine Rolle, der Zufall entscheidet. Das sorgt für ständige Spannung und faire Chancen für alle.
+Anders als bei Strategie- oder Bluff-Spielen wie [Mäxchen]({{ '/maexchen/' | url }}) oder [Schocken]({{ '/schocken/' | url }}) kann hier jeder mitspielen. Können spielt keine Rolle, der Zufall entscheidet. Das hält die Spannung hoch und gibt allen faire Chancen.
 
 <h2 id="was-ist">Was ist Trink-Roulette?</h2>
 

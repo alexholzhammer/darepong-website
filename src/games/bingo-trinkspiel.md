@@ -147,7 +147,7 @@ Je persönlicher und passender die Ereignisse zu eurer Runde sind, desto witzige
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Voll-Bingo</span>
-      <p>Es zählt nicht die erste Reihe, sondern die komplette Karte. Wer zuerst alle Felder voll hat, ruft „Bingo!“ – das dauert länger und sorgt für viele Schlücke unterwegs.</p>
+      <p>Es zählt nicht die erste Reihe, sondern die komplette Karte. Wer zuerst alle Felder voll hat, ruft „Bingo!“ – das dauert länger, und unterwegs kommen viele Schlücke zusammen.</p>
     </div>
   </div>
   <div class="game__variant">

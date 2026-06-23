@@ -116,14 +116,14 @@ Tabu ist ein **Begriffe-Erklärspiel für zwei Teams**. Auf jeder Karte steht ei
 
 <h2 id="karten">Tabu-Karten selbst machen</h2>
 
-Du brauchst nicht zwingend das Originalspiel. Mit etwas Papier baust du in wenigen Minuten einen eigenen Stapel: Schreibe oben den **Begriff** und darunter vier bis fünf naheliegende **Tabu-Wörter**, die der Erklärer nicht benutzen darf. Gute Tabu-Wörter sind genau die, die einem als Erstes einfallen.
+Das Originalspiel brauchst du nicht zwingend. Mit etwas Papier baust du in wenigen Minuten einen eigenen Stapel: Schreibe oben den **Begriff** und darunter vier bis fünf naheliegende **Tabu-Wörter**, die der Erklärer nicht benutzen darf. Gute Tabu-Wörter sind genau die, die einem als Erstes einfallen.
 
 Ein Beispiel für eine selbst gebaute Karte:
 
 - **Begriff:** Strand
 - **Tabu-Wörter:** Sand, Meer, Sonne, Urlaub, Liegestuhl
 
-Mischt eigene Karten mit Insidern eurer Gruppe unter die fertigen – das sorgt für die persönlichsten Lacher. Alternativ tut es auch eine kostenlose Tabu-App, die euch Begriffe und Tabu-Wörter direkt aufs Handy bringt.
+Mischt eigene Karten mit Insidern eurer Gruppe unter die fertigen. Das bringt die persönlichsten Lacher. Alternativ tut es auch eine kostenlose Tabu-App, die euch Begriffe und Tabu-Wörter direkt aufs Handy bringt.
 
 <h2 id="varianten">Tabu Trinkspiel Varianten</h2>
 
