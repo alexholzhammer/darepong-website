@@ -52,7 +52,7 @@ Beerpong lieben Studenten quer durch alle Fächer, BWLer eingeschlossen. Da geh�
 
 Mit Büchern liegst du bei BWL-Studenten selten daneben. Angehende Betriebswirte sind meist wissbegierig und greifen gern zu allem, was im Studium oder später im Job weiterhilft. Das reicht von Fachbüchern zu Unternehmensführung, Marketing und Finanzmanagement bis zu Titeln über Persönlichkeitsentwicklung. Solche *BWL Geschenke* vertiefen den Stoff und bringen einen persönlich weiter. Besonders gefragt sind Bücher von erfolgreichen Unternehmern und Business-Coaches, die zeigen, wie es in der Praxis läuft.
 
-Lesetipp: Hast du dir schon unsere [Geschenke für Juristen]({{ '/post/geschenke-für-juristen/' | url }}) angeschaut?
+Lesetipp: Hast du dir schon unsere [Geschenkideen für Juristen]({{ '/post/geschenke-für-juristen/' | url }}) angeschaut?
 
 ### Ergonomische Bürostühle: Komfort für lange Lernstunden
 
