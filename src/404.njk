@@ -10,21 +10,63 @@ eleventyExcludeFromCollections: true
   <div class="container">
     <span class="error-page__code">404</span>
     <h1 class="error-page__title">Diese Runde gibt&rsquo;s nicht</h1>
-    <p class="error-page__text">Die Seite, die du suchst, wurde verschoben oder existiert nicht. Aber keine Sorge &ndash; hier geht&rsquo;s direkt weiter:</p>
+    <p class="error-page__text">Die Seite, die du suchst, wurde verschoben oder existiert nicht. Kein Drama &ndash; hier kommst du direkt weiter:</p>
     <div class="error-page__links">
-      <a href="{{ '/' | url }}" class="btn-primary">Zur Startseite</a>
-      <a href="{{ '/trinkspiele/' | url }}" class="error-page__link">Alle Trinkspiele &rarr;</a>
-      <a href="{{ '/blog/' | url }}" class="error-page__link">Zum Blog &rarr;</a>
+      <a href="{{ '/trinkspiele/' | url }}" class="btn-primary">Alle Trinkspiele ansehen</a>
+      <a href="{{ '/' | url }}" class="error-page__link">Zur Startseite &rarr;</a>
     </div>
+
+    <nav class="error-page__block" aria-label="Beliebte Trinkspiele">
+      <h2 class="error-page__head">Beliebte Trinkspiele</h2>
+      <ul class="error-page__chips">
+        <li><a href="{{ '/beer-pong/' | url }}">Beer Pong</a></li>
+        <li><a href="{{ '/kings-cup/' | url }}">King&rsquo;s Cup</a></li>
+        <li><a href="{{ '/flunkyball/' | url }}">Flunkyball</a></li>
+        <li><a href="{{ '/maexchen/' | url }}">Mäxchen</a></li>
+        <li><a href="{{ '/ich-hab-noch-nie/' | url }}">Ich hab noch nie</a></li>
+        <li><a href="{{ '/rage-cage/' | url }}">Rage Cage</a></li>
+        <li><a href="{{ '/schocken/' | url }}">Schocken</a></li>
+        <li><a href="{{ '/flip-cup/' | url }}">Flip Cup</a></li>
+      </ul>
+    </nav>
+
+    <nav class="error-page__block" aria-label="Nach Kategorie">
+      <h2 class="error-page__head">Oder stöbere nach Kategorie</h2>
+      <ul class="error-page__chips error-page__chips--alt">
+        <li><a href="{{ '/partyspiele/' | url }}">Partyspiele</a></li>
+        <li><a href="{{ '/trinkspiele/draussen/' | url }}">Für draußen</a></li>
+        <li><a href="{{ '/trinkspiele/gruppe/' | url }}">Große Gruppen</a></li>
+        <li><a href="{{ '/trinkspiele/ohne-zubehoer/' | url }}">Ohne Zubehör</a></li>
+        <li><a href="{{ '/post/alkoholfreie-trinkspiele/' | url }}">Alkoholfrei</a></li>
+        <li><a href="{{ '/geschenke/' | url }}">Geschenke</a></li>
+        <li><a href="{{ '/blog/' | url }}">Ratgeber-Blog</a></li>
+      </ul>
+    </nav>
   </div>
 </section>
 
 <style>
-  .error-page { padding: 96px 0 120px; text-align: center; }
+  .error-page { padding: 80px 0 110px; text-align: center; }
   .error-page__code { font: 800 64px/1 var(--font-display, var(--font-body)); color: var(--dp-red); letter-spacing: .04em; }
   .error-page__title { font: 800 clamp(28px,5vw,48px)/1.1 var(--font-display, var(--font-body)); margin: 12px 0 16px; color: var(--dp-black); }
   .error-page__text { max-width: 48ch; margin: 0 auto 32px; font: 400 18px/1.6 var(--font-body); color: var(--dp-iron, #555); }
-  .error-page__links { display: flex; flex-wrap: wrap; gap: 16px 28px; justify-content: center; align-items: center; }
+  .error-page__links { display: flex; flex-wrap: wrap; gap: 16px 28px; justify-content: center; align-items: center; margin-bottom: 56px; }
   .error-page__link { font: 600 16px/1 var(--font-body); color: var(--dp-red); text-decoration: none; }
   .error-page__link:hover { text-decoration: underline; }
+  .error-page__block { margin: 0 auto 36px; max-width: 640px; }
+  .error-page__head { font: 700 13px/1 var(--font-body); letter-spacing: .12em; text-transform: uppercase; color: var(--dp-stone, #8a8a8a); margin-bottom: 16px; }
+  .error-page__chips { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+  .error-page__chips a {
+    display: inline-block;
+    padding: 9px 16px;
+    border: 1px solid var(--border-strong, #ddd6c6);
+    border-radius: 999px;
+    font: 600 15px/1 var(--font-body);
+    color: var(--dp-black);
+    text-decoration: none;
+    background: var(--dp-paper, #fff);
+    transition: border-color var(--dur-fast), color var(--dur-fast), background var(--dur-fast);
+  }
+  .error-page__chips a:hover { border-color: var(--dp-red); color: var(--dp-red); }
+  .error-page__chips--alt a:hover { background: var(--dp-foam, #f6f4ef); }
 </style>
