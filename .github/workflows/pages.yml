@@ -32,6 +32,11 @@ jobs:
         env:
           ELEVENTY_PATH_PREFIX: /darepong-website/
 
+      - name: Validierung (tote Links + JSON-LD)
+        run: node scripts/check.js
+        env:
+          ELEVENTY_PATH_PREFIX: /darepong-website/
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
