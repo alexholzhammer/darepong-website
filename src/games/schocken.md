@@ -102,13 +102,13 @@ faq:
   </ul>
 </nav>
 
-**Schocken** ist ein traditionsreiches deutsches **Würfelspiel**, das vor allem in Kneipen und am Stammtisch zuhause ist und dort oft entscheidet, wer die nächste Runde bezahlt. Genau aus diesem Brauch heraus hat es sich zum beliebten Trinkspiel entwickelt. Gespielt wird mit drei Würfeln und einem Becher – der Spielwitz steckt im Leitsatz: Beim Schocken geht es nicht darum, zu gewinnen, sondern vor allem darum, nicht zu verlieren.
+**Schocken** ist ein traditionsreiches deutsches **Würfelspiel**, vor allem in Kneipen und am Stammtisch zuhause. Dort entscheidet es oft, wer die nächste Runde bezahlt, und aus diesem Brauch ist ein beliebtes Trinkspiel geworden. Gespielt wird mit drei Würfeln und einem Becher. Der Leitsatz bringt es auf den Punkt: Beim Schocken geht es nicht darum, zu gewinnen, sondern darum, nicht zu verlieren.
 
-Das Besondere ist die Mischung aus Glück, Wurftaktik und gezieltem Bluff. Über zwei „Hälften“ hinweg sammelt sich der Druck, denn wer eine Runde verliert, kassiert Deckel – und niemand will am Ende der Spieler sein, der alle 13 vor sich liegen hat.
+Den Reiz macht die Mischung aus Glück, Wurftaktik und gezieltem Bluff aus. Über zwei „Hälften“ hinweg baut sich der Druck auf, denn wer eine Runde verliert, kassiert Deckel. Niemand will am Ende der sein, der alle 13 vor sich liegen hat.
 
 <h2 id="was-ist">Was ist Schocken?</h2>
 
-Schocken ist ein **geselliges Würfel-Trinkspiel**, dessen Equipment in jede Hosentasche passt: drei Würfel, ein Becher und 13 Deckel. Dank zahlloser regionaler Varianten pflegt jede Runde ihre eigenen Hausregeln – weshalb es sich lohnt, sich vor dem ersten Wurf auf eine gemeinsame Version zu einigen.
+Schocken ist ein **geselliges Würfel-Trinkspiel**, dessen Equipment in jede Hosentasche passt: drei Würfel, ein Becher und 13 Deckel. Es gibt zahllose regionale Varianten, und jede Runde pflegt ihre eigenen Hausregeln. Einigt euch deshalb vor dem ersten Wurf auf eine gemeinsame Version.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/schocken-wuerfel.svg' | url }}" width="350" height="210" loading="lazy" decoding="async" eleventy:ignore alt="Schocken: drei Einsen ergeben Schock aus, den höchsten Wurf">
