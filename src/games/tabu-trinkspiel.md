@@ -55,7 +55,7 @@ tips:
     text: "Kurze, klare Hinweise bringen mehr Treffer als lange Erklärungen. Lieber zwei knappe Umschreibungen als ein verschachtelter Satz."
   - icon: "🃏"
     title: "Eigene Karten mischen"
-    text: "Selbst geschriebene Kärtchen mit Insidern eurer Gruppe sorgen für die besten Lacher – mischt sie unter die fertigen Karten."
+    text: "Selbst geschriebene Kärtchen mit Insidern eurer Gruppe bringen die besten Lacher – mischt sie unter die fertigen Karten."
   - icon: "🥤"
     title: "Alkoholfrei spielen"
     text: "Tabu funktioniert komplett ohne Alkohol. Ersetzt die Schlucke durch Wasser, Softdrinks oder eine kleine Aufgabe."

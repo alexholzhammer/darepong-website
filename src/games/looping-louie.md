@@ -153,7 +153,7 @@ Als Trinkspiel bleibt das Prinzip identisch, nur kommt die Strafe dazu: **Für j
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Speed-Variante</span>
-      <p>Manche Sets bieten Tempo-Stufen. Auf der schnellsten Stufe wird Louie zum Härtetest fürs Timing – mehr verlorene Hühner garantiert.</p>
+      <p>Manche Sets bieten Tempo-Stufen. Auf der schnellsten Stufe wird Louie zum Härtetest fürs Timing – und es fallen deutlich mehr Hühner.</p>
     </div>
   </div>
 </div>

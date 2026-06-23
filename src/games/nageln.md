@@ -147,7 +147,7 @@ Wer mit der breiten Fläche schlägt, hätte es viel zu leicht. Die schmale Pinn
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Schwächere Hand</span>
-      <p>Geschlagen wird mit der schwächeren Hand – das gleicht geübte Spieler aus und sorgt für mehr Chaos.</p>
+      <p>Geschlagen wird mit der schwächeren Hand. Das gleicht geübte Spieler aus und bringt mehr Chaos ins Spiel.</p>
     </div>
   </div>
   <div class="game__variant">

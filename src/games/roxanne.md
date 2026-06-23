@@ -94,13 +94,13 @@ faq:
   </ul>
 </nav>
 
-Manche Trinkspiele brauchen Karten, Würfel und einen langen Aufbau – **Roxanne** braucht nur einen einzigen Song. Das Lied-Trinkspiel zum Klassiker „Roxanne“ von The Police ist in unter drei Minuten erklärt und gespielt und gehört damit zu den schnellsten und intensivsten Partyspielen überhaupt.
+Manche Trinkspiele brauchen Karten, Würfel und einen langen Aufbau. **Roxanne** braucht nur einen einzigen Song. Das Lied-Trinkspiel zum Klassiker „Roxanne“ von The Police ist in unter drei Minuten erklärt und gespielt und gehört damit zu den schnellsten Partyspielen überhaupt.
 
-Der Reiz von **Roxanne** liegt im Tempo: Was harmlos beginnt, eskaliert mit jeder Strophe, weil sich die beiden Trinkphrasen immer dichter aneinanderreihen. Genau deshalb ist es der perfekte kurze Wettkampf für zwischendurch – und genau deshalb solltest du es mit leichten oder alkoholfreien Getränken spielen.
+Der Reiz von **Roxanne** liegt im Tempo: Was harmlos beginnt, eskaliert mit jeder Strophe, weil sich die beiden Trinkphrasen immer dichter aneinanderreihen. Ein kurzer Wettkampf für zwischendurch. Spiel ihn am besten mit leichten oder alkoholfreien Getränken.
 
 <h2 id="was-ist">Was ist das Roxanne-Trinkspiel?</h2>
 
-Roxanne ist ein **Lied-Trinkspiel**: Die Spielregeln hängen direkt am Text des Songs „Roxanne“ von The Police. Die Runde wird in zwei Teams geteilt. Das eine Team reagiert auf das Wort „Roxanne“, das andere auf die Zeile „Put on the red light“. Bei jeder zugeteilten Phrase trinkt das jeweilige Team einen Schluck. Da im Refrain beide Phrasen dicht aufeinanderfolgen, entsteht ein rasantes Wechselspiel, das bis zum Songende immer schneller wird.
+Roxanne ist ein **Lied-Trinkspiel**: Die Regeln hängen direkt am Text des Songs „Roxanne“ von The Police. Die Runde wird in zwei Teams geteilt. Das eine Team reagiert auf das Wort „Roxanne“, das andere auf die Zeile „Put on the red light“. Bei seiner Phrase trinkt das jeweilige Team einen Schluck. Im Refrain folgen beide Phrasen dicht aufeinander, und es entsteht ein rasantes Wechselspiel, das bis zum Songende immer schneller wird.
 
 
 <figure class="game__diagram">
@@ -110,7 +110,7 @@ Roxanne ist ein **Lied-Trinkspiel**: Die Spielregeln hängen direkt am Text des 
 
 <h2 id="ablauf">So läuft eine Runde ab</h2>
 
-Eine Runde dauert nur so lange wie der Song – rund drei Minuten. So läuft sie ab:
+Eine Runde dauert nur so lange wie der Song, also rund drei Minuten. So läuft sie ab:
 
 - **Teams bilden:** Teilt die Runde in zwei gleich große Teams auf.
 - **Phrasen verteilen:** Team A bekommt „Roxanne“, Team B bekommt „Put on the red light“.

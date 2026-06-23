@@ -106,9 +106,9 @@ faq:
   </ul>
 </nav>
 
-**Bierball** ist die schnelle, kompakte Schwester von [Flunkyball]({{ '/flunkyball/' | url }}) – und einer der größten Aufsteiger unter den deutschen **Outdoor-Trinkspielen**. Statt einer gemeinsamen Zielflasche in der Mitte verteidigt hier **jedes Team seine eigene Flasche**. Das macht das Spiel dynamischer, kürzer und perfekt für spontane Duelle im Park, am See oder auf dem Festival.
+**Bierball** ist die schnelle, kompakte Schwester von [Flunkyball]({{ '/flunkyball/' | url }}) – und einer der größten Aufsteiger unter den deutschen **Outdoor-Trinkspielen**. Statt einer gemeinsamen Zielflasche in der Mitte verteidigt hier **jedes Team seine eigene Flasche**. Das macht das Spiel dynamischer, kürzer und ideal für spontane Duelle im Park, am See oder auf dem Festival.
 
-Weil Bierball meist als **2 gegen 2** gespielt wird, ist es schon mit wenigen Leuten startklar. Man braucht kaum Equipment, die Regeln sind in einer Minute erklärt – und durch das gleichzeitige Werfen entsteht von der ersten Sekunde an Tempo und Wettkampf.
+Weil Bierball meist als **2 gegen 2** läuft, seid ihr schon mit wenigen Leuten startklar. Du brauchst kaum Equipment, die Regeln sitzen nach einer Minute – und durch das gleichzeitige Werfen entsteht von der ersten Sekunde an Tempo und Wettkampf.
 
 <h2 id="was-ist">Was ist Bierball?</h2>
 
