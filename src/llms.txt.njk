@@ -1,0 +1,30 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+# Dare Pong
+
+> {{ site.description }}
+
+Dare Pong ist eine deutschsprachige Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten. Diese Website (darepong.eu) bietet ausführliche, redaktionell geprüfte Regeln und Anleitungen zu Trinkspielen und Partyspielen sowie Geschenk- und Kaufratgeber. Alle Spiele lassen sich auch alkoholfrei spielen.
+
+## Wichtige Seiten
+- [Startseite]({{ site.url }}/): Dare Pong – das Produkt, Regeln und Bezug
+- [Alle Trinkspiele]({{ site.url }}/trinkspiele/): durchsuchbare Übersicht aller Spiele mit Filtern
+- [Partyspiele]({{ site.url }}/partyspiele/): die besten Spiele für jede Party
+- [Trinkspiele für draußen]({{ site.url }}/trinkspiele/draussen/)
+- [Trinkspiele für große Gruppen]({{ site.url }}/trinkspiele/gruppe/)
+- [Trinkspiele ohne Zubehör]({{ site.url }}/trinkspiele/ohne-zubehoer/)
+- [Aufgaben & Dares]({{ site.url }}/trinkspiele/aufgaben/)
+- [Wahrheit oder Pflicht: Fragen]({{ site.url }}/wahrheit-oder-pflicht/fragen/)
+- [Geschenke-Ratgeber]({{ site.url }}/geschenke/)
+- [Blog]({{ site.url }}/blog/)
+
+## Trinkspiele & Partyspiele (Regeln & Anleitungen)
+{% for g in collections.games -%}
+- [{{ g.data.name }}]({{ site.url }}{{ g.url }}): {{ g.data.shortDescription or g.data.description }}
+{% endfor %}
+## Ratgeber & Artikel
+{% for p in collections.posts -%}
+- [{{ p.data.title }}]({{ site.url }}{{ p.url }}): {{ p.data.summary }}
+{% endfor %}

@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+permalink: /404.html
+title: "Seite nicht gefunden (404)"
+description: "Diese Seite gibt es nicht (mehr). Finde stattdessen die besten Trinkspiele, Partyspiele und Geschenkideen auf Dare Pong."
+robots: "noindex, follow"
+eleventyExcludeFromCollections: true
+---
+<section class="error-page">
+  <div class="container">
+    <span class="error-page__code">404</span>
+    <h1 class="error-page__title">Diese Runde gibt&rsquo;s nicht</h1>
+    <p class="error-page__text">Die Seite, die du suchst, wurde verschoben oder existiert nicht. Aber keine Sorge &ndash; hier geht&rsquo;s direkt weiter:</p>
+    <div class="error-page__links">
+      <a href="{{ '/' | url }}" class="btn-primary">Zur Startseite</a>
+      <a href="{{ '/trinkspiele/' | url }}" class="error-page__link">Alle Trinkspiele &rarr;</a>
+      <a href="{{ '/blog/' | url }}" class="error-page__link">Zum Blog &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .error-page { padding: 96px 0 120px; text-align: center; }
+  .error-page__code { font: 800 64px/1 var(--font-display, var(--font-body)); color: var(--dp-red); letter-spacing: .04em; }
+  .error-page__title { font: 800 clamp(28px,5vw,48px)/1.1 var(--font-display, var(--font-body)); margin: 12px 0 16px; color: var(--dp-black); }
+  .error-page__text { max-width: 48ch; margin: 0 auto 32px; font: 400 18px/1.6 var(--font-body); color: var(--dp-iron, #555); }
+  .error-page__links { display: flex; flex-wrap: wrap; gap: 16px 28px; justify-content: center; align-items: center; }
+  .error-page__link { font: 600 16px/1 var(--font-body); color: var(--dp-red); text-decoration: none; }
+  .error-page__link:hover { text-decoration: underline; }
+</style>
