@@ -85,6 +85,18 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  // Aggregate stats over a games collection for the hub "Auf einen Blick" box.
+  eleventyConfig.addFilter("gamesStats", function (games) {
+    let minP = 99, maxP = 0, minD = 999, maxD = 0, om = 0;
+    for (const g of games || []) {
+      const d = g.data || {};
+      if (d.players) { minP = Math.min(minP, d.players.min); maxP = Math.max(maxP, d.players.max); }
+      if (d.duration) { minD = Math.min(minD, d.duration.min); maxD = Math.max(maxD, d.duration.max); }
+      if ((d.tags || []).includes("ohne-material")) om++;
+    }
+    return { count: (games || []).length, minP, maxP, minD, maxD, ohneMaterial: om };
+  });
+
   // Related posts by shared tag — for the "Das könnte dich auch interessieren"
   // block. Densifies internal linking across the blog (3 contextual links/post).
   eleventyConfig.addFilter("relatedPosts", function (posts, tags, url) {
@@ -220,6 +232,58 @@ module.exports = function (eleventyConfig) {
 
   // Minify the final HTML output (production builds only — keeps `--serve`
   // readable). Runs after the image transform and posthtml plugins.
+  // Auto-link glossary terms (first occurrence) in game-page prose to the
+  // matching glossary anchor on /trinkspiele/. Operates only on game pages and
+  // skips text inside links, headings, scripts, nav/figure chrome and the
+  // game's own term — so it never double-links or mangles markup.
+  const GLOSSARY_LINKS = [
+    { re: "Buffalo", slug: "buffalo", self: "buffalo" },
+    { re: "Wasserfall", slug: "wasserfall", self: "wasserfall" },
+    { re: "Re-Rack", slug: "re-rack" },
+    { re: "Death Cup", slug: "death-cup" },
+    { re: "Bounce Shot", slug: "bounce-shot" },
+    { re: "Schock aus", slug: "schock-aus", self: "schocken" },
+    { re: "Mäxchen", slug: "maexchen", self: "maexchen" },
+    { re: "Flunkyball", slug: "flunkyball", self: "flunkyball" },
+    { re: "Flip Cup", slug: "flip-cup", self: "flip-cup" },
+  ];
+  eleventyConfig.addTransform("glossaryLinks", function (content) {
+    const page = this.page || {};
+    if (!page.outputPath || !page.outputPath.endsWith(".html")) return content;
+    if (!page.inputPath || !page.inputPath.includes("/games/")) return content;
+    const selfSlug = page.fileSlug || "";
+    const skip = new Set(["a","h1","h2","h3","h4","script","style","button","dt","dd","figure","figcaption","nav","title","time"]);
+    const used = new Set();
+    let depth = 0;
+    const parts = content.split(/(<[^>]+>)/);
+    for (let i = 0; i < parts.length; i++) {
+      const part = parts[i];
+      if (part.startsWith("<")) {
+        const m = part.match(/^<\/?([a-zA-Z0-9]+)/);
+        if (m) {
+          const tag = m[1].toLowerCase();
+          if (skip.has(tag)) {
+            if (part[1] === "/") depth = Math.max(0, depth - 1);
+            else if (!part.endsWith("/>")) depth++;
+          }
+        }
+        continue;
+      }
+      if (depth > 0 || !part.trim()) continue;
+      let text = part;
+      for (const g of GLOSSARY_LINKS) {
+        if (used.has(g.slug) || (g.self && g.self === selfSlug)) continue;
+        const re = new RegExp("(^|[^\\w-])(" + g.re + ")(?![\\w-])");
+        if (re.test(text)) {
+          text = text.replace(re, '$1<a class="glossary-link" href="/trinkspiele/#glossar-' + g.slug + '">$2</a>');
+          used.add(g.slug);
+        }
+      }
+      parts[i] = text;
+    }
+    return parts.join("");
+  });
+
   eleventyConfig.addTransform("minifyHtml", async function (content) {
     if (!PRODUCTION || !this.page.outputPath || !this.page.outputPath.endsWith(".html")) {
       return content;

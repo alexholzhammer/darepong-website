@@ -338,3 +338,16 @@
   color: var(--fg);
 }
 .hub-note strong { color: var(--dp-black); }
+
+/* Aggregierte "Auf einen Blick"-Faktenbox (Hub-Header, dunkel) */
+.hub-facts {
+  list-style: none;
+  margin: 28px 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 32px;
+}
+.hub-facts li { display: flex; flex-direction: column; gap: 2px; }
+.hub-facts__num { font: 800 24px/1 var(--font-display, var(--font-body)); color: var(--dp-beer); }
+.hub-facts__lbl { font: 500 12px/1.2 var(--font-body); color: var(--dp-stone); text-transform: uppercase; letter-spacing: .06em; }

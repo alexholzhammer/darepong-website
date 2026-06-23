@@ -22,32 +22,46 @@ faqs:
     a: "Für große Runden eignen sich Flip Cup, Rage Cage, Beer Pong und Wer würde eher besonders gut – filtere oben nach „Große Gruppe (6+)“."
 glossary:
   - term: "Ex / Exen"
+    slug: "ex"
     def: "Das Glas in einem Zug komplett austrinken."
   - term: "Wasserfall"
+    slug: "wasserfall"
     def: "Alle trinken gleichzeitig; jeder darf erst absetzen, wenn der linke Nachbar aufhört (King's Cup)."
   - term: "Buffalo"
+    slug: "buffalo"
     def: "Das Getränk nur in der vereinbarten (meist linken) Hand halten – sonst wird getrunken."
   - term: "Re-Rack"
+    slug: "re-rack"
     def: "Die Becher beim Beer Pong einmal pro Spiel neu anordnen."
   - term: "Bounce Shot"
+    slug: "bounce-shot"
     def: "Aufspringender Ball beim Beer Pong, der doppelt zählt – aber abgewehrt werden darf."
   - term: "Death Cup"
+    slug: "death-cup"
     def: "Ein getroffener, noch nicht ausgetrunkener Becher beendet die Runde sofort (Rage Cage)."
   - term: "Schock aus"
+    slug: "schock-aus"
     def: "Drei Einsen – der höchste Wurf beim Schocken."
   - term: "Mäxchen"
+    slug: "maexchen"
     def: "Die 2-1, der höchste und unschlagbare Wurf beim gleichnamigen Würfelspiel."
   - term: "Vorglühen"
+    slug: "vorgluehen"
     def: "Gemeinsames Anstoßen und Trinken vor dem eigentlichen Ausgehen."
   - term: "Absacker"
+    slug: "absacker"
     def: "Das letzte Getränk zum Abschluss eines Abends."
   - term: "Flunkyball"
+    slug: "flunkyball"
     def: "Outdoor-Trinkspiel, bei dem zwei Teams mit einem Ball eine Flasche in der Feldmitte umwerfen."
   - term: "Flip Cup"
+    slug: "flip-cup"
     def: "Team-Trinkspiel: austrinken und den leeren Becher per Schnipsen umdrehen, dann ist der Nächste dran."
   - term: "Stechen"
+    slug: "stechen"
     def: "Entscheidungsrunde bei Gleichstand, um Sieger oder Verlierer zu ermitteln."
   - term: "Prost / Prosit"
+    slug: "prost"
     def: "Klassischer Trinkspruch vor dem gemeinsamen Anstoßen („zum Wohl“)."
 ---
 
@@ -59,6 +73,14 @@ glossary:
       <h1 class="games-hub__title">Trinkspiele.<br>Regeln &amp; Anleitungen.</h1>
       <p class="games-hub__lede">Die besten <strong>Trinkspiele</strong> für jede Party — mit klaren Regeln, Equipment-Liste und Tipps. Lustige Spiele für die große Gruppe, Klassiker mit Würfeln und Karten, Spiele ganz ohne Zubehör: Filtere nach Spieleranzahl, Intensität und Art, bis das passende dabei ist.</p>
       <p class="games-hub__byline">Von der <a href="{{ '/redaktion/' | url }}"><strong>Dare Pong</strong> Redaktion</a>{% if updated %} · zuletzt geprüft am <time datetime="{{ updated | dateISO }}">{{ updated | dateDE }}</time>{% endif %}</p>
+      {% set st = collections.games | gamesStats %}
+      <ul class="hub-facts" aria-label="Trinkspiele auf einen Blick">
+        <li><span class="hub-facts__num">{{ st.count }}</span><span class="hub-facts__lbl">Spiele mit Regeln</span></li>
+        <li><span class="hub-facts__num">{{ st.minP }}–{{ st.maxP }}</span><span class="hub-facts__lbl">Spieler</span></li>
+        <li><span class="hub-facts__num">{{ st.minD }}–{{ st.maxD }} Min</span><span class="hub-facts__lbl">Spieldauer</span></li>
+        <li><span class="hub-facts__num">{{ st.ohneMaterial }}</span><span class="hub-facts__lbl">ohne Material</span></li>
+        <li><span class="hub-facts__num">ab 18</span><span class="hub-facts__lbl">Jahren</span></li>
+      </ul>
     </div>
   </div>
 
@@ -218,7 +240,7 @@ glossary:
       <h2 id="glossar">Trinkspiel-Glossar</h2>
       <dl class="hub-glossary">
         {% for g in glossary %}
-        <div><dt>{{ g.term }}</dt><dd>{{ g.def }}</dd></div>
+        <div id="glossar-{{ g.slug }}"><dt>{{ g.term }}</dt><dd>{{ g.def }}</dd></div>
         {% endfor %}
       </dl>
 
@@ -250,7 +272,8 @@ glossary:
       "@type": "CollectionPage",
       "name": "Trinkspiele – Regeln & Anleitungen",
       "url": "{{ site.url }}{{ page.url }}",
-      "description": "Die besten Trinkspiele für jede Party mit Regeln, Anleitung und Tipps."
+      "description": "Die besten Trinkspiele für jede Party mit Regeln, Anleitung und Tipps.",
+      "speakable": { "@type": "SpeakableSpecification", "cssSelector": [".games-hub__lede", ".hub-facts"] }
     },
     {
       "@type": "DefinedTermSet",
@@ -259,7 +282,7 @@ glossary:
       "url": "{{ site.url }}{{ page.url }}#glossar",
       "hasDefinedTerm": [
         {% for g in glossary %}
-        { "@type": "DefinedTerm", "name": {{ g.term | dump | safe }}, "description": {{ g.def | dump | safe }}, "inDefinedTermSet": "{{ site.url }}{{ page.url }}#glossar" }{% if not loop.last %},{% endif %}
+        { "@type": "DefinedTerm", "@id": "{{ site.url }}{{ page.url }}#glossar-{{ g.slug }}", "name": {{ g.term | dump | safe }}, "description": {{ g.def | dump | safe }}, "inDefinedTermSet": "{{ site.url }}{{ page.url }}#glossar" }{% if not loop.last %},{% endif %}
         {% endfor %}
       ]
     },
