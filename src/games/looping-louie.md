@@ -114,7 +114,7 @@ Als Trinkspiel kostet jedes verlorene Huhn einen Schluck. Diese Mischung aus Hek
 
 <h2 id="was-ist">Was ist Looping Louie?</h2>
 
-Looping Louie ist ein **batteriebetriebenes Geschicklichkeitsspiel** für 2 bis 4 Personen. In der Tischmitte dreht sich an einem rotierenden Arm die Figur **Louie** in ihrem Flugzeug. Jeder Spieler hat eine eigene Basis mit **drei Hühnern** und einen **Hebel**. Trifft Louie eine Basis, reißt er dort die Hühner herunter – mit dem Hebel schlägst du ihn im richtigen Moment hoch und schickst ihn weiter. Wer als Letzter noch ein Huhn hat, gewinnt.
+Looping Louie ist ein **batteriebetriebenes Geschicklichkeitsspiel** für 2 bis 4 Personen. In der Tischmitte dreht sich an einem rotierenden Arm die Figur **Louie** in ihrem Flugzeug. Jeder hat eine eigene Basis mit **drei Hühnern** und einen **Hebel**. Trifft Louie eine Basis, reißt er dort die Hühner herunter – mit dem Hebel schlägst du ihn im richtigen Moment hoch und schickst ihn weiter. Wer als Letzter noch ein Huhn hat, gewinnt.
 
 <h2 id="ablauf">So funktioniert es</h2>
 
@@ -123,7 +123,7 @@ Looping Louie ist ein **batteriebetriebenes Geschicklichkeitsspiel** für 2 bis 
   <figcaption>Looping-Louie-Aufbau: Louie kreist in der Mitte, bis zu vier Spieler verteidigen mit dem Hebel ihre je drei Hühner – für jedes verlorene Huhn wird getrunken.</figcaption>
 </figure>
 
-Der Motor lässt Louie unaufhörlich im Kreis fliegen. Kommt er auf deine Basis zu, hast du nur einen kurzen Moment: Schlägst du den Hebel im **richtigen Augenblick**, fliegt Louie über deine Hühner hinweg zur nächsten Basis. Schlägst du zu früh oder zu spät, sackt er ab und holt sich deine Hühner. Das Ziel ist also doppelt – die eigenen Hühner retten und Louie gleichzeitig so weiterschicken, dass er bei den Mitspielern landet.
+Der Motor lässt Louie unaufhörlich im Kreis fliegen. Kommt er auf deine Basis zu, hast du nur einen kurzen Moment: Schlägst du den Hebel im **richtigen Augenblick**, fliegt Louie über deine Hühner hinweg zur nächsten Basis. Schlägst du zu früh oder zu spät, sackt er ab und holt sich deine Hühner. Dein Ziel ist also doppelt – die eigenen Hühner retten und Louie so weiterschicken, dass er bei den Mitspielern landet.
 
 <h2 id="trinkspiel">Looping Louie als Trinkspiel</h2>
 

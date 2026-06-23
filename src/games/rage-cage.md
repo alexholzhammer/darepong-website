@@ -108,7 +108,7 @@ Rage Cage hat keine festen Teams, keine Runden, keine Pausen. Sobald das Spiel l
 
 <h2 id="was-ist">Was ist Rage Cage?</h2>
 
-Rage Cage ist ein **rasantes Becher-Reaktionsspiel** für Gruppen, das jeder zuhause spielen kann – man braucht nur Becher, zwei Bälle und einen Tisch. Die Regeln sind in unter fünf Minuten erklärt, und auch komplette Anfänger sind nach der ersten Runde voll dabei.
+Rage Cage ist ein **rasantes Becher-Reaktionsspiel** für Gruppen und lässt sich überall zuhause spielen. Du brauchst nur Becher, zwei Bälle und einen Tisch. Die Regeln sind in unter fünf Minuten erklärt, und auch komplette Anfänger sind nach der ersten Runde voll dabei.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/rage-cage-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Rage Cage Ablauf: austrinken, Ball in den Becher treffen, nach links weitergeben, eingeholt werden bedeutet trinken">

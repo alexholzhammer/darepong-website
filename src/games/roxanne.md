@@ -69,7 +69,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Roxanne in 30 Sekunden</strong>
-    <p>Beim Roxanne Trinkspiel wird die Runde in zwei Teams geteilt und der Song „Roxanne“ von The Police gespielt. Ein Team trinkt bei jedem „Roxanne“, das andere bei jedem „Put on the red light“. Weil sich beide Phrasen häufen und überschneiden, wird es immer schneller – wer durchhält, gewinnt.</p>
+    <p>Beim Roxanne Trinkspiel wird die Runde in zwei Teams geteilt, dann läuft der Song „Roxanne“ von The Police. Ein Team trinkt bei jedem „Roxanne“, das andere bei jedem „Put on the red light“. Weil sich beide Phrasen häufen und überschneiden, wird es immer schneller. Wer durchhält, gewinnt.</p>
   </div>
 </div>
 

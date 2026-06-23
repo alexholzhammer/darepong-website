@@ -108,7 +108,7 @@ Beim **Vorglühen** oder als Eisbrecher in neuen Runden ist Picolo stark, weil e
 
 <h2 id="was-ist">Was ist Picolo?</h2>
 
-Picolo ist ein **digitales Trinkspiel** für das Smartphone. Nach der Eingabe aller Namen generiert die App eine endlose Folge kurzer **Aufgaben und Trink-Challenges**, die direkt einzelne Spieler ansprechen. Du brauchst nichts außer einem geladenen Handy – damit zählt Picolo zu den Trinkspielen, die praktisch **ohne Material** auskommen, ähnlich wie [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
+Picolo ist ein **digitales Trinkspiel** für das Smartphone. Sobald alle Namen eingetippt sind, liefert die App eine endlose Folge kurzer **Aufgaben und Trink-Challenges**, die einzelne Spieler direkt ansprechen. Mehr als ein geladenes Handy brauchst du nicht. Damit zählt Picolo zu den Trinkspielen, die praktisch **ohne Material** auskommen, ähnlich wie [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
 
 <h2 id="prinzip">So funktioniert die App</h2>
 

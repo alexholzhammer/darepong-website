@@ -3,7 +3,7 @@ id: twister-trinkspiel
 name: Twister Trinkspiel
 slug: twister-trinkspiel
 title: "Twister Trinkspiel: Regeln & Varianten für die Party"
-description: "Twister Trinkspiel: Regeln, Trink-Varianten und Tipps. Verknote dich auf der Matte, wer umfällt trinkt – das verrückte Geschicklichkeitsspiel für die Party."
+description: "Twister Trinkspiel: Regeln, Trink-Varianten und Tipps. Verknote dich auf der Matte, wer umfällt trinkt. Das verdrehte Geschicklichkeitsspiel für die Party."
 updated: 2026-06-19
 rulesTitle: "Twister Trinkspiel Regeln"
 tipsTitle: "Twister Trinkspiel Tipps"

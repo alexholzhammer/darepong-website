@@ -248,18 +248,18 @@ Wichtig für eine saubere Aufstellung: Die Becher müssen sich berühren. Nur so
 
 <h2 id="tisch-masse">Beer Pong Tisch: Offizielle Maße &amp; Länge</h2>
 
-Ein **offizieller Beer-Pong-Tisch** ist **2,44 Meter (8 Fuß) lang** und **60 cm breit**, die Höhe liegt bei rund **70 cm**. Diese Maße stammen aus den US-Turnierregeln und sorgen für die ideale Wurfdistanz zwischen den beiden Pyramiden.
+Ein **offizieller Beer-Pong-Tisch** ist **2,44 Meter (8 Fuß) lang** und **60 cm breit**, die Höhe liegt bei rund **70 cm**. Diese Maße stammen aus den US-Turnierregeln und ergeben die ideale Wurfdistanz zwischen den beiden Pyramiden.
 
 <figure class="game__diagram">
   <img src="{{ '/assets/beer-pong-tisch-masse.svg' | url }}" width="560" height="270" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Tisch Maße: 2,44 Meter lang, 60 cm breit, Höhe ca. 70 cm, mit je einer Becher-Pyramide an beiden Enden">
   <figcaption>Offizielle Beer-Pong-Tisch-Maße: 2,44 m lang, 60 cm breit, ca. 70 cm hoch.</figcaption>
 </figure>
 
-Für die Heim-Party musst du aber keinen speziellen Tisch kaufen: Eine **Tischtennisplatte**, ein langer Esstisch oder zwei zusammengeschobene Klapptische funktionieren genauso gut. Entscheidend ist nur, dass der Tisch stabil steht und lang genug ist, damit der Wurf eine echte Herausforderung bleibt – als grobe Richtschnur gelten rund 2,4 Meter Länge.
+Für die Heim-Party musst du aber keinen speziellen Tisch kaufen: Eine **Tischtennisplatte**, ein langer Esstisch oder zwei zusammengeschobene Klapptische tun es genauso. Wichtig ist nur, dass der Tisch stabil steht und lang genug ist, damit der Wurf eine echte Herausforderung bleibt – als grobe Richtschnur gelten rund 2,4 Meter Länge.
 
 <h2 id="wurftechnik">Beer Pong Wurftechnik: Tricks, Kniffe &amp; Trickshots</h2>
 
-Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholbaren Wurftechnik**. Wer den richtigen Bogen trifft, versenkt deutlich zuverlässiger – und genau das entscheidet enge Spiele.
+Beer Pong gewinnst du nicht mit Kraft, sondern mit einer **sauberen, wiederholbaren Wurftechnik**. Wer den richtigen Bogen trifft, versenkt deutlich zuverlässiger – und das entscheidet enge Spiele.
 
 <figure class="game__diagram game__diagram--wide">
   <svg viewBox="0 0 480 220" role="img" aria-label="Wurftechnik beim Beer Pong: Ein hoher Bogenwurf fällt sauber in den Becher, während ein flacher, harter Wurf am Becherrand abspringt." xmlns="http://www.w3.org/2000/svg">
@@ -307,7 +307,7 @@ Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholba
 
 <h2 id="varianten">Beer Pong Varianten &amp; beliebte Hausregeln</h2>
 
-Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede Gruppe hat ihre eigenen Hausregeln. Diese Varianten solltest du kennen:
+Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede Gruppe hat ihre eigenen Hausregeln. Diese hier solltest du kennen:
 
 <div class="game__variants">
   <div class="game__variant">
