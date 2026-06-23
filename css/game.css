@@ -703,3 +703,11 @@ a.game__equipment-name:hover {
 .game__table tbody td:last-child { font-weight: 700; color: var(--dp-red); }
 .game__table tr:nth-child(even) td,
 .game__table tr:nth-child(even) th { background: var(--bg-inset); }
+
+/* Glossar-Querverweise im Fließtext (dezenter gepunkteter Unterstrich) */
+.glossary-link {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--dp-stone, #9a9a9a);
+}
+.glossary-link:hover { color: var(--dp-red); border-bottom-color: var(--dp-red); }
