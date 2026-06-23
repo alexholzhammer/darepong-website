@@ -21,7 +21,7 @@
   </script>
 
   <title>{{ pageTitle }}</title>
-  <meta name="description" content="{{ description or site.description }}">
+  <meta name="description" content="{{ description or summary or site.description }}">
   <meta name="robots" content="{{ robots or 'index, follow' }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url | encodeUrl }}">
 
@@ -38,7 +38,7 @@
   <!-- Open Graph -->
   <meta property="og:site_name" content="{{ site.name }}">
   <meta property="og:title" content="{{ pageTitle }}">
-  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:description" content="{{ description or summary or site.description }}">
   <meta property="og:type" content="{{ ogType or 'website' }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url | encodeUrl }}">
   <meta property="og:image" content="{{ pageOgImage }}">
@@ -48,7 +48,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ site.twitterHandle }}">
   <meta name="twitter:title" content="{{ pageTitle }}">
-  <meta name="twitter:description" content="{{ description or site.description }}">
+  <meta name="twitter:description" content="{{ description or summary or site.description }}">
   <meta name="twitter:image" content="{{ pageOgImage }}">
 
   <!-- Site-wide entity: Organization + WebSite (helps brand entity / E-E-A-T) -->
@@ -138,9 +138,11 @@
         "headline": {{ title | dump | safe }},
         "description": {{ (description or summary) | dump | safe }},
         "datePublished": "{{ date | dateISO }}",
-        "dateModified": "{{ date | dateISO }}",
+        "dateModified": "{{ (updated or date) | dateISO }}",
         "image": "{{ ogImage or site.ogImage }}",
         "url": "{{ site.url }}{{ page.url | encodeUrl }}",
+        "author": { "@type": "Organization", "name": "Dare Pong Redaktion", "url": "{{ site.url }}/redaktion/" },
+        "speakable": { "@type": "SpeakableSpecification", "cssSelector": [".post__title", ".post__answer"] },
         "publisher": {
           "@type": "Organization",
           "name": "{{ site.name }}",
@@ -150,6 +152,14 @@
           "@type": "WebPage",
           "@id": "{{ site.url }}{{ page.url | encodeUrl }}"
         }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Startseite", "item": "{{ site.url }}/" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ site.url }}/blog/" },
+          { "@type": "ListItem", "position": 3, "name": {{ title | dump | safe }}, "item": "{{ site.url }}{{ page.url | encodeUrl }}" }
+        ]
       }{% if faq %},
       {
         "@type": "FAQPage",

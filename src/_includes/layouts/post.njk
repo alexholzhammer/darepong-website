@@ -7,7 +7,13 @@ ogType: article
 <div class="post">
   <div class="post__header">
     <div class="container">
-      <a href="{{ '/blog/' | url }}" class="post__back">&larr; Alle Artikel</a>
+      <nav class="post__breadcrumb" aria-label="Brotkrumen-Navigation">
+        <a href="{{ '/' | url }}">Start</a>
+        <span aria-hidden="true">&rsaquo;</span>
+        <a href="{{ '/blog/' | url }}">Blog</a>
+        <span aria-hidden="true">&rsaquo;</span>
+        <span class="post__breadcrumb-current">{{ title }}</span>
+      </nav>
       <div class="post__meta">
         {% if tags %}
         <div class="post__tags">
