@@ -118,7 +118,7 @@ Schiffe versenken als Trinkspiel ist ein **Strategie-Duell**, bei dem jeder Spie
   <figcaption>Der Aufbau: ein Raster mit Koordinaten, in das die Schiffe verdeckt eingezeichnet werden – Treffer rot, Wasser als Kreis.</figcaption>
 </figure>
 
-Praktisch sind **zwei Raster pro Spieler**: eines für die eigene Flotte und eines, um die eigenen Schüsse auf den Gegner zu markieren. So schießt niemand zweimal auf dasselbe Feld.
+Nimm am besten **zwei Raster pro Spieler**: eines für die eigene Flotte und eines, um die eigenen Schüsse auf den Gegner zu markieren. So schießt niemand zweimal auf dasselbe Feld.
 
 <h2 id="flotte">Die Flotte</h2>
 
@@ -127,7 +127,7 @@ Praktisch sind **zwei Raster pro Spieler**: eines für die eigene Flotte und ein
   <figcaption>Eine typische Flotte – Schlachtschiff (5), Kreuzer (4), Zerstörer (3) und U-Boote (2).</figcaption>
 </figure>
 
-Wichtig: Beide Spieler nutzen **dieselbe Flotte**, und die Schiffe dürfen sich nicht berühren. Wer mag, einigt sich auf eine kleinere oder größere Flotte – Hauptsache, es ist für beide gleich.
+Wichtig: Beide Spieler nutzen **dieselbe Flotte**, und die Schiffe dürfen sich nicht berühren. Wer mag, einigt sich auf eine kleinere oder größere Flotte. Hauptsache, sie ist für beide gleich.
 
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 

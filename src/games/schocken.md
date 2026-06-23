@@ -9,7 +9,7 @@ rulesPdf: /assets/schocken-regeln.pdf
 rulesPdfLabel: "Schocken Regeln als PDF herunterladen"
 rulesTitle: "Schocken Regeln"
 tipsTitle: "Schocken Tipps"
-shortDescription: Traditioneller Würfel- und Kneipenklassiker – mit drei Würfeln, Bluff und Nervenstärke geht es darum, nicht der Verlierer zu sein, der die Runde ausgeben muss.
+shortDescription: Traditioneller Würfel- und Kneipenklassiker – mit drei Würfeln, Bluff und Nervenstärke geht es darum, nicht der Verlierer zu sein, der am Ende die Runde ausgibt.
 players:
   min: 2
   max: 8
