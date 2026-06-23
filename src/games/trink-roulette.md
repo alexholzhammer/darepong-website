@@ -49,7 +49,7 @@ tips:
     text: "Befüllt die Gläser mit unterschiedlichen Getränken – mal Wasser, mal Schnaps. So weiß niemand, was ihn beim Treffer erwartet."
   - icon: "🌀"
     title: "Ordentlich Schwung geben"
-    text: "Nur ein kräftiger Dreh sorgt für echten Zufall. Zu zaghaftes Drehen lässt sich leicht „steuern“ und macht das Spiel unfair."
+    text: "Nur ein kräftiger Dreh bringt echten Zufall. Zu zaghaftes Drehen lässt sich leicht „steuern“ und macht das Spiel unfair."
   - icon: "📏"
     title: "Stabiler Untergrund"
     text: "Stellt das Set auf einen ebenen, festen Tisch. Auf wackeligem Untergrund kippen die Gläser und das Rad dreht ungleichmäßig."
@@ -71,7 +71,7 @@ faq:
   - q: "Wie viele Spieler braucht man für Trink-Roulette?"
     a: "Es funktioniert schon zu zweit, macht aber in Runden von vier bis sechs Spielern am meisten Spaß. Nach oben begrenzt nur die Zahl der Gläser bzw. die Größe des Sets."
   - q: "Kann man Trink-Roulette alkoholfrei spielen?"
-    a: "Ja. Befüllt die Gläser einfach mit Saft, Softdrinks oder Wasser. Der Glücks- und Spannungsfaktor bleibt – gerade gemischte alkoholfreie und alkoholische Felder sorgen für Überraschung."
+    a: "Ja. Befüllt die Gläser einfach mit Saft, Softdrinks oder Wasser. Der Glücks- und Spannungsfaktor bleibt – gerade gemischte alkoholfreie und alkoholische Felder bringen Überraschung an den Tisch."
 ---
 
 <div class="game__tldr">

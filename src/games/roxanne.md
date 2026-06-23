@@ -139,13 +139,13 @@ Wer bis zum letzten Ton durchhält und nicht aussteigt, gewinnt für sein Team.
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Solo-Duell</span>
-      <p>Statt Teams treten zwei einzelne Spieler gegeneinander an – einer pro Phrase. Eine knallharte Mutprobe für zwei, bei der nur der Stärkere durchhält.</p>
+      <p>Statt Teams treten zwei einzelne Spieler gegeneinander an, einer pro Phrase. Ein knallhartes Duell für zwei, bei dem nur der Stärkere durchhält.</p>
     </div>
   </div>
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Weitere Lied-Trinkspiele</span>
-      <p>Das Prinzip lässt sich auf andere Songs übertragen: Sucht euch ein Lied mit häufig wiederkehrenden Wörtern und teilt sie auf die Teams auf – eigenes Lied-Trinkspiel fertig.</p>
+      <p>Das Prinzip lässt sich auf andere Songs übertragen: Sucht euch ein Lied mit häufig wiederkehrenden Wörtern und teilt sie auf die Teams auf. Schon habt ihr euer eigenes Lied-Trinkspiel.</p>
     </div>
   </div>
 </div>

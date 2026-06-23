@@ -166,7 +166,7 @@ Der Spielblock teilt sich in einen oberen und einen unteren Block. Hier die Kate
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Speed-Kniffel</span>
-      <p>Statt drei Würfen gibt es nur einen einzigen Wurf pro Zug. Das macht das Spiel schneller, hektischer – und sorgt für deutlich mehr Strichkategorien und Schlücke.</p>
+      <p>Statt drei Würfen gibt es nur einen einzigen Wurf pro Zug. Das macht das Spiel schneller und hektischer – und es landen deutlich mehr Striche und Schlücke auf dem Block.</p>
     </div>
   </div>
   <div class="game__variant">

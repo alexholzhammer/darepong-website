@@ -3,7 +3,7 @@ id: schiffe-versenken-trinkspiel
 name: Schiffe versenken
 slug: schiffe-versenken-trinkspiel
 title: "Schiffe versenken Trinkspiel: Regeln & Anleitung erklärt"
-description: "Schiffe versenken als Trinkspiel: alle Regeln, der Aufbau mit Raster und Flotte, die Schnäpse-versenken-Variante und Tipps. Mit Grafiken einfach erklärt."
+description: "Schiffe versenken als Trinkspiel: alle Regeln, der Aufbau mit Raster und Flotte, die Schnäpse-versenken-Variante und ein paar Tipps. Mit Grafiken erklärt."
 updated: 2026-06-15
 rulesPdf: /assets/schiffe-versenken-trinkspiel-regeln.pdf
 rulesPdfLabel: "Schiffe versenken Regeln als PDF herunterladen"
