@@ -2,6 +2,11 @@
 // Keyed by game slug (fileSlug). Used by the gamePreview shortcode and the
 // Trinkspiele-hub ItemList schema.
 module.exports = {
+  "schnick-schnack-schnuck": { icon: "✊", image: "/assets/schnick-schnack-schnuck-haende.svg" },
+  "karten-gegen-menschlichkeit": { icon: "🃏", image: "/assets/karten-gegen-menschlichkeit-prinzip.svg" },
+  "das-boot": { icon: "🥾", image: "/assets/das-boot-prinzip.svg" },
+  "kategorien": { icon: "🗂️", image: "/assets/kategorien-prinzip.svg" },
+  "quarters": { icon: "🪙", image: "/assets/quarters-prinzip.svg" },
   "17-und-4":             { icon: "🃏", image: "/assets/17-und-4-kartenwerte.svg" },
   "beer-pong":            { icon: "🍺", image: "/assets/beer-pong-aufstellungen.svg" },
   "bierball":            { icon: "⚾", image: "/assets/bierball-aufbau.svg" },
