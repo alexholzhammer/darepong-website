@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 280" width="560" height="280" role="img"><rect width="560" height="280" rx="16" fill="#FBF7EC"/><rect x="1.5" y="1.5" width="557" height="277" rx="15" fill="none" stroke="#E7DCC3" stroke-width="2"/><g transform="translate(230,140) scale(1)">
+<g stroke="#E8772E" stroke-width="6" fill="none" stroke-linecap="round"><path d="M-34 -6 q-10 -34 8 -50 q-4 24 14 30 q14 -10 8 -30 q18 22 4 50"/><path d="M20 -10 q-6 -22 6 -34 q0 18 12 20 q6 -16 -2 -28 q20 16 8 42"/></g>
+<ellipse cx="0" cy="8" rx="70" ry="16" fill="#4a4a4a" stroke="#0E0E10" stroke-width="3"/>
+<line x1="-50" y1="6" x2="-50" y2="12" stroke="#777" stroke-width="2"/>
+<path d="M-66 8 a66 52 0 0 0 132 0 Z" fill="#2e2e2e" stroke="#0E0E10" stroke-width="3"/>
+<rect x="-46" y="58" width="9" height="40" fill="#0E0E10"/><rect x="37" y="58" width="9" height="40" fill="#0E0E10"/>
+<line x1="-40" y1="2" x2="-40" y2="14" stroke="#888" stroke-width="2"/><line x1="-13" y1="2" x2="-13" y2="14" stroke="#888" stroke-width="2"/><line x1="14" y1="2" x2="14" y2="14" stroke="#888" stroke-width="2"/><line x1="41" y1="2" x2="41" y2="14" stroke="#888" stroke-width="2"/></g><g transform="translate(360,90) scale(0.5)"><path d="M0 30 L96 30 L84 210 L12 210 Z" fill="#C62828"/><ellipse cx="48" cy="30" rx="48" ry="11" fill="#F2EAD3"/></g><text x="280" y="256" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#C62828" text-anchor="middle">Trinkspiele zum Grillen</text></svg>
