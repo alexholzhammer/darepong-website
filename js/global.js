@@ -55,3 +55,34 @@ document.querySelectorAll('.nav-dropdown').forEach(dd => {
     }
   });
 });
+
+/* ---- Conversion-Tracking: Amazon-/Affiliate-CTAs ----
+   Ein delegierter Listener für alle Kauf-Buttons (sitewide, auch dynamisch).
+   Feuert ein GA4-Event (gtag) UND einen GTM-dataLayer-Push, jeweils mit
+   Platzierung + Linktext, damit später echte Conversion-Zahlen vorliegen. */
+(function () {
+  function placementOf(a) {
+    if (a.closest('.site-header')) return 'header';
+    if (a.closest('.site-footer')) return 'footer';
+    if (a.closest('.inline-cta')) return 'inline_cta';
+    if (a.closest('.post__cta-box')) return 'post_cta';
+    if (a.closest('.game__cta, .game__buy, .game__aside')) return 'game_aside';
+    if (a.closest('.hero, .product, [data-hero]')) return 'hero';
+    return 'content';
+  }
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('a[href*="amzn.to"], a[href*="amazon."]');
+    if (!a) return;
+    var data = {
+      placement: placementOf(a),
+      link_url: a.href,
+      link_text: (a.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 100),
+      page_path: location.pathname
+    };
+    if (typeof window.gtag === 'function') {
+      window.gtag('event', 'affiliate_click', data);
+    }
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(Object.assign({ event: 'affiliate_click' }, data));
+  }, { passive: true });
+})();
