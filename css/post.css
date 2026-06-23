@@ -47,6 +47,44 @@
   white-space: nowrap;
 }
 
+/* ---- Verwandte Artikel (interne Verlinkung) ---- */
+
+.post__related {
+  max-width: 72ch;
+  margin: 0 0 48px;
+}
+
+.post__related-title {
+  font: 400 clamp(22px, 3vw, 30px)/1.1 var(--font-display);
+  letter-spacing: -.01em;
+  text-transform: uppercase;
+  color: var(--dp-black);
+  margin-bottom: 16px;
+}
+
+.post__related-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.post__related-list a {
+  display: block;
+  color: var(--dp-red);
+  text-decoration: none;
+  font: 600 17px/1.4 var(--font-body);
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border, #E4E0D6);
+}
+
+.post__related-list a:hover {
+  color: var(--dp-red-deep, #a0150f);
+  padding-left: 6px;
+  transition: padding var(--dur-fast), color var(--dur-fast);
+}
+
 .post__meta {
   display: flex;
   align-items: center;

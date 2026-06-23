@@ -85,6 +85,18 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  // Related posts by shared tag — for the "Das könnte dich auch interessieren"
+  // block. Densifies internal linking across the blog (3 contextual links/post).
+  eleventyConfig.addFilter("relatedPosts", function (posts, tags, url) {
+    const t = (tags || []).filter((x) => x !== "post");
+    return (posts || [])
+      .filter(
+        (p) =>
+          p.url !== url && (p.data.tags || []).some((x) => t.includes(x))
+      )
+      .slice(0, 3);
+  });
+
   // Games collection
   eleventyConfig.addCollection("games", function (api) {
     return api.getFilteredByTag("game");
