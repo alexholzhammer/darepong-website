@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 280" width="560" height="280" role="img"><rect width="560" height="280" rx="16" fill="#FBF7EC"/><rect x="1.5" y="1.5" width="557" height="277" rx="15" fill="none" stroke="#E7DCC3" stroke-width="2"/><g transform="translate(220,135) scale(1)">
+<polygon points="0,-70 78,72 -78,72" fill="#C62828" stroke="#0E0E10" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="0,-70 30,-58 30,72 -30,72" fill="#E1342B" stroke="#0E0E10" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="0,72 -22,72 6,-30 14,-24" fill="#FBF7EC" stroke="#0E0E10" stroke-width="2.5"/>
+<line x1="0" y1="-70" x2="0" y2="-92" stroke="#0E0E10" stroke-width="3"/><polygon points="0,-92 26,-84 0,-76" fill="#F2B829" stroke="#0E0E10" stroke-width="2"/></g><g transform="translate(360,95) scale(0.5)"><path d="M0 30 L96 30 L84 210 L12 210 Z" fill="#C62828"/><ellipse cx="48" cy="30" rx="48" ry="11" fill="#F2EAD3"/></g><text x="280" y="256" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#C62828" text-anchor="middle">Trinkspiele fürs Camping</text></svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 280" width="560" height="280" role="img"><rect width="560" height="280" rx="16" fill="#FBF7EC"/><rect x="1.5" y="1.5" width="557" height="277" rx="15" fill="none" stroke="#E7DCC3" stroke-width="2"/><g transform="translate(230,130) scale(1.05)">
+<polygon points="0,-46 88,-14 0,18 -88,-14" fill="#0E0E10" stroke="#0E0E10" stroke-width="2" stroke-linejoin="round"/>
+<path d="M-44 2 v34 q44 26 88 0 v-34" fill="#2e2e2e" stroke="#0E0E10" stroke-width="3"/>
+<polygon points="0,-46 88,-14 0,18 -88,-14" fill="none" stroke="#fff" stroke-width="1.5" opacity=".25"/>
+<line x1="88" y1="-14" x2="92" y2="40" stroke="#F2B829" stroke-width="3"/><circle cx="92" cy="46" r="7" fill="#F2B829" stroke="#0E0E10" stroke-width="2"/></g><g transform="translate(370,95) scale(0.5)"><path d="M0 30 L96 30 L84 210 L12 210 Z" fill="#C62828"/><ellipse cx="48" cy="30" rx="48" ry="11" fill="#F2EAD3"/></g><text x="280" y="256" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#C62828" text-anchor="middle">Trinkspiele für die Abiparty</text></svg>
