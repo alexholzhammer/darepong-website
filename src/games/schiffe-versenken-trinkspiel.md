@@ -9,7 +9,7 @@ rulesPdf: /assets/schiffe-versenken-trinkspiel-regeln.pdf
 rulesPdfLabel: "Schiffe versenken Regeln als PDF herunterladen"
 rulesTitle: "Schiffe versenken Trinkspiel Regeln"
 tipsTitle: "Schiffe versenken Tipps"
-shortDescription: Der Strategie-Klassiker als Duell-Trinkspiel – jeder zeichnet seine Flotte verdeckt ins Raster, dann wird abwechselnd geschossen. Bei jedem Treffer trinkt der getroffene Spieler. Wer zuerst die ganze gegnerische Flotte versenkt, gewinnt.
+shortDescription: Der Strategie-Klassiker als Duell-Trinkspiel – jeder zeichnet seine Flotte verdeckt ins Raster, dann wird abwechselnd geschossen. Bei jedem Treffer trinkt der getroffene Spieler. Wer zuerst die ganze gegnerische Flotte versenkt hat, gewinnt.
 players:
   min: 2
   max: 4
@@ -103,13 +103,13 @@ faq:
   </ul>
 </nav>
 
-**Schiffe versenken** kennt fast jeder aus der Schulzeit – als **Trinkspiel** bekommt der Strategie-Klassiker eine neue, gesellige Note. Das Prinzip bleibt gleich: zwei verdeckte Flotten, abwechselnd geschossen. Neu ist nur, dass jeder **Treffer einen Schluck** kostet. So wird aus dem ruhigen Rätselduell ein spannendes Kopf-an-Kopf-Rennen.
+**Schiffe versenken** kennt fast jeder aus der Schulzeit. Als **Trinkspiel** bekommt der Strategie-Klassiker eine gesellige Note. Das Prinzip bleibt gleich: zwei verdeckte Flotten, abwechselnd geschossen. Neu ist nur, dass jeder **Treffer einen Schluck** kostet. Aus dem ruhigen Rätselduell wird so ein Kopf-an-Kopf-Rennen.
 
-Weil es klassisch **zu zweit** gespielt wird, ist Schiffe versenken eines der besten [Trinkspiele zu zweit]({{ '/post/trinkspiele-zu-zweit/' | url }}) – ideal für gemütliche Abende, an denen kein großes Equipment her soll.
+Weil es klassisch **zu zweit** gespielt wird, ist Schiffe versenken eines der besten [Trinkspiele zu zweit]({{ '/post/trinkspiele-zu-zweit/' | url }}) und passt zu gemütlichen Abenden, an denen kein großes Equipment her soll.
 
 <h2 id="was-ist">Was ist Schiffe versenken als Trinkspiel?</h2>
 
-Schiffe versenken als Trinkspiel ist ein **Strategie-Duell**, bei dem jeder Spieler seine Flotte verdeckt in ein Raster zeichnet. Abwechselnd nennt ihr Koordinaten und versucht, die gegnerischen Schiffe zu treffen. Der Trinkspiel-Twist: **Bei jedem Treffer trinkt der getroffene Spieler.** Anders als Tempo-Spiele wie [Flip Cup]({{ '/flip-cup/' | url }}) ist es ein ruhiges, taktisches Spiel.
+Schiffe versenken als Trinkspiel ist ein **Strategie-Duell**, bei dem jeder Spieler seine Flotte verdeckt in ein Raster zeichnet. Abwechselnd nennt ihr Koordinaten und versucht, die gegnerischen Schiffe zu treffen. Der Trinkspiel-Twist: **Bei jedem Treffer trinkt der getroffene Spieler.** Ein ruhiges, taktisches Spiel, anders als Tempo-Spiele wie [Flip Cup]({{ '/flip-cup/' | url }}).
 
 <h2 id="aufbau">Aufbau &amp; Raster</h2>
 
