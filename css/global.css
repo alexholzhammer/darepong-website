@@ -325,6 +325,30 @@ button { font-family: inherit; cursor: pointer; }
 }
 
 /* =========================================================
+   BREADCRUMBS (Hub-/Sektionsseiten, dunkle Header)
+   ========================================================= */
+
+.crumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 20px;
+  font: 500 13px/1.4 var(--font-body);
+  color: var(--dp-stone);
+}
+
+.crumb a {
+  color: var(--dp-stone);
+  text-decoration: none;
+  transition: color var(--dur-fast);
+}
+
+.crumb a:hover { color: var(--dp-paper); }
+.crumb [aria-hidden] { opacity: .55; }
+.crumb__current { color: var(--dp-paper); }
+
+/* =========================================================
    FOOTER
    ========================================================= */
 

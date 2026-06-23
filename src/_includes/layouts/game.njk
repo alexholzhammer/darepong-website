@@ -23,6 +23,7 @@ pageCSS: game.css
       "datePublished": "{{ (updated or page.date) | dateISO }}",
       "dateModified": "{{ (updated or page.date) | dateISO }}",
       "author": { "@type": "Organization", "name": "Dare Pong Redaktion", "url": "{{ site.url }}/redaktion/" },
+      "speakable": { "@type": "SpeakableSpecification", "cssSelector": [".game__tldr-body", ".game__facts"] },
       "publisher": {
         "@type": "Organization",
         "name": {{ site.name | dump | safe }},

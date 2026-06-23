@@ -20,11 +20,41 @@ faqs:
     a: "Zu zweit funktionieren unter anderem Mäxchen, Beer Pong (1 gegen 1) und Wahrheit oder Pflicht. Weitere Ideen findest du im Beitrag „Trinkspiele zu zweit“."
   - q: "Welche Trinkspiele sind gut für große Gruppen?"
     a: "Für große Runden eignen sich Flip Cup, Rage Cage, Beer Pong und Wer würde eher besonders gut – filtere oben nach „Große Gruppe (6+)“."
+glossary:
+  - term: "Ex / Exen"
+    def: "Das Glas in einem Zug komplett austrinken."
+  - term: "Wasserfall"
+    def: "Alle trinken gleichzeitig; jeder darf erst absetzen, wenn der linke Nachbar aufhört (King's Cup)."
+  - term: "Buffalo"
+    def: "Das Getränk nur in der vereinbarten (meist linken) Hand halten – sonst wird getrunken."
+  - term: "Re-Rack"
+    def: "Die Becher beim Beer Pong einmal pro Spiel neu anordnen."
+  - term: "Bounce Shot"
+    def: "Aufspringender Ball beim Beer Pong, der doppelt zählt – aber abgewehrt werden darf."
+  - term: "Death Cup"
+    def: "Ein getroffener, noch nicht ausgetrunkener Becher beendet die Runde sofort (Rage Cage)."
+  - term: "Schock aus"
+    def: "Drei Einsen – der höchste Wurf beim Schocken."
+  - term: "Mäxchen"
+    def: "Die 2-1, der höchste und unschlagbare Wurf beim gleichnamigen Würfelspiel."
+  - term: "Vorglühen"
+    def: "Gemeinsames Anstoßen und Trinken vor dem eigentlichen Ausgehen."
+  - term: "Absacker"
+    def: "Das letzte Getränk zum Abschluss eines Abends."
+  - term: "Flunkyball"
+    def: "Outdoor-Trinkspiel, bei dem zwei Teams mit einem Ball eine Flasche in der Feldmitte umwerfen."
+  - term: "Flip Cup"
+    def: "Team-Trinkspiel: austrinken und den leeren Becher per Schnipsen umdrehen, dann ist der Nächste dran."
+  - term: "Stechen"
+    def: "Entscheidungsrunde bei Gleichstand, um Sieger oder Verlierer zu ermitteln."
+  - term: "Prost / Prosit"
+    def: "Klassischer Trinkspruch vor dem gemeinsamen Anstoßen („zum Wohl“)."
 ---
 
 <div class="games-hub">
   <div class="games-hub__header">
     <div class="container">
+      <nav class="crumb" aria-label="Brotkrumen-Navigation"><a href="{{ '/' | url }}">Start</a> <span aria-hidden="true">&rsaquo;</span> <span class="crumb__current">Trinkspiele</span></nav>
       <span class="eyebrow">Trinkspiele &amp; Partyspiele</span>
       <h1 class="games-hub__title">Trinkspiele.<br>Regeln &amp; Anleitungen.</h1>
       <p class="games-hub__lede">Die besten <strong>Trinkspiele</strong> für jede Party — mit klaren Regeln, Equipment-Liste und Tipps. Lustige Spiele für die große Gruppe, Klassiker mit Würfeln und Karten, Spiele ganz ohne Zubehör: Filtere nach Spieleranzahl, Intensität und Art, bis das passende dabei ist.</p>
@@ -187,14 +217,9 @@ faqs:
 
       <h2 id="glossar">Trinkspiel-Glossar</h2>
       <dl class="hub-glossary">
-        <div><dt>Ex / Exen</dt><dd>Das Glas in einem Zug komplett austrinken.</dd></div>
-        <div><dt>Wasserfall</dt><dd>Alle trinken gleichzeitig; jeder darf erst absetzen, wenn der Linke aufhört (King's Cup).</dd></div>
-        <div><dt>Buffalo</dt><dd>Das Getränk nur in der vereinbarten (meist linken) Hand halten – sonst trinken.</dd></div>
-        <div><dt>Re-Rack</dt><dd>Becher beim Beer Pong einmal pro Spiel neu anordnen.</dd></div>
-        <div><dt>Bounce Shot</dt><dd>Aufspringender Ball, der doppelt zählt – aber abgewehrt werden darf.</dd></div>
-        <div><dt>Death Cup</dt><dd>Ein getroffener, noch nicht ausgetrunkener Becher beendet die Runde sofort (Rage Cage).</dd></div>
-        <div><dt>Schock aus</dt><dd>Drei Einsen – der höchste Wurf beim Schocken.</dd></div>
-        <div><dt>Mäxchen</dt><dd>Die 2-1, der höchste und unschlagbare Wurf beim gleichnamigen Spiel.</dd></div>
+        {% for g in glossary %}
+        <div><dt>{{ g.term }}</dt><dd>{{ g.def }}</dd></div>
+        {% endfor %}
       </dl>
 
       <aside class="hub-note">
@@ -226,6 +251,17 @@ faqs:
       "name": "Trinkspiele – Regeln & Anleitungen",
       "url": "{{ site.url }}{{ page.url }}",
       "description": "Die besten Trinkspiele für jede Party mit Regeln, Anleitung und Tipps."
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "{{ site.url }}{{ page.url }}#glossar",
+      "name": "Trinkspiel-Glossar",
+      "url": "{{ site.url }}{{ page.url }}#glossar",
+      "hasDefinedTerm": [
+        {% for g in glossary %}
+        { "@type": "DefinedTerm", "name": {{ g.term | dump | safe }}, "description": {{ g.def | dump | safe }}, "inDefinedTermSet": "{{ site.url }}{{ page.url }}#glossar" }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
     },
     {
       "@type": "ItemList",

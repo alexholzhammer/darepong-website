@@ -70,6 +70,18 @@ ogType: article
     </div>
     {% endif %}
 
+    {% set related = collections.posts | relatedPosts(tags, page.url) %}
+    {% if related.length %}
+    <aside class="post__related">
+      <h2 class="post__related-title">Das könnte dich auch interessieren</h2>
+      <ul class="post__related-list">
+        {% for r in related %}
+        <li><a href="{{ r.url | url | encodeUrl }}">{{ r.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+
     <div class="post__footer">
       <div class="post__cta-box">
         <span class="eyebrow">Noch kein Dare Pong?</span>
