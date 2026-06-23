@@ -103,13 +103,13 @@ faq:
   </ul>
 </nav>
 
-**King's Cup** – auch bekannt als **„Ring of Fire“**, **„Circle of Death“** oder schlicht **„Kings“** – ist ein kartenbasiertes Trinkspiel, das vor allem durch seine Geselligkeit besticht. Statt auf Geschicklichkeit oder Tempo setzt King's Cup auf eine bunte Mischung aus Mini-Aufgaben, Glück und Gruppendynamik. Jede der 52 Karten steht für eine eigene Regel, sodass kein Durchgang dem anderen gleicht.
+**King's Cup** – auch **„Ring of Fire“**, **„Circle of Death“** oder schlicht **„Kings“** – ist ein Karten-Trinkspiel, bei dem das Gesellige im Vordergrund steht. Statt auf Geschicklichkeit oder Tempo setzt es auf eine Mischung aus Mini-Aufgaben, Glück und Gruppendynamik. Jede der 52 Karten steht für eine eigene Regel, also läuft kein Durchgang wie der vorige.
 
-Über allem schwebt der große Becher in der Mitte, in den bei jedem König nachgeschüttet wird – und wer am Ende den vierten König zieht, muss diese wilde Mischung komplett austrinken. Diese stetig wachsende Bedrohung sorgt für Spannung über das ganze Spiel hinweg.
+In der Mitte steht der große Becher, in den bei jedem König nachgeschüttet wird. Wer den vierten König zieht, muss diese Mischung komplett austrinken – und genau diese Drohung wächst über das ganze Spiel mit.
 
 <h2 id="was-ist">Was ist King's Cup?</h2>
 
-King's Cup ist ein **geselliges Karten-Trinkspiel** für Gruppen, das im Sitzen gespielt wird. Man braucht nur ein Kartendeck, einen großen Becher und Getränke. Weil jede Karte eine andere Regel auslöst und sich über eigene Hausregeln endlos anpassen lässt, ist es ein perfektes Einstiegsspiel für den Abend.
+King's Cup ist ein **geselliges Karten-Trinkspiel** für Gruppen und wird im Sitzen gespielt. Du brauchst nur ein Kartendeck, einen großen Becher und Getränke. Weil jede Karte eine andere Regel auslöst und sich über Hausregeln endlos umbauen lässt, eignet es sich gut für den Anfang des Abends.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/kings-cup-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="King's Cup Ablauf: Karte ziehen, Regel der Karte ausführen, der Nächste im Uhrzeigersinn zieht">

@@ -141,7 +141,7 @@ Wasserfall ist ein **Ketten-Trinkspiel** für den Kreis. Alle starten gleichzeit
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Doppel-Wasserfall</span>
-      <p>Zwei Startspieler auf gegenüberliegenden Seiten lösen gleichzeitig je einen Wasserfall aus – Chaos garantiert.</p>
+      <p>Zwei Startspieler auf gegenüberliegenden Seiten lösen gleichzeitig je einen Wasserfall aus. Dann verliert schnell jemand den Überblick, wer gerade absetzen darf.</p>
     </div>
   </div>
   <div class="game__variant">

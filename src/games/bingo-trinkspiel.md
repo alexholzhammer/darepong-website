@@ -100,7 +100,7 @@ faq:
 
 Das **Bingo Trinkspiel** macht aus dem alten Glücksklassiker ein geselliges Partyspiel: Jeder spielt mit einer eigenen Karte voller Zahlen oder typischer Party-Ereignisse, streicht Treffer ab und trinkt dabei einen Schluck. Wer als Erster eine volle Reihe zusammenhat, ruft „Bingo!“ – und schickt alle anderen zum Glas.
 
-Vorbereitung kostet das **Bingo Trinkspiel** kaum welche. Es läuft in kleinen Runden genauso wie auf großen Partys, und ihr passt es frei an eure Gruppe an. Vor allem das Party-Bingo, bei dem auf den Feldern eure ganz eigenen Abend-Ereignisse stehen, sorgt für ordentlich Gelächter.
+Vorbereitung kostet das **Bingo Trinkspiel** kaum welche. Es läuft in kleinen Runden genauso wie auf großen Partys, und ihr passt es frei an eure Gruppe an. Vor allem beim Party-Bingo, bei dem auf den Feldern eure ganz eigenen Abend-Ereignisse stehen, wird ordentlich gelacht.
 
 <h2 id="was-ist">Was ist das Bingo Trinkspiel?</h2>
 

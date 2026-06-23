@@ -94,9 +94,9 @@ faq:
   </ul>
 </nav>
 
-**Wer bin ich?** ist ein echter Klassiker unter den Partyspielen – und als Trinkspiel macht es gleich doppelt Spaß. Das Prinzip ist genial einfach: Jeder trägt eine berühmte Person an der Stirn, die alle anderen sehen, nur er selbst nicht. Mit cleveren Ja/Nein-Fragen musst du herausfinden, wer du bist.
+**Wer bin ich?** ist ein Klassiker unter den Partyspielen, und als Trinkspiel macht es noch mehr her. Das Prinzip ist schnell verstanden: Jeder trägt eine berühmte Person an der Stirn, die alle anderen sehen, nur er selbst nicht. Mit cleveren Ja/Nein-Fragen findest du heraus, wer du bist.
 
-Der Trink-Twist macht aus dem Ratespiel ein lockeres **Wer bin ich Trinkspiel**: Jedes „Nein“ und jeder falsche Tipp kostet einen Schluck. Du brauchst dafür nur Klebezettel, Stifte und ein paar Getränke – perfekt für jede spontane Runde, drinnen wie draußen.
+Der Trink-Twist macht aus dem Ratespiel ein lockeres **Wer bin ich Trinkspiel**: Jedes „Nein“ und jeder falsche Tipp kostet einen Schluck. Mehr als Klebezettel, Stifte und ein paar Getränke brauchst du nicht – drinnen wie draußen, auch spontan.
 
 <h2 id="was-ist">Was ist Wer bin ich?</h2>
 

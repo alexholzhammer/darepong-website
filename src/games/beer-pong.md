@@ -164,9 +164,9 @@ teamNamesTip: "Wer es persönlicher mag, bastelt aus den Vornamen beider Teampar
   </ul>
 </nav>
 
-Beer Pong ist der wohl bekannteste Vertreter unter allen Trinkspielen und gilt als absoluter Klassiker auf jeder Party. Ursprünglich an US-amerikanischen Colleges entstanden, hat sich das Spiel längst weltweit etabliert – es gibt mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** sogar offizielle Turniere und Meisterschaften. Das Prinzip ist denkbar einfach: Zwei Teams stehen sich an einem langen Tisch gegenüber und versuchen abwechselnd, einen Tischtennisball in die Becherpyramide des Gegners zu werfen.
+Beer Pong ist der wohl bekannteste Vertreter unter allen Trinkspielen und ein Klassiker auf jeder Party. Entstanden an US-amerikanischen Colleges, ist das Spiel längst weltweit angekommen – mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** gibt es sogar offizielle Turniere und Meisterschaften. Das Prinzip ist denkbar simpel: Zwei Teams stehen sich an einem langen Tisch gegenüber und werfen abwechselnd einen Tischtennisball in die Becherpyramide des Gegners.
 
-Der besondere Reiz von Beer Pong liegt in der Mischung aus Treffsicherheit, Nervenstärke und Teamgeist. Anders als beim chaotischen [Rage Cage]({{ '/rage-cage/' | url }}) zählt hier vor allem die ruhige Hand und ein sauberer, gleichmäßiger Wurf. Je weiter das Spiel fortschreitet und je weniger Becher übrig sind, desto höher wird der Druck – die letzten Treffer entscheiden oft erst in der Verlängerung. Genau diese Spannung macht Beer Pong auch nach unzähligen Runden immer wieder neu unterhaltsam.
+Der Reiz von Beer Pong liegt in der Mischung aus Treffsicherheit, Nervenstärke und Teamgeist. Anders als beim chaotischen [Rage Cage]({{ '/rage-cage/' | url }}) zählt hier die ruhige Hand und ein sauberer, gleichmäßiger Wurf. Je weiter das Spiel läuft und je weniger Becher übrig sind, desto höher der Druck – die letzten Treffer fallen oft erst in der Verlängerung. Genau diese Spannung trägt Beer Pong über unzählige Runden.
 
 <h2 id="geschichte">Beer Pong: Geschichte &amp; Herkunft</h2>
 

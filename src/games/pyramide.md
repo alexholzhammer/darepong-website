@@ -124,7 +124,7 @@ Jede Reihe hat einen festen Schluck-Wert, der nach oben steigt:
   <li><strong>Spitze (1 Karte):</strong> 5 Schlucke</li>
 </ul>
 
-Aufgedeckt wird Karte für Karte, beginnend ganz unten und reihenweise nach oben. So werden die Schlucke gegen Ende des Spiels immer heftiger – und die Bluffs riskanter.
+Aufgedeckt wird Karte für Karte, beginnend ganz unten und reihenweise nach oben. So werden die Schlucke gegen Ende immer heftiger und die Bluffs riskanter.
 
 <h2 id="varianten">Pyramide Varianten</h2>
 
@@ -132,13 +132,13 @@ Aufgedeckt wird Karte für Karte, beginnend ganz unten und reihenweise nach oben
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Doppelte Pyramide</span>
-      <p>Legt zwei kleinere Pyramiden nebeneinander und deckt abwechselnd auf. Doppelt so viele Treffer, doppelt so viele Bluffs – ideal für große Runden mit zwei Decks.</p>
+      <p>Legt zwei kleinere Pyramiden nebeneinander und deckt abwechselnd auf. Doppelt so viele Treffer, doppelt so viele Bluffs. Gut für große Runden mit zwei Decks.</p>
     </div>
   </div>
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Steile Pyramide</span>
-      <p>Statt 1 bis 5 Schlucke zählt ihr 2, 4, 6, 8 und 10. Die Strafen explodieren nach oben und machen jeden Bluff an der Spitze zum Nervenkitzel.</p>
+      <p>Statt 1 bis 5 Schlucke zählt ihr 2, 4, 6, 8 und 10. Die Strafen explodieren nach oben, und ein Bluff an der Spitze wird zur Mutprobe.</p>
     </div>
   </div>
   <div class="game__variant">

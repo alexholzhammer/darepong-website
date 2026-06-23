@@ -100,13 +100,13 @@ faq:
   </ul>
 </nav>
 
-**Tabu** ist einer der größten Partyklassiker überhaupt – und als Trinkspiel zündet er erst richtig. Das Prinzip ist herrlich einfach: Ein Spieler muss seinem Team einen Begriff erklären, darf dabei aber ausgerechnet die naheliegendsten Wörter nicht benutzen. Genau dieser sprachliche Eiertanz sorgt für die besten Lacher und die nervösesten Schlucke.
+**Tabu** ist ein Partyklassiker, der als Trinkspiel erst richtig zündet. Das Prinzip ist denkbar einfach: Ein Spieler erklärt seinem Team einen Begriff, darf dabei aber ausgerechnet die naheliegendsten Wörter nicht benutzen. Dieser sprachliche Eiertanz bringt die besten Lacher und die nervösesten Schlucke.
 
-Beim **Tabu Trinkspiel** kommt zur Ratejagd ein lockerer Trink-Twist dazu: Jedes verbotene Wort kostet den Erklärer einen Schluck, jeder verpasste Begriff trifft das ratende Team. So bleibt der Druck hoch und der Abend in Bewegung – ähnlich gesellig wie [Heads Up]({{ '/heads-up/' | url }}) oder [Wer würde eher]({{ '/wer-wuerde-eher/' | url }}).
+Beim **Tabu Trinkspiel** kommt zur Ratejagd ein lockerer Trink-Twist dazu. Jedes verbotene Wort kostet den Erklärer einen Schluck, jeder verpasste Begriff trifft das ratende Team. So bleibt der Druck hoch und der Abend in Bewegung, ähnlich gesellig wie [Heads Up]({{ '/heads-up/' | url }}) oder [Wer würde eher]({{ '/wer-wuerde-eher/' | url }}).
 
 <h2 id="was-ist">Was ist Tabu?</h2>
 
-Tabu ist ein **Begriffe-Erklärspiel für zwei Teams**. Auf jeder Karte steht ein Begriff und darunter vier bis fünf „Tabu-Wörter“ – also verbotene Hinweiswörter. Der Erklärer muss den Begriff so umschreiben, dass sein Team ihn errät, ohne den Begriff selbst oder eines dieser Tabu-Wörter auszusprechen. Ein Gegenspieler überwacht das mit Auge und Summer, eine Sanduhr setzt das Zeitlimit. Wie bei [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) lebt das Spiel von der Gruppe – je ausgelassener die Runde, desto mehr Spaß macht es.
+Tabu ist ein **Begriffe-Erklärspiel für zwei Teams**. Auf jeder Karte steht ein Begriff und darunter vier bis fünf „Tabu-Wörter“, also verbotene Hinweiswörter. Der Erklärer muss den Begriff so umschreiben, dass sein Team ihn errät, ohne den Begriff selbst oder eines dieser Tabu-Wörter auszusprechen. Ein Gegenspieler hört mit und kontrolliert per Summer, eine Sanduhr setzt das Zeitlimit. Wie bei [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) lebt das Spiel von der Gruppe: Je ausgelassener die Runde, desto mehr Spaß macht es.
 
 
 <figure class="game__diagram">

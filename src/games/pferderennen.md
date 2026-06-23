@@ -51,7 +51,7 @@ tips:
     text: "In kleinen Runden dürfen mehrere auf dieselbe Farbe wetten – so feuert ein ganzes Team sein Pferd an und teilt sich Freud und Leid."
   - icon: "📣"
     title: "Kommentator ernennen"
-    text: "Ein Spieler, der das Rennen live kommentiert, macht aus dem Kartenaufdecken ein echtes Event – Stimmung garantiert."
+    text: "Ein Spieler, der das Rennen live kommentiert, macht aus dem Kartenaufdecken ein kleines Event – und bringt richtig Stimmung an den Tisch."
 faq:
   - q: "Was ist das Pferderennen Trinkspiel?"
     a: "Pferderennen ist ein Karten-Trinkspiel, bei dem die vier Asse als Pferde um die Wette laufen. Jeder setzt mit Schlucken auf eine Farbe; durch aufgedeckte Karten rücken die Pferde vor oder über Hürden wieder zurück. Wer auf den Sieger tippt, verteilt Schlucke, wer falsch liegt, trinkt seinen Einsatz."
@@ -93,9 +93,9 @@ faq:
   </ul>
 </nav>
 
-**Pferderennen** ist eines der lustigsten **Karten-Trinkspiele** für gesellige Runden: Die vier Asse aus dem Deck werden zu Rennpferden, und jeder Spieler wettet mit Schlucken auf seine Lieblingsfarbe. Danach entscheidet allein der Zufall des Kartenstapels, welches Pferd zuerst über die Ziellinie galoppiert.
+**Pferderennen** ist ein **Karten-Trinkspiel** für gesellige Runden: Die vier Asse aus dem Deck werden zu Rennpferden, und jeder wettet mit Schlucken auf seine Lieblingsfarbe. Danach entscheidet allein der Zufall des Kartenstapels, welches Pferd zuerst über die Ziellinie galoppiert.
 
-Das Schöne an **Pferderennen** ist das gemeinsame Mitfiebern: Sobald die ersten Karten aufgedeckt werden, feuert die ganze Runde ihr Pferd an, jubelt bei jedem Vorrücken und stöhnt an jeder Hürde. Es braucht keinerlei Geschick – nur ein bisschen Wett-Glück und Lust auf eine ausgelassene Stimmung am Tisch.
+Der Reiz liegt im gemeinsamen Mitfiebern. Sobald die ersten Karten aufgedeckt werden, feuert die ganze Runde ihr Pferd an, jubelt bei jedem Vorrücken und stöhnt an jeder Hürde. Geschick braucht es keins – nur ein bisschen Wett-Glück und Lust auf laute Stimmung am Tisch.
 
 <h2 id="was-ist">Was ist Pferderennen?</h2>
 
