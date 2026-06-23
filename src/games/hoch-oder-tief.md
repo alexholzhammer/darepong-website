@@ -93,9 +93,9 @@ faq:
   </ul>
 </nav>
 
-**Hoch oder Tief** ist eines der einfachsten Kartentrinkspiele überhaupt – und genau deshalb so beliebt. Du brauchst nur ein Kartendeck und ein paar Getränke, und schon kann es losgehen. Bekannt ist das Spiel auch unter dem Namen **„Höher oder Tiefer“**, denn der ganze Reiz liegt in einer einzigen Frage: Ist die nächste Karte höher oder tiefer als die, die offen liegt?
+**Hoch oder Tief** ist eines der einfachsten Kartentrinkspiele überhaupt – und genau deshalb so beliebt. Du brauchst nur ein Kartendeck und ein paar Getränke, dann kann es losgehen. Das Spiel läuft auch unter dem Namen **„Höher oder Tiefer“**, denn alles dreht sich um eine einzige Frage: Ist die nächste Karte höher oder tiefer als die, die offen liegt?
 
-Weil die Regeln in 30 Sekunden erklärt sind und keinerlei Aufbau nötig ist, eignet sich **Hoch oder Tief** perfekt als Einstieg in den Abend oder als kurzer Absacker. Niemand muss lange überlegen, jeder kann sofort mitspielen – pures Glück, ein bisschen Bauchgefühl und schnelle Trinkmomente.
+Die Regeln sind in einer halben Minute erklärt und Aufbau gibt es keinen. Damit passt **Hoch oder Tief** zum Einstieg in den Abend genauso wie zum letzten Spiel vor dem Heimweg. Niemand muss lange überlegen, jeder ist sofort dabei – pures Glück, ein bisschen Bauchgefühl und schnelle Trinkmomente.
 
 <h2 id="was-ist">Was ist Hoch oder Tief?</h2>
 
@@ -113,7 +113,7 @@ Hoch oder Tief ist ein Karten-Glücksspiel für 2 bis 8 Personen. Ein verdeckter
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Alkoholfrei</span>
-      <p>Statt Alkohol trinkt der Verlierer Wasser oder Saft – oder erfüllt eine kleine Aufgabe. Der Nervenkitzel beim Tippen bleibt voll erhalten.</p>
+      <p>Statt Alkohol trinkt der Verlierer Wasser oder Saft – oder erfüllt eine kleine Aufgabe. Der Nervenkitzel beim Tippen bleibt.</p>
     </div>
   </div>
   <div class="game__variant">

@@ -156,7 +156,7 @@ Flip Cup lässt sich beliebig aufpeppen – besonders beliebt bei großen Gruppe
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Wechselhand</span>
-      <p>Geflippt wird mit der schwächeren Hand – sorgt für Chaos und gleicht geübte Spieler aus.</p>
+      <p>Geflippt wird mit der schwächeren Hand. Das stiftet Chaos und gleicht geübte Spieler aus.</p>
     </div>
   </div>
   <div class="game__variant">

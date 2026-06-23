@@ -83,13 +83,13 @@ faq:
   <li><span class="game__fact-num">ab 18</span><span class="game__fact-lbl">Jahren</span></li>
 </ul>
 
-Das **Buffalo Trinkspiel** – manchmal auch **„Linke-Hand-Regel“** genannt – ist kein klassisches Rundenspiel, sondern ein Langzeit-Regelspiel, das unbemerkt im Hintergrund einer Party mitläuft. Die Idee ist so simpel wie genial: Jeder muss sein Getränk in einer vorher festgelegten Hand halten – meist der linken. Wer sich vergisst und zur falschen Hand greift, riskiert, ertappt zu werden.
+Das **Buffalo Trinkspiel** – manchmal auch **„Linke-Hand-Regel“** genannt – ist kein klassisches Rundenspiel, sondern ein Langzeit-Regelspiel, das nebenbei im Hintergrund einer Party mitläuft. Die Idee ist denkbar simpel: Jeder muss sein Getränk in einer vorher festgelegten Hand halten, meist der linken. Wer sich vergisst und zur falschen Hand greift, riskiert, ertappt zu werden.
 
-Das Besondere an Buffalo ist diese ständige, beiläufige Aufmerksamkeit. Mitten im Gespräch, beim Anstoßen oder nach dem nächsten Spiel kann jederzeit ein lautes „Buffalo!“ ertönen – und schon muss der Erwischte sein Glas leeren. Gerade weil es keine Runden und keine feste Reihenfolge gibt, bleibt die Spannung den ganzen Abend über erhalten, und der überraschte Gesichtsausdruck des Ertappten ist jedes Mal aufs Neue ein Highlight.
+Den Reiz macht genau diese beiläufige Daueraufmerksamkeit aus. Mitten im Gespräch, beim Anstoßen oder nach der nächsten Partie kann jederzeit ein lautes „Buffalo!“ kommen – und schon muss der Erwischte sein Glas leeren. Weil es keine Runden und keine feste Reihenfolge gibt, bleibt die Spannung den ganzen Abend über. Und der überraschte Blick des Ertappten ist jedes Mal Gold wert.
 
 ## Was ist das Buffalo Trinkspiel?
 
-Buffalo ist ein **Trinkspiel ohne jegliches Material** und mit nur einer einzigen Regel – deshalb ist es perfekt für spontane Runden. Der Name „Linke-Hand-Regel“ verrät schon alles: Das Getränk darf ausschließlich mit der vereinbarten Hand gehalten werden. Vermutlich stammt der Begriff aus US-Trinkkultur, wo „Buffalo Club“-Regeln nach demselben Prinzip funktionieren.
+Buffalo ist ein **Trinkspiel ohne jegliches Material** mit nur einer einzigen Regel – ideal für spontane Runden. Der Name „Linke-Hand-Regel“ verrät schon alles: Das Getränk darf nur mit der vereinbarten Hand gehalten werden. Der Begriff stammt vermutlich aus der US-Trinkkultur, wo die „Buffalo Club“-Regeln nach demselben Prinzip laufen.
 
 Weil Buffalo dauerhaft nebenbei läuft, lässt es sich problemlos mit jedem anderen Trinkspiel kombinieren – etwa mit [Beer Pong]({{ '/beer-pong/' | url }}), [Kings Cup]({{ '/kings-cup/' | url }}) oder einer Runde [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
 

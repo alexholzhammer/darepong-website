@@ -107,7 +107,7 @@ Der praktische Teil: Fast jeder kennt UNO und hat ein Deck in der Schublade. Die
 
 <h2 id="was-ist">Was ist das UNO Trinkspiel?</h2>
 
-Das UNO Trinkspiel ist die **Trinkspiel-Variante des Klassikers UNO**. Gespielt wird nach den normalen Regeln – Karten nach Farbe, Zahl oder Symbol ablegen, „UNO“ rufen, wer zuerst alle Karten los ist, gewinnt. Neu ist nur: **Aktionskarten lösen Trinkaktionen aus**. Damit gehört es zu den beliebtesten [Trinkspielen mit Karten]({{ '/post/trinkspiele-mit-karten/' | url }}).
+Das UNO Trinkspiel ist die **Trinkspiel-Variante des Klassikers UNO**. Gespielt wird nach den normalen Regeln – Karten nach Farbe, Zahl oder Symbol ablegen, „UNO“ rufen, wer zuerst alle Karten los ist, gewinnt. Der einzige Zusatz: **Aktionskarten lösen Trinkaktionen aus**. Damit zählt es zu den beliebtesten [Trinkspielen mit Karten]({{ '/post/trinkspiele-mit-karten/' | url }}).
 
 <h2 id="kartenregeln">Die Trinkregeln pro Karte</h2>
 
@@ -141,7 +141,7 @@ Diese Trinkregeln haben sich für die Aktionskarten etabliert:
 
 <h2 id="strafen">Sonderstrafen</h2>
 
-Neben den Aktionskarten sorgen diese Strafen für zusätzliche Trink-Momente:
+Neben den Aktionskarten gibt es noch diese Strafen, die zum Trinken führen:
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/uno-trinkspiel-strafen.svg' | url }}" width="600" height="190" loading="lazy" decoding="async" eleventy:ignore alt="UNO Trinkspiel Sonderstrafen: UNO vergessen drei Schlucke, falsche Karte zwei Schlucke, Sieg mit Aktionskarte alle trinken">
@@ -166,7 +166,7 @@ Neben den Aktionskarten sorgen diese Strafen für zusätzliche Trink-Momente:
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Null rotiert</span>
-      <p>Bei einer 0 geben alle ihre Handkarten in Spielrichtung weiter – Chaos garantiert, neue Schluckchancen inklusive.</p>
+      <p>Bei einer 0 geben alle ihre Handkarten in Spielrichtung weiter. Das wirbelt die Runde durch und schafft neue Schluckchancen.</p>
     </div>
   </div>
   <div class="game__variant">

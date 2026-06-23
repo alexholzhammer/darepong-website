@@ -93,7 +93,7 @@ faq:
     a: "Standard sind rote Solo Cups mit etwa 0,4–0,5 Litern Fassungsvermögen. Es funktioniert aber jeder gleich große, stabile Plastikbecher – wichtig ist nur, dass alle Becher identisch sind, damit kein Team benachteiligt ist."
   - q: "Kann man Beer Pong auch alkoholfrei spielen?"
     a: "Ja. Beer Pong lässt sich problemlos mit Wasser, Saft oder Softdrinks in den Bechern spielen. Die Regeln bleiben identisch – getrunken wird dann eben alkoholfrei."
-teamNamesIntro: "Bevor der erste Ball fliegt, braucht jedes Team einen Namen. Ein guter Beer-Pong-Team-Name sorgt schon vor dem Anstoß für Stimmung – hier ein paar Ideen zum Klauen:"
+teamNamesIntro: "Bevor der erste Ball fliegt, braucht jedes Team einen Namen. Ein guter Beer-Pong-Team-Name bringt schon vor dem Anstoß Stimmung – hier ein paar Ideen zum Klauen:"
 teamNames:
   - name: Pong Stars
   - name: Die Bechervernichter
@@ -128,7 +128,7 @@ teamNames:
   - name: Die Konterbiere
   - name: 2 Promille, 1 Ziel
   - name: Die Prosecco-Fraktion
-teamNamesTip: "Wer es persönlicher mag, kombiniert einfach die Vornamen beider Teampartner zu einem Wortwitz – das sorgt garantiert für Lacher in der Runde."
+teamNamesTip: "Wer es persönlicher mag, bastelt aus den Vornamen beider Teampartner einen Wortwitz – damit habt ihr die Lacher schon vor dem ersten Wurf auf eurer Seite."
 ---
 
 <div class="game__tldr">

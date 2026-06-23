@@ -104,15 +104,15 @@ faq:
   </ul>
 </nav>
 
-**Bomb Party** ist ein schnelles **Wort- und Reaktions-Partyspiel**, das vor allem über kostenlose Apps wie „Bomb Party“ oder das Browser-Spiel „BombParty“ bekannt geworden ist – verwandt mit Klassikern wie „Heißkartoffel“ oder „Wortbombe“. Eine virtuelle Bombe tickt, wandert reihum von Hand zu Hand, und niemand will sie halten, wenn sie hochgeht.
+**Bomb Party** ist ein schnelles **Wort- und Reaktions-Partyspiel**, bekannt geworden vor allem über kostenlose Apps wie „Bomb Party“ und das Browser-Spiel „BombParty“. Verwandt ist es mit Klassikern wie „Heißkartoffel“ oder „Wortbombe“. Eine virtuelle Bombe tickt und wandert reihum von Hand zu Hand – und niemand will sie halten, wenn sie hochgeht.
 
-Der Reiz von Bomb Party liegt im Tempo: Sobald du an der Reihe bist, läuft der Countdown gnadenlos weiter. Du musst zu einer vorgegebenen Silbe blitzschnell ein passendes Wort finden und die Bombe an deinen Nachbarn weiterreichen – je länger du zögerst, desto näher rückt die Explosion.
+Der Reiz liegt im Tempo. Sobald du dran bist, läuft der Countdown weiter. Zu einer vorgegebenen Silbe musst du blitzschnell ein passendes Wort finden und die Bombe an deinen Nachbarn weiterreichen. Je länger du zögerst, desto näher rückt die Explosion.
 
-Das Beste daran: Du brauchst kein physisches Material. Ein Smartphone mit der App genügt, und schon kann die Runde überall losgehen – auf der Couch, im Park oder am Partytisch. Als **Bomb Party** Trinkspiel trinkt einfach, bei wem die Bombe explodiert.
+Material brauchst du dafür keins. Ein Smartphone mit der App reicht, und die Runde geht überall los – auf der Couch, im Park oder am Partytisch. Als **Bomb Party** Trinkspiel trinkt einfach, bei wem die Bombe explodiert.
 
 <h2 id="was-ist">Was ist Bomb Party?</h2>
 
-Bomb Party ist ein **geselliges Wortspiel** für 3 bis 10 Personen, das fast ohne Vorbereitung auskommt: App öffnen, Silbe abwarten, Wort nennen, weitergeben. Gewonnen wird nicht mit Glück, sondern mit einem schnellen Kopf und ruhigen Nerven – wer unter Druck als Erstes ein Wort parat hat, gibt die tickende Bombe rechtzeitig los. Ähnlich flott und gesellig wie [Buffalo]({{ '/buffalo/' | url }}).
+Bomb Party ist ein **geselliges Wortspiel** für 3 bis 10 Personen, fast ohne Vorbereitung: App öffnen, Silbe abwarten, Wort nennen, weitergeben. Mit Glück hat das wenig zu tun – gefragt sind ein schneller Kopf und ruhige Nerven. Wer unter Druck als Erstes ein Wort parat hat, gibt die tickende Bombe rechtzeitig los. Ähnlich flott wie [Buffalo]({{ '/buffalo/' | url }}).
 
 
 <figure class="game__diagram">

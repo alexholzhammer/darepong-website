@@ -99,13 +99,13 @@ faq:
   </ul>
 </nav>
 
-**Arschloch** – auch **„President“**, **„Bürgermeister“** oder **„Trumpf“** genannt – ist eines der beliebtesten **Ablege-Kartenspiele** und ein Dauerbrenner als Trinkspiel. Ziel ist simpel: seine Karten möglichst schnell loswerden. Wer das schafft, wird König; wer übrig bleibt, ist das Arschloch – und trinkt.
+**Arschloch** – auch **„President“**, **„Bürgermeister“** oder **„Trumpf“** genannt – ist eines der beliebtesten **Ablege-Kartenspiele** und ein Dauerbrenner als Trinkspiel. Das Ziel ist simpel: seine Karten möglichst schnell loswerden. Wer das schafft, wird König; wer übrig bleibt, ist das Arschloch – und trinkt.
 
-Das Besondere ist die **soziale Hierarchie**: König, Bürger und Arschloch behalten ihre Rollen über mehrere Runden, und der Kartentausch zu Rundenbeginn macht es dem Arschloch besonders schwer, wieder aufzusteigen. Das sorgt für jede Menge Schadenfreude – ähnlich gesellig wie [King's Cup]({{ '/kings-cup/' | url }}).
+Den Reiz macht die **soziale Hierarchie** aus: König, Bürger und Arschloch behalten ihre Rollen über mehrere Runden, und der Kartentausch zu Rundenbeginn macht dem Arschloch den Aufstieg richtig schwer. Daraus entsteht jede Menge Schadenfreude – ähnlich gesellig wie [King's Cup]({{ '/kings-cup/' | url }}).
 
 <h2 id="was-ist">Was ist Arschloch?</h2>
 
-Arschloch ist ein **Karten-Ablegespiel** für drei bis acht Personen. Reihum legt man Karten gleichen Werts ab und muss den Vorgänger überbieten oder passen. Wer zuerst alle Karten los ist, gewinnt die Runde. Als Trinkspiel trinkt der Verlierer – das Arschloch. Es gehört damit zu den Klassikern unter den [Trinkspielen mit Karten]({{ '/post/trinkspiele-mit-karten/' | url }}).
+Arschloch ist ein **Karten-Ablegespiel** für drei bis acht Personen. Reihum legst du Karten gleichen Werts ab und musst den Vorgänger überbieten oder passen. Wer zuerst alle Karten los ist, gewinnt die Runde. Als Trinkspiel trinkt der Verlierer – das Arschloch. Damit zählt es zu den Klassikern unter den [Trinkspielen mit Karten]({{ '/post/trinkspiele-mit-karten/' | url }}).
 
 <h2 id="rangfolge">Die Kartenrangfolge</h2>
 

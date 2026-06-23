@@ -3,11 +3,11 @@ id: pyramide
 name: Pyramide
 slug: pyramide
 title: "Pyramide Trinkspiel: Regeln, Aufbau & Bluffen"
-description: "Pyramide Trinkspiel: Karten zur Pyramide legen, aufdecken und Schlucke verteilen – mit Bluffen und Anzweifeln. Alle Regeln, der Aufbau und Tipps."
+description: "Pyramide Trinkspiel: Karten zur Pyramide legen, aufdecken und Schlucke verteilen – mit Bluffen und Anzweifeln. Alle Regeln, der Aufbau und ein paar Tipps."
 updated: 2026-06-19
 rulesTitle: "Pyramide Regeln"
 tipsTitle: "Pyramide Tipps"
-shortDescription: Karten-Trinkspiel mit Bluff – aus einem Deck wird eine Pyramide gelegt und Karte für Karte aufgedeckt. Wer den Wert auf der Hand hat (oder es behauptet), verteilt Schlucke. Anzweifeln entlarvt jeden Bluff.
+shortDescription: Karten-Trinkspiel mit Bluff – aus einem Deck wird eine Pyramide gelegt und Karte für Karte aufgedeckt. Wer den Wert auf der Hand hat (oder es behauptet), verteilt Schlucke. Wer anzweifelt, kann jeden Bluff entlarven.
 players:
   min: 3
   max: 8
@@ -71,7 +71,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Pyramide in 30 Sekunden</strong>
-    <p>Aus einem Kartendeck wird eine Pyramide aus verdeckten Karten gelegt, der Rest wird als Handkarten verteilt. Die Pyramide wird Karte für Karte aufgedeckt – die Reihe bestimmt die Schluckzahl von 1 unten bis 5 an der Spitze. Hast du den gleichen Wert auf der Hand (oder behauptest es), verteilst du die Schlucke. Wer geblufft hat und angezweifelt wird, trinkt doppelt.</p>
+    <p>Aus einem Kartendeck wird eine Pyramide aus verdeckten Karten gelegt, der Rest wird als Handkarten verteilt. Dann deckt ihr die Pyramide Karte für Karte auf. Die Reihe bestimmt die Schluckzahl, von 1 unten bis 5 an der Spitze. Hast du den gleichen Wert auf der Hand (oder behauptest es), verteilst du die Schlucke. Wer blufft und angezweifelt wird, trinkt doppelt.</p>
   </div>
 </div>
 
@@ -96,13 +96,13 @@ faq:
   </ul>
 </nav>
 
-Das **Pyramide Trinkspiel** ist ein Klassiker für gesellige Runden: Du brauchst nur ein normales Kartendeck und ein paar Getränke, und schon kann das Bluffen losgehen. Aus verdeckten Karten wird eine Pyramide gelegt, die ihr Stück für Stück aufdeckt – und mit jeder Karte entscheidet sich, wer trinkt und wer austeilt.
+Das **Pyramide Trinkspiel** ist ein Klassiker für gesellige Runden. Du brauchst nur ein normales Kartendeck und ein paar Getränke, dann kann das Bluffen losgehen. Aus verdeckten Karten wird eine Pyramide gelegt, die ihr Stück für Stück aufdeckt. Mit jeder Karte entscheidet sich, wer trinkt und wer austeilt.
 
-Der Reiz liegt im Mut zur Lüge: Bei **Pyramide** darfst du behaupten, einen passenden Wert auf der Hand zu haben, auch wenn das gar nicht stimmt. Wer überzeugend blufft, verteilt Schlucke an die ganze Runde – wer auffliegt, trinkt selbst doppelt. Pokerface schlägt hier jedes Kartenglück.
+Der Reiz liegt im Mut zur Lüge: Bei **Pyramide** darfst du behaupten, einen passenden Wert auf der Hand zu haben, auch wenn das gar nicht stimmt. Wer überzeugend blufft, verteilt Schlucke an die ganze Runde. Wer auffliegt, trinkt selbst doppelt. Ein gutes Pokerface schlägt hier jedes Kartenglück.
 
 <h2 id="was-ist">Was ist Pyramide?</h2>
 
-Pyramide ist ein **Karten-Trinkspiel mit Bluff** für 3 bis 8 Personen, ideal sind etwa 5 Spieler. Gespielt wird mit einem gewöhnlichen Skat- oder Pokerblatt: In der Tischmitte liegt eine Pyramide aus verdeckten Karten, die ihr nach und nach aufdeckt, während jeder geheime Handkarten hält. Bei jeder aufgedeckten Karte darf, wer den gleichen Wert besitzt oder es behauptet, Schlucke verteilen. Ähnlich bluffig geht es bei [Mäxchen]({{ '/maexchen/' | url }}) zu, nur dort lügst du mit Würfeln statt mit Karten.
+Pyramide ist ein **Karten-Trinkspiel mit Bluff** für 3 bis 8 Personen, am besten zu fünft. Gespielt wird mit einem gewöhnlichen Skat- oder Pokerblatt. In der Tischmitte liegt eine Pyramide aus verdeckten Karten, die ihr nach und nach aufdeckt, während jeder geheime Handkarten hält. Bei jeder aufgedeckten Karte darf Schlucke verteilen, wer den gleichen Wert besitzt oder es behauptet. Ähnlich bluffig geht es bei [Mäxchen]({{ '/maexchen/' | url }}) zu, nur lügst du dort mit Würfeln statt mit Karten.
 
 
 <figure class="game__diagram">
@@ -112,7 +112,7 @@ Pyramide ist ein **Karten-Trinkspiel mit Bluff** für 3 bis 8 Personen, ideal si
 
 <h2 id="aufbau">Aufbau der Pyramide</h2>
 
-Der Aufbau ist schnell erledigt: Mischt das Deck und legt aus verdeckten Karten eine Pyramide in die Tischmitte. Eine bewährte Form sind fünf Reihen von unten nach oben mit 5, 4, 3, 2 und 1 Karte – zusammen 15 Karten. Die restlichen Karten verteilt ihr gleichmäßig als Handkarten an alle Spieler, die sich ihre Werte heimlich einprägen.
+Der Aufbau ist schnell erledigt. Mischt das Deck und legt aus verdeckten Karten eine Pyramide in die Tischmitte. Bewährt haben sich fünf Reihen von unten nach oben mit 5, 4, 3, 2 und 1 Karte, zusammen 15 Karten. Die restlichen Karten verteilt ihr gleichmäßig als Handkarten an alle Spieler, die sich ihre Werte heimlich einprägen.
 
 Jede Reihe hat einen festen Schluck-Wert, der nach oben steigt:
 

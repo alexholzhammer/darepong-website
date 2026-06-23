@@ -104,11 +104,11 @@ faq:
   </ul>
 </nav>
 
-**Mogeln** – auch **„Schummeln“**, **„Lügen“** oder im Englischen **„Cheat“** und **„Bullshit“** genannt – ist eines der besten **Mogeln-Kartenspiele** für gesellige Runden und lässt sich wunderbar als **Trinkspiel** spielen. Du brauchst nur ein normales Kartendeck, und der Reiz besteht darin, deine Mitspieler mit dreisten Ansagen hinters Licht zu führen, ohne aufzufliegen.
+**Mogeln** – auch **„Schummeln“**, **„Lügen“** oder im Englischen **„Cheat“** und **„Bullshit“** genannt – ist ein **Bluff-Kartenspiel** für gesellige Runden und lässt sich gut als **Trinkspiel** spielen. Du brauchst nur ein normales Kartendeck. Der Reiz steckt darin, deine Mitspieler mit dreisten Ansagen hinters Licht zu führen, ohne aufzufliegen.
 
-Der Clou: Die Karten, die du verdeckt ablegst, müssen gar nicht zu deiner Ansage passen. Du darfst nach Herzenslust lügen – die Frage ist nur, ob es jemand merkt und „Mogeln!“ ruft. Wer ertappt wird oder zu Unrecht zweifelt, nimmt den ganzen Stapel auf und trinkt.
+Der Clou: Die Karten, die du verdeckt ablegst, müssen gar nicht zu deiner Ansage passen. Du darfst lügen, so viel du willst – die Frage ist nur, ob es jemand merkt und „Mogeln!“ ruft. Wer ertappt wird oder zu Unrecht zweifelt, nimmt den ganzen Stapel auf und trinkt.
 
-Wie bei [Mäxchen]({{ '/maexchen/' | url }}) entscheidet nicht das Glück, sondern dein Pokerface – nur eben mit Karten statt Würfeln. Wer am überzeugendsten blufft und im richtigen Moment zweifelt, wird seine Karten als Erster los.
+Wie bei [Mäxchen]({{ '/maexchen/' | url }}) entscheidet nicht das Glück, sondern dein Pokerface – nur eben mit Karten statt Würfeln. Wer am überzeugendsten blufft und im richtigen Moment zweifelt, ist seine Karten als Erster los.
 
 <h2 id="was-ist">Was ist Mogeln?</h2>
 

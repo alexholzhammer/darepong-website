@@ -93,13 +93,13 @@ faq:
   </ul>
 </nav>
 
-**Wer würde eher** – im Englischen **„Most Likely To“** – ist ein herrlich einfaches Gruppen-Trinkspiel, das ganz ohne Equipment auskommt und perfekt die Dynamik einer Runde einfängt. Statt Geschicklichkeit oder Glück zählt allein, wie die Gruppe sich gegenseitig einschätzt: Bei jeder Frage zeigen alle gleichzeitig auf die Person, der sie das Verhalten am ehesten zutrauen.
+**Wer würde eher** – im Englischen **„Most Likely To“** – ist ein einfaches Gruppen-Trinkspiel ganz ohne Equipment. Geschicklichkeit und Glück spielen keine Rolle. Es zählt nur, wie ihr euch gegenseitig einschätzt: Bei jeder Frage zeigen alle gleichzeitig auf die Person, der sie das Verhalten am ehesten zutrauen.
 
-Das Besondere ist der Spiegel, den die Gruppe sich selbst vorhält. Wenn auf „Drei!“ plötzlich fünf Finger auf dieselbe Person zeigen, ist das Gelächter garantiert – und die Diskussion darüber ist oft das eigentliche Highlight.
+Wenn auf „Drei!“ plötzlich fünf Finger auf dieselbe Person zeigen, lacht meist der ganze Tisch. Und die Diskussion darüber, warum gerade die, ist oft besser als die Frage selbst.
 
 <h2 id="was-ist">Was ist Wer würde eher?</h2>
 
-Wer würde eher ist ein **geselliges Kennenlern- und Abstimmungs-Trinkspiel** ohne Material. Die Regeln sind in einer Minute erklärt, und mit einer guten Fragensammlung läuft das Spiel ganz von allein – ideal für Geburtstage, WG-Partys und Vorglüh-Runden.
+Wer würde eher ist ein **geselliges Kennenlern- und Abstimmungs-Trinkspiel** ohne Material. Die Regeln hast du in einer Minute erklärt, und mit ein paar Fragen in der Hinterhand läuft der Rest von allein. Passt gut zu Geburtstagen, WG-Partys und dem Vorglühen.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/wer-wuerde-eher-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Wer würde eher Ablauf: Frage vorlesen, alle zeigen gleichzeitig auf eine Person, wer die meisten Stimmen hat trinkt">

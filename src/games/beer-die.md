@@ -111,15 +111,15 @@ faq:
   </ul>
 </nav>
 
-**Beer Die** (auch „Die“ oder „Death Dice“) ist ein amerikanisches **Würfel-Trinkspiel** für genau vier Personen, das vor allem an US-Colleges Kult ist. Gespielt wird im Team **2 gegen 2** an einem quadratischen Tisch – und anders als bei reinen Glücksspielen entscheiden hier Wurfpräzision und Reaktionsschnelligkeit, wer trocken bleibt und wer trinkt.
+**Beer Die** (auch „Die“ oder „Death Dice“) ist ein amerikanisches **Würfel-Trinkspiel** für genau vier Personen und an US-Colleges Kult. Gespielt wird im Team **2 gegen 2** an einem quadratischen Tisch. Anders als bei reinem Glück entscheiden hier Wurfpräzision und Reaktion, wer trocken bleibt und wer trinkt.
 
-Das Prinzip von **Beer Die** ist schnell erklärt: Du wirfst einen Würfel im hohen Bogen über eine gedachte Mindesthöhe auf die gegnerische Tischhälfte, und deine Gegner müssen ihn beim Abprallen mit einer Hand fangen. Misslingt der Fang oder landet der Würfel sogar in einem Becher, gibt es Punkte – und einen kräftigen Schluck. So mischt **Beer Die** Geschicklichkeit, Teamwork und Trinkspaß in einer einzigen, dynamischen Partie.
+Das Prinzip: Du wirfst einen Würfel im hohen Bogen über eine gedachte Mindesthöhe auf die gegnerische Tischhälfte, und deine Gegner müssen ihn beim Abprallen mit einer Hand fangen. Misslingt der Fang oder landet der Würfel sogar in einem Becher, gibt es Punkte – und einen kräftigen Schluck. Geschicklichkeit, Teamwork und Trinkspaß in einer dynamischen Partie.
 
-Wichtig vorab: Die Regeln von Beer Die variieren von Region zu Region und von Runde zu Runde teils erheblich. Diese Anleitung beschreibt ein klares, konsistentes Standardregelwerk und weist an den entscheidenden Stellen auf gängige Hausregeln hin.
+Wichtig vorab: Die Regeln von Beer Die unterscheiden sich von Region zu Region und von Runde zu Runde teils erheblich. Diese Anleitung beschreibt ein klares, konsistentes Standardregelwerk und weist an den entscheidenden Stellen auf gängige Hausregeln hin.
 
 <h2 id="was-ist">Was ist Beer Die?</h2>
 
-Beer Die ist ein **geselliges Tisch- und Geschicklichkeitsspiel** für vier Personen in zwei Teams. Die beiden Partner eines Teams sitzen oder stehen **diagonal gegenüber** an den Ecken eines quadratischen Tisches, in jeder Ecke steht ein Becher. Ziel ist es, den Würfel so über die Mindesthöhe auf die gegnerische Seite zu werfen, dass die Gegner ihn nicht fangen können – oder ihn direkt in einem Becher zu versenken. Wie [Flunkyball]({{ '/flunkyball/' | url }}) lebt das Spiel von Tempo, Treffsicherheit und guter Abstimmung im Team.
+Beer Die ist ein **geselliges Tisch- und Geschicklichkeitsspiel** für vier Personen in zwei Teams. Die beiden Partner eines Teams sitzen oder stehen **diagonal gegenüber** an den Ecken eines quadratischen Tisches, in jeder Ecke steht ein Becher. Du willst den Würfel so über die Mindesthöhe auf die gegnerische Seite werfen, dass die Gegner ihn nicht fangen können – oder ihn direkt in einem Becher versenken. Wie [Flunkyball]({{ '/flunkyball/' | url }}) lebt das Spiel von Tempo, Treffsicherheit und guter Abstimmung im Team.
 
 <h2 id="aufbau">Aufbau & Material</h2>
 
@@ -128,7 +128,7 @@ Beer Die ist ein **geselliges Tisch- und Geschicklichkeitsspiel** für vier Pers
   <figcaption>Beer-Die-Aufbau: vier Spieler an den Ecken eines Quadrattisches (2 vs. 2), Becher vor jedem, Wurf im hohen Bogen über die Höhenlinie.</figcaption>
 </figure>
 
-Klassisch wird Beer Die an einem quadratischen Tisch von etwa **2,40 m (8 ft)** Kantenlänge gespielt – zu Hause genügt aber jeder stabile, ebene quadratische Tisch. Dazu kommen ein einzelner **Würfel**, **vier Becher** (einer pro Spieler) und **Bier** oder ein Getränk nach Wahl. Die vier Becher werden meist in die Tischecken gestellt und halb gefüllt; eine gedachte Mittellinie teilt die Spielfläche in zwei gleich große Hälften.
+Klassisch wird Beer Die an einem quadratischen Tisch von etwa **2,40 m (8 ft)** Kantenlänge gespielt – zu Hause reicht aber jeder stabile, ebene quadratische Tisch. Dazu kommen ein einzelner **Würfel**, **vier Becher** (einer pro Spieler) und **Bier** oder ein Getränk nach Wahl. Die vier Becher kommen meist halb gefüllt in die Tischecken; eine gedachte Mittellinie teilt die Spielfläche in zwei gleich große Hälften.
 
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
@@ -141,7 +141,7 @@ Klassisch wird Beer Die an einem quadratischen Tisch von etwa **2,40 m (8 ft)** 
 
 <h2 id="snappa">Beer Die vs. Snappa</h2>
 
-Beer Die und **Snappa** werden oft verwechselt, sind aber zwei eigenständige Spiele. Bei **Beer Die** wirfst du den Würfel im **hohen Bogen über eine Höhenlinie** auf die gegnerische Seite, und der Gegner muss ihn fangen – Flugbahn und Reaktion stehen im Mittelpunkt. Bei **Snappa** dagegen **schnippst oder rollst** du den Würfel flach über die Tischplatte Richtung Gegner. Kurz gesagt: Beer Die ist ein Wurf- und Fangspiel, Snappa ein Schnipp-Spiel.
+Beer Die und **Snappa** werden oft verwechselt, sind aber zwei eigenständige Spiele. Bei **Beer Die** wirfst du den Würfel im **hohen Bogen über eine Höhenlinie** auf die gegnerische Seite, und der Gegner muss ihn fangen – es geht um Flugbahn und Reaktion. Bei **Snappa** dagegen **schnippst oder rollst** du den Würfel flach über die Tischplatte Richtung Gegner. Kurz: Beer Die ist ein Wurf- und Fangspiel, Snappa ein Schnipp-Spiel.
 
 <h2 id="varianten">Beliebte Varianten</h2>
 

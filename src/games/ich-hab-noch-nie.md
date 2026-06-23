@@ -110,7 +110,7 @@ Ich hab noch nie ist ein **Kennenlern- und Geständnis-Trinkspiel** für Gruppen
 
 <h2 id="fragen">Ich hab noch nie: Beispiel-Fragen</h2>
 
-Keine Idee? Hier eine bunte Auswahl an Aussagen – von harmlos bis pikant. Einfach mit „Ich hab noch nie …“ davor:
+Dir fällt spontan nichts ein? Such dir etwas aus – von harmlos bis pikant. Einfach „Ich hab noch nie …“ davorstellen:
 
 <ul class="game__names">
   <li class="game__name"><span class="game__name-label">… einen Strafzettel bekommen</span></li>

@@ -7,7 +7,7 @@ description: "Medusa Trinkspiel – die schnelle Anleitung ohne Material: Köpfe
 updated: 2026-06-18
 rulesTitle: "Medusa Regeln"
 tipsTitle: "Medusa Tipps"
-shortDescription: Blitzschnelles Trinkspiel ganz ohne Material – auf „Köpfe runter“ alle nach unten schauen, auf „Medusa!“ den Kopf heben und sofort eine Person anstarren. Treffen sich zwei Blicke, müssen beide trinken.
+shortDescription: Schnelles Trinkspiel ganz ohne Material – auf „Köpfe runter“ schauen alle nach unten, auf „Medusa!“ heben alle den Kopf und starren sofort eine Person an. Treffen sich zwei Blicke, trinken beide.
 players:
   min: 4
   max: 12
@@ -76,7 +76,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Medusa in 30 Sekunden</strong>
-    <p>Medusa ist ein blitzschnelles Trinkspiel ohne Material: Alle senken auf „Köpfe runter“ den Blick. Auf „Medusa!“ heben alle gleichzeitig den Kopf und starren sofort eine Person an. Treffen sich zwei Blicke, rufen beide „Medusa!“ und trinken. Danach Köpfe runter, nächste Runde.</p>
+    <p>Medusa ist ein schnelles Trinkspiel ohne Material: Alle senken auf „Köpfe runter“ den Blick. Auf „Medusa!“ heben alle gleichzeitig den Kopf und starren sofort eine Person an. Treffen sich zwei Blicke, rufen beide „Medusa!“ und trinken. Danach Köpfe runter, nächste Runde.</p>
   </div>
 </div>
 
@@ -101,15 +101,15 @@ faq:
   </ul>
 </nav>
 
-**Medusa** ist ein blitzschnelles **Trinkspiel ganz ohne Material** – du brauchst nur eine Gruppe und Getränke. Keine Karten, keine Würfel, kein Aufbau: Der Kreis steht oder sitzt um den Tisch, und schon kann es losgehen. Genau diese Einfachheit macht das **Medusa Trinkspiel** zum perfekten Eisbrecher und schnellen Absacker für jede Party.
+**Medusa** ist ein schnelles **Trinkspiel ganz ohne Material** – du brauchst nur eine Gruppe und Getränke. Keine Karten, keine Würfel, kein Aufbau. Der Kreis steht oder sitzt um den Tisch, und schon kann es losgehen. Weil so wenig nötig ist, taugt das **Medusa Trinkspiel** als Eisbrecher und als schneller Absacker.
 
-Das Prinzip ist so simpel wie nervenaufreibend: Alle schauen erst nach unten, heben dann auf Kommando gleichzeitig den Kopf und starren sofort eine bestimmte Person an. Trifft sich ein Blickpaar, ist das Versteinern unausweichlich – beide rufen „Medusa!“ und trinken. Das Spiel lebt komplett von **Tempo und Zufall**, denn niemand weiß, wohin die anderen im selben Moment schauen.
+Das Prinzip ist simpel und trotzdem nervenaufreibend: Alle schauen erst nach unten, heben dann auf Kommando gleichzeitig den Kopf und starren sofort eine bestimmte Person an. Trifft sich ein Blickpaar, ist das Versteinern nicht mehr abzuwenden – beide rufen „Medusa!“ und trinken. Es geht hier nur um **Tempo und Zufall**, denn niemand weiß, wohin die anderen im selben Moment schauen.
 
-Weil eine Runde nur Sekunden dauert, eignet sich Medusa hervorragend als Aufwärmspiel zwischendurch oder als schneller Lückenfüller – ähnlich spontan wie [Buffalo]({{ '/buffalo/' | url }}), nur dass hier eure Blicke statt der Trinkhand über Sieg und Niederlage entscheiden.
+Eine Runde dauert nur Sekunden, deshalb passt Medusa gut als Aufwärmspiel zwischendurch oder als kurzer Lückenfüller – ähnlich spontan wie [Buffalo]({{ '/buffalo/' | url }}), nur dass hier eure Blicke statt der Trinkhand über Sieg und Niederlage entscheiden.
 
 <h2 id="was-ist">Was ist Medusa?</h2>
 
-Medusa ist ein **geselliges Partyspiel** für Gruppen, das ohne jedes Zubehör auskommt. Der Name spielt auf die Medusa der griechischen Mythologie an, deren Blick alles versteinerte – wer hier einem erwidernden Blick begegnet, ist „erwischt“ und muss trinken. Es gibt keine Punkte und keinen festen Sieger: Gespielt wird, solange es Spaß macht.
+Medusa ist ein **geselliges Partyspiel** für Gruppen und braucht kein Zubehör. Der Name spielt auf die Medusa der griechischen Mythologie an, deren Blick alles versteinerte. Wer hier einem erwidernden Blick begegnet, ist „erwischt“ und muss trinken. Punkte und einen festen Sieger gibt es nicht. Gespielt wird, solange es Spaß macht.
 
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 
@@ -118,7 +118,7 @@ Medusa ist ein **geselliges Partyspiel** für Gruppen, das ohne jedes Zubehör a
   <figcaption>Medusa in drei Schritten: Köpfe runter, auf „Medusa!“ hoch und eine Person anschauen – treffen sich zwei Blicke, trinken beide.</figcaption>
 </figure>
 
-Der Ablauf wiederholt sich in schneller Folge – jede Runde besteht aus nur wenigen Sekunden:
+Der Ablauf wiederholt sich in schneller Folge, jede Runde dauert nur wenige Sekunden:
 
 <div class="game__table-wrap">
 <table class="game__table">
@@ -153,7 +153,7 @@ Der Ablauf wiederholt sich in schneller Folge – jede Runde besteht aus nur wen
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Zeigen</span>
-      <p>Beim Hochschauen zeigt jeder zusätzlich mit dem Finger auf seine Zielperson – das macht Treffer eindeutiger und sorgt für mehr Drama.</p>
+      <p>Beim Hochschauen zeigt jeder zusätzlich mit dem Finger auf seine Zielperson. Treffer werden eindeutiger, der Moment dramatischer.</p>
     </div>
   </div>
   <div class="game__variant">

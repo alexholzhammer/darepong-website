@@ -3,7 +3,7 @@ id: stadt-land-fluss
 name: Stadt Land Fluss
 slug: stadt-land-fluss
 title: "Stadt Land Fluss Trinkspiel: Regeln, Kategorien & Vorlage"
-description: "Stadt Land Fluss als Trinkspiel: alle Regeln, die besten Kategorien, eine Vorlage und Trink-Varianten. So wird der Klassiker mit Zettel und Stift zum Partyspiel."
+description: "Stadt Land Fluss als Trinkspiel: Regeln, die besten Kategorien, eine Vorlage und Trink-Varianten. So wird der Klassiker mit Zettel und Stift zum Partyspiel."
 updated: 2026-06-19
 rulesTitle: "Stadt Land Fluss Regeln"
 tipsTitle: "Stadt Land Fluss Tipps"
@@ -96,9 +96,9 @@ faq:
   </ul>
 </nav>
 
-**Stadt Land Fluss** ist einer der bekanntesten Kategorien-Klassiker überhaupt – fast jeder hat ihn als Kind im Schulheft gespielt. Mit ein paar einfachen Trink-Regeln wird aus dem Wissensspiel ein geselliges Partyspiel: Statt nur um Punkte geht es jetzt auch darum, wer pro Runde zum Glas greifen muss. Du brauchst dafür nicht mehr als einen Zettel, einen Stift und ein paar Mitspieler.
+**Stadt Land Fluss** kennt fast jeder noch aus dem Schulheft. Mit ein paar einfachen Trink-Regeln wird aus dem Wissensspiel ein geselliges Partyspiel: Statt nur um Punkte geht es jetzt auch darum, wer pro Runde zum Glas greift. Mehr als einen Zettel, einen Stift und ein paar Mitspieler brauchst du nicht.
 
-Das Prinzip bleibt dasselbe wie früher: Ein Buchstabe wird bestimmt, dann füllen alle gleichzeitig vorher vereinbarte Kategorien mit passenden Wörtern. Wer zuerst alles voll hat, ruft „Stopp“ und beendet damit die Runde für alle. Beim Vorlesen zeigt sich dann, wer geglänzt hat – und wer mit leeren Feldern oder den wenigsten Punkten dasteht und trinken muss. **Stadt Land Fluss** verbindet so Köpfchen, Tempo und Trinkspaß in einem.
+Das Prinzip ist dasselbe wie früher. Ein Buchstabe wird bestimmt, dann füllen alle gleichzeitig vorher vereinbarte Kategorien mit passenden Wörtern. Wer zuerst alles voll hat, ruft „Stopp“ und beendet die Runde für alle. Beim Vorlesen zeigt sich, wer geglänzt hat und wer mit leeren Feldern oder den wenigsten Punkten dasteht und trinken muss. So mischt **Stadt Land Fluss** Köpfchen, Tempo und Trinkspaß.
 
 <h2 id="was-ist">Was ist Stadt Land Fluss?</h2>
 
@@ -112,7 +112,7 @@ Stadt Land Fluss ist ein **Kategorien-Spiel mit Papier und Stift** für 3 bis 8 
 
 <h2 id="kategorien">Die besten Kategorien</h2>
 
-Klassisch sind Stadt, Land, Fluss, Name, Tier, Beruf und Marke. Wer den Klassiker aufpeppen will, mischt ein paar lustige oder partytaugliche Kategorien dazu:
+Klassisch sind Stadt, Land, Fluss, Name, Tier, Beruf und Marke. Wer mehr Schwung will, mischt ein paar lustige oder partytaugliche Kategorien dazu:
 
 - **Stadt** – von Augsburg bis Zürich
 - **Land** – inklusive Inseln und Regionen, wenn ihr es lockerer mögt
@@ -124,7 +124,7 @@ Klassisch sind Stadt, Land, Fluss, Name, Tier, Beruf und Marke. Wer den Klassike
 - **Promi** – echte Personen aus Film, Musik oder Sport
 - **Film oder Serie** – Titel mit dem passenden Buchstaben
 - **Essen & Trinken** – ideal für die Partyrunde
-- **Etwas, das man trinken kann** – sorgt für Lacher und Trinkimpulse
+- **Etwas, das man trinken kann** – bringt Lacher und Trinkimpulse
 
 <h2 id="varianten">Stadt Land Fluss Varianten</h2>
 

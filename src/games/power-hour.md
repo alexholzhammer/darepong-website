@@ -128,19 +128,19 @@ Ein Shot fasst meist **4 cl**. Über 60 Minuten summiert sich das, deshalb ist d
   <figcaption>Die Power Hour in vier Schritten – Playlist starten, bei jedem Songwechsel ein Shot, dranbleiben, durchhalten.</figcaption>
 </figure>
 
-Der ganze Reiz liegt im **gemeinsamen Takt**: Niemand trinkt allein, der Songwechsel zwingt alle gleichzeitig zum Glas. Genau das macht die Power Hour zum perfekten Stimmungs-Starter, bevor es zu actionreicheren Spielen übergeht.
+Der Reiz liegt im **gemeinsamen Takt**: Niemand trinkt allein, der Songwechsel zwingt alle gleichzeitig zum Glas. Das macht die Power Hour zum guten Stimmungs-Starter, bevor es zu actionreicheren Spielen weitergeht.
 
 <h2 id="playlist">Die perfekte Power-Hour-Playlist</h2>
 
 Die Playlist ist das Herzstück. So baust du sie:
 
-- **Fertig nehmen:** Bei Spotify, YouTube & Co. findest du unzählige „Power Hour“-Playlists mit exakt geschnittenen Minuten-Tracks – die einfachste Lösung.
-- **Selbst bauen:** 60 Lieblingssongs auswählen und jeweils auf die beste Minute kürzen. Mixt schnelle und bekannte Songs, damit alle mitgrölen.
-- **Hörbarer Wechsel:** Achte darauf, dass der Übergang klar hörbar ist – er ist das Trinksignal. Ein kurzer Soundeffekt zwischen den Songs hilft.
+- **Fertig nehmen:** Bei Spotify, YouTube und Co. liegen massenhaft „Power Hour“-Playlists mit fertig geschnittenen Minuten-Tracks. Die einfachste Lösung.
+- **Selbst bauen:** 60 Lieblingssongs auswählen und jeweils auf die beste Minute kürzen. Mischt schnelle und bekannte Songs, damit alle mitgrölen.
+- **Hörbarer Wechsel:** Der Übergang muss klar zu hören sein, denn er ist das Trinksignal. Ein kurzer Soundeffekt zwischen den Songs hilft.
 
 <h2 id="varianten">Varianten: Power Half Hour &amp; Centurion</h2>
 
-Die Power Hour lässt sich beliebig skalieren – von Einsteiger bis Profi:
+Die Power Hour lässt sich beliebig skalieren, von der Einsteiger- bis zur Profi-Runde:
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/power-hour-varianten.svg' | url }}" width="600" height="200" loading="lazy" decoding="async" eleventy:ignore alt="Power Hour Varianten: Power Half Hour mit 30 Shots, Power Hour mit 60 Shots, Centurion mit 100 Shots">
@@ -151,13 +151,13 @@ Die Power Hour lässt sich beliebig skalieren – von Einsteiger bis Profi:
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Power Half Hour</span>
-      <p>30 Minuten, 30 Shots. Die entspannte Einsteiger-Variante – ideal als kurzer Warm-up.</p>
+      <p>30 Minuten, 30 Shots. Die entspannte Einsteiger-Variante und ein guter kurzer Warm-up.</p>
     </div>
   </div>
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Centurion</span>
-      <p>100 Minuten, 100 Shots. Die Königsdisziplin für Hartgesottene – nur mit leichtem Bier und viel Wasser empfehlenswert.</p>
+      <p>100 Minuten, 100 Shots. Die Königsdisziplin für Hartgesottene. Macht das nur mit leichtem Bier und viel Wasser.</p>
     </div>
   </div>
   <div class="game__variant">

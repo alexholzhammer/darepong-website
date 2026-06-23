@@ -96,13 +96,13 @@ faq:
   </ul>
 </nav>
 
-**Wasserfall** ist eines der einfachsten und zugleich lustigsten **Trinkspiele ohne Material** – man braucht nur Getränke und eine Runde Leute. Das Prinzip ist in einem Satz erklärt: Alle trinken gleichzeitig, und wer aufhören darf, hängt davon ab, wann der Vordermann absetzt. Genau diese Kette macht den Reiz aus.
+**Wasserfall** gehört zu den einfachsten **Trinkspielen ohne Material** – ihr braucht nur Getränke und ein paar Leute. Das Prinzip passt in einen Satz: Alle trinken gleichzeitig, und wer absetzen darf, hängt davon ab, wann der Vordermann sein Glas senkt. Diese Kette macht den Reiz aus.
 
-Bekannt ist der Wasserfall vor allem als Aktion beim Karten-Klassiker [King's Cup]({{ '/kings-cup/' | url }}), wo das Ass einen Wasserfall auslöst. Als eigenständiges Spiel ist er ein perfekter, schneller Stimmungsmacher – ähnlich unkompliziert wie [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
+Am bekanntesten ist der Wasserfall als Aktion beim Karten-Klassiker [King's Cup]({{ '/kings-cup/' | url }}), wo das Ass ihn auslöst. Für sich allein gespielt bringt er eine Runde schnell in Stimmung – ähnlich unkompliziert wie [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
 
 <h2 id="was-ist">Was ist Wasserfall?</h2>
 
-Wasserfall ist ein **Ketten-Trinkspiel** für den Kreis. Alle starten gleichzeitig; der Startspieler darf zuerst absetzen, jeder weitere erst danach. So entsteht ein „herabfließender“ Effekt, bei dem der Letzte am längsten dranbleiben muss. Es gehört zu den besten [Trinkspielen ohne Zubehör]({{ '/trinkspiele/' | url }}#ohne-zubehoer).
+Wasserfall ist ein **Ketten-Trinkspiel** für den Kreis. Alle starten gleichzeitig; der Startspieler darf zuerst absetzen, jeder weitere erst danach. So entsteht ein „herabfließender“ Effekt, bei dem der Letzte am längsten dranbleibt. Es zählt zu den besten [Trinkspielen ohne Zubehör]({{ '/trinkspiele/' | url }}#ohne-zubehoer).
 
 <h2 id="prinzip">Das Prinzip</h2>
 

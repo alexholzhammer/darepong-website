@@ -92,13 +92,13 @@ faq:
   </ul>
 </nav>
 
-**Würdest du eher** – im Englischen **„Would You Rather“**, im Deutschen auch schlicht **„Entweder oder“** – ist ein cleveres Dilemmaspiel, das jede Runde vor zwei knifflige Optionen stellt. Statt auf Geschicklichkeit kommt es auf die Entscheidung selbst an: Wer am Ende auf der weniger gewählten Seite steht, muss trinken.
+**Würdest du eher** – im Englischen **„Would You Rather“**, im Deutschen auch schlicht **„Entweder oder“** – ist ein Dilemmaspiel, das die Runde vor zwei knifflige Optionen stellt. Geschick spielt keine Rolle, nur die Entscheidung: Wer am Ende auf der weniger gewählten Seite steht, trinkt.
 
-Das Besondere ist die Diskussion, die fast jede Frage auslöst. Manche Dilemmata sind albern, andere überraschend tiefgründig – und oft entbrennt ein hitziges Hin und Her darüber, welche Wahl die vernünftigere ist.
+Spannend wird es durch die Diskussion, die fast jede Frage auslöst. Manche Dilemmata sind albern, andere überraschend tiefgründig – und schnell entbrennt ein hitziges Hin und Her darüber, welche Wahl nun die vernünftigere ist.
 
 <h2 id="was-ist">Was ist Würdest du eher?</h2>
 
-Würdest du eher ist ein **Entweder-oder-Trinkspiel** ohne jegliches Material – perfekt für gesellige Runden, Vorglüh-Abende oder lange Autofahrten. Die Regeln sind in unter einer Minute erklärt, und mit einer guten Fragensammlung lässt sich das Spiel beliebig in die Länge ziehen.
+Würdest du eher ist ein **Entweder-oder-Trinkspiel** ganz ohne Material – gut für gesellige Runden, Vorglüh-Abende oder lange Autofahrten. Die Regeln sind in unter einer Minute erklärt, und mit einer guten Fragensammlung läuft das Spiel, solange ihr Lust habt.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/was-wuerdest-du-eher-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Würdest du eher Ablauf: Entweder-oder-Frage stellen, alle entscheiden sich, die Minderheit trinkt">
@@ -107,7 +107,7 @@ Würdest du eher ist ein **Entweder-oder-Trinkspiel** ohne jegliches Material �
 
 <h2 id="fragen">Würdest du eher: Beispiel-Fragen</h2>
 
-Keine Idee? Hier eine Auswahl – einfach mit „Würdest du eher …“ davor:
+Dir fällt gerade nichts ein? Nimm eine aus dieser Auswahl – einfach mit „Würdest du eher …“ davor:
 
 <ul class="game__names">
   <li class="game__name"><span class="game__name-label">… fliegen können oder unsichtbar sein?</span></li>
@@ -152,7 +152,7 @@ Keine Idee? Hier eine Auswahl – einfach mit „Würdest du eher …“ davor:
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Karten</span>
-      <p>Fragen vorab auf Karten schreiben und ziehen – so kommt garantiert Nachschub (z. B. mit Dare Pong).</p>
+      <p>Fragen vorab auf Karten schreiben und ziehen – so geht der Nachschub nie aus (z. B. mit Dare Pong).</p>
     </div>
   </div>
 </div>

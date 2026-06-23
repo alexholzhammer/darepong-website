@@ -107,15 +107,15 @@ faq:
   </ul>
 </nav>
 
-Das **Werwolf Trinkspiel** ist die Trinkspiel-Variante des Gesellschaftsklassikers **„Die Werwölfe von Düsterwald“** – oft auch nur **„Werwolf“** genannt. Eine größere Gruppe schlüpft in geheime Rollen: Die meisten sind harmlose Dorfbewohner, doch unter ihnen verstecken sich die Werwölfe, die das Dorf Nacht für Nacht dezimieren. Genau dieses Versteckspiel aus Lügen, Verdacht und Überzeugungskunst macht den Reiz aus.
+Das **Werwolf Trinkspiel** ist die Trinkspiel-Variante des Gesellschaftsklassikers **„Die Werwölfe von Düsterwald“** – oft auch nur **„Werwolf“** genannt. Eine größere Gruppe schlüpft in geheime Rollen: Die meisten sind harmlose Dorfbewohner, doch unter ihnen verstecken sich die Werwölfe und dezimieren das Dorf Nacht für Nacht. Den Reiz macht dieses Versteckspiel aus Lügen, Verdacht und Überzeugungskunst.
 
-Beim **Werwolf Trinkspiel** kommen einfach Trink-Regeln hinzu: Wer nachts gefressen wird, trinkt. Wer tagsüber gelyncht wird, trinkt und deckt seine Rolle auf. Und wer einen Unschuldigen fälschlich beschuldigt, trinkt ebenfalls. So bekommt jede Diskussion und jede Abstimmung zusätzliche Würze – ähnlich wie beim Bluffen von [Mäxchen]({{ '/maexchen/' | url }}), nur als großes Rollenspiel für die ganze Runde.
+Beim **Werwolf Trinkspiel** kommen Trink-Regeln dazu: Wer nachts gefressen wird, trinkt. Wer tagsüber gelyncht wird, trinkt und deckt seine Rolle auf. Und wer einen Unschuldigen fälschlich beschuldigt, trinkt ebenfalls. Jede Diskussion und jede Abstimmung wird dadurch ein Stück hitziger – ähnlich wie beim Bluffen von [Mäxchen]({{ '/maexchen/' | url }}), nur als großes Rollenspiel für die ganze Runde.
 
-Du brauchst lediglich ein Set Rollenkarten (oder eine Werwolf-App) und einen Spielleiter, der durch Nacht und Tag führt. Schon kann das Misstrauen beginnen.
+Du brauchst dafür nur ein Set Rollenkarten (oder eine Werwolf-App) und einen Spielleiter, der durch Nacht und Tag führt. Mehr nicht – dann kann das Misstrauen losgehen.
 
 <h2 id="was-ist">Was ist das Werwolf-Trinkspiel?</h2>
 
-Das Werwolf-Trinkspiel ist ein **geselliges Rollen- und Bluffspiel** für größere Gruppen. Ein Spielleiter (Erzähler) verteilt verdeckt die Rollenkarten und führt anschließend durch die Runde. Es wechseln sich zwei Phasen ab: In der **Nacht** schließen alle die Augen, die Werwölfe wählen heimlich ein Opfer und die Sonderrollen agieren. Am **Tag** diskutiert die Gruppe und lyncht per Abstimmung einen Verdächtigen. Gewonnen wird nicht mit Glück, sondern mit Menschenkenntnis und gutem Pokerface.
+Das Werwolf-Trinkspiel ist ein **geselliges Rollen- und Bluffspiel** für größere Gruppen. Ein Spielleiter (Erzähler) verteilt verdeckt die Rollenkarten und führt durch die Runde. Zwei Phasen wechseln sich ab: In der **Nacht** schließen alle die Augen, die Werwölfe wählen heimlich ein Opfer und die Sonderrollen handeln. Am **Tag** diskutiert die Gruppe und lyncht per Abstimmung einen Verdächtigen. Glück hilft hier wenig – gewonnen wird mit Menschenkenntnis und einem guten Pokerface.
 
 <h2 id="rollen">Die Rollen</h2>
 
@@ -140,7 +140,7 @@ Das Werwolf-Trinkspiel ist ein **geselliges Rollen- und Bluffspiel** für größ
   <figcaption>Der Wechsel aus Nacht und Tag: nachts trinkt das Werwolf-Opfer, tagsüber der gelynchte Spieler – bis Dorf oder Werwölfe gewinnen.</figcaption>
 </figure>
 
-Eine Runde besteht immer aus dem Wechsel von **Nacht** und **Tag**. In der Nacht schließen alle die Augen, der Spielleiter ruft die Rollen nacheinander auf: Die Werwölfe wählen ihr Opfer, die Seherin deckt eine Rolle auf, die Hexe entscheidet über ihre Tränke. Am Tag verkündet der Spielleiter die Toten der Nacht – dann beginnt die Diskussion, an deren Ende die Gruppe einen Verdächtigen lyncht. Das Ganze wiederholt sich, bis eine Partei gewinnt.
+Eine Runde besteht immer aus dem Wechsel von **Nacht** und **Tag**. In der Nacht schließen alle die Augen, der Spielleiter ruft die Rollen nacheinander auf: Die Werwölfe wählen ihr Opfer, die Seherin deckt eine Rolle auf, die Hexe entscheidet über ihre Tränke. Am Tag verkündet der Spielleiter die Toten der Nacht. Dann beginnt die Diskussion, an deren Ende die Gruppe einen Verdächtigen lyncht. Das wiederholt sich, bis eine Partei gewinnt.
 
 <h2 id="trinkregeln">Die Trink-Regeln</h2>
 
@@ -163,7 +163,7 @@ Eine Runde besteht immer aus dem Wechsel von **Nacht** und **Tag**. In der Nacht
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Mit Zusatzrollen</span>
-      <p>Ergänzt weitere Sonderrollen wie das kleine Mädchen, den Dieb oder das Mädchen – mehr Rollen sorgen für mehr Wendungen und Trinkmomente.</p>
+      <p>Ergänzt weitere Sonderrollen wie das kleine Mädchen, den Dieb oder das Mädchen. Je mehr Rollen im Spiel sind, desto mehr Wendungen und Trinkmomente.</p>
     </div>
   </div>
   <div class="game__variant">

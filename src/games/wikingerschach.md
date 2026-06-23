@@ -95,13 +95,13 @@ faq:
   </ul>
 </nav>
 
-**Wikingerschach** – auch **Kubb** genannt – ist das schwedische **Outdoor-Wurfspiel**, das auf jeder Wiese, im Park und am Strand für gute Stimmung sorgt. Zwei Teams werfen abwechselnd ihre Wurfhölzer, um nach und nach die Holzklötze der Gegner und schließlich den König in der Feldmitte umzuwerfen.
+**Wikingerschach** – auch **Kubb** genannt – ist das schwedische **Outdoor-Wurfspiel** für die Wiese, den Park oder den Strand. Zwei Teams werfen abwechselnd ihre Wurfhölzer und legen nach und nach die Holzklötze der Gegner um, ganz zum Schluss den König in der Feldmitte.
 
-Als **Trinkspiel** bekommt der Klassiker noch mehr Würze: Für jeden umgeworfenen Kubb gibt es einen Schluck, das Verliererteam trinkt zum Abschluss – und wer den König zu früh erwischt, ext. So wird aus dem ruhigen Wiesenspiel ein lautstarker Team-Wettkampf.
+Als **Trinkspiel** bekommt der Klassiker noch eine Schippe drauf: Für jeden umgeworfenen Kubb gibt es einen Schluck, das Verliererteam trinkt zum Abschluss, und wer den König zu früh erwischt, ext. Aus dem ruhigen Wiesenspiel wird so ein lautstarker Team-Wettkampf.
 
 <h2 id="was-ist">Was ist Wikingerschach?</h2>
 
-Wikingerschach ist ein **Geschicklichkeits-Wurfspiel für draußen**, bei dem zwei Teams gegeneinander antreten. Auf einem rechteckigen Spielfeld stehen an beiden Grundlinien je fünf Kubbs, in der Mitte der König. Ihr werft eure Wurfhölzer immer **untenhand**, um zuerst die gegnerischen Kubbs und ganz am Ende den König umzuwerfen. Wer den König zuerst legt – aber nicht zu früh! – gewinnt. Wie [Flunkyball]({{ '/flunkyball/' | url }}) und [Bierball]({{ '/bierball/' | url }}) gehört Wikingerschach zu den beliebtesten Outdoor-Trinkspielen.
+Wikingerschach ist ein **Geschicklichkeits-Wurfspiel für draußen**, bei dem zwei Teams gegeneinander antreten. Auf einem rechteckigen Spielfeld stehen an beiden Grundlinien je fünf Kubbs, in der Mitte der König. Geworfen wird immer **untenhand**: erst die gegnerischen Kubbs umlegen, ganz am Ende den König. Wer den König zuerst legt – aber nicht zu früh! – gewinnt. Wie [Flunkyball]({{ '/flunkyball/' | url }}) und [Bierball]({{ '/bierball/' | url }}) zählt Wikingerschach zu den beliebtesten Outdoor-Trinkspielen.
 
 
 <figure class="game__diagram">
@@ -124,7 +124,7 @@ Der Aufbau ist schnell gemacht und braucht nur etwas Platz auf einer ebenen Wies
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Schwächere Hand</span>
-      <p>Alle werfen mit der schwächeren Hand. Das bremst geübte Werfer aus und sorgt für deutlich mehr Schlucke auf beiden Seiten.</p>
+      <p>Alle werfen mit der schwächeren Hand. Das bremst geübte Werfer aus, und auf beiden Seiten fallen deutlich mehr Schlucke an.</p>
     </div>
   </div>
   <div class="game__variant">

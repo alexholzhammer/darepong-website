@@ -103,9 +103,9 @@ faq:
   </ul>
 </nav>
 
-**Nageln** – auch **„Hammerschlagen“**, **„Nagelbalken“** oder **„Nagelstock“** – ist ein **Geschicklichkeits-Trinkspiel** mit langer Tradition auf Volksfesten, Almhütten und im Biergarten. Statt zu würfeln oder zu werfen, zählt hier eine ruhige Hand: Mit der **spitzen Seite des Hammers** muss jeder seinen Nagel Schlag für Schlag ins Holz treiben.
+**Nageln** – auch **„Hammerschlagen“**, **„Nagelbalken“** oder **„Nagelstock“** – ist ein **Geschicklichkeits-Trinkspiel** mit langer Tradition auf Volksfesten, Almhütten und im Biergarten. Hier wird nicht gewürfelt oder geworfen, hier zählt eine ruhige Hand: Mit der **spitzen Seite des Hammers** treibst du deinen Nagel Schlag für Schlag ins Holz.
 
-Der Reiz steckt im einfachen, aber kniffligen Prinzip: Mit der schmalen Pinne den Nagelkopf sauber zu treffen, ist deutlich schwerer als gedacht – und sorgt für jede Menge Schadenfreude, wenn der Nachbar wieder einmal abrutscht.
+Das Prinzip ist einfach und trotzdem knifflig. Mit der schmalen Pinne den Nagelkopf sauber zu treffen, ist schwerer als gedacht – und liefert jede Menge Schadenfreude, wenn der Nachbar mal wieder abrutscht.
 
 <h2 id="was-ist">Was ist Nageln?</h2>
 
