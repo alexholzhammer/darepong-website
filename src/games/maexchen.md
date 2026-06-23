@@ -3,13 +3,13 @@ id: maexchen
 name: Mäxchen / Meiern
 slug: maexchen
 title: "Mäxchen / Meiern: Regeln & Rangfolge (Würfelspiel)"
-description: "Mäxchen (Meiern) – das Würfel-Bluffspiel: alle Regeln, die komplette Rangfolge der Würfe und Tipps. Ansagen, bluffen oder anzweifeln – wer auffliegt, trinkt."
+description: "Mäxchen (Meiern) – das Würfel-Bluffspiel: alle Regeln, die komplette Rangfolge der Würfe und Tipps. Ansagen, bluffen, anzweifeln – wer auffliegt, trinkt."
 updated: 2026-06-12
 rulesPdf: /assets/maexchen-regeln.pdf
 rulesPdfLabel: "Mäxchen / Meiern Regeln als PDF herunterladen"
 rulesTitle: "Mäxchen Regeln"
 tipsTitle: "Mäxchen Tipps"
-shortDescription: Würfel-Bluffspiel mit zwei Würfeln unter dem Becher – ansagen, höher bieten oder anzweifeln. Wer beim Lügen erwischt wird oder falsch zweifelt, trinkt.
+shortDescription: Würfel-Bluffspiel mit zwei Würfeln unter dem Becher – ansagen, höher bieten oder anzweifeln. Wer beim Lügen erwischt wird oder daneben zweifelt, trinkt.
 players:
   min: 2
   max: 10
@@ -59,7 +59,7 @@ tips:
     text: "Durch die schnelle Abfolge an Ansagen kommt einiges zusammen – leichtes Getränk lohnt sich."
 faq:
   - q: "Was ist Mäxchen?"
-    a: "Mäxchen – je nach Region auch „Meiern“, „Lügenmäxchen“ oder „Mäxle“ – ist ein Würfel-Bluffspiel mit zwei Würfeln unter dem Becher. Man würfelt verdeckt und sagt einen Wert an, der höher sein muss als der vorige – egal ob ehrlich oder gelogen. Wer beim Bluff auffliegt oder falsch zweifelt, trinkt."
+    a: "Mäxchen – je nach Region auch „Meiern“, „Lügenmäxchen“ oder „Mäxle“ – ist ein Würfel-Bluffspiel mit zwei Würfeln unter dem Becher. Man würfelt verdeckt und sagt einen Wert an, der höher sein muss als der vorige. Ehrlich oder gelogen, das bleibt dir überlassen. Wer beim Bluff auffliegt oder daneben zweifelt, trinkt."
   - q: "Wie spielt man Mäxchen?"
     a: "Reihum verdeckt unter den Becher würfeln, das Ergebnis nur selbst ansehen und einen Wert ansagen, der höher ist als der zuvor angesagte. Der Nächste glaubt und würfelt selbst – oder zweifelt an und hebt den Becher. Wer falschliegt, trinkt."
   - q: "Was ist die Rangfolge bei Mäxchen?"
@@ -67,7 +67,7 @@ faq:
   - q: "Was ist das „Mäxchen“ (die 21)?"
     a: "Die Kombination aus 2 und 1 ist der höchste Wurf und heißt „Mäxchen“. Sie lässt sich nicht überbieten – wird sie angesagt, muss der nächste Spieler zwingend anzweifeln."
   - q: "Wie viele Spieler braucht man für Mäxchen?"
-    a: "Ab 2 Personen, ideal sind etwa 5. Bis 10 Spieler funktioniert gut – je mehr mitspielen, desto häufiger wird gebluddt und getrunken."
+    a: "Ab 2 Personen, ideal sind etwa 5. Bis 10 Spieler läuft es gut – je mehr mitspielen, desto häufiger wird geblufft und getrunken."
   - q: "Ist Meiern dasselbe wie Mäxchen?"
     a: "Ja. „Meiern“ ist nur ein anderer regionaler Name für dasselbe Würfel-Bluffspiel – ebenso wie „Lügenmäxchen“ oder „Mäxle“."
 ---
@@ -75,7 +75,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Mäxchen in 30 Sekunden</strong>
-    <p>Würfle verdeckt unter dem Becher und sag einen Wert an, der höher ist als der vorige – ehrlich oder gelogen. Der Nächste glaubt und würfelt selbst oder zweifelt an. Wer beim Bluff auffliegt oder falsch zweifelt, trinkt. Höchster Wurf: das Mäxchen (21).</p>
+    <p>Würfle verdeckt unter dem Becher und sag einen Wert an, der höher ist als der vorige – ehrlich oder gelogen. Der Nächste glaubt und würfelt selbst oder zweifelt an. Wer beim Bluff auffliegt oder daneben zweifelt, trinkt. Höchster Wurf: das Mäxchen (21).</p>
   </div>
 </div>
 
@@ -100,13 +100,13 @@ faq:
   </ul>
 </nav>
 
-**Mäxchen** – je nach Region auch **„Meiern“**, **„Lügenmäxchen“** oder **„Mäxle“** genannt – ist ein klassisches **Würfel-Bluffspiel**, bei dem es weniger auf die Würfel als auf gutes Schauspiel ankommt. Gewürfelt wird verdeckt unter dem Becher, und entscheidend ist nicht, was man wirklich geworfen hat, sondern was man den Mitspielern glaubhaft machen kann.
+**Mäxchen** – je nach Region auch **„Meiern“**, **„Lügenmäxchen“** oder **„Mäxle“** genannt – ist ein klassisches **Würfel-Bluffspiel**. Die Würfel sind hier fast Nebensache, es zählt das Schauspiel. Gewürfelt wird verdeckt unter dem Becher. Was du wirklich geworfen hast, weiß nur du selbst. Wichtig ist allein, was du den anderen glaubhaft machst.
 
-Das Besondere an Mäxchen ist das ständige Pokern zwischen Wahrheit und Bluff. Jede Ansage muss höher sein als die vorherige – und je weiter die Werte klettern, desto riskanter wird das Weiterbieten. Genau diese Zwickmühle macht das Spiel so spannend.
+Dabei pokerst du ständig zwischen Wahrheit und Bluff. Jede Ansage muss höher sein als die vorige, und je weiter die Werte klettern, desto riskanter wird das Weiterbieten. Aus dieser Zwickmühle zieht das Spiel seine Spannung.
 
 <h2 id="was-ist">Was ist Mäxchen?</h2>
 
-Mäxchen ist ein **geselliges Würfel-Trinkspiel** für Gruppen, das fast ohne Material auskommt: zwei Würfel, ein Becher, fertig. Gewonnen wird nicht mit Glück, sondern mit Pokerface – wer am überzeugendsten lügt und im richtigen Moment zweifelt, bleibt trocken.
+Mäxchen ist ein **geselliges Würfel-Trinkspiel** für Gruppen und kommt fast ohne Material aus: zwei Würfel, ein Becher, fertig. Über Sieg und Niederlage entscheidet weniger das Glück als dein Pokerface. Wer am überzeugendsten lügt und im richtigen Moment zweifelt, bleibt trocken.
 
 <figure class="game__diagram">
   <img src="{{ '/assets/maexchen-wuerfel.svg' | url }}" width="300" height="225" loading="lazy" decoding="async" eleventy:ignore alt="Mäxchen: Die Würfel 2 und 1 ergeben das Mäxchen, den höchsten Wurf">
@@ -115,7 +115,7 @@ Mäxchen ist ein **geselliges Würfel-Trinkspiel** für Gruppen, das fast ohne M
 
 <h2 id="rangfolge">Die Rangfolge der Würfe</h2>
 
-Die Reihenfolge zu kennen ist beim Mäxchen alles – von oben (am höchsten) nach unten:
+Beim Mäxchen hängt alles davon ab, dass du die Reihenfolge im Kopf hast – von oben (am höchsten) nach unten:
 
 <div class="game__table-wrap">
 <table class="game__table">

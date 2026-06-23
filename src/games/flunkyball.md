@@ -109,9 +109,9 @@ faq:
   </ul>
 </nav>
 
-**Flunkyball** – je nach Region auch **„Bierball“**, **„Buffalo“** (nicht zu verwechseln mit dem [Buffalo-Trinkspiel]({{ '/buffalo/' | url }})) oder schlicht **„Flunky“** genannt – ist das wohl bekannteste **Outdoor-Trinkspiel Deutschlands**. Es gehört auf jedes Festival, in jeden Park und zu jedem Sommer-Grillabend. Die Regeln sind in zwei Minuten erklärt, das Equipment hat fast jeder zu Hause, und der Spaßfaktor wächst mit jeder zusätzlichen Person.
+**Flunkyball** – je nach Region auch **„Bierball“**, **„Buffalo“** (nicht zu verwechseln mit dem [Buffalo-Trinkspiel]({{ '/buffalo/' | url }})) oder schlicht **„Flunky“** genannt – ist das wohl bekannteste **Outdoor-Trinkspiel Deutschlands**. Es gehört auf jedes Festival, in jeden Park und zu jedem Sommer-Grillabend. Die Regeln sind in zwei Minuten erklärt, das Equipment hat fast jeder zu Hause, und mit jeder weiteren Person wird es lauter.
 
-Das Besondere an Flunkyball ist die Mischung aus **Treffsicherheit, Tempo und Teamgeist**: Erst muss jemand die Flasche treffen, dann zählt jede Sekunde, in der das Team trinken darf. Genau dieser Wechsel aus Konzentration und hektischem Trinken macht Flunkyball so mitreißend – und sorgt für lautstarkes Anfeuern auf beiden Seiten.
+Flunkyball mischt **Treffsicherheit, Tempo und Teamgeist**: Erst muss jemand die Flasche treffen, dann zählt jede Sekunde, in der das Team trinken darf. Dieser Wechsel aus Konzentration und hektischem Trinken zieht alle mit – und auf beiden Seiten wird kräftig angefeuert.
 
 <h2 id="was-ist">Was ist Flunkyball?</h2>
 

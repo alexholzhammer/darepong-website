@@ -43,7 +43,7 @@ tips:
     text: "Legt gemeinsam fest, was tabu ist – niemand sollte zu etwas Unangenehmem gedrängt werden."
   - icon: "🍾"
     title: "Flasche drehen"
-    text: "Eine gedrehte Flasche in der Mitte sorgt für eine zufällige und faire Auswahl, wer dran ist."
+    text: "Eine gedrehte Flasche in der Mitte wählt zufällig und fair aus, wer als Nächstes dran ist."
   - icon: "🎭"
     title: "Gut mischen"
     text: "Kombiniert lustige, harmlose und etwas mutigere Fragen und Aufgaben für die richtige Dynamik."
@@ -83,7 +83,7 @@ faq:
   <li><span class="game__fact-num">ab 18</span><span class="game__fact-lbl">Jahren</span></li>
 </ul>
 
-Du brauchst Nachschub? Hier findest du über 100 [Wahrheit-oder-Pflicht-Fragen & Aufgaben]({{ '/wahrheit-oder-pflicht/fragen/' | url }}) – von harmlos über Paare bis pikant (ab 18).
+Dir gehen die Ideen aus? In unserer Sammlung warten über 100 [Wahrheit-oder-Pflicht-Fragen & Aufgaben]({{ '/wahrheit-oder-pflicht/fragen/' | url }}) – von harmlos über Paare bis pikant (ab 18).
 
 <nav class="game__toc" aria-label="Inhaltsverzeichnis">
   <span class="game__toc-title">Inhalt</span>
@@ -99,13 +99,13 @@ Du brauchst Nachschub? Hier findest du über 100 [Wahrheit-oder-Pflicht-Fragen &
   </ul>
 </nav>
 
-**Wahrheit oder Pflicht** – international als **„Truth or Dare“** bekannt – ist wohl der bekannteste Klassiker unter den geselligen Partyspielen und in der Trinkspiel-Variante ein echter Stimmungsmacher. Das Prinzip ist zeitlos einfach: Jeder entscheidet, ob er eine ehrliche Antwort gibt oder eine Aufgabe übernimmt – und wer sich vor beidem drücken will, trinkt zur Strafe.
+**Wahrheit oder Pflicht** – international als **„Truth or Dare“** bekannt – ist wohl der bekannteste Klassiker unter den Partyspielen, und als Trinkspiel bringt es die Runde schnell in Fahrt. Das Prinzip kennt fast jeder: Du entscheidest, ob du eine Frage ehrlich beantwortest oder eine Aufgabe übernimmst. Wer sich vor beidem drückt, trinkt.
 
-Das Besondere ist die Spannung vor jeder Entscheidung: die vermeintlich harmlose Wahrheit mit unangenehmer Frage oder doch die Pflicht mit ungewisser Aufgabe? Genau dieses Dilemma sorgt für Lacher, Geständnisse und mutige Momente.
+Der Reiz steckt im Moment vor der Entscheidung. Die scheinbar harmlose Wahrheit mit einer unangenehmen Frage – oder doch lieber die Pflicht mit ungewisser Aufgabe? Aus diesem kurzen Zögern entstehen die Lacher, Geständnisse und mutigen Momente.
 
 <h2 id="was-ist">Was ist Wahrheit oder Pflicht?</h2>
 
-Wahrheit oder Pflicht ist ein **geselliges Frage- und Mutprobe-Spiel** ohne Material, das praktisch jeder kennt. Mit Rücksicht auf die Grenzen aller Beteiligten bleibt es ein Spaß für die ganze Runde – von harmlos bis frech.
+Wahrheit oder Pflicht ist ein **Frage- und Mutprobe-Spiel** ohne Material, das praktisch jeder kennt. Solange ihr die Grenzen aller respektiert, bleibt es ein Spaß für die ganze Runde – von harmlos bis frech.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/wahrheit-oder-pflicht-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Wahrheit oder Pflicht Ablauf: Wahrheit oder Pflicht wählen, Frage beantworten oder Aufgabe erfüllen, sonst trinken">

@@ -106,15 +106,15 @@ faq:
   </ul>
 </nav>
 
-**Würfelpoker** – auch **„Knobeln“** oder **„Würfel-Poker“** genannt – verbindet den Reiz des Pokerns mit der Einfachheit eines Würfelspiels. Statt Karten wirfst du fünf Würfel aus dem Becher und versuchst, daraus die bestmögliche Pokerhand zu bilden. Die Regeln sind in wenigen Minuten erklärt, und genau das macht Würfelpoker zu einem perfekten **Trinkspiel** für jede Runde.
+**Würfelpoker** – auch **„Knobeln“** oder **„Würfel-Poker“** genannt – verbindet den Reiz des Pokerns mit der Einfachheit eines Würfelspiels. Statt Karten wirfst du fünf Würfel aus dem Becher und baust daraus die bestmögliche Pokerhand. Die Regeln hast du in wenigen Minuten drauf, und genau deshalb taugt Würfelpoker so gut als **Trinkspiel**.
 
-Der Clou liegt im cleveren Liegenlassen: Wie bei Kniffel hast du pro Zug bis zu drei Würfe und entscheidest nach jedem Wurf neu, welche Würfel du behältst. Gehst du auf Nummer sicher mit dem Drilling – oder riskierst du alles für den Vierling? Genau diese Entscheidung macht jede Runde spannend.
+Der Clou liegt im cleveren Liegenlassen: Wie bei Kniffel hast du pro Zug bis zu drei Würfe und entscheidest nach jedem Wurf neu, welche Würfel du behältst. Bleibst du auf Nummer sicher beim Drilling, oder riskierst du alles für den Vierling? Diese eine Entscheidung macht jede Runde spannend.
 
-Anders als bei Kniffel gibt es bei Würfelpoker keinen festen Spielblock und keine Kategorien, die du über viele Runden ausfüllst. Hier zählt nur die beste Pokerhand pro Runde, und wer am Ende die niedrigste Hand hat, trinkt – schnell, direkt und gesellig.
+Anders als bei Kniffel gibt es keinen festen Spielblock und keine Kategorien, die du über viele Runden ausfüllst. Es zählt nur die beste Pokerhand pro Runde, und wer am Ende die niedrigste Hand hat, trinkt. Schnell, direkt und gesellig.
 
 <h2 id="was-ist">Was ist Würfelpoker?</h2>
 
-Würfelpoker ist ein **geselliges Würfelspiel** für 2 bis 8 Personen, das mit fünf Würfeln und einem Becher gespielt wird. Es übernimmt die Rangfolge der Hände vom klassischen Karten-Poker, kommt aber ohne Einsätze und Setzrunden aus. Ähnlich wie beim Würfel-Klassiker [Mäxchen]({{ '/maexchen/' | url }}) reicht ein bisschen Material – der Rest ist Glück und Köpfchen.
+Würfelpoker ist ein **geselliges Würfelspiel** für 2 bis 8 Personen, gespielt mit fünf Würfeln und einem Becher. Es übernimmt die Rangfolge der Hände vom klassischen Karten-Poker, kommt aber ohne Einsätze und Setzrunden aus. Wie beim Würfel-Klassiker [Mäxchen]({{ '/maexchen/' | url }}) reicht ein bisschen Material, der Rest ist Glück und Köpfchen.
 
 <h2 id="rangfolge">Die Rangfolge der Hände</h2>
 

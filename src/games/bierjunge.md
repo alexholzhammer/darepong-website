@@ -3,13 +3,13 @@ id: bierjunge
 name: Bierjunge
 slug: bierjunge
 title: "Bierjunge: Regeln & Ablauf – das Studenten-Trinkspiel erklärt"
-description: "Bierjunge – das Trinkduell aus der Studentenverbindung: alle Regeln, wie man fordert und annimmt, die Staffel-Variante und Tipps. Einfach erklärt mit Grafik."
+description: "Bierjunge – das Trinkduell aus der Studentenverbindung: alle Regeln, wie du forderst und annimmst, die Staffel-Variante und Tipps. Mit Grafik erklärt."
 updated: 2026-06-15
 rulesPdf: /assets/bierjunge-regeln.pdf
 rulesPdfLabel: "Bierjunge Regeln als PDF herunterladen"
 rulesTitle: "Bierjunge Regeln"
 tipsTitle: "Bierjunge Tipps"
-shortDescription: Das klassische Trinkduell aus der Studentenverbindung – ein Spieler fordert mit dem Ruf „Bierjunge!“, der andere nimmt an, dann trinken beide auf ex. Wer sein leeres Glas zuerst senkrecht abstellt, gewinnt.
+shortDescription: Das Trinkduell aus der Studentenverbindung – einer ruft „Bierjunge!“, der andere nimmt an, dann trinken beide auf ex. Wer sein leeres Glas zuerst senkrecht abstellt, gewinnt.
 players:
   min: 2
   max: 12
@@ -101,13 +101,13 @@ faq:
   </ul>
 </nav>
 
-**Bierjunge** ist ein **Trinkduell mit Tradition** – entstanden in den deutschen Studentenverbindungen, wo es als augenzwinkerndes Gegenstück zum studentischen Fechten gilt. Heute ist der Bierjunge ein schneller, lautstarker Klassiker auf jeder Party: zwei Kontrahenten, gleiche Menge Bier, ein Sieger.
+**Bierjunge** ist ein **Trinkduell mit Tradition**. Es kommt aus den deutschen Studentenverbindungen, wo es als augenzwinkerndes Gegenstück zum Fechten gilt. Auf der Party ist es heute ein schneller, lautstarker Klassiker: zwei Kontrahenten, gleiche Menge Bier, ein Sieger.
 
-Der ganze Reiz steckt in der **Geschwindigkeit und der Technik** des Austrinkens – und im Ritual aus Forderung und Annahme. In einer Minute ist alles entschieden, und sofort will der Verlierer Revanche. Wie [Flunkyball]({{ '/flunkyball/' | url }}) lebt der Bierjunge vom direkten Wettkampf.
+Der Reiz liegt im Tempo und in der Technik beim Austrinken – und im Ritual aus Forderung und Annahme. In einer Minute ist alles entschieden, und der Verlierer will sofort Revanche. Wie [Flunkyball]({{ '/flunkyball/' | url }}) lebt der Bierjunge vom direkten Wettkampf.
 
 <h2 id="was-ist">Was ist ein Bierjunge?</h2>
 
-Der Bierjunge ist ein **Eins-gegen-eins-Trinkduell**: Ein Spieler fordert einen anderen heraus, beide trinken die gleiche Menge Bier auf ex, und wer sein leeres Glas zuerst senkrecht abstellt, gewinnt. Es braucht kein Equipment außer zwei gleichen Getränken – ähnlich spontan wie die Staffel beim [Flip Cup]({{ '/flip-cup/' | url }}).
+Der Bierjunge ist ein **Eins-gegen-eins-Trinkduell**: Einer fordert den anderen heraus, beide trinken die gleiche Menge Bier auf ex, und wer sein leeres Glas zuerst senkrecht abstellt, gewinnt. Mehr als zwei gleiche Getränke brauchst du nicht – fast so spontan wie die Staffel beim [Flip Cup]({{ '/flip-cup/' | url }}).
 
 <h2 id="duell">Das Duell</h2>
 

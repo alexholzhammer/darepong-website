@@ -103,9 +103,9 @@ faq:
   </ul>
 </nav>
 
-**Busfahrer** – auch **„Busfahren“**, „Ride the Bus“ oder „Pyramide“ genannt – ist eines der beliebtesten **Karten-Trinkspiele** im deutschsprachigen Raum und besteht aus mehreren aufeinander aufbauenden Phasen. Anders als bei reinen Wurf- oder Reaktionsspielen entscheidet hier fast ausschließlich das Glück darüber, wer trinken muss – beeinflussen lässt sich nur wenig, was den besonderen Reiz ausmacht.
+**Busfahrer** – auch **„Busfahren“**, „Ride the Bus“ oder „Pyramide“ genannt – gehört zu den beliebtesten **Karten-Trinkspielen** im deutschsprachigen Raum und besteht aus mehreren aufeinander aufbauenden Phasen. Anders als bei Wurf- oder Reaktionsspielen entscheidet hier fast nur das Glück, wer trinken muss. Beeinflussen lässt sich kaum etwas – und genau das macht den Reiz aus.
 
-Das Besondere an Busfahren ist der dramaturgische Aufbau über die Runden hinweg. Während in der Raterunde und der Pyramide noch alle relativ gleichmäßig trinken, läuft am Ende alles auf eine Person zu: den **Busfahrer**. Diese muss die gefürchtete Schlussrunde ganz allein bestreiten und bei jeder ungünstigen Karte wieder von vorne anfangen. Genau dieser Spannungsbogen – von der lockeren Raterei bis zum nervenaufreibenden Finale – macht das Spiel so unterhaltsam für die ganze Gruppe.
+Spannend ist der Aufbau über die Runden hinweg. In der Raterunde und der Pyramide trinken noch alle ziemlich gleichmäßig, am Ende läuft aber alles auf eine Person zu: den **Busfahrer**. Der muss die gefürchtete Schlussrunde ganz allein bestreiten und fängt bei jeder ungünstigen Karte wieder von vorne an. Dieser Bogen von der lockeren Raterei bis zum nervenaufreibenden Finale unterhält die ganze Gruppe.
 
 <h2 id="was-ist-busfahren">Was ist Busfahren?</h2>
 

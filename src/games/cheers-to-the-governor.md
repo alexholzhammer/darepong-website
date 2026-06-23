@@ -99,13 +99,13 @@ faq:
   </ul>
 </nav>
 
-**Cheers to the Governor** – im Deutschen oft einfach **„21“** – ist ein geniales **Zähl-Trinkspiel, das komplett ohne Material auskommt**. Alles, was ihr braucht, sind ein paar Leute, Getränke und ein gutes Gedächtnis. Denn mit jeder Runde wird das simple Durchzählen von 1 bis 21 durch neue, selbst erfundene Regeln immer chaotischer.
+**Cheers to the Governor** – im Deutschen oft einfach **„21“** – ist ein **Zähl-Trinkspiel ganz ohne Material**. Mehr als ein paar Leute, Getränke und ein gutes Gedächtnis braucht ihr nicht. Denn mit jeder Runde wird das simple Durchzählen von 1 bis 21 durch neue, selbst erfundene Regeln chaotischer.
 
-Der Clou: Das Spiel **wächst mit jeder Runde**. Anfangs zählt ihr locker durch, doch schon nach wenigen Durchgängen müsst ihr Zahlen vertauschen, durch Wörter ersetzen oder die Richtung wechseln. Genau dieses Durcheinander macht Cheers to the Governor zu einem der besten [Trinkspiele ohne Zubehör]({{ '/trinkspiele/' | url }}#ohne-zubehoer).
+Das Spiel **wächst mit jeder Runde**. Anfangs zählt ihr locker durch, doch schon nach ein paar Durchgängen müsst ihr Zahlen vertauschen, durch Wörter ersetzen oder die Richtung wechseln. Genau dieses Durcheinander macht Cheers to the Governor zu einem der besten [Trinkspiele ohne Zubehör]({{ '/trinkspiele/' | url }}#ohne-zubehoer).
 
 <h2 id="was-ist">Was ist Cheers to the Governor?</h2>
 
-Cheers to the Governor ist ein **Gedächtnis- und Zähl-Trinkspiel** für den Kreis. Ihr zählt reihum von 1 bis 21; wer die 21 erreicht, trinkt und darf eine neue Regel festlegen. Ähnlich wie [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}) braucht es kein Material – nur Getränke und gute Laune.
+Cheers to the Governor ist ein **Gedächtnis- und Zähl-Trinkspiel** für den Kreis. Ihr zählt reihum von 1 bis 21; wer die 21 erreicht, trinkt und legt eine neue Regel fest. Wie bei [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}) braucht ihr kein Material – nur Getränke und gute Laune.
 
 <h2 id="prinzip">Das Prinzip</h2>
 
@@ -123,7 +123,7 @@ Cheers to the Governor ist ein **Gedächtnis- und Zähl-Trinkspiel** für den Kr
 
 <h2 id="beispielregeln">Beispielregeln</h2>
 
-Diese Regeln sorgen zuverlässig für Lacher und Patzer:
+Mit diesen Regeln gibt es schnell die ersten Lacher und Patzer:
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/cheers-beispielregeln.svg' | url }}" width="600" height="190" loading="lazy" decoding="async" eleventy:ignore alt="Cheers to the Governor Beispielregeln: 7 und 14 vertauschen, eine Zahl durch ein Wort ersetzen, zwei Zahlen auf einmal drehen die Richtung um">

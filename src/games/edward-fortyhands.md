@@ -98,9 +98,9 @@ faq:
   </ul>
 </nav>
 
-**Edward Fortyhands** ist eines der bekanntesten **Challenge-Trinkspiele** und ein Garant für Lacher. Der Name ist eine Anspielung auf den Film *Edward mit den Scherenhänden* – nur dass hier statt Scheren zwei **Flaschen** an die Hände kommen. Das Prinzip ist simpel und gerade deshalb so wirkungsvoll: Wer sich befreien will, muss trinken.
+**Edward Fortyhands** ist eines der bekanntesten **Challenge-Trinkspiele** – und es gibt zuverlässig was zu lachen. Der Name spielt auf den Film *Edward mit den Scherenhänden* an, nur dass hier statt Scheren zwei **Flaschen** an die Hände kommen. Das Prinzip ist simpel und gerade deshalb so wirkungsvoll: Wer sich befreien will, muss trinken.
 
-Sobald die Flaschen kleben, wird jede Kleinigkeit zur Herausforderung – Tür öffnen, aufs Handy schauen oder zur Toilette gehen ist plötzlich unmöglich. Das sorgt für ständige Komik und macht Edward Fortyhands zum perfekten **Eisbrecher** und Partystarter, ähnlich wie der schnelle Ausdauer-Klassiker [Power Hour]({{ '/power-hour/' | url }}).
+Sobald die Flaschen kleben, wird jede Kleinigkeit zur Herausforderung. Tür öffnen, aufs Handy schauen, zur Toilette gehen – plötzlich unmöglich. Das macht Edward Fortyhands zum guten **Eisbrecher** und Partystarter, ähnlich wie der schnelle Ausdauer-Klassiker [Power Hour]({{ '/power-hour/' | url }}).
 
 <h2 id="was-ist">Was ist Edward Fortyhands?</h2>
 

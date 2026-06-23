@@ -3,11 +3,11 @@ id: snappa
 name: Snappa
 slug: snappa
 title: "Snappa: Regeln & Anleitung – Würfel-Trinkspiel"
-description: "Snappa – das amerikanische Würfel-Trinkspiel am Tisch: alle Regeln, Punkte, Aufbau und Tipps. Zwei Teams, ein Würfel, viel Reaktion – einfach erklärt."
+description: "Snappa, das amerikanische Würfel-Trinkspiel am Tisch: Regeln, Punkte, Aufbau und Tipps. Zwei Teams, ein Würfel, viel Reaktion, klar erklärt."
 updated: 2026-06-18
 rulesTitle: "Snappa Regeln"
 tipsTitle: "Snappa Tipps"
-shortDescription: Amerikanisches Würfel-Trinkspiel am langen Tisch für zwei Teams – einer schnippt den Würfel zum Gegner, der ihn nach dem Aufprall fangen muss. Punkte und Trink-Aktionen ergeben sich aus der Augenzahl, wer das Punkteziel erreicht, gewinnt.
+shortDescription: Amerikanisches Würfel-Trinkspiel am langen Tisch für zwei Teams. Einer schnippt den Würfel zum Gegner, der ihn nach dem Aufprall fangen muss. Punkte und Trink-Aktionen richten sich nach der Augenzahl. Wer das Punkteziel erreicht, gewinnt.
 players:
   min: 4
   max: 8
@@ -83,7 +83,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Snappa in 30 Sekunden</strong>
-    <p>Snappa ist ein amerikanisches Würfel-Trinkspiel am langen Tisch: Zwei Teams sitzen sich gegenüber, einer schnippt den Würfel zum Gegner, der ihn nach dem Aufprall fangen muss. Misslingt der Fang, gibt es Punkte und die Gegner trinken. Wer zuerst das Punkteziel (meist 7) erreicht, gewinnt – der Verlierer trinkt aus.</p>
+    <p>Snappa ist ein amerikanisches Würfel-Trinkspiel am langen Tisch. Zwei Teams sitzen sich gegenüber, einer schnippt den Würfel zum Gegner, der ihn nach dem Aufprall fangen muss. Misslingt der Fang, gibt es Punkte und die Gegner trinken. Wer zuerst das Punkteziel (meist 7) erreicht, gewinnt. Der Verlierer trinkt aus.</p>
   </div>
 </div>
 
@@ -110,15 +110,15 @@ faq:
   </ul>
 </nav>
 
-**Snappa** ist ein amerikanisches **Würfel-Trinkspiel**, das am Tisch gespielt wird und Reaktion, Treffsicherheit und Teamgeist verlangt. Zwei Teams sitzen sich an einem langen Tisch gegenüber, und alles dreht sich um einen einzigen Würfel, der über die Platte geschnippt und auf der anderen Seite gefangen werden muss. Mehr Material als ein Tisch, ein Würfel, Becher und Bier braucht es nicht.
+**Snappa** ist ein amerikanisches **Würfel-Trinkspiel** für den Tisch. Es lebt von Reaktion, Treffsicherheit und Teamgeist. Zwei Teams sitzen sich an einem langen Tisch gegenüber, und alles dreht sich um einen einzigen Würfel, der über die Platte geschnippt und auf der anderen Seite gefangen werden muss. Mehr als ein Tisch, ein Würfel, Becher und Bier brauchst du nicht.
 
-Der Reiz von **Snappa** liegt im Wechselspiel aus Angriff und Verteidigung: Der Werfer will den Würfel so schnippen, dass die Gegner ihn nicht zu fassen bekommen, während diese blitzschnell reagieren müssen. Misslingt der Fang, gibt es Punkte – und es wird getrunken. Das macht Snappa zu einem der schnellsten und lautesten Tischspiele überhaupt.
+Der Reiz steckt im Wechselspiel aus Angriff und Verteidigung. Der Werfer will den Würfel so schnippen, dass die Gegner ihn nicht zu fassen bekommen. Die müssen blitzschnell reagieren. Misslingt der Fang, gibt es Punkte, und es wird getrunken. So wird Snappa zu einem der schnellsten und lautesten Tischspiele.
 
-Wichtig vorweg: **Snappa-Regeln variieren stark je nach Region und Runde.** Wir zeigen hier ein klares, in sich stimmiges Standard-Regelwerk – Hausregeln rund um Punkteziel, Aktionszahlen und Fehlwürfe sind aber absolut üblich und gehören dazu.
+Eins vorweg: **Snappa-Regeln unterscheiden sich stark von Region zu Region und von Runde zu Runde.** Wir zeigen hier ein klares Standard-Regelwerk. Hausregeln rund um Punkteziel, Aktionszahlen und Fehlwürfe gehören aber dazu und sind völlig normal.
 
 <h2 id="was-ist">Was ist Snappa?</h2>
 
-Snappa ist ein **geselliges Würfel-Trinkspiel für zwei Teams** mit je zwei Spielern – vier Spieler sind ideal, größere Teams sind aber möglich. Gespielt wird an einem langen Tisch, an dessen Längsseiten sich die Teams gegenübersitzen. Ein Spieler schnippt den Würfel über den Tisch, die Gegner fangen ihn nach dem Aufprall. Wie bei [Beer Pong]({{ '/beer-pong/' | url }}) zählt Treffsicherheit – nur eben mit Würfeln statt Bällen.
+Snappa ist ein **geselliges Würfel-Trinkspiel für zwei Teams** mit je zwei Spielern. Zu viert ist es am rundesten, größere Teams gehen aber auch. Gespielt wird an einem langen Tisch, an dessen Längsseiten sich die Teams gegenübersitzen. Ein Spieler schnippt den Würfel über den Tisch, die Gegner fangen ihn nach dem Aufprall. Wie bei [Beer Pong]({{ '/beer-pong/' | url }}) zählt die Treffsicherheit, nur eben mit Würfeln statt Bällen.
 
 <h2 id="aufbau">Aufbau & Ablauf</h2>
 
@@ -127,7 +127,7 @@ Snappa ist ein **geselliges Würfel-Trinkspiel für zwei Teams** mit je zwei Spi
   <figcaption>Snappa-Aufbau: zwei Teams gegenüber, Becher in der Mitte, Würfel über den Tisch zur Gegenseite – dort wird nach dem Aufprall gefangen.</figcaption>
 </figure>
 
-Stellt einen langen Tisch in die Mitte und bildet zwei Teams. Jedes Team nimmt an einer Längsseite Platz, sodass sich die Spieler paarweise gegenübersitzen. Vor jedem Spieler steht ein Becher mit Bier. Reihum wird der Würfel über den Tisch zum gegnerischen Team geschnippt oder gerollt – er muss mindestens einmal aufprallen und auf der gegnerischen Hälfte ankommen. Die Gegner versuchen, ihn nach dem ersten Aufprall mit einer Hand zu fangen.
+Stellt einen langen Tisch in die Mitte und bildet zwei Teams. Jedes Team nimmt an einer Längsseite Platz, sodass sich die Spieler paarweise gegenübersitzen. Vor jedem Spieler steht ein Becher mit Bier. Reihum schnippt oder rollt ihr den Würfel über den Tisch zum gegnerischen Team. Er muss mindestens einmal aufprallen und auf der gegnerischen Hälfte ankommen. Die Gegner versuchen, ihn nach dem ersten Aufprall mit einer Hand zu fangen.
 
 <h2 id="punkte">Punkte & Trink-Aktionen</h2>
 
@@ -148,7 +148,7 @@ Stellt einen langen Tisch in die Mitte und bildet zwei Teams. Jedes Team nimmt a
 
 <h2 id="beer-die">Snappa vs. Beer Die</h2>
 
-Snappa und [Bierball]({{ '/bierball/' | url }}) oder Beer Die werden oft verwechselt, weil alle drei Würfel-Trinkspiele mit zwei Teams am Tisch sind. Der Unterschied liegt im Wurf: Bei **Snappa** wird der Würfel flach über den Tisch **geschnippt oder gerollt** und nach dem Aufprall **gefangen**. Bei **Beer Die** wird der Würfel dagegen über eine bestimmte **Höhenlinie in einem Bogen geworfen** und soll im gegnerischen Becher landen. Snappa betont also das schnelle Schnippen und Reagieren, Beer Die den hohen, kontrollierten Wurf.
+Snappa und [Bierball]({{ '/bierball/' | url }}) oder Beer Die werden oft verwechselt, weil alle drei Würfel-Trinkspiele mit zwei Teams am Tisch sind. Der Unterschied liegt im Wurf. Bei **Snappa** wird der Würfel flach über den Tisch **geschnippt oder gerollt** und nach dem Aufprall **gefangen**. Bei **Beer Die** dagegen wirfst du den Würfel über eine bestimmte **Höhenlinie in einem Bogen**, und er soll im gegnerischen Becher landen. Snappa setzt auf schnelles Schnippen und Reagieren, Beer Die auf den hohen, kontrollierten Wurf.
 
 <h2 id="varianten">Beliebte Varianten</h2>
 

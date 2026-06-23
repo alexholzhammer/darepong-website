@@ -3,13 +3,13 @@ id: wer-wuerde-eher
 name: Wer würde eher
 slug: wer-wuerde-eher
 title: "Wer würde eher: Fragen & Regeln (Trinkspiel)"
-description: "Wer würde eher (Most Likely To): die besten Fragen und die Regeln. Alle zeigen auf eine Person – wer die meisten Finger kassiert, trinkt. Gruppenspiel ohne Material."
+description: "Wer würde eher (Most Likely To): die besten Fragen und die Regeln. Alle zeigen auf eine Person, wer die meisten Finger kassiert, trinkt. Gruppenspiel ohne Material."
 updated: 2026-06-12
 rulesPdf: /assets/wer-wuerde-eher-regeln.pdf
 rulesPdfLabel: "Wer würde eher Regeln als PDF herunterladen"
 rulesTitle: "Wer würde eher Regeln"
 tipsTitle: "Wer würde eher Tipps"
-shortDescription: Lustiges Gruppenspiel ohne Material – alle zeigen gleichzeitig auf eine Person, und wer die meisten Finger auf sich zieht, muss trinken.
+shortDescription: Gruppenspiel ohne Material – alle zeigen gleichzeitig auf eine Person, und wer die meisten Finger auf sich zieht, trinkt.
 players:
   min: 3
   max: 15
@@ -51,14 +51,14 @@ tips:
     text: "Deckelt die Schluckzahl pro Runde, sonst trifft es einzelne Personen schnell zu hart."
   - icon: "🌈"
     title: "Bunt mischen"
-    text: "Ein gemischter Personenkreis sorgt für die unterhaltsamsten Abstimmungen."
+    text: "Je gemischter die Runde, desto unterhaltsamer fallen die Abstimmungen aus."
 faq:
   - q: "Was ist „Wer würde eher“?"
     a: "„Wer würde eher“ (engl. „Most Likely To“) ist ein Gruppen-Trinkspiel ohne Material: Zu jeder Frage zeigen alle gleichzeitig auf die Person, der sie das Verhalten am ehesten zutrauen. Wer die meisten Finger kassiert, trinkt."
   - q: "Wie spielt man Wer würde eher?"
     a: "Im Kreis sitzen. Reihum stellt jemand eine „Wer würde eher …?“-Frage. Auf „Drei!“ zeigen alle gleichzeitig auf eine Person. Wer die meisten Finger auf sich zieht, trinkt – idealerweise einen Schluck pro Finger."
   - q: "Welche Fragen kann man stellen?"
-    a: "Am besten persönliche, neckische Fragen wie „Wer würde eher verschlafen?“ oder „Wer würde eher beim Karaoke übertreiben?“. Eine Auswahl an Beispiel-Fragen findest du weiter unten."
+    a: "Am besten persönliche, neckische Fragen wie „Wer würde eher verschlafen?“ oder „Wer würde eher beim Karaoke übertreiben?“. Eine Auswahl an Beispiel-Fragen steht weiter unten."
   - q: "Wie viele Spieler braucht man?"
     a: "Ab 3 Personen, ideal sind etwa 6. Bis 15 Spieler funktioniert gut – das Spiel macht am meisten Spaß, wenn sich die Runde schon ein wenig kennt."
   - q: "Kann man es alkoholfrei spielen?"
@@ -68,7 +68,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Wer würde eher in 30 Sekunden</strong>
-    <p>Jemand stellt eine „Wer würde eher …?“-Frage. Auf „Drei!“ zeigen alle gleichzeitig auf eine Person. Wer die meisten Finger auf sich zieht, trinkt. Kein Material – nur eine Runde, die sich selbst auf die Schippe nimmt.</p>
+    <p>Jemand stellt eine „Wer würde eher …?“-Frage. Auf „Drei!“ zeigen alle gleichzeitig auf eine Person. Wer die meisten Finger auf sich zieht, trinkt. Kein Material, nur eine Runde, die sich selbst auf die Schippe nimmt.</p>
   </div>
 </div>
 
@@ -93,13 +93,13 @@ faq:
   </ul>
 </nav>
 
-**Wer würde eher** – im Englischen **„Most Likely To“** – ist ein herrlich einfaches Gruppen-Trinkspiel, das ganz ohne Equipment auskommt und perfekt die Dynamik einer Runde einfängt. Statt Geschicklichkeit oder Glück zählt allein, wie die Gruppe sich gegenseitig einschätzt: Bei jeder Frage zeigen alle gleichzeitig auf die Person, der sie das Verhalten am ehesten zutrauen.
+**Wer würde eher** – im Englischen **„Most Likely To“** – ist ein einfaches Gruppen-Trinkspiel ganz ohne Equipment. Geschicklichkeit und Glück spielen keine Rolle. Es zählt nur, wie ihr euch gegenseitig einschätzt: Bei jeder Frage zeigen alle gleichzeitig auf die Person, der sie das Verhalten am ehesten zutrauen.
 
-Das Besondere ist der Spiegel, den die Gruppe sich selbst vorhält. Wenn auf „Drei!“ plötzlich fünf Finger auf dieselbe Person zeigen, ist das Gelächter garantiert – und die Diskussion darüber ist oft das eigentliche Highlight.
+Wenn auf „Drei!“ plötzlich fünf Finger auf dieselbe Person zeigen, lacht meist der ganze Tisch. Und die Diskussion darüber, warum gerade die, ist oft besser als die Frage selbst.
 
 <h2 id="was-ist">Was ist Wer würde eher?</h2>
 
-Wer würde eher ist ein **geselliges Kennenlern- und Abstimmungs-Trinkspiel** ohne Material. Die Regeln sind in einer Minute erklärt, und mit einer guten Fragensammlung läuft das Spiel ganz von allein – ideal für Geburtstage, WG-Partys und Vorglüh-Runden.
+Wer würde eher ist ein **geselliges Kennenlern- und Abstimmungs-Trinkspiel** ohne Material. Die Regeln hast du in einer Minute erklärt, und mit ein paar Fragen in der Hinterhand läuft der Rest von allein. Passt gut zu Geburtstagen, WG-Partys und dem Vorglühen.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/wer-wuerde-eher-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Wer würde eher Ablauf: Frage vorlesen, alle zeigen gleichzeitig auf eine Person, wer die meisten Stimmen hat trinkt">

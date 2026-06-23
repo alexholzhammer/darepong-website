@@ -78,7 +78,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Rage Cage in 30 Sekunden</strong>
-    <p>Becher als Cluster in die Tischmitte, ein Death Cup mittendrin. Zwei Spieler starten gleichzeitig: austrinken, den Ball in den leeren Becher prellen, nach links weitergeben. Wer vom anderen Becher eingeholt wird, muss trinken. Schnell, chaotisch, ohne Pause.</p>
+    <p>Becher als Cluster in die Tischmitte, ein Death Cup mittendrin. Zwei Spieler starten gleichzeitig: austrinken, den Ball in den leeren Becher prellen, nach links weitergeben. Wer vom anderen Becher eingeholt wird, trinkt. Schnell, chaotisch, ohne Pause.</p>
   </div>
 </div>
 
@@ -102,13 +102,13 @@ faq:
   </ul>
 </nav>
 
-**Rage Cage** – auch bekannt als **„Slap Cup“**, **„Stack Cup“** oder **„Boom Cup“** – ist eines der intensivsten und schnellsten Trinkspiele überhaupt und kommt ursprünglich aus den USA, wo es auf College-Partys Kultstatus erreicht hat. Anders als bei [Beer Pong]({{ '/beer-pong/' | url }}) steht hier nicht das gezielte Werfen im Vordergrund, sondern Reaktionsgeschwindigkeit, Koordination und ein gutes Händchen für den Trick-Shot.
+**Rage Cage** – auch bekannt als **„Slap Cup“**, **„Stack Cup“** oder **„Boom Cup“** – gehört zu den schnellsten Trinkspielen überhaupt und kommt aus den USA, wo es auf College-Partys Kultstatus hat. Bei [Beer Pong]({{ '/beer-pong/' | url }}) zählt das gezielte Werfen. Hier zählen Reaktionsgeschwindigkeit, Koordination und ein gutes Händchen für den Trick-Shot.
 
-Das Besondere an Rage Cage ist der Kreislauf-Charakter: keine festen Teams, keine Runden, keine Pausen. Sobald das Spiel läuft, sind ständig zwei Becher gleichzeitig im Umlauf – und wer nicht schnell genug ist, wird eingeholt und muss trinken. Das Tempo zieht nach jeder Runde merklich an.
+Rage Cage hat keine festen Teams, keine Runden, keine Pausen. Sobald das Spiel läuft, sind ständig zwei Becher gleichzeitig im Umlauf. Wer nicht schnell genug ist, wird eingeholt und trinkt. Das Tempo zieht nach jeder Runde merklich an.
 
 <h2 id="was-ist">Was ist Rage Cage?</h2>
 
-Rage Cage ist ein **rasantes Becher-Reaktionsspiel** für Gruppen, das jeder zuhause spielen kann – man braucht nur Becher, zwei Bälle und einen Tisch. Die Regeln sind in unter fünf Minuten erklärt, und auch komplette Anfänger sind nach der ersten Runde voll dabei.
+Rage Cage ist ein **rasantes Becher-Reaktionsspiel** für Gruppen und lässt sich überall zuhause spielen. Du brauchst nur Becher, zwei Bälle und einen Tisch. Die Regeln sind in unter fünf Minuten erklärt, und auch komplette Anfänger sind nach der ersten Runde voll dabei.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/rage-cage-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Rage Cage Ablauf: austrinken, Ball in den Becher treffen, nach links weitergeben, eingeholt werden bedeutet trinken">

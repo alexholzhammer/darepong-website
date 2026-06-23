@@ -3,7 +3,7 @@ id: twister-trinkspiel
 name: Twister Trinkspiel
 slug: twister-trinkspiel
 title: "Twister Trinkspiel: Regeln & Varianten für die Party"
-description: "Twister Trinkspiel: Regeln, Trink-Varianten und Tipps. Verknote dich auf der Matte, wer umfällt trinkt – das verrückte Geschicklichkeitsspiel für die Party."
+description: "Twister Trinkspiel: Regeln, Trink-Varianten und Tipps. Verknote dich auf der Matte, wer umfällt trinkt. Das verdrehte Geschicklichkeitsspiel für die Party."
 updated: 2026-06-19
 rulesTitle: "Twister Trinkspiel Regeln"
 tipsTitle: "Twister Trinkspiel Tipps"
@@ -91,9 +91,9 @@ faq:
   </ul>
 </nav>
 
-Das **Twister Trinkspiel** verbindet den verrückten Geschicklichkeitsklassiker mit der Party: Auf der bunten Matte verknotet ihr euch nach Hand und Fuß, während die Drehscheibe das Tempo vorgibt. Wer dabei umfällt oder eine Position nicht halten kann, greift zum Glas – und mit jedem Schluck wird die nächste Pose noch wackeliger.
+Das **Twister Trinkspiel** bringt den Geschicklichkeitsklassiker auf die Party. Auf der bunten Matte verknotet ihr euch nach Hand und Fuß, während die Drehscheibe das Tempo vorgibt. Wer dabei umfällt oder eine Position nicht hält, greift zum Glas. Und mit jedem Schluck wird die nächste Pose wackeliger.
 
-Die Grundidee ist denkbar einfach und gerade deshalb so beliebt. **Twister** sorgt für jede Menge Körperkontakt, Gelächter und unmögliche Verrenkungen – als Trinkspiel wird der Klassiker zum Highlight jeder Feier, bei dem niemand lange trocken steht.
+Die Grundidee ist denkbar einfach und gerade deshalb so beliebt. Viel Körperkontakt, viel Gelächter, unmögliche Verrenkungen: Als Trinkspiel steht bei **Twister** niemand lange trocken.
 
 <h2 id="was-ist">Was ist das Twister Trinkspiel?</h2>
 

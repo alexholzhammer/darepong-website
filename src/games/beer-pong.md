@@ -93,7 +93,7 @@ faq:
     a: "Standard sind rote Solo Cups mit etwa 0,4–0,5 Litern Fassungsvermögen. Es funktioniert aber jeder gleich große, stabile Plastikbecher – wichtig ist nur, dass alle Becher identisch sind, damit kein Team benachteiligt ist."
   - q: "Kann man Beer Pong auch alkoholfrei spielen?"
     a: "Ja. Beer Pong lässt sich problemlos mit Wasser, Saft oder Softdrinks in den Bechern spielen. Die Regeln bleiben identisch – getrunken wird dann eben alkoholfrei."
-teamNamesIntro: "Bevor der erste Ball fliegt, braucht jedes Team einen Namen. Ein guter Beer-Pong-Team-Name sorgt schon vor dem Anstoß für Stimmung – hier ein paar Ideen zum Klauen:"
+teamNamesIntro: "Bevor der erste Ball fliegt, braucht jedes Team einen Namen. Ein guter Beer-Pong-Team-Name bringt schon vor dem Anstoß Stimmung – hier ein paar Ideen zum Klauen:"
 teamNames:
   - name: Pong Stars
   - name: Die Bechervernichter
@@ -128,7 +128,7 @@ teamNames:
   - name: Die Konterbiere
   - name: 2 Promille, 1 Ziel
   - name: Die Prosecco-Fraktion
-teamNamesTip: "Wer es persönlicher mag, kombiniert einfach die Vornamen beider Teampartner zu einem Wortwitz – das sorgt garantiert für Lacher in der Runde."
+teamNamesTip: "Wer es persönlicher mag, bastelt aus den Vornamen beider Teampartner einen Wortwitz – damit habt ihr die Lacher schon vor dem ersten Wurf auf eurer Seite."
 ---
 
 <div class="game__tldr">
@@ -164,9 +164,9 @@ teamNamesTip: "Wer es persönlicher mag, kombiniert einfach die Vornamen beider 
   </ul>
 </nav>
 
-Beer Pong ist der wohl bekannteste Vertreter unter allen Trinkspielen und gilt als absoluter Klassiker auf jeder Party. Ursprünglich an US-amerikanischen Colleges entstanden, hat sich das Spiel längst weltweit etabliert – es gibt mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** sogar offizielle Turniere und Meisterschaften. Das Prinzip ist denkbar einfach: Zwei Teams stehen sich an einem langen Tisch gegenüber und versuchen abwechselnd, einen Tischtennisball in die Becherpyramide des Gegners zu werfen.
+Beer Pong ist der wohl bekannteste Vertreter unter allen Trinkspielen und ein Klassiker auf jeder Party. Entstanden an US-amerikanischen Colleges, ist das Spiel längst weltweit angekommen – mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** gibt es sogar offizielle Turniere und Meisterschaften. Das Prinzip ist denkbar simpel: Zwei Teams stehen sich an einem langen Tisch gegenüber und werfen abwechselnd einen Tischtennisball in die Becherpyramide des Gegners.
 
-Der besondere Reiz von Beer Pong liegt in der Mischung aus Treffsicherheit, Nervenstärke und Teamgeist. Anders als beim chaotischen [Rage Cage]({{ '/rage-cage/' | url }}) zählt hier vor allem die ruhige Hand und ein sauberer, gleichmäßiger Wurf. Je weiter das Spiel fortschreitet und je weniger Becher übrig sind, desto höher wird der Druck – die letzten Treffer entscheiden oft erst in der Verlängerung. Genau diese Spannung macht Beer Pong auch nach unzähligen Runden immer wieder neu unterhaltsam.
+Der Reiz von Beer Pong liegt in der Mischung aus Treffsicherheit, Nervenstärke und Teamgeist. Anders als beim chaotischen [Rage Cage]({{ '/rage-cage/' | url }}) zählt hier die ruhige Hand und ein sauberer, gleichmäßiger Wurf. Je weiter das Spiel läuft und je weniger Becher übrig sind, desto höher der Druck – die letzten Treffer fallen oft erst in der Verlängerung. Genau diese Spannung trägt Beer Pong über unzählige Runden.
 
 <h2 id="geschichte">Beer Pong: Geschichte &amp; Herkunft</h2>
 
@@ -174,9 +174,9 @@ Die Wurzeln von Beer Pong reichen bis in die **1950er- und 60er-Jahre** an das *
 
 Diese schlägerlose Wurf-Version verbreitete sich in den **1980er-Jahren** über US-amerikanische Studentenverbindungen und war zunächst vielerorts unter dem Namen **„Beirut"** bekannt. Heute meint „Beer Pong" in den allermeisten Fällen genau diese geworfene Variante, die wir auch in dieser Anleitung beschreiben.
 
-Aus dem College-Zeitvertreib ist längst ein ernstzunehmender Wettbewerb geworden: Mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** (seit 2006 in Las Vegas) gibt es offizielle Turniere mit festen Regelwerken und Preisgeldern. Nach Deutschland, Österreich und in die Schweiz kam Beer Pong über die Party- und Festivalkultur – heute gehört es hier zu den beliebtesten Trinkspielen überhaupt.
+Aus dem College-Zeitvertreib ist längst ein ernstzunehmender Wettbewerb geworden: Mit der Organisation **BPONG** und der jährlichen **World Series of Beer Pong** (seit 2006 in Las Vegas) gibt es offizielle Turniere mit festen Regelwerken und Preisgeldern. Nach Deutschland, Österreich und in die Schweiz kam Beer Pong über die Party- und Festivalkultur – heute gehört es auch hier zu den beliebtesten Trinkspielen.
 
-Beer Pong eignet sich perfekt für Hauspartys, Geburtstage, WG-Feiern und Vorglüh-Runden, bei denen ein bisschen Wettkampf für Stimmung sorgen soll. Die Grundregeln sind in wenigen Minuten erklärt, das Equipment hat fast jeder zuhause, und dank zahlreicher optionaler Hausregeln lässt sich das Spiel flexibel an jede Gruppe anpassen – vom entspannten Einsteiger-Match bis zum ehrgeizigen Turnier.
+Beer Pong passt auf jede Hausparty, jeden Geburtstag, jede WG-Feier und in jede Vorglüh-Runde, in der ein bisschen Wettkampf nicht schadet. Die Grundregeln sitzen in wenigen Minuten, das Equipment hat fast jeder zu Hause, und über die vielen optionalen Hausregeln passt du das Spiel an jede Gruppe an – vom entspannten Einsteiger-Match bis zum ehrgeizigen Turnier.
 
 <h2 id="spielablauf">Beer Pong Spielablauf in 5 Schritten</h2>
 
@@ -198,7 +198,7 @@ Lieber zuschauen statt lesen? Dieses Video erklärt Aufbau und Ablauf in wenigen
 
 <h2 id="aufbau">Beer Pong Aufbau: Wie viele Becher und welche Aufstellung?</h2>
 
-Der klassische Beer-Pong-Aufbau besteht aus **zwei Becher-Pyramiden** – eine an jedem Tischende. Pro Team werden dabei **10 Becher in der Anordnung 4-3-2-1** dicht zusammengeschoben, sodass die Pyramide auf den Gegner zeigt. Insgesamt brauchst du also **20 Becher**.
+Der klassische Beer-Pong-Aufbau besteht aus **zwei Becher-Pyramiden** – eine an jedem Tischende. Pro Team schiebst du **10 Becher in der Anordnung 4-3-2-1** dicht zusammen, sodass die Spitze auf den Gegner zeigt. Macht zusammen **20 Becher**.
 
 <figure class="game__diagram">
   <svg viewBox="0 0 300 470" role="img" aria-label="Beer Pong Tisch von oben: zwei gespiegelte Becher-Pyramiden aus je 10 Bechern (Anordnung 4-3-2-1) an beiden Tischenden, dazu ein optionaler Wasserbecher rechts an der Tischkante." xmlns="http://www.w3.org/2000/svg">
@@ -237,9 +237,9 @@ Der klassische Beer-Pong-Aufbau besteht aus **zwei Becher-Pyramiden** – eine a
   <figcaption>Beer Pong Aufbau von oben: pro Seite 10 Becher als 4-3-2-1-Pyramide, Spitze zur Tischmitte. Der gestrichelte Wasserbecher (zum Abspülen des Balls) steht optional vom Werfer aus rechts an der Tischkante.</figcaption>
 </figure>
 
-Jeder Becher wird etwa zu einem Drittel mit Bier (oder einem alkoholfreien Getränk) gefüllt. Zusätzlich gehört an jede Tischseite ein Wasserbecher, in dem die Bälle zwischen den Würfen abgespült werden. Soll es schneller gehen, spielt ihr mit einer kleineren Aufstellung aus **6 Bechern (3-2-1)** pro Team.
+Jeder Becher wird etwa zu einem Drittel mit Bier (oder einem alkoholfreien Getränk) gefüllt. An jede Tischseite gehört zusätzlich ein Wasserbecher, in dem die Bälle zwischen den Würfen abgespült werden. Soll es schneller gehen, spielt ihr mit einer kleineren Aufstellung aus **6 Bechern (3-2-1)** pro Team.
 
-Wichtig für eine saubere Aufstellung: Die Becher müssen sich gegenseitig berühren, damit die Pyramide stabil steht und beim „Re-Rack“ – dem einmaligen Neuanordnen der Becher – schnell wieder in Form gebracht werden kann.
+Wichtig für eine saubere Aufstellung: Die Becher müssen sich berühren. Nur so steht die Pyramide stabil und lässt sich beim „Re-Rack“ – dem einmaligen Neuanordnen der Becher – schnell wieder in Form bringen.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/beer-pong-aufstellungen.svg' | url }}" width="600" height="210" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Aufstellungen nach Becherzahl: 10 Becher als 4-3-2-1-Pyramide, 6 Becher als 3-2-1 und 3 Becher als 2-1 für die Verlängerung">
@@ -248,18 +248,18 @@ Wichtig für eine saubere Aufstellung: Die Becher müssen sich gegenseitig berü
 
 <h2 id="tisch-masse">Beer Pong Tisch: Offizielle Maße &amp; Länge</h2>
 
-Ein **offizieller Beer-Pong-Tisch** ist **2,44 Meter (8 Fuß) lang** und **60 cm breit**, die Höhe liegt bei rund **70 cm**. Diese Maße stammen aus den US-Turnierregeln und sorgen für die ideale Wurfdistanz zwischen den beiden Pyramiden.
+Ein **offizieller Beer-Pong-Tisch** ist **2,44 Meter (8 Fuß) lang** und **60 cm breit**, die Höhe liegt bei rund **70 cm**. Diese Maße stammen aus den US-Turnierregeln und ergeben die ideale Wurfdistanz zwischen den beiden Pyramiden.
 
 <figure class="game__diagram">
   <img src="{{ '/assets/beer-pong-tisch-masse.svg' | url }}" width="560" height="270" loading="lazy" decoding="async" eleventy:ignore alt="Beer Pong Tisch Maße: 2,44 Meter lang, 60 cm breit, Höhe ca. 70 cm, mit je einer Becher-Pyramide an beiden Enden">
   <figcaption>Offizielle Beer-Pong-Tisch-Maße: 2,44 m lang, 60 cm breit, ca. 70 cm hoch.</figcaption>
 </figure>
 
-Für die Heim-Party musst du aber keinen speziellen Tisch kaufen: Eine **Tischtennisplatte**, ein langer Esstisch oder zwei zusammengeschobene Klapptische funktionieren genauso gut. Entscheidend ist nur, dass der Tisch stabil steht und lang genug ist, damit der Wurf eine echte Herausforderung bleibt – als grobe Richtschnur gelten rund 2,4 Meter Länge.
+Für die Heim-Party musst du aber keinen speziellen Tisch kaufen: Eine **Tischtennisplatte**, ein langer Esstisch oder zwei zusammengeschobene Klapptische tun es genauso. Wichtig ist nur, dass der Tisch stabil steht und lang genug ist, damit der Wurf eine echte Herausforderung bleibt – als grobe Richtschnur gelten rund 2,4 Meter Länge.
 
 <h2 id="wurftechnik">Beer Pong Wurftechnik: Tricks, Kniffe &amp; Trickshots</h2>
 
-Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholbaren Wurftechnik**. Wer den richtigen Bogen trifft, versenkt deutlich zuverlässiger – und genau das entscheidet enge Spiele.
+Beer Pong gewinnst du nicht mit Kraft, sondern mit einer **sauberen, wiederholbaren Wurftechnik**. Wer den richtigen Bogen trifft, versenkt deutlich zuverlässiger – und das entscheidet enge Spiele.
 
 <figure class="game__diagram game__diagram--wide">
   <svg viewBox="0 0 480 220" role="img" aria-label="Wurftechnik beim Beer Pong: Ein hoher Bogenwurf fällt sauber in den Becher, während ein flacher, harter Wurf am Becherrand abspringt." xmlns="http://www.w3.org/2000/svg">
@@ -307,7 +307,7 @@ Beer Pong gewinnt man nicht mit Kraft, sondern mit einer **sauberen, wiederholba
 
 <h2 id="varianten">Beer Pong Varianten &amp; beliebte Hausregeln</h2>
 
-Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede Gruppe hat ihre eigenen Hausregeln. Diese Varianten solltest du kennen:
+Kaum ein Trinkspiel wird so unterschiedlich gespielt wie Beer Pong – fast jede Gruppe hat ihre eigenen Hausregeln. Diese hier solltest du kennen:
 
 <div class="game__variants">
   <div class="game__variant">

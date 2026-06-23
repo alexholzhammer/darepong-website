@@ -55,7 +55,7 @@ tips:
     text: "Legt vor dem ersten Wurf fest, wie viel ein Loch-Treffer und ein Fehlwurf kosten. So bleibt der Spaß im Vordergrund."
   - icon: "🤝"
     title: "Stark gemischt aufstellen"
-    text: "Verteilt geübte und neue Werfer gleichmäßig auf beide Teams. Ausgeglichene Teams sorgen für spannende Runden bis 21."
+    text: "Verteilt geübte und neue Werfer gleichmäßig auf beide Teams. Dann bleibt es bis zur 21 spannend."
 faq:
   - q: "Was ist das Cornhole Trinkspiel?"
     a: "Cornhole – auch „Sackloch“ oder „Maislochspiel“ genannt – ist ein Outdoor-Wurfspiel als Trinkspiel. Zwei Teams werfen abwechselnd je vier Säckchen auf ein gegenüberliegendes Holzbrett mit Loch. Treffer auf dem Brett bringen 1 Punkt, ins Loch 3 Punkte. Für jedes versenkte Säckchen trinkt das Gegnerteam, das Verliererteam trinkt am Ende."
@@ -97,9 +97,9 @@ faq:
   </ul>
 </nav>
 
-**Cornhole** – auch **„Sackloch“** oder **„Maislochspiel“** genannt – ist ein **Outdoor-Wurfspiel**, das sich perfekt in ein geselliges Trinkspiel verwandeln lässt. Zwei Teams stehen sich mit ihren schrägen Boards gegenüber und werfen abwechselnd ihre maisgefüllten Säckchen Richtung Loch. Ruhige Hand und ein guter Bogen entscheiden, wer trifft und wer trinkt.
+**Cornhole** – auch **„Sackloch“** oder **„Maislochspiel“** genannt – ist ein **Outdoor-Wurfspiel**, das sich leicht in ein Trinkspiel verwandeln lässt. Zwei Teams stehen sich mit ihren schrägen Boards gegenüber und werfen abwechselnd ihre maisgefüllten Säckchen Richtung Loch. Ruhige Hand und ein guter Bogen entscheiden, wer trifft und wer trinkt.
 
-Der Reiz steckt im einfachen Prinzip mit cleverer Wertung: Liegen bleiben bringt einen Punkt, das Loch gleich drei – und weil nur die Differenz beider Teams zählt, dreht sich die Führung oft erst auf den letzten Metern bis 21. Jedes versenkte Säckchen schickt prompt das andere Team zum Glas.
+Das Prinzip ist simpel, die Wertung clever: Liegen bleiben bringt einen Punkt, das Loch gleich drei. Und weil nur die Differenz beider Teams zählt, dreht sich die Führung oft erst kurz vor der 21. Jedes versenkte Säckchen schickt das andere Team zum Glas.
 
 <h2 id="was-ist">Was ist Cornhole?</h2>
 
@@ -135,13 +135,13 @@ In der Trink-Variante trinkt das Gegnerteam für jedes versenkte Säckchen, jede
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Schwächere Hand</span>
-      <p>Geworfen wird mit der schwächeren Hand. Das gleicht geübte Werfer aus und sorgt für deutlich mehr Fehlwürfe – und damit mehr Schlucke.</p>
+      <p>Geworfen wird mit der schwächeren Hand. Das gleicht geübte Werfer aus, und es gibt deutlich mehr Fehlwürfe – also mehr Schlucke.</p>
     </div>
   </div>
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Alkoholfrei</span>
-      <p>Statt zu trinken übernimmt das Gegnerteam bei jedem versenkten Säckchen eine kleine Aufgabe. Der sportliche Wettkampf bleibt voll erhalten.</p>
+      <p>Statt zu trinken übernimmt das Gegnerteam bei jedem versenkten Säckchen eine kleine Aufgabe. Der sportliche Wettkampf bleibt.</p>
     </div>
   </div>
   <div class="game__variant">

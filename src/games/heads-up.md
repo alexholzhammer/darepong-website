@@ -104,11 +104,11 @@ faq:
   </ul>
 </nav>
 
-**Heads Up** ist ein blitzschnelles **Begriffe-Ratespiel**, das vor allem durch die gleichnamige **App von Ellen DeGeneres** bekannt geworden ist. Das **Heads Up Spiel** funktioniert nach einem simplen, aber genialen Prinzip: Ein Spieler hält sich das Smartphone an die Stirn und sieht den Begriff selbst nicht – sein Team muss ihn in 60 Sekunden zum Erraten bringen.
+**Heads Up** ist ein blitzschnelles **Begriffe-Ratespiel**, das vor allem durch die gleichnamige **App von Ellen DeGeneres** bekannt wurde. Das Prinzip ist simpel: Ein Spieler hält sich das Smartphone an die Stirn und sieht den Begriff selbst nicht – sein Team muss ihn in 60 Sekunden dazu bringen, ihn zu erraten.
 
-Der Reiz liegt im Tempo. Sekunde für Sekunde tickt der Timer, das Team ruft Hinweise durcheinander, und mit jedem Treffer wandert das Handy nach unten zum nächsten Begriff. Genau diese Hektik macht **Heads Up** zu einem perfekten Partyspiel für jede Runde.
+Der Reiz liegt im Tempo. Der Timer läuft, das Team ruft Hinweise durcheinander, und mit jedem Treffer wandert das Handy nach unten zum nächsten Begriff. Diese Hektik macht **Heads Up** zum starken Partyspiel.
 
-Das Beste: Du brauchst nicht zwingend die App. Mit selbst beschrifteten Kärtchen und einem Timer lässt sich das „Stirnraten“ überall spielen – ähnlich spontan wie [Wer würde eher]({{ '/wer-wuerde-eher/' | url }}) oder [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
+Eine App brauchst du nicht zwingend. Mit selbst beschrifteten Kärtchen und einem Timer lässt sich das „Stirnraten“ überall spielen – ähnlich spontan wie [Wer würde eher]({{ '/wer-wuerde-eher/' | url }}) oder [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
 
 <h2 id="was-ist">Was ist Heads Up?</h2>
 

@@ -9,7 +9,7 @@ rulesPdf: /assets/picolo-regeln.pdf
 rulesPdfLabel: "Picolo Regeln als PDF herunterladen"
 rulesTitle: "Picolo Regeln"
 tipsTitle: "Picolo Tipps"
-shortDescription: Das Trinkspiel-App-Phänomen für den Partystart – einfach alle Namen eingeben, Handy reihum geben und die persönlichen Aufgaben der App vorlesen. Mal witzig, mal frech, mal gemein – Picolo bringt die Runde in Minuten in Stimmung.
+shortDescription: Die Trinkspiel-App für den Partystart – alle Namen eingeben, Handy reihum geben und die persönlichen Aufgaben der App vorlesen. Mal witzig, mal frech, mal gemein. Picolo bringt die Runde in Minuten in Stimmung.
 players:
   min: 2
   max: 10
@@ -102,13 +102,13 @@ faq:
   </ul>
 </nav>
 
-**Picolo** ist eines der bekanntesten **Trinkspiel-Apps** und für viele der schnellste Weg, eine Runde in Stimmung zu bringen. Statt Regeln zu erklären oder Equipment aufzubauen, gibst du einfach die Namen ein – und die App übernimmt als **Spielleiter**. Sie stellt personalisierte Aufgaben, sagt, wer trinkt, und sorgt mit frechen Challenges für Lacher.
+**Picolo** ist eine der bekanntesten **Trinkspiel-Apps** und für viele der schnellste Weg, eine Runde in Stimmung zu bringen. Du musst keine Regeln erklären und nichts aufbauen, du gibst nur die Namen ein – den Rest übernimmt die App als **Spielleiter**. Sie stellt personalisierte Aufgaben, sagt, wer trinkt, und bringt mit frechen Challenges die Runde zum Lachen.
 
-Gerade beim **Vorglühen** oder als Eisbrecher in neuen Runden ist Picolo stark, weil es keinerlei Vorbereitung braucht. Wer es danach noch wilder mag, kombiniert die App mit einem physischen Spiel wie [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) oder mutigen Dare-Karten.
+Beim **Vorglühen** oder als Eisbrecher in neuen Runden ist Picolo stark, weil es keine Vorbereitung braucht. Wer es danach wilder mag, kombiniert die App mit einem physischen Spiel wie [Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) oder mutigen Dare-Karten.
 
 <h2 id="was-ist">Was ist Picolo?</h2>
 
-Picolo ist ein **digitales Trinkspiel** für das Smartphone. Nach der Eingabe aller Namen generiert die App eine endlose Folge kurzer **Aufgaben und Trink-Challenges**, die direkt einzelne Spieler ansprechen. Du brauchst nichts außer einem geladenen Handy – damit zählt Picolo zu den Trinkspielen, die praktisch **ohne Material** auskommen, ähnlich wie [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
+Picolo ist ein **digitales Trinkspiel** für das Smartphone. Sobald alle Namen eingetippt sind, liefert die App eine endlose Folge kurzer **Aufgaben und Trink-Challenges**, die einzelne Spieler direkt ansprechen. Mehr als ein geladenes Handy brauchst du nicht. Damit zählt Picolo zu den Trinkspielen, die praktisch **ohne Material** auskommen, ähnlich wie [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}).
 
 <h2 id="prinzip">So funktioniert die App</h2>
 

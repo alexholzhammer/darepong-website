@@ -69,7 +69,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Roxanne in 30 Sekunden</strong>
-    <p>Beim Roxanne Trinkspiel wird die Runde in zwei Teams geteilt und der Song „Roxanne“ von The Police gespielt. Ein Team trinkt bei jedem „Roxanne“, das andere bei jedem „Put on the red light“. Weil sich beide Phrasen häufen und überschneiden, wird es immer schneller – wer durchhält, gewinnt.</p>
+    <p>Beim Roxanne Trinkspiel wird die Runde in zwei Teams geteilt, dann läuft der Song „Roxanne“ von The Police. Ein Team trinkt bei jedem „Roxanne“, das andere bei jedem „Put on the red light“. Weil sich beide Phrasen häufen und überschneiden, wird es immer schneller. Wer durchhält, gewinnt.</p>
   </div>
 </div>
 
@@ -94,13 +94,13 @@ faq:
   </ul>
 </nav>
 
-Manche Trinkspiele brauchen Karten, Würfel und einen langen Aufbau – **Roxanne** braucht nur einen einzigen Song. Das Lied-Trinkspiel zum Klassiker „Roxanne“ von The Police ist in unter drei Minuten erklärt und gespielt und gehört damit zu den schnellsten und intensivsten Partyspielen überhaupt.
+Manche Trinkspiele brauchen Karten, Würfel und einen langen Aufbau. **Roxanne** braucht nur einen einzigen Song. Das Lied-Trinkspiel zum Klassiker „Roxanne“ von The Police ist in unter drei Minuten erklärt und gespielt und gehört damit zu den schnellsten Partyspielen überhaupt.
 
-Der Reiz von **Roxanne** liegt im Tempo: Was harmlos beginnt, eskaliert mit jeder Strophe, weil sich die beiden Trinkphrasen immer dichter aneinanderreihen. Genau deshalb ist es der perfekte kurze Wettkampf für zwischendurch – und genau deshalb solltest du es mit leichten oder alkoholfreien Getränken spielen.
+Der Reiz von **Roxanne** liegt im Tempo: Was harmlos beginnt, eskaliert mit jeder Strophe, weil sich die beiden Trinkphrasen immer dichter aneinanderreihen. Ein kurzer Wettkampf für zwischendurch. Spiel ihn am besten mit leichten oder alkoholfreien Getränken.
 
 <h2 id="was-ist">Was ist das Roxanne-Trinkspiel?</h2>
 
-Roxanne ist ein **Lied-Trinkspiel**: Die Spielregeln hängen direkt am Text des Songs „Roxanne“ von The Police. Die Runde wird in zwei Teams geteilt. Das eine Team reagiert auf das Wort „Roxanne“, das andere auf die Zeile „Put on the red light“. Bei jeder zugeteilten Phrase trinkt das jeweilige Team einen Schluck. Da im Refrain beide Phrasen dicht aufeinanderfolgen, entsteht ein rasantes Wechselspiel, das bis zum Songende immer schneller wird.
+Roxanne ist ein **Lied-Trinkspiel**: Die Regeln hängen direkt am Text des Songs „Roxanne“ von The Police. Die Runde wird in zwei Teams geteilt. Das eine Team reagiert auf das Wort „Roxanne“, das andere auf die Zeile „Put on the red light“. Bei seiner Phrase trinkt das jeweilige Team einen Schluck. Im Refrain folgen beide Phrasen dicht aufeinander, und es entsteht ein rasantes Wechselspiel, das bis zum Songende immer schneller wird.
 
 
 <figure class="game__diagram">
@@ -110,7 +110,7 @@ Roxanne ist ein **Lied-Trinkspiel**: Die Spielregeln hängen direkt am Text des 
 
 <h2 id="ablauf">So läuft eine Runde ab</h2>
 
-Eine Runde dauert nur so lange wie der Song – rund drei Minuten. So läuft sie ab:
+Eine Runde dauert nur so lange wie der Song, also rund drei Minuten. So läuft sie ab:
 
 - **Teams bilden:** Teilt die Runde in zwei gleich große Teams auf.
 - **Phrasen verteilen:** Team A bekommt „Roxanne“, Team B bekommt „Put on the red light“.
@@ -139,13 +139,13 @@ Wer bis zum letzten Ton durchhält und nicht aussteigt, gewinnt für sein Team.
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Solo-Duell</span>
-      <p>Statt Teams treten zwei einzelne Spieler gegeneinander an – einer pro Phrase. Eine knallharte Mutprobe für zwei, bei der nur der Stärkere durchhält.</p>
+      <p>Statt Teams treten zwei einzelne Spieler gegeneinander an, einer pro Phrase. Ein knallhartes Duell für zwei, bei dem nur der Stärkere durchhält.</p>
     </div>
   </div>
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Weitere Lied-Trinkspiele</span>
-      <p>Das Prinzip lässt sich auf andere Songs übertragen: Sucht euch ein Lied mit häufig wiederkehrenden Wörtern und teilt sie auf die Teams auf – eigenes Lied-Trinkspiel fertig.</p>
+      <p>Das Prinzip lässt sich auf andere Songs übertragen: Sucht euch ein Lied mit häufig wiederkehrenden Wörtern und teilt sie auf die Teams auf. Schon habt ihr euer eigenes Lied-Trinkspiel.</p>
     </div>
   </div>
 </div>

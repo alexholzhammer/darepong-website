@@ -106,15 +106,15 @@ faq:
   </ul>
 </nav>
 
-**Bierball** ist die schnelle, kompakte Schwester von [Flunkyball]({{ '/flunkyball/' | url }}) – und einer der größten Aufsteiger unter den deutschen **Outdoor-Trinkspielen**. Statt einer gemeinsamen Zielflasche in der Mitte verteidigt hier **jedes Team seine eigene Flasche**. Das macht das Spiel dynamischer, kürzer und perfekt für spontane Duelle im Park, am See oder auf dem Festival.
+**Bierball** ist die schnelle, kompakte Schwester von [Flunkyball]({{ '/flunkyball/' | url }}) – und einer der größten Aufsteiger unter den deutschen **Outdoor-Trinkspielen**. Statt einer gemeinsamen Zielflasche in der Mitte verteidigt hier **jedes Team seine eigene Flasche**. Das macht das Spiel dynamischer, kürzer und ideal für spontane Duelle im Park, am See oder auf dem Festival.
 
-Weil Bierball meist als **2 gegen 2** gespielt wird, ist es schon mit wenigen Leuten startklar. Man braucht kaum Equipment, die Regeln sind in einer Minute erklärt – und durch das gleichzeitige Werfen entsteht von der ersten Sekunde an Tempo und Wettkampf.
+Weil Bierball meist als **2 gegen 2** läuft, seid ihr schon mit wenigen Leuten startklar. Du brauchst kaum Equipment, die Regeln sitzen nach einer Minute – und durch das gleichzeitige Werfen entsteht von der ersten Sekunde an Tempo und Wettkampf.
 
 <h2 id="was-ist">Was ist Bierball?</h2>
 
-Bierball ist ein **Wurf-Trinkspiel für draußen**, bei dem zwei Teams gegeneinander antreten. Jedes Team stellt eine **volle Flasche** auf seine Grundlinie und versucht, mit einem Ball die Flasche des Gegners umzuwerfen. Gelingt das, darf das werfende Team trinken – so lange, bis das getroffene Team den Ball geholt, die Flasche wieder aufgestellt und **„Stopp!“** gerufen hat. Welches Team als Erstes alle eigenen Getränke geleert hat, gewinnt.
+Bierball ist ein **Wurf-Trinkspiel für draußen**, bei dem zwei Teams gegeneinander antreten. Jedes Team stellt eine **volle Flasche** auf seine Grundlinie und will mit einem Ball die Flasche des Gegners umwerfen. Gelingt das, darf das werfende Team trinken – so lange, bis das getroffene Team den Ball geholt, die Flasche wieder aufgestellt und **„Stopp!“** gerufen hat. Wer als Erstes alle eigenen Getränke leert, gewinnt.
 
-Im Gegensatz zum Tisch-Klassiker [Beer Pong]({{ '/beer-pong/' | url }}) wird bei Bierball gestanden, gerannt und gleichzeitig geworfen – das sorgt für deutlich mehr Bewegung und Hektik.
+Anders als beim Tisch-Klassiker [Beer Pong]({{ '/beer-pong/' | url }}) wird bei Bierball gestanden, gerannt und gleichzeitig geworfen – also deutlich mehr Bewegung und Hektik.
 
 <h2 id="aufbau">Aufbau &amp; Spielfeld</h2>
 
@@ -150,7 +150,7 @@ Bierball und [Flunkyball]({{ '/flunkyball/' | url }}) werden oft verwechselt. De
   <figcaption>Bierball vs. Flunkyball – zwei eigene Flaschen und gleichzeitiges Werfen gegen eine gemeinsame Zielflasche und abwechselndes Werfen.</figcaption>
 </figure>
 
-**Bierball** ist kompakter, schneller und ideal für kleine Runden zu viert. **[Flunkyball]({{ '/flunkyball/' | url }})** braucht mehr Platz, funktioniert dafür auch mit großen Teams. Wer beides kennenlernen will, spielt am besten beide Varianten hintereinander.
+**Bierball** ist kompakter, schneller und ideal für kleine Runden zu viert. **[Flunkyball]({{ '/flunkyball/' | url }})** braucht mehr Platz, läuft dafür auch mit großen Teams. Wer beides ausprobieren will, spielt einfach beide Varianten hintereinander.
 
 <h2 id="varianten">Beliebte Bierball-Varianten</h2>
 

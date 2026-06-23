@@ -107,15 +107,15 @@ faq:
   </ul>
 </nav>
 
-Das **Kniffel-Trinkspiel** ist die Trinkspiel-Variante des berühmten Würfelklassikers **Kniffel** (international als **Yahtzee** bekannt). Die Grundregeln bleiben dieselben – fünf Würfel, bis zu drei Würfe pro Zug und ein Spielblock voller Kategorien – ergänzt um ein paar geschickte Trink-Regeln, die schlechte Würfe bestrafen und einen echten Kniffel belohnen.
+Das **Kniffel-Trinkspiel** ist die Trinkspiel-Variante des Würfelklassikers **Kniffel** (international **Yahtzee**). Die Grundregeln bleiben dieselben – fünf Würfel, bis zu drei Würfe pro Zug und ein Spielblock voller Kategorien – dazu kommen ein paar Trink-Regeln, die schlechte Würfe bestrafen und einen echten Kniffel belohnen.
 
-Der Reiz liegt in der Mischung aus Glück und Taktik: Setzt du den letzten Wurf aufs Ganze, um den Kniffel zu landen und Schlücke zu verteilen? Oder sicherst du lieber Punkte, damit du am Ende nicht als Letzter dastehst? Genau dieses Abwägen macht das **Kniffel Trinkspiel** über viele Runden spannend – ähnlich wie das taktische Pokern beim [Würfelpoker]({{ '/wuerfelpoker/' | url }}).
+Der Reiz liegt im Abwägen zwischen Glück und Taktik: Setzt du den letzten Wurf aufs Ganze, um den Kniffel zu landen und Schlücke zu verteilen? Oder sicherst du lieber Punkte, um am Ende nicht als Letzter dazustehen? Diese Frage hält das Spiel über viele Runden spannend – ähnlich wie das Pokern beim [Würfelpoker]({{ '/wuerfelpoker/' | url }}).
 
-Du brauchst kaum Material: fünf Würfel, einen Block pro Spieler und Getränke nach Wahl. Schon kann der Würfelabend losgehen.
+Material brauchst du kaum: fünf Würfel, einen Block pro Spieler und Getränke. Mehr nicht.
 
 <h2 id="was-ist">Was ist das Kniffel-Trinkspiel?</h2>
 
-Das Kniffel-Trinkspiel ist ein **geselliges Würfel-Trinkspiel** für 2 bis 6 Personen, das auf den klassischen Kniffel-Regeln aufbaut. Jeder Spieler füllt über mehrere Runden seinen eigenen Spielblock und versucht, möglichst viele Punkte zu sammeln. Wer streichen muss, am schlechtesten würfelt oder am Ende die wenigsten Punkte hat, trinkt – wer dagegen einen Kniffel landet, darf Schlücke verteilen.
+Das Kniffel-Trinkspiel ist ein **geselliges Würfel-Trinkspiel** für 2 bis 6 Personen und baut auf den klassischen Kniffel-Regeln auf. Jeder füllt über mehrere Runden seinen eigenen Spielblock und sammelt möglichst viele Punkte. Wer streichen muss, am schlechtesten würfelt oder am Ende die wenigsten Punkte hat, trinkt – wer einen Kniffel landet, darf Schlücke verteilen.
 
 
 <figure class="game__diagram">
@@ -166,7 +166,7 @@ Der Spielblock teilt sich in einen oberen und einen unteren Block. Hier die Kate
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Speed-Kniffel</span>
-      <p>Statt drei Würfen gibt es nur einen einzigen Wurf pro Zug. Das macht das Spiel schneller, hektischer – und sorgt für deutlich mehr Strichkategorien und Schlücke.</p>
+      <p>Statt drei Würfen gibt es nur einen einzigen Wurf pro Zug. Das macht das Spiel schneller und hektischer – und es landen deutlich mehr Striche und Schlücke auf dem Block.</p>
     </div>
   </div>
   <div class="game__variant">

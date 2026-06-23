@@ -104,9 +104,9 @@ faq:
   </ul>
 </nav>
 
-**Flip Cup** – im deutschsprachigen Raum auch **„Becher-Flippen“** und international als **„Tippy Cup“** oder **„Flip the Cup“** bekannt – ist ein rasantes **Team-Trinkspiel** aus den USA und gehört dort zu den absoluten Party-Standards. Anders als bei [Beer Pong]({{ '/beer-pong/' | url }}), wo es auf Treffsicherheit ankommt, ist Flip Cup eine reine Geschwindigkeits-Staffel: möglichst schnell austrinken und den Becher mit einem geschickten Schnipp umdrehen.
+**Flip Cup** – im deutschsprachigen Raum auch **„Becher-Flippen“** und international als **„Tippy Cup“** oder **„Flip the Cup“** bekannt – ist ein rasantes **Team-Trinkspiel** aus den USA und dort ein Party-Standard. Anders als bei [Beer Pong]({{ '/beer-pong/' | url }}), wo es auf Treffsicherheit ankommt, ist Flip Cup eine reine Geschwindigkeits-Staffel: möglichst schnell austrinken und den Becher mit einem geschickten Schnipp umdrehen.
 
-Das Besondere an Flip Cup ist der Staffel-Charakter und der unmittelbare Wettkampf Kopf an Kopf. Da immer nur ein Spieler pro Team gleichzeitig an der Reihe ist, fiebert die ganze Gruppe mit – ein einziger misslungener Flip kann ein Team von der Spitze zurückwerfen. Genau dieser Druck sorgt für lautstarkes Anfeuern und macht das Spiel innerhalb von Sekunden zum Stimmungsmacher. Eine Runde dauert oft nur eine Minute, weshalb meist gleich mehrere Durchgänge hintereinander gespielt werden.
+Der Reiz liegt im Staffel-Charakter und im direkten Kopf-an-Kopf-Duell. Weil immer nur ein Spieler pro Team an der Reihe ist, fiebert die ganze Gruppe mit – ein einziger misslungener Flip kann ein Team von der Spitze zurückwerfen. Unter diesem Druck wird laut angefeuert, und das Spiel kippt in Sekunden in Partystimmung. Eine Runde dauert oft nur eine Minute, deshalb spielt man meist gleich mehrere hintereinander.
 
 <h2 id="was-ist">Was ist Flip Cup?</h2>
 
@@ -156,7 +156,7 @@ Flip Cup lässt sich beliebig aufpeppen – besonders beliebt bei großen Gruppe
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Wechselhand</span>
-      <p>Geflippt wird mit der schwächeren Hand – sorgt für Chaos und gleicht geübte Spieler aus.</p>
+      <p>Geflippt wird mit der schwächeren Hand. Das stiftet Chaos und gleicht geübte Spieler aus.</p>
     </div>
   </div>
   <div class="game__variant">

@@ -9,7 +9,7 @@ rulesPdf: /assets/jenga-trinkspiel-regeln.pdf
 rulesPdfLabel: "Jenga Trinkspiel Regeln als PDF herunterladen"
 rulesTitle: "Jenga Trinkspiel Regeln"
 tipsTitle: "Jenga Trinkspiel Tipps"
-shortDescription: Wackelturm trifft Trinkspiel – jeder gezogene Klotz trägt eine Aufgabe, und wer den Turm zum Einsturz bringt, muss kräftig trinken.
+shortDescription: Wackelturm trifft Trinkspiel – jeder gezogene Klotz trägt eine Aufgabe, und wer den Turm umwirft, muss kräftig trinken.
 players:
   min: 2
   max: 8
@@ -52,7 +52,7 @@ tips:
     text: "Ein wackelfreier Tisch macht das Ziehen fairer und den Einsturz seltener – sonst gewinnt der Zufall."
   - icon: "👥"
     title: "Gruppen-Aufgaben rein"
-    text: "Schreibt ein paar Aufgaben mit Bezug zur Gruppe auf die Klötze – das sorgt für die lustigsten Momente."
+    text: "Schreibt ein paar Aufgaben mit Bezug zur Gruppe auf die Klötze – die ziehen am Tisch die lautesten Lacher."
   - icon: "🍺"
     title: "Lieber leichte Drinks"
     text: "Gegen Ende wackelt es mit steigendem Pegel deutlich mehr – mit leichten Getränken hält der Turm länger."
@@ -97,13 +97,13 @@ faq:
   </ul>
 </nav>
 
-Das **Jenga Trinkspiel** – auch **„Wackelturm-Trinkspiel“** oder **„Drunk Jenga“** genannt – verbindet den bekannten Geschicklichkeitsklassiker mit einer ordentlichen Portion Partyspaß. Die Grundidee ist denkbar einfach: Jeder Holzklotz des Turms wird vorab mit einer kleinen Aufgabe oder Trinkregel beschriftet, und wer einen Klotz zieht, muss tun, was draufsteht.
+Das **Jenga Trinkspiel** – auch **„Wackelturm-Trinkspiel“** oder **„Drunk Jenga“** genannt – verbindet den Geschicklichkeitsklassiker mit einer ordentlichen Portion Partyspaß. Die Idee ist simpel: Jeder Holzklotz wird vorab mit einer kleinen Aufgabe oder Trinkregel beschriftet, und wer einen Klotz zieht, macht, was draufsteht.
 
-Das Besondere ist die Mischung aus ruhiger Hand und steigender Anspannung. Mit jedem gezogenen Klotz wird der Turm wackeliger – und je mehr getrunken wurde, desto zittriger werden die Finger. Genau dieser Moment, in dem der Turm krachend zusammenfällt, ist der Höhepunkt jeder Runde.
+Reizvoll ist die Mischung aus ruhiger Hand und steigender Anspannung. Jeder gezogene Klotz macht den Turm wackeliger, und je mehr getrunken wurde, desto zittriger werden die Finger. Der Moment, in dem der Turm krachend zusammenfällt, ist der Höhepunkt jeder Runde.
 
 <h2 id="was-ist">Was ist das Jenga Trinkspiel?</h2>
 
-Das Jenga Trinkspiel ist ein **selbst gemachtes Geschicklichkeits-Trinkspiel**: Man braucht nur einen Wackelturm, einen wasserfesten Stift und Getränke. Einmal beschriftet, ist der Turm beliebig oft wiederverwendbar – und über die Aufgaben lässt sich der Spaßfaktor perfekt an die Gruppe anpassen.
+Das Jenga Trinkspiel ist ein **selbst gemachtes Geschicklichkeits-Trinkspiel**: Du brauchst nur einen Wackelturm, einen wasserfesten Stift und Getränke. Einmal beschriftet, lässt sich der Turm beliebig oft wieder aufbauen – und über die Aufgaben passt du das Tempo an die Gruppe an.
 
 <figure class="game__diagram">
   <img src="{{ '/assets/jenga-trinkspiel-ablauf.svg' | url }}" width="300" height="270" loading="lazy" decoding="async" eleventy:ignore alt="Jenga Trinkspiel: Klotz ziehen, Aufgabe lesen und erfüllen, Klotz oben auf den Turm stapeln">

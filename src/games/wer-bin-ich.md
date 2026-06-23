@@ -94,13 +94,13 @@ faq:
   </ul>
 </nav>
 
-**Wer bin ich?** ist ein echter Klassiker unter den Partyspielen – und als Trinkspiel macht es gleich doppelt Spaß. Das Prinzip ist genial einfach: Jeder trägt eine berühmte Person an der Stirn, die alle anderen sehen, nur er selbst nicht. Mit cleveren Ja/Nein-Fragen musst du herausfinden, wer du bist.
+**Wer bin ich?** ist ein Klassiker unter den Partyspielen, und als Trinkspiel macht es noch mehr her. Das Prinzip ist schnell verstanden: Jeder trägt eine berühmte Person an der Stirn, die alle anderen sehen, nur er selbst nicht. Mit cleveren Ja/Nein-Fragen findest du heraus, wer du bist.
 
-Der Trink-Twist macht aus dem Ratespiel ein lockeres **Wer bin ich Trinkspiel**: Jedes „Nein“ und jeder falsche Tipp kostet einen Schluck. Du brauchst dafür nur Klebezettel, Stifte und ein paar Getränke – perfekt für jede spontane Runde, drinnen wie draußen.
+Der Trink-Twist macht aus dem Ratespiel ein lockeres **Wer bin ich Trinkspiel**: Jedes „Nein“ und jeder falsche Tipp kostet einen Schluck. Mehr als Klebezettel, Stifte und ein paar Getränke brauchst du nicht – drinnen wie draußen, auch spontan.
 
 <h2 id="was-ist">Was ist Wer bin ich?</h2>
 
-Wer bin ich? ist ein **geselliges Gruppen- und Partyspiel**, bei dem jeder seine eigene, ihm unbekannte Identität erraten muss. Dazu klebt man sich gegenseitig Zettel mit berühmten Personen an die Stirn und stellt reihum Ja/Nein-Fragen. Als Trinkspiel gespielt, wird bei jedem „Nein“ und jedem falschen Rate-Versuch getrunken. Wie [Ich packe meinen Koffer]({{ '/ich-packe-meinen-koffer/' | url }}) oder [Heads Up]({{ '/heads-up/' | url }}) lebt es ganz von der Gruppe und braucht kaum Material.
+Wer bin ich? ist ein **Gruppen- und Partyspiel**, bei dem jeder seine eigene, ihm unbekannte Identität erraten muss. Dazu klebt ihr euch gegenseitig Zettel mit berühmten Personen an die Stirn und stellt reihum Ja/Nein-Fragen. Als Trinkspiel gespielt, wird bei jedem „Nein“ und jedem falschen Rate-Versuch getrunken. Wie [Ich packe meinen Koffer]({{ '/ich-packe-meinen-koffer/' | url }}) oder [Heads Up]({{ '/heads-up/' | url }}) lebt es von der Gruppe und braucht kaum Material.
 
 
 <figure class="game__diagram">
@@ -110,7 +110,7 @@ Wer bin ich? ist ein **geselliges Gruppen- und Partyspiel**, bei dem jeder seine
 
 <h2 id="ideen">Ideen für Namen & Figuren</h2>
 
-Die Namen sind das Herz des Spiels. Wähle Personen, die alle am Tisch kennen – sonst wird das Raten zur Geduldsprobe. Eine bunte Mischung aus diesen Kategorien sorgt für Abwechslung:
+An den Namen hängt das ganze Spiel. Wähle Personen, die alle am Tisch kennen – sonst wird das Raten zur Geduldsprobe. Eine bunte Mischung aus diesen Kategorien hält die Runde abwechslungsreich:
 
 <ul>
   <li><strong>Promis &amp; Stars:</strong> Heidi Klum, Dwayne Johnson, Taylor Swift, Elon Musk</li>
