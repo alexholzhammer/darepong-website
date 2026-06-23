@@ -2,6 +2,11 @@
 // Keyed by game slug (fileSlug). Used by the gamePreview shortcode and the
 // Trinkspiele-hub ItemList schema.
 module.exports = {
+  "bierolympiade": { icon: "🏅", image: "/assets/bierolympiade-stationen.svg" },
+  "beer-darts": { icon: "🎯", image: "/assets/beer-darts-aufbau.svg" },
+  "bierdeckel": { icon: "🍻", image: "/assets/bierdeckel-technik.svg" },
+  "montagsmaler-trinkspiel": { icon: "🎨", image: "/assets/montagsmaler-prinzip.svg" },
+  "thunderstruck": { icon: "⚡", image: "/assets/thunderstruck-prinzip.svg" },
   "schnick-schnack-schnuck": { icon: "✊", image: "/assets/schnick-schnack-schnuck-haende.svg" },
   "karten-gegen-menschlichkeit": { icon: "🃏", image: "/assets/karten-gegen-menschlichkeit-prinzip.svg" },
   "das-boot": { icon: "🥾", image: "/assets/das-boot-prinzip.svg" },
