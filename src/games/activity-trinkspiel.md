@@ -100,13 +100,13 @@ faq:
   </ul>
 </nav>
 
-**Activity** gehört zu den größten Partyklassikern überhaupt – und als Trinkspiel zündet er erst richtig. Das Prinzip ist herrlich vielseitig: Ein Spieler bringt seinem Team einen Begriff bei, mal mit Worten, mal mit dem Stift, mal ganz ohne einen Mucks. Genau dieser Wechsel aus Reden, Malen und stummem Zappeln sorgt für die besten Lacher und die nervösesten Schlucke.
+**Activity** gehört zu den größten Partyklassikern – und als Trinkspiel zündet es erst richtig. Das Prinzip bleibt herrlich vielseitig: Ein Spieler bringt seinem Team einen Begriff bei, mal mit Worten, mal mit dem Stift, mal ganz ohne einen Mucks. Dieser Wechsel aus Reden, Malen und stummem Zappeln bringt die besten Lacher und die nervösesten Schlucke.
 
-Beim **Activity Trinkspiel** kommt zur Ratejagd ein lockerer Trink-Twist dazu: Verpasst das Team einen Begriff in der Zeit, trinkt es; gelingt der Begriff, darf das Team Schlucke ans Gegnerteam verteilen – und auf Straffeldern wird sowieso getrunken. So bleibt der Druck hoch und der Abend in Bewegung, ähnlich gesellig wie [Tabu]({{ '/tabu-trinkspiel/' | url }}) oder [Heads Up]({{ '/heads-up/' | url }}).
+Beim **Activity Trinkspiel** kommt zur Ratejagd ein lockerer Trink-Twist dazu: Verpasst das Team einen Begriff in der Zeit, trinkt es. Gelingt der Begriff, verteilt das Team Schlucke ans Gegnerteam – und auf Straffeldern wird sowieso getrunken. So bleibt der Druck hoch und der Abend in Bewegung, ähnlich gesellig wie [Tabu]({{ '/tabu-trinkspiel/' | url }}) oder [Heads Up]({{ '/heads-up/' | url }}).
 
 <h2 id="was-ist">Was ist das Activity Trinkspiel?</h2>
 
-Activity ist ein **Begriffe-Darstellspiel für zwei Teams**. Ein Spieler zieht einen Begriff und stellt ihn seinem Team auf eine von drei Arten dar, während eine Sanduhr das Zeitlimit setzt – nur das eigene Team darf raten. Errät es den Begriff rechtzeitig, gibt es Punkte und das Team rückt auf dem Spielplan vor. Als Trinkspiel kommt dazu: Ein verpasster Begriff kostet das Team einen Schluck, ein erratener bringt das Recht, Schlucke ans Gegnerteam zu verteilen. Wie bei [Wer bin ich]({{ '/wer-bin-ich/' | url }}) lebt das Spiel von der Gruppe – je ausgelassener die Runde, desto mehr Spaß macht es.
+Activity ist ein **Begriffe-Darstellspiel für zwei Teams**. Ein Spieler zieht einen Begriff und stellt ihn seinem Team auf eine von drei Arten dar, während eine Sanduhr das Zeitlimit setzt – raten darf nur das eigene Team. Errät es den Begriff rechtzeitig, gibt es Punkte und das Team rückt auf dem Spielplan vor. Als Trinkspiel kommt dazu: Ein verpasster Begriff kostet das Team einen Schluck, ein erratener bringt das Recht, Schlucke ans Gegnerteam zu verteilen. Wie bei [Wer bin ich]({{ '/wer-bin-ich/' | url }}) lebt das Ganze von der Gruppe – je ausgelassener die Runde, desto besser.
 
 
 <figure class="game__diagram">
@@ -116,11 +116,11 @@ Activity ist ein **Begriffe-Darstellspiel für zwei Teams**. Ein Spieler zieht e
 
 <h2 id="disziplinen">Die drei Disziplinen: Erklären, Zeichnen, Pantomime</h2>
 
-Das Herz von Activity sind die drei Arten, einen Begriff darzustellen. Welche gefragt ist, gibt meist das Feld auf dem Spielplan oder die Karte vor – sonst lost ihr sie aus:
+Das Herz von Activity sind die drei Arten, einen Begriff rüberzubringen. Welche gefragt ist, gibt meist das Feld auf dem Spielplan oder die Karte vor – sonst lost ihr sie aus:
 
-- **Erklären:** Du umschreibst den Begriff mit Worten, darfst das Wort selbst aber nicht aussprechen. Synonyme, Beispiele und Umwege sind erlaubt – nur der Begriff bleibt tabu.
-- **Zeichnen:** Du bringst den Begriff aufs Papier, ganz ohne Buchstaben oder Zahlen. Es zählt die Idee, nicht die Kunst – große, klare Symbole raten sich am leichtesten.
-- **Pantomime:** Du stellst den Begriff stumm dar, also komplett ohne Worte und Geräusche. Mit deutlichen Gesten und Größenangaben mit den Händen führst du dein Team zur Lösung.
+- **Erklären:** Du umschreibst den Begriff mit Worten, nur das Wort selbst bleibt tabu. Synonyme, Beispiele und Umwege sind erlaubt.
+- **Zeichnen:** Du bringst den Begriff aufs Papier, ohne Buchstaben oder Zahlen. Es zählt die Idee, nicht die Kunst – große, klare Symbole ratet ihr am schnellsten.
+- **Pantomime:** Du stellst den Begriff stumm dar, also ganz ohne Worte und Geräusche. Mit deutlichen Gesten und Größenangaben mit den Händen führst du dein Team zur Lösung.
 
 <h2 id="varianten">Activity Trinkspiel Varianten</h2>
 
@@ -134,7 +134,7 @@ Das Herz von Activity sind die drei Arten, einen Begriff darzustellen. Welche ge
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Schlucke verteilen</span>
-      <p>Errät das Team den Begriff, darf es Schlucke ans Gegnerteam verteilen – je schneller erraten, desto mehr. So wird jeder Treffer doppelt gefeiert.</p>
+      <p>Errät das Team den Begriff, darf es Schlucke ans Gegnerteam verteilen – je schneller erraten, desto mehr. Jeder Treffer wird so doppelt gefeiert.</p>
     </div>
   </div>
   <div class="game__variant">

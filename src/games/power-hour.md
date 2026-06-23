@@ -3,13 +3,13 @@ id: power-hour
 name: Power Hour
 slug: power-hour
 title: "Power Hour: Regeln, Playlist & Ablauf – das Trinkspiel erklärt"
-description: "Power Hour – das Trinkspiel mit Musik: 60 Minuten, jede Minute ein Shot. Alle Regeln, die perfekte Playlist, Varianten wie Centurion und Tipps zum Durchhalten."
+description: "Power Hour – das Trinkspiel mit Musik: 60 Minuten, jede Minute ein Shot. Alle Regeln, die passende Playlist, Varianten wie Centurion und Tipps zum Durchhalten."
 updated: 2026-06-15
 rulesPdf: /assets/power-hour-regeln.pdf
 rulesPdfLabel: "Power Hour Regeln als PDF herunterladen"
 rulesTitle: "Power Hour Regeln"
 tipsTitle: "Power Hour Tipps"
-shortDescription: Das Musik-Trinkspiel mit Ausdauer-Faktor – 60 Minuten lang trinkt bei jedem Songwechsel jeder einen Shot. Eine Playlist mit 60 Minuten-Tracks gibt den Takt vor. Wer bis zum Schluss durchhält, hat die Power Hour geschafft.
+shortDescription: Das Musik-Trinkspiel für Ausdauernde – 60 Minuten lang trinkt jeder bei jedem Songwechsel einen Shot. Eine Playlist mit Minuten-Tracks gibt den Takt vor. Wer bis zum Schluss dabei ist, hat die Power Hour geschafft.
 players:
   min: 2
   max: 20
@@ -77,7 +77,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Power Hour in 30 Sekunden</strong>
-    <p>Die Power Hour ist ein Musik-Trinkspiel mit Ausdauer-Faktor: 60 Minuten lang trinkt bei jedem Songwechsel jeder einen Shot Bier. Eine Playlist mit 60 Minuten-Tracks gibt den Takt vor. Das ergibt 60 Shots in einer Stunde – wer durchhält, hat die Power Hour geschafft.</p>
+    <p>Die Power Hour ist ein Musik-Trinkspiel für Ausdauernde: 60 Minuten lang trinkt jeder bei jedem Songwechsel einen Shot Bier. Eine Playlist mit Minuten-Tracks gibt den Takt vor. Macht 60 Shots in einer Stunde. Wer bis zum Schluss dabei ist, hat die Power Hour geschafft.</p>
   </div>
 </div>
 
@@ -104,13 +104,13 @@ faq:
   </ul>
 </nav>
 
-Die **Power Hour** ist ein Trinkspiel-Klassiker aus der College-Kultur, das vor allem von **Musik und Timing** lebt. Das Prinzip ist genial einfach: eine Stunde, 60 Songs, bei jedem Songwechsel ein Shot. Mehr Regeln braucht es nicht – und genau deshalb ist die Power Hour der perfekte **Aufwärmer** für jede Party oder den Pre-Drink-Teil eines Abends.
+Die **Power Hour** ist ein Trinkspiel-Klassiker aus der College-Kultur und lebt vor allem von **Musik und Timing**. Das Prinzip ist denkbar einfach: eine Stunde, 60 Songs, bei jedem Wechsel ein Shot. Mehr Regeln gibt es nicht. Deshalb taugt die Power Hour gut als **Aufwärmer** für eine Party oder den Pre-Drink-Teil des Abends.
 
-Anders als bei Geschicklichkeitsspielen wie [Beer Pong]({{ '/beer-pong/' | url }}) oder Würfel-Klassikern wie [Mäxchen]({{ '/maexchen/' | url }}) gewinnt hier nicht der Geschickteste, sondern der mit dem besten **Durchhaltevermögen**. Alle trinken gleichzeitig, alle hören dieselbe Musik – das schweißt die Runde zusammen.
+Bei [Beer Pong]({{ '/beer-pong/' | url }}) oder [Mäxchen]({{ '/maexchen/' | url }}) gewinnt der Geschickteste oder der bessere Bluffer. Hier zählt nur das **Durchhaltevermögen**. Alle trinken gleichzeitig, alle hören dieselbe Musik – das schweißt die Runde zusammen.
 
 <h2 id="was-ist">Was ist die Power Hour?</h2>
 
-Die Power Hour ist ein **gemeinsames Ausdauer-Trinkspiel**: Über genau 60 Minuten wird zu einer Playlist getrunken, die im Minutentakt die Songs wechselt. Jeder Songwechsel ist das Signal: **austrinken und nachfüllen**. Du brauchst kein Spezial-Equipment – nur Musik, ein Shotglas und ein Getränk. Damit gehört die Power Hour zu den Trinkspielen, die praktisch **ohne Material** auskommen.
+Die Power Hour ist ein **gemeinsames Ausdauer-Trinkspiel**: Über 60 Minuten wird zu einer Playlist getrunken, die im Minutentakt die Songs wechselt. Jeder Songwechsel ist das Signal zum **Austrinken und Nachfüllen**. Spezielles Equipment brauchst du nicht, nur Musik, ein Shotglas und ein Getränk. Damit gehört die Power Hour zu den Trinkspielen, die fast **ohne Material** auskommen.
 
 <h2 id="prinzip">Das Prinzip: 60 Minuten, 60 Shots</h2>
 
@@ -119,7 +119,7 @@ Die Power Hour ist ein **gemeinsames Ausdauer-Trinkspiel**: Über genau 60 Minut
   <figcaption>Das Power-Hour-Prinzip: 60 Minuten × 1 Shot = 60 Shots, rund 6 Flaschen Bier über die Stunde verteilt.</figcaption>
 </figure>
 
-Ein Shot fasst meist **4 cl**. Über 60 Minuten kommt so einiges zusammen – deshalb ist die Wahl des Getränks entscheidend. Mit **leichtem oder alkoholfreiem Bier** bleibt die Power Hour machbar und macht länger Spaß.
+Ein Shot fasst meist **4 cl**. Über 60 Minuten summiert sich das, deshalb ist die Wahl des Getränks entscheidend. Mit **leichtem oder alkoholfreiem Bier** bleibt die Power Hour machbar und macht länger Spaß.
 
 <h2 id="ablauf">Spielablauf Schritt für Schritt</h2>
 

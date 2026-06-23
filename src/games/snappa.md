@@ -3,11 +3,11 @@ id: snappa
 name: Snappa
 slug: snappa
 title: "Snappa: Regeln & Anleitung – Würfel-Trinkspiel"
-description: "Snappa – das amerikanische Würfel-Trinkspiel am Tisch: alle Regeln, Punkte, Aufbau und Tipps. Zwei Teams, ein Würfel, viel Reaktion – einfach erklärt."
+description: "Snappa, das amerikanische Würfel-Trinkspiel am Tisch: Regeln, Punkte, Aufbau und Tipps. Zwei Teams, ein Würfel, viel Reaktion, klar erklärt."
 updated: 2026-06-18
 rulesTitle: "Snappa Regeln"
 tipsTitle: "Snappa Tipps"
-shortDescription: Amerikanisches Würfel-Trinkspiel am langen Tisch für zwei Teams – einer schnippt den Würfel zum Gegner, der ihn nach dem Aufprall fangen muss. Punkte und Trink-Aktionen ergeben sich aus der Augenzahl, wer das Punkteziel erreicht, gewinnt.
+shortDescription: Amerikanisches Würfel-Trinkspiel am langen Tisch für zwei Teams. Einer schnippt den Würfel zum Gegner, der ihn nach dem Aufprall fangen muss. Punkte und Trink-Aktionen richten sich nach der Augenzahl. Wer das Punkteziel erreicht, gewinnt.
 players:
   min: 4
   max: 8
@@ -83,7 +83,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Snappa in 30 Sekunden</strong>
-    <p>Snappa ist ein amerikanisches Würfel-Trinkspiel am langen Tisch: Zwei Teams sitzen sich gegenüber, einer schnippt den Würfel zum Gegner, der ihn nach dem Aufprall fangen muss. Misslingt der Fang, gibt es Punkte und die Gegner trinken. Wer zuerst das Punkteziel (meist 7) erreicht, gewinnt – der Verlierer trinkt aus.</p>
+    <p>Snappa ist ein amerikanisches Würfel-Trinkspiel am langen Tisch. Zwei Teams sitzen sich gegenüber, einer schnippt den Würfel zum Gegner, der ihn nach dem Aufprall fangen muss. Misslingt der Fang, gibt es Punkte und die Gegner trinken. Wer zuerst das Punkteziel (meist 7) erreicht, gewinnt. Der Verlierer trinkt aus.</p>
   </div>
 </div>
 

@@ -3,13 +3,13 @@ id: uno-trinkspiel
 name: UNO Trinkspiel
 slug: uno-trinkspiel
 title: "UNO Trinkspiel: Regeln & Trinkregeln – Anleitung einfach erklärt"
-description: "UNO als Trinkspiel: alle Trinkregeln für Zieh-2, Zieh-4, Retour & Aussetzen, der Ablauf, Sonderstrafen und Tipps. Mit Grafiken einfach erklärt – sofort spielbar."
+description: "UNO als Trinkspiel: alle Trinkregeln für Zieh-2, Zieh-4, Retour & Aussetzen, der Ablauf, Sonderstrafen und Tipps. Mit Grafiken erklärt, in zwei Minuten spielbereit."
 updated: 2026-06-15
 rulesPdf: /assets/uno-trinkspiel-regeln.pdf
 rulesPdfLabel: "UNO Trinkspiel Regeln als PDF herunterladen"
 rulesTitle: "UNO Trinkspiel Regeln"
 tipsTitle: "UNO Trinkspiel Tipps"
-shortDescription: Der Kartenklassiker als Trinkspiel – ihr spielt ganz normal UNO, aber jede Aktionskarte löst eine Trinkregel aus. Zieh-2 heißt zwei Schlucke, UNO vergessen wird bestraft. Wer zuerst alle Karten los ist, gewinnt.
+shortDescription: Der Kartenklassiker als Trinkspiel – ihr spielt normal UNO, aber jede Aktionskarte löst eine Trinkregel aus. Zieh-2 heißt zwei Schlucke, UNO vergessen wird bestraft. Wer zuerst alle Karten los ist, gewinnt.
 players:
   min: 2
   max: 10
@@ -46,7 +46,7 @@ tips:
     text: "Klärt vor dem Start, welche Karte welche Trinkregel auslöst. Ein sichtbarer Spickzettel verhindert Streit mitten im Spiel."
   - icon: "🎴"
     title: "Aktionskarten clever aufheben"
-    text: "Hebt dir Zieh-Vier- und Retour-Karten für brenzlige Momente auf – so triffst du gezielt den Spieler, der kurz vorm Gewinnen ist."
+    text: "Heb dir Zieh-Vier- und Retour-Karten für brenzlige Momente auf – so triffst du gezielt den Spieler, der kurz vorm Gewinnen ist."
   - icon: "🗣️"
     title: "UNO nicht vergessen"
     text: "Die häufigste Strafe ist das vergessene UNO. Macht es euch zur Gewohnheit, schon beim Ablegen der vorletzten Karte laut zu rufen."
@@ -101,9 +101,9 @@ faq:
   </ul>
 </nav>
 
-Das **UNO Trinkspiel** macht aus dem weltbekannten Kartenspiel im Handumdrehen einen Partyhit: Ihr spielt **ganz normal UNO**, ergänzt das Ganze aber um klare **Trinkregeln**. Jede Aktionskarte – Zieh Zwei, Zieh Vier, Retour oder Aussetzen – bekommt eine Trinkbedeutung. So wird aus jeder gelegten Karte ein kleines Drama.
+Beim **UNO Trinkspiel** spielt ihr ganz normal UNO und hängt nur ein paar **Trinkregeln** dran. Jede Aktionskarte – Zieh Zwei, Zieh Vier, Retour oder Aussetzen – bekommt eine Trinkbedeutung. Plötzlich entscheidet jede gelegte Karte mit, wer als Nächstes zum Glas greift.
 
-Der große Vorteil: Fast jeder kennt UNO und hat ein Deck zu Hause. Die Regeln sind in zwei Minuten ergänzt, und weil ständig Aktionskarten fliegen, kommt sofort Stimmung auf – ähnlich wie bei [King's Cup]({{ '/kings-cup/' | url }}), nur mit dem vertrauten UNO-Deck.
+Der praktische Teil: Fast jeder kennt UNO und hat ein Deck in der Schublade. Die Trinkregeln sind in zwei Minuten erklärt, und weil ständig Aktionskarten fliegen, ist sofort Bewegung in der Runde – ähnlich wie bei [King's Cup]({{ '/kings-cup/' | url }}), nur mit dem vertrauten UNO-Deck.
 
 <h2 id="was-ist">Was ist das UNO Trinkspiel?</h2>
 

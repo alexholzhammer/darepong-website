@@ -3,7 +3,7 @@ id: bingo-trinkspiel
 name: Bingo Trinkspiel
 slug: bingo-trinkspiel
 title: "Bingo Trinkspiel: Regeln & Party-Bingo-Vorlage"
-description: "Bingo Trinkspiel: Regeln, Party-Bingo-Ideen und Vorlage. So wird der Klassiker zum Trinkspiel – wer Bingo ruft, lasst alle anderen trinken. Mit Tipps und FAQ."
+description: "Bingo Trinkspiel: Regeln, Party-Bingo-Ideen und Vorlage. So wird der Klassiker zum Trinkspiel – wer Bingo ruft, schickt alle anderen zum Glas. Mit Tipps und FAQ."
 updated: 2026-06-19
 rulesTitle: "Bingo Trinkspiel Regeln"
 tipsTitle: "Bingo Trinkspiel Tipps"
@@ -47,7 +47,7 @@ tips:
     text: "Achte darauf, dass keine zwei Karten gleich sind. Sonst rufen zwei Spieler gleichzeitig „Bingo!“ – mische die Felder vorher ordentlich durch."
   - icon: "🎉"
     title: "Party-Bingo vorbereiten"
-    text: "Sammle vorab typische Ereignisse eurer Runde, etwa „jemand verschüttet etwas“ oder „jemand macht ein Selfie“. Je persönlicher die Felder, desto lustiger der Abend."
+    text: "Sammle vorab Sachen, die bei euch immer passieren – „jemand verschüttet etwas“ oder „jemand macht ein Selfie“. Je persönlicher die Felder, desto lustiger der Abend."
   - icon: "📱"
     title: "App spart Material"
     text: "Statt Lostrommel und Zettel ziehst du die Zahlen einfach per Bingo-App. Das geht schneller und du musst nichts ausdrucken."
@@ -61,7 +61,7 @@ faq:
   - q: "Was ist das Bingo Trinkspiel?"
     a: "Das Bingo Trinkspiel ist die Trinkspiel-Variante des Klassikers Bingo. Jeder Spieler bekommt eine Karte mit einem Raster aus Zahlen oder typischen Party-Ereignissen. Ein Spielleiter zieht Zahlen oder die Ereignisse treten im Laufe des Abends ein. Wer ein Feld auf seiner Karte hat, markiert es und trinkt einen Schluck. Wer zuerst eine volle Reihe hat, ruft „Bingo!“ – dann trinken alle anderen."
   - q: "Was ist Party-Bingo?"
-    a: "Beim Party-Bingo stehen statt Zahlen typische Ereignisse eines Abends auf den Feldern, zum Beispiel „jemand verschüttet etwas“, „jemand macht ein Selfie“ oder „jemand kommt zu spät“. Es gibt keinen Spielleiter – die Felder werden abgestrichen, sobald das jeweilige Ereignis wirklich passiert. Das macht es persönlicher und sorgt für viele Lacher."
+    a: "Beim Party-Bingo stehen statt Zahlen typische Ereignisse eines Abends auf den Feldern, zum Beispiel „jemand verschüttet etwas“, „jemand macht ein Selfie“ oder „jemand kommt zu spät“. Einen Spielleiter braucht ihr nicht – ein Feld wird abgestrichen, sobald das Ereignis wirklich passiert. Das macht es persönlicher und meistens deutlich lustiger."
   - q: "Wie viele Spieler braucht man für Bingo als Trinkspiel?"
     a: "Gespielt wird ab 3 Personen, ideal sind rund 8 Spieler. Bis etwa 20 Mitspieler funktioniert es problemlos – Bingo eignet sich damit sehr gut für größere Partys. Du brauchst nur genug Karten und Stifte für alle."
   - q: "Welche Felder kommen auf eine Bingo-Karte?"
@@ -98,9 +98,9 @@ faq:
   </ul>
 </nav>
 
-Das **Bingo Trinkspiel** macht aus dem altbekannten Glücksklassiker ein geselliges Partyspiel: Jeder spielt mit einer eigenen Karte voller Zahlen oder typischer Party-Ereignisse, streicht Treffer ab und trinkt dabei einen Schluck. Wer als Erster eine volle Reihe zusammenhat, ruft „Bingo!“ – und schickt damit alle anderen zum Glas.
+Das **Bingo Trinkspiel** macht aus dem alten Glücksklassiker ein geselliges Partyspiel: Jeder spielt mit einer eigenen Karte voller Zahlen oder typischer Party-Ereignisse, streicht Treffer ab und trinkt dabei einen Schluck. Wer als Erster eine volle Reihe zusammenhat, ruft „Bingo!“ – und schickt alle anderen zum Glas.
 
-Das Beste am **Bingo Trinkspiel**: Es braucht kaum Vorbereitung, funktioniert für kleine Runden genauso wie für große Partys und lässt sich frei an eure Gruppe anpassen. Besonders das Party-Bingo, bei dem die Felder eure ganz eigenen Abend-Ereignisse zeigen, sorgt zuverlässig für Gelächter.
+Vorbereitung kostet das **Bingo Trinkspiel** kaum welche. Es läuft in kleinen Runden genauso wie auf großen Partys, und ihr passt es frei an eure Gruppe an. Vor allem das Party-Bingo, bei dem auf den Feldern eure ganz eigenen Abend-Ereignisse stehen, sorgt für ordentlich Gelächter.
 
 <h2 id="was-ist">Was ist das Bingo Trinkspiel?</h2>
 
@@ -114,7 +114,7 @@ Das Bingo Trinkspiel ist ein **lockeres Party-Trinkspiel** für 3 bis 20 Persone
 
 <h2 id="party-bingo">Party-Bingo: Ideen für die Felder</h2>
 
-Statt nüchterner Zahlen kannst du deine Karten mit Ereignissen füllen, die auf jeder Party früher oder später passieren. Hier ein paar Anregungen zum Loslegen:
+Statt nüchterner Zahlen kannst du deine Karten mit Dingen füllen, die auf jeder Party früher oder später passieren. Ein paar Anregungen zum Loslegen:
 
 - „Jemand verschüttet etwas“
 - „Jemand macht ein Selfie“

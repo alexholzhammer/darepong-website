@@ -3,13 +3,13 @@ id: ich-hab-noch-nie
 name: Ich hab noch nie
 slug: ich-hab-noch-nie
 title: "Ich hab noch nie: Fragen, Regeln & Anleitung (Trinkspiel)"
-description: "Ich hab noch nie (Never Have I Ever): die besten Fragen-Ideen, alle Regeln und die Finger-Variante. Wer es schon getan hat, trinkt – das gesellige Trinkspiel."
+description: "Ich hab noch nie (Never Have I Ever): Fragen-Ideen, alle Regeln und die Finger-Variante. Wer es schon getan hat, trinkt – das Trinkspiel ohne Material."
 updated: 2026-06-12
 rulesPdf: /assets/ich-hab-noch-nie-regeln.pdf
 rulesPdfLabel: "Ich hab noch nie Regeln als PDF herunterladen"
 rulesTitle: "Ich hab noch nie Regeln"
 tipsTitle: "Ich hab noch nie Tipps"
-shortDescription: Geselliges Trinkspiel ohne Material – wer die genannte Sache schon einmal getan hat, muss trinken. Verrät garantiert die besten Geschichten.
+shortDescription: Trinkspiel ohne Material – wer die genannte Sache schon einmal getan hat, muss trinken. Bringt nebenbei die Geschichten ans Licht, die sonst keiner erzählt.
 players:
   min: 3
   max: 15
@@ -42,7 +42,7 @@ tips:
     text: "Startet mit harmlosen Aussagen und werdet erst nach und nach pikanter – so kommen alle entspannt in Stimmung."
   - icon: "🤝"
     title: "Perfekt zum Kennenlernen"
-    text: "Ich hab noch nie eignet sich ideal, um in geselliger Runde neue Leute kennenzulernen."
+    text: "Man erfährt in zehn Minuten mehr übereinander als bei einem langen Smalltalk – ideal, wenn sich die Runde noch nicht so gut kennt."
   - icon: "📝"
     title: "Fragenliste bereithalten"
     text: "Haltet ein paar gute Aussagen parat, falls jemandem spontan nichts einfällt (siehe Beispiele unten)."
@@ -54,13 +54,13 @@ tips:
     text: "Je nach Gruppe wird hier überraschend viel getrunken – mit leichten Getränken bleibt es länger lustig."
 faq:
   - q: "Was ist „Ich hab noch nie“?"
-    a: "„Ich hab noch nie“ (engl. „Never Have I Ever“) ist ein geselliges Trinkspiel ohne Material. Reihum nennt jeder etwas, das er noch nie getan hat – alle, auf die das nicht zutrifft (die es also schon getan haben), müssen trinken."
+    a: "„Ich hab noch nie“ (engl. „Never Have I Ever“) ist ein Trinkspiel ohne Material. Reihum nennt jeder etwas, das er noch nie getan hat – wer es schon getan hat, trinkt."
   - q: "Wie spielt man Ich hab noch nie?"
     a: "Im Kreis sitzen, jeder mit eigenem Getränk. Reihum sagt jemand „Ich hab noch nie …“ und nennt etwas. Wer das schon getan hat, trinkt einen Schluck. Dann ist der Nächste dran. Optional mit zehn Fingern als Punktezähler."
   - q: "Welche Fragen kann man bei Ich hab noch nie stellen?"
-    a: "Von harmlos („… ein ganzes Wochenende im Bett verbracht“) bis pikant („… in der Öffentlichkeit geknutscht“). Eine Auswahl an Beispiel-Aussagen findest du weiter unten auf dieser Seite."
+    a: "Von harmlos („… ein ganzes Wochenende im Bett verbracht“) bis pikant („… in der Öffentlichkeit geknutscht“). Weiter unten auf der Seite stehen 20 Beispiel-Aussagen zum Loslegen."
   - q: "Wie viele Spieler braucht man?"
-    a: "Ab 3 Personen, ideal sind etwa 6. Bis 15 Spieler funktioniert es gut – je größer die Runde, desto mehr überraschende Geschichten kommen heraus."
+    a: "Ab 3 Personen, ideal sind etwa 6. Bis 15 Spieler klappt gut – je größer die Runde, desto mehr kommt zur Sprache."
   - q: "Was ist die Finger-Variante?"
     a: "Jeder hält zehn Finger hoch und klappt bei jeder zutreffenden Aussage einen ein. Wer zuerst alle Finger unten hat, scheidet aus oder muss trinken – so gibt es einen klaren Spielverlauf."
   - q: "Kann man Ich hab noch nie alkoholfrei spielen?"
@@ -70,7 +70,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Ich hab noch nie in 30 Sekunden</strong>
-    <p>Reihum sagt jemand „Ich hab noch nie …“ und nennt etwas, das er nie getan hat. Alle, die es schon getan haben, trinken einen Schluck. Kein Material, eine Regel – und die besten Geschichten des Abends garantiert.</p>
+    <p>Reihum sagt jemand „Ich hab noch nie …“ und nennt etwas, das er nie getan hat. Wer es schon getan hat, trinkt einen Schluck. Kein Material, eine Regel – und am Ende weiß jeder mehr über die anderen, als ihm lieb ist.</p>
   </div>
 </div>
 
@@ -95,13 +95,13 @@ faq:
   </ul>
 </nav>
 
-**Ich hab noch nie** – im Englischen als **„Never Have I Ever“** bekannt – ist eines der beliebtesten geselligen Trinkspiele überhaupt und kommt komplett **ohne Material** aus. Alles, was man braucht, sind ein paar Mitspieler, etwas zu trinken und die Bereitschaft, das eine oder andere über sich preiszugeben.
+**Ich hab noch nie** – im Englischen **„Never Have I Ever“** – gehört zu den meistgespielten Trinkspielen und braucht **kein Material**. Du brauchst nur ein paar Mitspieler, etwas zu trinken und die Bereitschaft, das eine oder andere über dich preiszugeben.
 
-Das Besondere ist, dass es ganz nebenbei für die besten Gespräche und Geschichten des Abends sorgt. Hinter jeder Aussage steckt eine kleine Wette darauf, was die anderen wohl schon erlebt haben – und oft entlarvt ein einziger Schluck eine überraschende Geschichte.
+Der Reiz liegt im Drumherum: Hinter jeder Aussage steckt die Frage, was die anderen wohl schon erlebt haben. Manchmal verrät ein einziger Schluck eine Geschichte, nach der dann alle fragen.
 
 <h2 id="was-ist">Was ist Ich hab noch nie?</h2>
 
-Ich hab noch nie ist ein **Kennenlern- und Geständnis-Trinkspiel** für Gruppen, das ganz ohne Spielmaterial auskommt. Die Regeln sind in einem Satz erklärt, und der Ton lässt sich flexibel anpassen – vom ruhigen Plauderspiel bis zur ausgelassenen Runde.
+Ich hab noch nie ist ein **Kennenlern- und Geständnis-Trinkspiel** für Gruppen, ganz ohne Spielmaterial. Die Regel passt in einen Satz, und den Ton bestimmt ihr selbst – vom ruhigen Plaudern bis zur ausgelassenen Runde.
 
 <figure class="game__diagram game__diagram--wide">
   <img src="{{ '/assets/ich-hab-noch-nie-ablauf.svg' | url }}" width="600" height="130" loading="lazy" decoding="async" eleventy:ignore alt="Ich hab noch nie Ablauf: eine Aussage sagen, wer es getan hat trinkt, der Nächste ist dran">
@@ -147,7 +147,7 @@ Keine Idee? Hier eine bunte Auswahl an Aussagen – von harmlos bis pikant. Einf
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Themen-Runden</span>
-      <p>Eine Runde nur Reise-Aussagen, eine nur Schul-Aussagen … sorgt für gezielte Geschichten.</p>
+      <p>Eine Runde nur Reise-Aussagen, eine nur Schul-Aussagen … so bleibt ihr beim Thema und kommt schneller ins Erzählen.</p>
     </div>
   </div>
   <div class="game__variant">

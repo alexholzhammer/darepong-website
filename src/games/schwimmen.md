@@ -3,13 +3,13 @@ id: schwimmen
 name: Schwimmen
 slug: schwimmen
 title: "Schwimmen (Schnauz): Regeln & Anleitung – Kartenspiel-Trinkspiel"
-description: "Schwimmen / Schnauz (31) – Kartenspiel & Trinkspiel: alle Regeln, Kartenwerte, das Leben-System und Tipps. Einfach erklärt mit Grafiken und Beispielen."
+description: "Schwimmen / Schnauz (31) als Kartenspiel und Trinkspiel: Regeln, Kartenwerte, das Leben-System und Tipps. Mit Grafiken und Beispielen erklärt."
 updated: 2026-06-15
 rulesPdf: /assets/schwimmen-regeln.pdf
 rulesPdfLabel: "Schwimmen Regeln als PDF herunterladen"
 rulesTitle: "Schwimmen Regeln"
 tipsTitle: "Schwimmen Tipps"
-shortDescription: Der Karten-Klassiker als Trinkspiel – sammle drei Karten einer Farbe möglichst nah an 31 Punkten. Wer am Ende die niedrigste Hand hat, verliert ein Leben. Wer alle Leben verliert, schwimmt – und trinkt, sobald er untergeht.
+shortDescription: Der Karten-Klassiker als Trinkspiel. Du sammelst drei Karten einer Farbe möglichst nah an 31 Punkten. Wer am Ende die niedrigste Hand hat, verliert ein Leben. Sind alle Leben weg, schwimmst du – und trinkst, sobald du untergehst.
 players:
   min: 2
   max: 9
@@ -76,7 +76,7 @@ faq:
 <div class="game__tldr">
   <div class="game__tldr-body">
     <strong>Schwimmen in 30 Sekunden</strong>
-    <p>Schwimmen (Schnauz / 31) ist ein Karten-Klassiker als Trinkspiel: Jeder hält drei Karten und versucht, mit Karten einer Farbe möglichst nah an 31 zu kommen. Getauscht wird mit der Tischmitte. Wer die niedrigste Hand hat, verliert ein Leben – wer alle Leben verliert, geht unter und trinkt.</p>
+    <p>Schwimmen (Schnauz / 31) ist ein Karten-Klassiker als Trinkspiel. Jeder hält drei Karten und versucht, mit Karten einer Farbe möglichst nah an 31 zu kommen. Getauscht wird mit der Tischmitte. Wer die niedrigste Hand hat, verliert ein Leben. Sind alle Leben weg, geht man unter und trinkt.</p>
   </div>
 </div>
 
@@ -103,9 +103,9 @@ faq:
   </ul>
 </nav>
 
-**Schwimmen** – regional auch **„Schnauz“**, **„Knack“** oder **„Einunddreißig“** (31) genannt – ist einer der bekanntesten **Karten-Klassiker** im deutschsprachigen Raum und lässt sich wunderbar als **Trinkspiel** spielen. Man braucht nur ein Skatblatt, die Regeln sind schnell gelernt, und durch das Leben-System bleibt es bis zur letzten Karte spannend.
+**Schwimmen** kennt man im deutschsprachigen Raum unter vielen Namen: **„Schnauz“**, **„Knack“** oder **„Einunddreißig“** (31). Es ist ein **Karten-Klassiker**, der sich gut als **Trinkspiel** spielen lässt. Du brauchst nur ein Skatblatt, die Regeln sitzen nach einer Runde, und das Leben-System hält die Sache bis zur letzten Karte spannend.
 
-Der Reiz liegt im ständigen Abwägen: Tausche ich noch eine Karte, gehe ich aufs Ganze und tausche alle drei – oder mache ich lieber zu, bevor mich jemand überholt? Wie bei [17 und 4]({{ '/17-und-4/' | url }}) entscheidet eine Mischung aus Glück und Nerven.
+Der Reiz steckt im Abwägen. Tausche ich noch eine Karte? Gehe ich aufs Ganze und tausche alle drei? Oder mache ich lieber zu, bevor mich jemand überholt? Wie bei [17 und 4]({{ '/17-und-4/' | url }}) entscheidet eine Mischung aus Glück und Nerven.
 
 <h2 id="was-ist">Was ist Schwimmen?</h2>
 
