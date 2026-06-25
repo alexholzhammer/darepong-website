@@ -2,9 +2,9 @@
 id: edward-fortyhands
 name: Edward Fortyhands
 slug: edward-fortyhands
-title: "Edward Fortyhands: Regeln & Anleitung – das Trinkspiel erklärt"
-description: "Edward Fortyhands – das Kult-Trinkspiel: an jede Hand wird eine Flasche geklebt, die erst ab darf, wenn beide leer sind. Alle Regeln, Varianten und Tipps erklärt."
-updated: 2026-06-15
+title: "Edward Fortyhands (40 Hands): Regeln & Anleitung"
+description: "Edward Fortyhands, auch Edward 40 Hands: das Kult-Trinkspiel, bei dem an jede Hand eine Flasche geklebt wird, die erst ab darf, wenn beide leer sind. Regeln, Varianten & Tipps."
+updated: 2026-06-23
 rulesPdf: /assets/edward-fortyhands-regeln.pdf
 rulesPdfLabel: "Edward Fortyhands Regeln als PDF herunterladen"
 rulesTitle: "Edward Fortyhands Regeln"
@@ -66,6 +66,8 @@ faq:
     a: "Das hängt von Menge und Getränk ab – meist 20 bis 60 Minuten. Mit leichtem Bier und fairer Menge bleibt die Challenge angenehm; große Mengen oder Starkbier sind nicht zu empfehlen."
   - q: "Kann man Edward Fortyhands alkoholfrei spielen?"
     a: "Ja. Mit alkoholfreiem Bier, Saft oder Wasser funktioniert das Spiel genauso – der Reiz liegt im Handicap mit den blockierten Händen, nicht im Alkohol."
+  - q: "Warum heißt es Edward Fortyhands oder Edward 40 Hands?"
+    a: "Der Name ist eine Anspielung auf den Film „Edward mit den Scherenhänden“ – nur sind es hier Flaschen statt Scheren. Die „40“ kommt aus den USA, wo klassisch 40-Unzen-Flaschen (40 oz) an die Hände geklebt werden; daher auch die Schreibweise Edward 40 Hands."
 ---
 
 <div class="game__tldr">
@@ -98,7 +100,7 @@ faq:
   </ul>
 </nav>
 
-**Edward Fortyhands** ist eines der bekanntesten **Challenge-Trinkspiele** – und es gibt zuverlässig was zu lachen. Der Name spielt auf den Film *Edward mit den Scherenhänden* an, nur dass hier statt Scheren zwei **Flaschen** an die Hände kommen. Das Prinzip ist simpel und gerade deshalb so wirkungsvoll: Wer sich befreien will, muss trinken.
+**Edward Fortyhands** – auch **Edward 40 Hands** oder **Edward Forty Hands** geschrieben – ist eines der bekanntesten **Challenge-Trinkspiele**, und es gibt zuverlässig was zu lachen. Der Name spielt auf den Film *Edward mit den Scherenhänden* an, nur dass hier statt Scheren zwei **Flaschen** an die Hände kommen. Die „40" stammt aus den USA, wo dafür klassisch 40-Unzen-Flaschen (40 oz) verwendet werden. Das Prinzip ist simpel und gerade deshalb so wirkungsvoll: Wer sich befreien will, muss trinken.
 
 Sobald die Flaschen kleben, wird jede Kleinigkeit zur Herausforderung. Tür öffnen, aufs Handy schauen, zur Toilette gehen – plötzlich unmöglich. Das macht Edward Fortyhands zum guten **Eisbrecher** und Partystarter, ähnlich wie der schnelle Ausdauer-Klassiker [Power Hour]({{ '/power-hour/' | url }}).
 
