@@ -110,6 +110,8 @@ Ich hab noch nie ist ein **Kennenlern- und Geständnis-Trinkspiel** für Gruppen
 
 <h2 id="fragen">Ich hab noch nie: Beispiel-Fragen</h2>
 
+Du brauchst mehr Nachschub? In unserer großen Sammlung findest du **[über 90 Ich-hab-noch-nie-Fragen]({{ '/ich-hab-noch-nie/fragen/' | url }})** – sortiert nach Stimmung, von harmlos bis pikant ab 18.
+
 Dir fällt spontan nichts ein? Such dir etwas aus – von harmlos bis pikant. Einfach „Ich hab noch nie …“ davorstellen:
 
 <ul class="game__names">

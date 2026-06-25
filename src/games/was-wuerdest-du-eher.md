@@ -107,6 +107,8 @@ Würdest du eher ist ein **Entweder-oder-Trinkspiel** ganz ohne Material – gut
 
 <h2 id="fragen">Würdest du eher: Beispiel-Fragen</h2>
 
+Du brauchst mehr Nachschub? In unserer großen Sammlung findest du **[über 90 Würdest-du-eher-Fragen]({{ '/was-wuerdest-du-eher/fragen/' | url }})** – sortiert nach Stimmung, von harmlos bis pikant ab 18.
+
 Dir fällt gerade nichts ein? Nimm eine aus dieser Auswahl – einfach mit „Würdest du eher …“ davor:
 
 <ul class="game__names">
