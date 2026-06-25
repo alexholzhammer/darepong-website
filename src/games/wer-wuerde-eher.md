@@ -108,6 +108,8 @@ Wer würde eher ist ein **geselliges Kennenlern- und Abstimmungs-Trinkspiel** oh
 
 <h2 id="fragen">Wer würde eher: Beispiel-Fragen</h2>
 
+Du brauchst mehr Nachschub? In unserer großen Sammlung findest du **[über 90 Wer-würde-eher-Fragen]({{ '/wer-wuerde-eher/fragen/' | url }})** – sortiert nach Stimmung, von harmlos bis pikant ab 18.
+
 Keine Idee? Hier eine Auswahl – einfach mit „Wer würde eher …“ davor:
 
 <ul class="game__names">
