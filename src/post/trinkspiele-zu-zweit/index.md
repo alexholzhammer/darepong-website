@@ -1,7 +1,7 @@
 ---
-title: "26 Trinkspiele zu zweit - Klassiker & Neuheiten"
+title: "Trinkspiele zu zweit: 26 Ideen für 2 Personen"
 date: 2023-11-23
-updated: 2026-06-18
+updated: 2026-06-23
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-zu-zweit.jpg"
 summary: "Trinkspiele zu zweit: 26 Spiele für 2 Personen mit Anleitung - mit Karten, ohne Material, online und für Paare. Inklusive Regeln und Übersichtstabelle."
 ctaPitch: "Auch zu zweit ein echtes Duell: Dare Pong macht aus 1-gegen-1-Beer-Pong ein Spiel mit 120 wasserfesten Dares."

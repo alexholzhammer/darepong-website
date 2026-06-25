@@ -4,7 +4,7 @@ name: Rage Cage
 slug: rage-cage
 title: "Rage Cage: Regeln & Anleitung (Slap Cup / Stack Cup)"
 description: "Rage Cage (Slap Cup / Stack Cup) – das schnelle Becher-Trinkspiel: alle Regeln, der gefürchtete Death Cup und Tipps. Wer den Becher nicht rechtzeitig loswird, trinkt."
-updated: 2026-06-12
+updated: 2026-06-23
 rulesPdf: /assets/rage-cage-regeln.pdf
 rulesPdfLabel: "Rage Cage Regeln als PDF herunterladen"
 rulesTitle: "Rage Cage Regeln"
@@ -73,6 +73,8 @@ faq:
     a: "Ja. Rage Cage ist unter mehreren Namen bekannt – „Slap Cup“, „Stack Cup“ oder „Boom Cup“. Gemeint ist immer dasselbe schnelle Becher-Reaktionsspiel."
   - q: "Kann man Rage Cage alkoholfrei spielen?"
     a: "Ja. Füllt die Becher einfach mit Wasser, Saft oder einem Softdrink – am Tempo und Chaos ändert das nichts."
+  - q: "Welches Lied läuft bei Rage Cage?"
+    a: "Der Klassiker ist „Gas Gas Gas“ von Goran Bregovic, das viele Gruppen in Dauerschleife laufen lassen. Ebenfalls beliebt sind „Shots“ (LMFAO), „Turn Down for What“ (DJ Snake & Lil Jon) und „Sandstorm“ (Darude). Oft läuft ein einziger Song, bis der letzte Becher getrunken ist."
 ---
 
 <div class="game__tldr">
@@ -95,6 +97,7 @@ faq:
   <ul>
     <li><a href="#was-ist">Was ist Rage Cage?</a></li>
     <li><a href="#varianten">Varianten</a></li>
+    <li><a href="#lied">Welches Lied?</a></li>
     <li><a href="#aehnliche-spiele">Ähnliche Trinkspiele</a></li>
     <li><a href="#regeln">Rage Cage Regeln</a></li>
     <li><a href="#tipps">Tipps</a></li>
@@ -143,6 +146,18 @@ Rage Cage ist ein **rasantes Becher-Reaktionsspiel** für Gruppen und lässt sic
     </div>
   </div>
 </div>
+
+<h2 id="lied">Welches Lied läuft bei Rage Cage?</h2>
+
+Bei **Rage Cage** läuft meist **„Gas Gas Gas" von Goran Bregovic** in Dauerschleife – für viele *das* Rage-Cage-Lied. Üblich ist, das ganze Spiel mit einem einzigen Song zu spielen, der durchläuft, bis der letzte Becher in der Mitte getrunken ist. Das treibt das Tempo an und sorgt für das typische Eskalations-Gefühl.
+
+Die beliebtesten Rage-Cage-Songs:
+
+- **„Gas Gas Gas" – Goran Bregovic** – der Klassiker schlechthin, treibend und chaotisch.
+- **„Shots" – LMFAO feat. Lil Jon** – Text und Beat passen perfekt zum Tempo.
+- **„Turn Down for What" – DJ Snake & Lil Jon** – laut, wild, ideal für die Hektik am Tisch.
+- **„Sandstorm" – Darude** – pure Geschwindigkeit, wenn alle ausrasten sollen.
+- **„Levels" – Avicii** und **„Animals" – Martin Garrix** – treibend und ohne Pause.
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
