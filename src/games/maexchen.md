@@ -162,7 +162,7 @@ Beim Mäxchen hängt alles davon ab, dass du die Reihenfolge im Kopf hast – vo
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Würfel- und Bluffspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Mäxchen funktioniert schon **zu zweit** hervorragend – weitere Ideen für die kleine Runde findest du in unserem Ratgeber [Trinkspiele zu zweit]({{ '/post/trinkspiele-zu-zweit/' | url }}). Du magst Würfel- und Bluffspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "schocken" %}
 

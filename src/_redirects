@@ -44,3 +44,6 @@
 # Phantom-URL aus alten internen Links -> echte Outdoor-Seite
 /post/trinkspiele-draussen/  /trinkspiele/draussen/  301
 /post/trinkspiele-draussen   /trinkspiele/draussen/  301
+# Rage-Cage-Post -> Spiel-Datenblatt (Konsolidierung Cannibalization)
+/post/rage-cage/  /rage-cage/  301
+/post/rage-cage   /rage-cage/  301
