@@ -1,5 +1,6 @@
 ---
-title: "Trinkspiele zu viert - die besten 25+"
+title: "Trinkspiele zu viert: Die 25 besten Spiele für 4 Personen"
+description: "Trinkspiele zu viert: die 25 besten Spiele für 4 Personen – mit Regeln, plus Varianten zu dritt, ohne Material und mit Karten. Inklusive Übersicht."
 date: 2025-11-08
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-zu-viert.jpg"
@@ -16,11 +17,11 @@ faq:
   - q: "Was sind die besten Trinkspiele zu viert?"
     a: "Die 25 besten Trinkspiele zu viert sind Kings Cup, Beer Pong, Jenga Trinkspiel, Ring of Fire, Never Have I Ever, Quarters, Civil War, Flip Cup, Picolo App, Hochstapler, Wizard, Ich hab noch nie, Most Likely, Speed Facts, Busfahrer und viele mehr."
   - q: "Was macht Trinkspiele zu viert so beliebt?"
-    a: "Trinkspiele zu viert haben einfache Regeln, alle machen mit, der Wettkampf bleibt freundlich und es entsteht ein Gruppengefuehl. Der Alkohol ist dabei Nebensache, nicht der Hauptgrund."
+    a: "Trinkspiele zu viert haben einfache Regeln, alle machen mit, der Wettkampf bleibt freundlich und es entsteht ein Gruppengefühl. Der Alkohol ist dabei Nebensache, nicht der Hauptgrund."
   - q: "Kann man Trinkspiele zu viert auch ohne Alkohol spielen?"
-    a: "Ja – alle Spiele funktionieren genauso gut mit alkoholfreien Getraenken. Der Spass steht im Vordergrund, nicht das Trinken selbst."
+    a: "Ja – alle Spiele funktionieren genauso gut mit alkoholfreien Getränken. Der Spaß steht im Vordergrund, nicht das Trinken selbst."
   - q: "Welche Trinkspiele zu viert brauchen kein Material?"
-    a: "Never Have I Ever, Most Likely, Zwei Wahrheiten eine Luege, Speed Facts und Medusa funktionieren komplett ohne Spielmaterial und koennen spontan ueberall gespielt werden."
+    a: "Never Have I Ever, Most Likely, Zwei Wahrheiten eine Lüge, Speed Facts und Medusa funktionieren komplett ohne Spielmaterial und können spontan überall gespielt werden."
 ---
 
 Auf der Suche nach guten **Trinkspielen zu viert?** Wir haben die 25 besten Spiele für 4 Personen zusammengestellt - mit kurzen Regeln, von Kartenspielen über Becher-Klassiker bis zu Runden ganz ohne Material. Gespielt haben wir jedes selbst, da ist für jede Stimmung was dabei.
@@ -49,11 +50,11 @@ Und falls ihr nicht ganz genau zu viert seid: Weiter unten kommen noch Tipps fü
 
 5. **Never Have I Ever**: Jemand sagt "Ich habe noch nie..." und falls jemand das genannte schon mal gemacht hat, muss er trinken. Perfekt, um Geheimnisse zu lüften.
 
-6. **Quarters**: Spieler versuchen, eine Münze vom Tisch aus in ein Glas oder einen Becher springen zu lassen. Gelingt es, dürfen sie jemanden zum Trinken nominieren.
+6. **[Quarters]({{ '/quarters/' | url }})**: Spieler versuchen, eine Münze vom Tisch aus in ein Glas oder einen Becher springen zu lassen. Gelingt es, dürfen sie jemanden zum Trinken nominieren.
 
 7. **Civil War**: Eine erweiterte Version von [Beer Pong]({{ '/beer-pong/' | url }}) mit mehr Bällen und Bechern. Hier herrscht Krieg am Tisch, und jeder Spieler verteidigt seine Seite.
 
-8. **Flip Cup**: Spieler müssen zunächst ihren Becher austrinken und dann versuchen, den Becher vom Tischrand aus so zu tippen, dass er sich umdreht und auf dem Kopf landet.
+8. **[Flip Cup]({{ '/flip-cup/' | url }})**: Spieler müssen zunächst ihren Becher austrinken und dann versuchen, den Becher vom Tischrand aus so zu tippen, dass er sich umdreht und auf dem Kopf landet.
 
 9. **[Picolo App]({{ '/picolo/' | url }})**: Eine App, die Trinkaufgaben generiert. Gebt einfach eure Namen ein und die App sagt euch, was zu tun ist.
 
@@ -83,7 +84,7 @@ Und falls ihr nicht ganz genau zu viert seid: Weiter unten kommen noch Tipps fü
 
 22. **[Arschloch (Asshole)]({{ '/arschloch/' | url }})**: Ein Rangkartenspiel, bei dem der "Arschloch" (letzter Platz) die unangenehmen Aufgaben erledigen muss, wie das Mischen oder das Austrinken der Reste.
 
-23. **Slap Cup**: Spieler versuchen, ihren Becher mit einem leichten Schlag auf den Rand so zu drehen, dass dieser auf dem Boden landet. Wer zuerst fertig ist, darf einen Becher bestimmen, den ein anderer austrinken muss.
+23. **[Slap Cup]({{ '/rage-cage/' | url }})**: Spieler versuchen, ihren Becher mit einem leichten Schlag auf den Rand so zu drehen, dass dieser auf dem Boden landet. Wer zuerst fertig ist, darf einen Becher bestimmen, den ein anderer austrinken muss.
 
 24. **Cup Stack**: Spieler stapeln Becher zu einem Turm. Fällt der Turm um oder misslingt der Bau, muss der verantwortliche Spieler trinken.
 

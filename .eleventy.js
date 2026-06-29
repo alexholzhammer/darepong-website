@@ -85,6 +85,18 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
+  // Newest on-topic posts for the homepage "Aus dem Blog" teaser. Pushes link
+  // equity from the strongest page (the root) down to fresh articles so they get
+  // crawled and indexed faster. The off-topic gift cluster is excluded here to
+  // keep the homepage topically focused (it has its own /geschenke/ hub link).
+  eleventyConfig.addCollection("homePosts", function (api) {
+    return api
+      .getFilteredByTag("post")
+      .filter((p) => !(p.data.tags || []).includes("Geschenke"))
+      .sort((a, b) => b.date - a.date)
+      .slice(0, 6);
+  });
+
   // Aggregate stats over a games collection for the hub "Auf einen Blick" box.
   eleventyConfig.addFilter("gamesStats", function (games) {
     let minP = 99, maxP = 0, minD = 999, maxD = 0, om = 0;

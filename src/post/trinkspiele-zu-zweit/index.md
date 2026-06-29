@@ -1,5 +1,6 @@
 ---
 title: "Trinkspiele zu zweit: 26 Ideen für 2 Personen"
+description: "Trinkspiele zu zweit: 26 erprobte Ideen für 2 Personen – mit Karten, ohne Material, online & für Paare. Mit klaren Regeln und Übersichtstabelle."
 date: 2023-11-23
 updated: 2026-06-23
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-zu-zweit.jpg"
@@ -15,12 +16,12 @@ tags:
 faq:
   - q: "Was sind gute Trinkspiele zu zweit?"
     a: "Es gibt Trinkspiele zu zweit mit Material wie Beer Pong-Varianten oder Kartenspiele, Online-Trinkspiele via Zoom oder Apps, und Spiele ohne Material wie Schnick-Schnack-Schnuck mit Trinkregeln. Insgesamt gibt es 26 Optionen in verschiedenen Kategorien."
-  - q: "Was macht ein gutes Trinkspiel fuer zwei Personen aus?"
-    a: "Ein gutes Zweierspiel ist schnell erklaert, lasst keine Wartezeiten zu und mischt Glueck und Geschick so, dass beide eine Chance haben. Alkoholfrei sollte es genauso laufen, denn es geht um den Spielspass und nicht ums schnelle Trinken."
+  - q: "Was macht ein gutes Trinkspiel für zwei Personen aus?"
+    a: "Ein gutes Zweierspiel ist schnell erklärt, lässt keine Wartezeiten zu und mischt Glück und Geschick so, dass beide eine Chance haben. Alkoholfrei sollte es genauso laufen, denn es geht um den Spielspaß und nicht ums schnelle Trinken."
   - q: "Kann man Trinkspiele zu zweit ohne Material spielen?"
-    a: "Ja – es gibt 5 Trinkspiele, die komplett ohne Wuerfel, Karten oder andere Hilfsmittel auskommen und sich spontan spielen lassen."
+    a: "Ja – es gibt 5 Trinkspiele, die komplett ohne Würfel, Karten oder andere Hilfsmittel auskommen und sich spontan spielen lassen, etwa Ich hab noch nie, Buffalo oder Schnick-Schnack-Schnuck mit Trinkregel."
   - q: "Welche Online-Trinkspiele funktionieren zu zweit?"
-    a: "Es gibt 6 Online-Trinkspiele fuer 2 Personen, die auch auf Distanz viel Spass machen – ideal wenn man nicht im selben Raum ist."
+    a: "Karten-Klassiker wie Busfahrer oder Schwimmen per Videochat, Wahrheit oder Pflicht und Ich hab noch nie ganz ohne Material sowie Trink-Apps wie Picolo funktionieren auch auf Distanz – ideal, wenn man nicht im selben Raum ist."
 ---
 
 Ihr beide sucht **gute Trinkspiele zu zweit?** Wir haben die 26 besten **Trinkspiele für 2 Personen** zusammengetragen - mit Material, ohne Material, mit Karten und sogar online über die Distanz. Als Spiel für Paare, für beste Freunde oder für einen lockeren Abend daheim ist auf jeden Fall was dabei.
@@ -53,27 +54,53 @@ Zu zweit steht und fällt alles mit der direkten Interaktion: keine Wartezeiten,
 
 <h2 id="mit-material">Die 10 besten Trinkspiele zu zweit mit Material: Klassiker & Neuheiten</h2>
 
-Diese 10 Spiele mit Material reichen für einen langen Abend zu zweit - ob als Trinkspiel für Pärchen oder für beste Freunde. Klassiker wie [Beer Pong]({{ '/beer-pong/' | url }}), [Mäxchen]({{ '/maexchen/' | url }}) und [Schiffe versenken]({{ '/schiffe-versenken-trinkspiel/' | url }}) laufen schon zu zweit einwandfrei und liefern direkten Wettkampf.
+Diese 10 Spiele mit Material reichen für einen langen Abend zu zweit - ob als Trinkspiel für Pärchen oder für beste Freunde. Sie liefern direkten Wettkampf, ohne dass eine dritte Person fehlt:
+
+1. **[Beer Pong]({{ '/beer-pong/' | url }}) (1 gegen 1)** - je sechs Becher pro Seite, wer zuerst alle gegnerischen abräumt, gewinnt. Der Verlierer trinkt. *Material: Becher, Bälle.*
+2. **[Mäxchen]({{ '/maexchen/' | url }})** - Würfeln, bluffen, durchschauen. Zu zweit wird jede Lüge zum direkten Duell. *Material: 2 Würfel, Becher.*
+3. **[Schiffe versenken]({{ '/schiffe-versenken-trinkspiel/' | url }})** - der Klassiker auf Papier, nur trinkt der Gegner bei jedem versenkten Schiff. *Material: Stift, Papier.*
+4. **[Bierjunge]({{ '/bierjunge/' | url }})** - das pure Duell: auf Kommando austrinken, wer zuletzt abstellt, verliert. *Material: zwei Getränke.*
+5. **[Beer Darts]({{ '/beer-darts/' | url }})** - zwei Dosen, zwei Dartpfeile. Triffst du die Dose des anderen, muss er trinken. *Material: Dosen, Dartpfeile.*
+6. **[Kniffel-Trinkspiel]({{ '/kniffel-trinkspiel/' | url }})** - Würfelkombinationen bringen Schlucke statt Punkte. *Material: 5 Würfel.*
+7. **[Würfelpoker]({{ '/wuerfelpoker/' | url }})** - Pokerhände aus Würfeln, der Verlierer der Runde trinkt. *Material: Würfelbecher.*
+8. **[Bierdeckel]({{ '/bierdeckel/' | url }})** - Bierdeckel von der Tischkante schnippen und fangen, misslungene Versuche kosten Schlucke. *Material: Bierdeckel.*
+9. **[Nageln]({{ '/nageln/' | url }})** - Nägel ins Holz treiben, wer mehr Schläge braucht, trinkt. *Material: Holzstamm, Hammer, Nägel.*
+10. **[Trink-Roulette]({{ '/trink-roulette/' | url }})** - der Zufall bestimmt, wer den nächsten Schluck nimmt. *Material: Roulette-Set.*
 
 Kommen spontan noch weitere Freunde dazu? Dann schaut in unsere [Trinkspiele zu viert]({{ '/post/trinkspiele-zu-viert/' | url }}).
 
 <h2 id="online">Online-Trinkspiele zu zweit: Die besten Apps und Spiele für die Distanz</h2>
 
-Ihr sitzt nicht im selben Raum, wollt aber trotzdem zusammen ein **Trinkspiel zu zweit online** spielen? Mit Videochat (Zoom, WhatsApp) und der passenden App klappt das mühelos. Diese 6 **Online-Trinkspiele für 2** funktionieren auch über die Distanz und sind wie gemacht für Fernbeziehungen oder Freunde in anderen Städten.
+Ihr sitzt nicht im selben Raum, wollt aber trotzdem zusammen ein **Trinkspiel zu zweit online** spielen? Mit Videochat (Zoom, WhatsApp) und der passenden App klappt das mühelos. Diese **Online-Trinkspiele für 2** funktionieren auch über die Distanz und sind wie gemacht für Fernbeziehungen oder Freunde in anderen Städten:
+
+- **Karten-Klassiker per Kamera** - [Busfahrer]({{ '/busfahrer/' | url }}) oder [Schwimmen]({{ '/schwimmen/' | url }}) lassen sich gut über den Bildschirm spielen, wenn einer die Karten hält.
+- **[Wahrheit oder Pflicht]({{ '/wahrheit-oder-pflicht/' | url }}) & [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})** - brauchen kein Material und laufen im Videochat genauso direkt.
+- **Trink-Apps wie Picolo** - das Handy gibt die Aufgaben vor und funktioniert auch zu zweit.
+- **Skribbl oder Stadt-Land-Fluss mit Trinkregeln** - wer verliert, trinkt - perfekt für den geteilten Bildschirm.
 
 Du suchst noch mehr Ideen für den Bildschirm? In unserer Übersicht der [Trinkspiele online]({{ '/post/trinkspiele-online/' | url }}) findest du weitere Apps und Spiele mit Anleitung.
 
 <h2 id="ohne-material">Die 5 besten Trinkspiele zu zweit ohne Material</h2>
 
-Kein Würfel, keine Karten, kein Zubehör? Halb so wild - diese 5 **Trinkspiele zu zweit ohne Material** spielt ihr völlig spontan. Mehr als euch beide und ein paar Getränke braucht es nicht. Ein **Trinkspiel ohne Zubehör** wie [Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }}) oder ein Wortspiel mit Trinkregeln passt perfekt für unterwegs, in den Park oder in den Zug.
+Kein Würfel, keine Karten, kein Zubehör? Halb so wild - diese 5 **Trinkspiele zu zweit ohne Material** spielt ihr völlig spontan. Mehr als euch beide und ein paar Getränke braucht es nicht - perfekt für unterwegs, im Park oder im Zug:
 
-Klassiker wie [Buffalo]({{ '/buffalo/' | url }}) oder [Cheers to the Governor]({{ '/cheers-to-the-governor/' | url }}) brauchen ebenfalls kein Material und funktionieren schon zu zweit.
+1. **[Ich hab noch nie]({{ '/ich-hab-noch-nie/' | url }})** - einer nennt etwas, das er nie getan hat. Wer es doch getan hat, trinkt. Zu zweit besonders ehrlich.
+2. **[Buffalo]({{ '/buffalo/' | url }})** - ihr trinkt den ganzen Abend mit der linken Hand. Wer es vergisst und mit rechts greift, muss nachtrinken.
+3. **[Cheers to the Governor]({{ '/cheers-to-the-governor/' | url }})** - gemeinsam bis 21 zählen, mit Sonderregeln für einzelne Zahlen. Ein Versprecher kostet einen Schluck.
+4. **Schnick-Schnack-Schnuck mit Trinkregel** - schnellste Variante überhaupt: Wer die Runde verliert, trinkt. Beliebig oft wiederholbar.
+5. **[Was würdest du eher]({{ '/was-wuerdest-du-eher/' | url }})** - witzige Entweder-oder-Dilemmata. Wer zögert oder sich nicht entscheiden kann, trinkt.
 
 <h2 id="mit-karten">5 Karten-Trinkspiele zu zweit</h2>
 
 ![Trinkspiele zu zweit mit Karten](trinkspiele-zu-zweit-mit-karten.avif)
 
-Ein einfaches Skat- oder Pokerdeck reicht für jede Menge **Karten-Trinkspiele zu zweit**. Saufspiele wie [Busfahrer]({{ '/busfahrer/' | url }}), [Schwimmen]({{ '/schwimmen/' | url }}) oder [17 und 4]({{ '/17-und-4/' | url }}) laufen schon mit zwei Leuten und sind in ein paar Minuten erklärt. Praktisch für unterwegs ist ein **Trinkspiel mit Karten** obendrein, denn ein Deck passt in jede Tasche.
+Ein einfaches Skat- oder Pokerdeck reicht für jede Menge **Karten-Trinkspiele zu zweit** - und passt in jede Tasche. Diese fünf Saufspiele laufen schon mit zwei Leuten und sind in ein paar Minuten erklärt:
+
+1. **[Busfahrer]({{ '/busfahrer/' | url }})** - rot oder schwarz, höher oder tiefer raten. Jeder Fehler kostet einen Schluck.
+2. **[Schwimmen]({{ '/schwimmen/' | url }})** - möglichst nah an 31 Punkte kommen. Wer „schwimmt" und verliert, trinkt.
+3. **[17 und 4]({{ '/17-und-4/' | url }})** - das Blackjack-Prinzip, gespielt um Schlucke statt um Geld.
+4. **Höher oder niedriger** - schätzen, ob die nächste Karte höher oder niedriger ist. Falsch geraten = trinken.
+5. **[UNO-Trinkspiel]({{ '/uno-trinkspiel/' | url }})** - Zieh- und Aktionskarten lösen Schlucke aus. Mit einem UNO-Deck im Handumdrehen startklar.
 
 Du willst tiefer in die Karten-Welt einsteigen? In unserer Übersicht [Trinkspiele mit Karten]({{ '/post/trinkspiele-mit-karten/' | url }}) findest du 14 Karten-Trinkspiele mit ausführlicher Anleitung.
 

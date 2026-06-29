@@ -1,5 +1,6 @@
 ---
-title: "Trinkspiele für Geburtstage - die 10 besten Spiele hier!"
+title: "Trinkspiele Geburtstag: Die 10 besten Spiele (mit Regeln)"
+description: "Trinkspiele zum Geburtstag: die 10 besten Spiele mit Anleitung & Regeln – von King's Cup bis Beer Pong, für große Gruppen und auch draußen."
 date: 2024-01-02
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-geburtstag.jpg"
@@ -16,10 +17,10 @@ faq:
   - q: "Was sind die besten Trinkspiele für Geburtstage?"
     a: "Die 10 besten Trinkspiele für Geburtstage sind: King's Cup, Beer Pong, Flip Cup, Jenga Trinkspiel, Never Have I Ever, Quarters, Buzz, Most Likely, Flunkyball und Nageln."
   - q: "Was macht ein gutes Trinkspiel zum Geburtstag aus?"
-    a: "Ein gutes Geburtstagsstrinkspiel sollte einfache Regeln haben, alle Gäste einbeziehen, anpassungsfähig sein, Spaß und Gemeinschaftsgefühl fördern und verantwortungsbewusst gespielt werden können."
-  - q: "Wie viele Spieler braucht man für Geburtstagsstrinkspiele?"
+    a: "Ein gutes Geburtstags-Trinkspiel sollte einfache Regeln haben, alle Gäste einbeziehen, anpassungsfähig sein, Spaß und Gemeinschaftsgefühl fördern und verantwortungsbewusst gespielt werden können."
+  - q: "Wie viele Spieler braucht man für Geburtstags-Trinkspiele?"
     a: "Die meisten Trinkspiele wie King's Cup oder Never Have I Ever sind ab 4–5 Spielern ideal. Beer Pong und Flip Cup eignen sich für Teams, Flunkyball und Nageln für größere Gruppen im Freien."
-  - q: "Kann man Geburtstagsstrinkspiele auch ohne Alkohol spielen?"
+  - q: "Kann man Geburtstags-Trinkspiele auch ohne Alkohol spielen?"
     a: "Ja – alle Spiele funktionieren genauso gut mit alkoholfreien Getränken. Wichtig ist, dass Alternativen für alle Gäste bereitstehen, die keinen Alkohol trinken möchten."
 ---
 
@@ -258,6 +259,8 @@ Das Spiel endet, wenn alle Becher eines Teams getroffen wurden. Das Team, das zu
 Das Spiel hat kein formelles Ende und kann so lange fortgesetzt werden, wie die Gruppe Spaß daran hat. Man kann auch eine feste Rundenzahl oder eine Zeitbegrenzung festlegen.
 
 <h3 id="quarters">Quarters</h3>
+
+> 📋 **Vollständige Regeln & Tipps:** [Quarters Anleitung →]({{ '/quarters/' | url }})
 
 #### Benötigte Materialien:
 
