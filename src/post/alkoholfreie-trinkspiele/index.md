@@ -1,5 +1,6 @@
 ---
 title: "Alkoholfreie Trinkspiele: 15 Ideen ganz ohne Alkohol"
+description: "Alkoholfreie Trinkspiele: 15 Ideen ganz ohne Alkohol – für Autofahrer, Dry January & abstinente Gäste. Mit Saft, Schorle oder Aufgabe statt Schnaps."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-alkoholfreie-trinkspiele.jpg"

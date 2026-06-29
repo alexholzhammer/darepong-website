@@ -1,5 +1,6 @@
 ---
-title: "Trinkspiele mit Karten | die 14 besten Karten-Trinkspiele"
+title: "Trinkspiele mit Karten: Die 14 besten Karten-Trinkspiele"
+description: "Trinkspiele mit Karten: die 14 besten Karten-Trinkspiele mit Anleitung – zu zweit, in der Gruppe und mit nur einem Skatblatt. Inklusive Regeln & Tipps."
 date: 2023-11-29
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-mit-karten.jpg"
