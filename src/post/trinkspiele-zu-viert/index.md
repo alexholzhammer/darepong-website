@@ -1,5 +1,6 @@
 ---
-title: "Trinkspiele zu viert - die besten 25+"
+title: "Trinkspiele zu viert: Die 25 besten Spiele für 4 Personen"
+description: "Trinkspiele zu viert: die 25 besten Spiele für 4 Personen – mit Regeln, plus Varianten zu dritt, ohne Material und mit Karten. Inklusive Übersicht."
 date: 2025-11-08
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-zu-viert.jpg"

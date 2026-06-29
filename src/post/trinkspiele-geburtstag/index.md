@@ -1,5 +1,6 @@
 ---
-title: "Trinkspiele für Geburtstage - die 10 besten Spiele hier!"
+title: "Trinkspiele Geburtstag: Die 10 besten Spiele (mit Regeln)"
+description: "Trinkspiele zum Geburtstag: die 10 besten Spiele mit Anleitung & Regeln – von King's Cup bis Beer Pong, für große Gruppen und auch draußen."
 date: 2024-01-02
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-geburtstag.jpg"

@@ -2,8 +2,8 @@
 id: rage-cage
 name: Rage Cage
 slug: rage-cage
-title: "Rage Cage: Regeln & Anleitung (Slap Cup / Stack Cup)"
-description: "Rage Cage (Slap Cup / Stack Cup) – das schnelle Becher-Trinkspiel: alle Regeln, der gefürchtete Death Cup und Tipps. Wer den Becher nicht rechtzeitig loswird, trinkt."
+title: "Rage Cage: Regeln, Lied (Gas Gas Gas) & Death Cup"
+description: "Rage Cage (Slap Cup / Stack Cup): alle Regeln, der gefürchtete Death Cup und das passende Lied – Gas Gas Gas plus die besten Songs. Schnell erklärt."
 updated: 2026-06-23
 rulesPdf: /assets/rage-cage-regeln.pdf
 rulesPdfLabel: "Rage Cage Regeln als PDF herunterladen"

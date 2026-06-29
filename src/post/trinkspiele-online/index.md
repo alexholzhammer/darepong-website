@@ -1,5 +1,6 @@
 ---
-title: "Trinkspiele online - die besten Spiele + Anleitungen"
+title: "Trinkspiele online: Die besten Spiele + Anleitungen"
+description: "Trinkspiele online: die besten Spiele für Zoom, Discord & Co. – mit Anleitung und Trinkregeln, zu zweit oder in der Gruppe, ab 18."
 date: 2023-12-19
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-online.jpg"

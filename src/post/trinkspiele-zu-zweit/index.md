@@ -1,5 +1,6 @@
 ---
 title: "Trinkspiele zu zweit: 26 Ideen für 2 Personen"
+description: "Trinkspiele zu zweit: 26 erprobte Ideen für 2 Personen – mit Karten, ohne Material, online & für Paare. Mit klaren Regeln und Übersichtstabelle."
 date: 2023-11-23
 updated: 2026-06-23
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-zu-zweit.jpg"

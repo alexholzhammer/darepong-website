@@ -1,5 +1,6 @@
 ---
-title: "9 lustige Trinkspiele für Frauen – die besten Ideen für den Mädelsabend"
+title: "Trinkspiele für Frauen: 9 lustige Ideen für den Mädelsabend"
+description: "Trinkspiele für Frauen: 9 lustige Ideen für den Mädelsabend – mit Regeln, von Wahrheit oder Pflicht bis Ich hab noch nie. Auch ohne Alkohol & für den JGA."
 date: 2024-02-29
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-frauen.jpg"
