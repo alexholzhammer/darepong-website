@@ -1,5 +1,6 @@
 ---
 title: "Oktoberfest-Trinkspiele: Die besten Wiesn-Spiele fürs Bierzelt"
+description: "Oktoberfest-Trinkspiele: die besten Wiesn-Spiele fürs Bierzelt – von Maßkrug-Stemmen bis Flunkyball. Mit Regeln, für die Gruppe und auch zu Hause."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-oktoberfest-trinkspiele.jpg"

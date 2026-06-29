@@ -1,5 +1,6 @@
 ---
-title: "Film Trinkspiele - die 20 besten Ideen und Filme"
+title: "Film-Trinkspiele: Die 20 besten Ideen & Filme"
+description: "Film-Trinkspiele: die 20 besten Ideen & Filme – mit Regeln, wann getrunken wird, von Harry Potter bis Herr der Ringe. Perfekt für den Filmabend zu Hause."
 date: 2024-02-07
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-film-trinkspiele.jpg"

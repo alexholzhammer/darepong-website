@@ -1,5 +1,6 @@
 ---
 title: "Trinkspiele fürs Camping & Festival: ohne viel Material"
+description: "Trinkspiele fürs Camping & Festival: die besten Spiele ohne viel Material – mit Regeln, für Zeltplatz und Lagerfeuer. Passen in jeden Rucksack."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-camping.jpg"

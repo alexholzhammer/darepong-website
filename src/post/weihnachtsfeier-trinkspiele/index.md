@@ -1,5 +1,6 @@
 ---
 title: "Weihnachtsfeier-Trinkspiele: Die besten Spiele für Firma & Freunde"
+description: "Weihnachtsfeier-Trinkspiele: die besten Spiele für Firma & Freunde – mit Regeln, für kleine und große Runden. Sorgt für Stimmung auf jeder Feier."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-weihnachtsfeier-trinkspiele.jpg"

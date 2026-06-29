@@ -1,5 +1,6 @@
 ---
 title: "Fußball-Trinkspiel: Die besten Regeln für WM, EM & Bundesliga"
+description: "Fußball-Trinkspiel: die besten Regeln für WM, EM & Bundesliga – wann getrunken wird (Tor, Ecke, Abseits) und wie ihr zu zweit oder in der Gruppe spielt."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-fussball-trinkspiel.jpg"

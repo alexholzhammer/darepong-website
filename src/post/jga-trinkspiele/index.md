@@ -1,5 +1,6 @@
 ---
 title: "JGA Spiele & Trinkspiele: Ideen, Aufgaben & Anleitung"
+description: "JGA-Trinkspiele & Spiele: die besten Ideen, Aufgaben und Anleitungen für den Junggesellenabschied – für Bräute, Männerrunden und unterwegs."
 date: 2024-01-05
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-jga-trinkspiele.jpg"
