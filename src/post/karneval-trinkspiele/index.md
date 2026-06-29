@@ -1,5 +1,6 @@
 ---
 title: "Karneval-Trinkspiele: Die besten Spiele für Fasching & Fastnacht"
+description: "Karneval-Trinkspiele für Fasching & Fastnacht: die besten Spiele für Kostümparty und Sitzung – mit Regeln, für die Gruppe und auch alkoholfrei spielbar."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-karneval-trinkspiele.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Silvester-Trinkspiele: Die 10 besten Spiele für deine Neujahrsparty"
+description: "Silvester-Trinkspiele: die 10 besten Spiele für deine Neujahrsparty – mit Regeln, Countdown-Ideen und Varianten für die Gruppe. Auch alkoholfrei."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-silvester-trinkspiele.jpg"

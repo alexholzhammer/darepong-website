@@ -1,5 +1,6 @@
 ---
 title: "Trinkspiele für die Abiparty & Abschlussfeier"
+description: "Trinkspiele für die Abiparty & Abschlussfeier: die besten Spiele für die große Runde – mit Regeln, für drinnen und draußen. Macht jede Feier zum Highlight."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-abiparty.jpg"

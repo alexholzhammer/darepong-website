@@ -1,5 +1,6 @@
 ---
 title: "Trinkspiele für die Hausparty: Stimmung für drinnen"
+description: "Trinkspiele für die Hausparty: die besten Spiele für drinnen – mit Regeln, für kleine und große Runden, mit und ohne Material. Sofort Stimmung garantiert."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-hausparty.jpg"

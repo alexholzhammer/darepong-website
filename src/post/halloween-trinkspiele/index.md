@@ -1,5 +1,6 @@
 ---
 title: "Halloween-Trinkspiele: Die gruseligsten Spiele für deine Party"
+description: "Halloween-Trinkspiele: die gruseligsten Spiele für deine Party – vom Horrorfilm-Trinkspiel bis Süßes-oder-Saures-Shots. Mit Regeln, auch alkoholfrei."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-halloween-trinkspiele.jpg"

@@ -1,5 +1,6 @@
 ---
-title: "Trinkspiele für die Grillparty: die 10 besten Spiele"
+title: "Trinkspiele für die Grillparty: Die 10 besten Spiele"
+description: "Trinkspiele für die Grillparty: die 10 besten Spiele für draußen – mit Regeln, für Garten und Terrasse, zwischen Würstchen und Bier. Auch in großer Runde."
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiele-grillparty.jpg"
