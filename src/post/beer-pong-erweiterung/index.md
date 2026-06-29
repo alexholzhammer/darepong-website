@@ -1,5 +1,6 @@
 ---
-title: "Die 10 besten Beerpong-Erweiterungen für mehr Partyspaß"
+title: "Beer Pong Erweiterung: Die 10 besten Varianten & Ideen"
+description: "Beer Pong Erweiterung: die 10 besten Varianten & Ideen – von Dare Pong über Riesen-Beerpong bis Flip Cup Pong. Mit Regeln und Tipps für mehr Partyspaß."
 date: 2024-08-27
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-beer-pong-erweiterung.jpg"

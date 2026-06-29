@@ -1,5 +1,6 @@
 ---
-title: "Trinkspiel Brettspiel - Die 7 besten Ideen!"
+title: "Trinkspiel-Brettspiel: Die 7 besten Ideen (+ selber machen)"
+description: "Trinkspiel-Brettspiel: die 7 besten Ideen von Schach bis Monopoly als Saufspiel – plus Anleitung, wie du dein eigenes Trinkspiel-Brett selber machst."
 date: 2026-01-30
 updated: 2026-06-18
 ogImage: "https://www.darepong.eu/assets/og/blog-trinkspiel-brettspiel.jpg"
