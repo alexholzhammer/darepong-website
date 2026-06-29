@@ -185,6 +185,15 @@
           }{% if not loop.last %},{% endif %}
           {% endfor %}
         ]
+      }{% endif %}{% if itemList %},
+      {
+        "@type": "ItemList",
+        "name": {{ title | dump | safe }},
+        "itemListElement": [
+          {% for li in itemList %}
+          { "@type": "ListItem", "position": {{ loop.index }}, "name": {{ li | dump | safe }} }{% if not loop.last %},{% endif %}
+          {% endfor %}
+        ]
       }{% endif %}
     ]
   }
