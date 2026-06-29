@@ -253,6 +253,23 @@ jsonLdType: product
     </div>
   </section>
 
+  <!-- ========== AUS DEM BLOG (interne Links zu neuen Artikeln) ========== -->
+  <section class="games-teaser" id="ratgeber">
+    <div class="container">
+      <div class="games-teaser__head">
+        <span class="eyebrow">Aus dem Blog</span>
+        <h2 class="section-title">Frische Party-Tipps.</h2>
+        <p class="games-teaser__lede">Neue Trinkspiel-Ideen, Anleitungen und Anlass-Guides aus unserer Redaktion &mdash; das sind die neuesten Artikel:</p>
+      </div>
+      <ul class="games-teaser__grid">
+        {% for post in collections.homePosts %}
+        <li><a href="{{ post.url | url | encodeUrl }}">{{ post.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <a href="{{ '/blog/' | url }}" class="games-teaser__all">Alle Artikel ansehen &rarr;</a>
+    </div>
+  </section>
+
   <!-- ========== CTA BANNER ========== -->
   <section class="cta-banner">
     <div class="container">
