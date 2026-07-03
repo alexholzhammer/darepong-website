@@ -745,3 +745,29 @@ button { font-family: inherit; cursor: pointer; }
   border: 0;
 }
 
+
+/* Featured-Snippet-Antwortblock für Hub-/Kategorieseiten
+   (spiegelt .post__answer aus post.css, hier global verfügbar) */
+.hub-answer {
+  max-width: 72ch;
+  margin: 28px 0 0;
+  padding: 20px 24px;
+  background: var(--dp-foam);
+  border-left: 4px solid var(--dp-beer);
+  border-radius: 0 10px 10px 0;
+}
+
+.hub-answer__label {
+  display: block;
+  font: 700 11px/1 var(--font-body);
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--dp-red);
+  margin-bottom: 8px;
+}
+
+.hub-answer p {
+  margin: 0;
+  font: 500 18px/1.6 var(--font-body);
+  color: var(--dp-black);
+}
