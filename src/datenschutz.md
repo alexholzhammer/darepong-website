@@ -39,29 +39,31 @@ Diese Daten werden nicht mit anderen Datenquellen zusammengeführt. Rechtsgrundl
 
 ## 4. Cookies und Consent-Management
 
-Unsere Website verwendet Cookies. Wir setzen das Consent-Management-Tool **Cookiebot** ein, um Ihre Einwilligung für nicht notwendige Cookies einzuholen und zu dokumentieren.
+Unsere Website verwendet Cookies. Für die Einholung und Dokumentation Ihrer Einwilligung zu nicht notwendigen Cookies setzen wir **Klaro!** ein, ein Open-Source-Consent-Management-Tool, das wir selbst auf unseren eigenen Servern betreiben (self-hosted). Es werden dabei keine Ihrer Einwilligungsdaten an einen externen Anbieter übermittelt oder von diesem verarbeitet.
 
-Technisch notwendige Cookies werden ohne Einwilligung gesetzt (Art. 6 Abs. 1 lit. f DSGVO). Alle weiteren Cookies werden nur nach Ihrer ausdrücklichen Einwilligung aktiviert (Art. 6 Abs. 1 lit. a DSGVO).
+Technisch notwendige Cookies werden ohne Einwilligung gesetzt (Art. 6 Abs. 1 lit. f DSGVO). Alle weiteren Dienste werden erst nach Ihrer ausdrücklichen Einwilligung aktiviert (Art. 6 Abs. 1 lit. a DSGVO).
 
-Sie können Ihre Einwilligung jederzeit über unser Cookie-Banner widerrufen oder anpassen.
+Sie können Ihre Einwilligung jederzeit widerrufen oder anpassen, über den Link „Cookie-Einstellungen" im Footer jeder Seite.
 
-**Cookiebot** wird bereitgestellt von:  
-Cybot A/S, Havnegade 39, 1058 Kopenhagen, Dänemark  
-Datenschutzerklärung: [https://www.cookiebot.com/de/privacy-policy/](https://www.cookiebot.com/de/privacy-policy/)
+Folgende Dienste können nach Ihrer Einwilligung aktiviert werden:
 
-## 5. Google Analytics 4
+| Dienst | Zweck | Kategorie |
+| --- | --- | --- |
+| Google Tag Manager (inkl. Google Analytics 4) | Websiteanalyse, Reichweitenmessung, Verwaltung weiterer Analyse-/Marketing-Tags | Statistik, Marketing |
 
-Mit Ihrer Einwilligung verwenden wir **Google Analytics 4** (GA4) zur Analyse des Nutzerverhaltens auf unserer Website.
+## 5. Google Analytics 4 und Google Tag Manager
+
+Mit Ihrer Einwilligung laden wir den **Google Tag Manager** (GTM), über den u. a. **Google Analytics 4** (GA4) zur Analyse des Nutzerverhaltens auf unserer Website eingebunden wird. GTM lädt erst nach Ihrer Einwilligung; bis dahin ist die Datenübermittlung an Google technisch blockiert (Google Consent Mode v2).
 
 **Anbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland  
 **Zweck:** Websiteanalyse, Reichweitenmessung, Optimierung des Angebots  
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung via Cookiebot)  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung via Klaro!)  
 **Datentransfer:** Die erhobenen Daten können auf Server in den USA übertragen werden. Google LLC ist nach dem EU-US Data Privacy Framework zertifiziert.  
 **Speicherdauer:** Nutzerdaten werden nach 14 Monaten automatisch gelöscht.
 
 GA4 ist so konfiguriert, dass IP-Adressen anonymisiert werden. Eine Weitergabe der Daten an Dritte findet nicht statt, sofern dies nicht gesetzlich vorgeschrieben ist.
 
-Sie können Ihre Einwilligung jederzeit über unser Cookie-Banner widerrufen. Alternativ können Sie die Datenerfassung durch GA4 durch Installation des [Google Analytics Opt-out Browser Add-ons](https://tools.google.com/dlpage/gaoptout) verhindern.
+Sie können Ihre Einwilligung jederzeit über den Link „Cookie-Einstellungen" im Footer widerrufen. Alternativ können Sie die Datenerfassung durch GA4 durch Installation des [Google Analytics Opt-out Browser Add-ons](https://tools.google.com/dlpage/gaoptout) verhindern.
 
 Weitere Informationen: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
