@@ -2,10 +2,11 @@
    DARE PONG — Klaro! configuration (self-hosted CMP)
    Docs: https://klaro.org/docs/configuration-reference/
 
-   Google Consent Mode v2 stays the source of truth for what GTM/GA4 are
-   allowed to store: darePongLoadGTM() and the "google-analytics" script
-   tags (both defined in base.njk) only ever start once the matching
-   service below has been granted consent.
+   GA4 is configured entirely inside the GTM container (GTM-KXSBKFDX) — the
+   only service managed here is Google Tag Manager itself. Google Consent
+   Mode v2 stays the source of truth for what it's allowed to store:
+   darePongLoadGTM() (defined in base.njk) only ever runs once the service
+   below has been granted consent.
    ========================================================= */
 window.klaroConfig = {
   version: 1,
@@ -40,35 +41,19 @@ window.klaroConfig = {
         statistics: 'Statistik',
         marketing: 'Marketing',
       },
-      'google-analytics': {
-        title: 'Google Analytics 4',
-        description:
-          'Erfasst anonymisierte Statistiken zur Nutzung unserer Website (z. B. Seitenaufrufe, Verweildauer, Herkunft).',
-      },
       'google-tag-manager': {
         title: 'Google Tag Manager',
         description:
-          'Lädt weitere Analyse- und Marketing-Tags nach, sobald Sie zugestimmt haben.',
+          'Lädt Google Analytics 4 sowie weitere Analyse- und Marketing-Tags nach, sobald Sie zugestimmt haben.',
       },
     },
   },
 
   services: [
     {
-      name: 'google-analytics',
-      purposes: ['statistics'],
-      cookies: [/^_ga/, '_gid'],
-      onlyOnce: true,
-      callback: function (consent) {
-        gtag('consent', 'update', {
-          analytics_storage: consent ? 'granted' : 'denied',
-        });
-      },
-    },
-    {
       name: 'google-tag-manager',
       purposes: ['statistics', 'marketing'],
-      cookies: [/^_gcl/, /^_ga/],
+      cookies: [/^_gcl/, /^_ga/, '_gid'],
       onlyOnce: true,
       callback: function (consent) {
         gtag('consent', 'update', {

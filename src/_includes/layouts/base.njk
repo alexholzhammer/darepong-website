@@ -10,10 +10,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Consent Mode v2 defaults — must run before Klaro and before any Google
-       tag/pixel requests a network resource, so every signal starts denied
-       (except security_storage, which Google always expects granted) until
-       Klaro records an explicit choice. -->
+  <!-- Consent Mode v2 defaults — must run before Klaro and before GTM
+       requests a network resource, so every signal starts denied (except
+       security_storage, which Google always expects granted) until Klaro
+       records an explicit choice. GA4 is configured entirely inside the GTM
+       container — there is no separate gtag.js instance in this codebase. -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){ dataLayer.push(arguments); }
@@ -27,16 +28,6 @@
       security_storage: 'granted',
       wait_for_update: 500
     });
-  </script>
-
-  <!-- Google tag (gtag.js) — blocked by Klaro until "google-analytics" consent
-       is granted (type="text/plain" keeps the browser from fetching/running
-       it; Klaro swaps in the real type + src from data-type/data-src). -->
-  <script type="text/plain" data-name="google-analytics" data-type="application/javascript"
-          data-src="https://www.googletagmanager.com/gtag/js?id=G-F8H1RYRV4K" async></script>
-  <script type="text/plain" data-name="google-analytics" data-type="application/javascript">
-    gtag('js', new Date());
-    gtag('config', 'G-F8H1RYRV4K', { anonymize_ip: true });
   </script>
 
   <title>{{ pageTitle }}</title>

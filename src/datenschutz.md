@@ -49,12 +49,11 @@ Folgende Dienste können nach Ihrer Einwilligung aktiviert werden:
 
 | Dienst | Zweck | Kategorie |
 | --- | --- | --- |
-| Google Analytics 4 | Websiteanalyse, Reichweitenmessung | Statistik |
-| Google Tag Manager | Verwaltung weiterer Analyse-/Marketing-Tags | Statistik, Marketing |
+| Google Tag Manager (inkl. Google Analytics 4) | Websiteanalyse, Reichweitenmessung, Verwaltung weiterer Analyse-/Marketing-Tags | Statistik, Marketing |
 
 ## 5. Google Analytics 4 und Google Tag Manager
 
-Mit Ihrer Einwilligung verwenden wir **Google Analytics 4** (GA4) zur Analyse des Nutzerverhaltens auf unserer Website sowie den **Google Tag Manager** (GTM) zur Verwaltung weiterer Analyse- und Marketing-Tags. Beide Dienste laden erst nach Ihrer Einwilligung; bis dahin ist die Datenübermittlung an Google technisch blockiert (Google Consent Mode v2).
+Mit Ihrer Einwilligung laden wir den **Google Tag Manager** (GTM), über den u. a. **Google Analytics 4** (GA4) zur Analyse des Nutzerverhaltens auf unserer Website eingebunden wird. GTM lädt erst nach Ihrer Einwilligung; bis dahin ist die Datenübermittlung an Google technisch blockiert (Google Consent Mode v2).
 
 **Anbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland  
 **Zweck:** Websiteanalyse, Reichweitenmessung, Optimierung des Angebots  
