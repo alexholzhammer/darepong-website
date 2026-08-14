@@ -1,0 +1,30 @@
+/* =========================================================
+   DARE PONG — Klaro! theme overrides
+   Re-skins the vendored klaro.css (unmodified, see sync-klaro.js)
+   via its documented CSS custom properties. Do not edit klaro.css
+   directly — re-run `npm run sync:klaro` to update it.
+   ========================================================= */
+
+.klaro {
+  --font-family: var(--font-body);
+  --title-font-family: var(--font-body);
+  --font-size: 15px;
+  --border-radius: var(--r-2);
+  --border-width: 1px;
+  --border-style: solid;
+
+  --button-text-color: var(--dp-white);
+  --green1: var(--accent);       /* accept-all button, active toggle */
+  --green2: var(--accent-hover); /* save/accept-selected, required toggle */
+  --green3: var(--dp-beer);      /* focus ring */
+  --blue1: var(--dp-graphite);   /* decline / secondary button */
+  --blue2: var(--accent);        /* inline links, e.g. "learn more" */
+  --dark1: var(--dp-black);      /* modal/notice background */
+  --dark2: var(--dp-graphite);   /* borders, muted secondary text */
+  --dark3: var(--dp-stone);      /* description text on dark bg */
+  --light1: var(--dp-paper);     /* text on dark bg */
+  --light2: var(--dp-iron);      /* borders on dark bg */
+  --light3: var(--dp-ash);       /* subtle muted text */
+  --white2: var(--dp-iron);      /* toggle track, off state */
+  --white3: var(--dp-bone);      /* toggle knob */
+}

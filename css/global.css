@@ -436,14 +436,23 @@ button { font-family: inherit; cursor: pointer; }
   gap: 24px;
 }
 
-.site-footer__bottom-links a {
+.site-footer__bottom-links a,
+.site-footer__cookie-btn {
   font: 400 13px/1 var(--font-body);
   color: var(--dp-stone);
   transition: color var(--dur-fast);
 }
 
-.site-footer__bottom-links a:hover {
+.site-footer__bottom-links a:hover,
+.site-footer__cookie-btn:hover {
   color: var(--dp-paper);
+}
+
+.site-footer__cookie-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
 }
 
 /* =========================================================

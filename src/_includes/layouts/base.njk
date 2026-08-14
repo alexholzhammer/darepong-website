@@ -10,14 +10,33 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8H1RYRV4K"></script>
+  <!-- Consent Mode v2 defaults — must run before Klaro and before any Google
+       tag/pixel requests a network resource, so every signal starts denied
+       (except security_storage, which Google always expects granted) until
+       Klaro records an explicit choice. -->
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'denied',
+      functionality_storage: 'denied',
+      personalization_storage: 'denied',
+      security_storage: 'granted',
+      wait_for_update: 500
+    });
+  </script>
 
-    gtag('config', 'G-F8H1RYRV4K');
+  <!-- Google tag (gtag.js) — blocked by Klaro until "google-analytics" consent
+       is granted (type="text/plain" keeps the browser from fetching/running
+       it; Klaro swaps in the real type + src from data-type/data-src). -->
+  <script type="text/plain" data-name="google-analytics" data-type="application/javascript"
+          data-src="https://www.googletagmanager.com/gtag/js?id=G-F8H1RYRV4K" async></script>
+  <script type="text/plain" data-name="google-analytics" data-type="application/javascript">
+    gtag('js', new Date());
+    gtag('config', 'G-F8H1RYRV4K', { anonymize_ip: true });
   </script>
 
   <title>{{ pageTitle }}</title>
@@ -191,27 +210,32 @@
   </script>
   {% endif %}
 
-  <!-- Google Tag Manager — deferred to keep the main thread free during first
-       paint. Loads on the first user interaction, or shortly after load for
-       passive visitors so the Cookiebot consent banner still appears. -->
-  <script>(function(w,d,s,l,i){
-    w[l]=w[l]||[];
-    var loaded=false;
-    function load(){
-      if(loaded)return;loaded=true;
-      w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-      var f=d.getElementsByTagName(s)[0],
-          j=d.createElement(s),
-          dl=l!='dataLayer'?'&l='+l:'';
-      j.async=true;
-      j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
-      f.parentNode.insertBefore(j,f);
+  <!-- Google Tag Manager — armed only once Klaro records consent for the
+       "google-tag-manager" service (see js/klaro-config.js). Once armed, it
+       keeps the original perf behaviour: deferred until the first
+       interaction, or 2.5s after load for passive visitors. -->
+  <script>
+    function darePongLoadGTM(){
+      (function(w,d,s,l,i){
+        w[l]=w[l]||[];
+        var loaded=false;
+        function load(){
+          if(loaded)return;loaded=true;
+          w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+          var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),
+              dl=l!='dataLayer'?'&l='+l:'';
+          j.async=true;
+          j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+          f.parentNode.insertBefore(j,f);
+        }
+        var evts=['scroll','keydown','mousemove','touchstart','click'];
+        function trigger(){evts.forEach(function(e){w.removeEventListener(e,trigger);});load();}
+        evts.forEach(function(e){w.addEventListener(e,trigger,{passive:true});});
+        w.addEventListener('load',function(){setTimeout(load,2500);});
+      })(window,document,'script','dataLayer','GTM-KXSBKFDX');
     }
-    var evts=['scroll','keydown','mousemove','touchstart','click'];
-    function trigger(){evts.forEach(function(e){w.removeEventListener(e,trigger);});load();}
-    evts.forEach(function(e){w.addEventListener(e,trigger,{passive:true});});
-    w.addEventListener('load',function(){setTimeout(load,2500);});
-  })(window,document,'script','dataLayer','GTM-KXSBKFDX');</script>
+  </script>
   <!-- End Google Tag Manager -->
 
   <!-- Google Fonts — async to avoid render-blocking -->
@@ -225,13 +249,21 @@
   {% if pageCSS %}
   <style>{{ pageCSS | inlineCSS | safe }}</style>
   {% endif %}
+
+  <!-- Klaro! (self-hosted CMP) styling — vendored via `npm run sync:klaro`,
+       plus our brand theme overrides. Inlined so the consent notice never
+       flashes unstyled. -->
+  <style>{{ "klaro.css" | inlineCSS | safe }}</style>
+  <style>{{ "klaro-theme.css" | inlineCSS | safe }}</style>
+
+  <!-- Klaro! (self-hosted CMP) — config must load before the runtime so
+       window.klaroConfig exists when klaro.js initializes. Neither is
+       deferred/async: Klaro needs to run inline, in order, to show the
+       consent notice without delay. -->
+  <script src="{{ '/js/klaro-config.js' | url }}"></script>
+  <script src="{{ '/js/klaro.js' | url }}"></script>
 </head>
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXSBKFDX"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-
   <header class="site-header">
     <div class="site-header__inner">
       <a href="{{ '/' | url }}" class="site-header__brand">Dare Pong</a>
@@ -376,6 +408,7 @@
       <div class="site-footer__bottom-links">
         <a href="{{ '/impressum/' | url }}">Impressum</a>
         <a href="{{ '/datenschutz/' | url }}">Datenschutz</a>
+        <button type="button" class="site-footer__cookie-btn" onclick="klaro.show()">Cookie-Einstellungen</button>
       </div>
     </div>
   </footer>
