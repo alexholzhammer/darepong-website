@@ -11,7 +11,6 @@
 window.klaroConfig = {
   version: 1,
   elementID: 'klaro',
-  styling: { theme: ['dark', 'bottom', 'wide'] },
   htmlTexts: true,
   groupByPurpose: true,
   storageMethod: 'cookie',
@@ -19,6 +18,11 @@ window.klaroConfig = {
   cookieExpiresAfterDays: 365,
   default: false,
   mustConsent: false,
+  // Renders the notice as a centered, page-blocking overlay (dimmed
+  // backdrop, no click-outside-to-dismiss) instead of a corner banner —
+  // visitors must choose before browsing. Positioning/color come entirely
+  // from css/klaro-theme.css, not a built-in Klaro theme.
+  noticeAsModal: true,
   acceptAll: true,
   hideDeclineAll: false,
   hideLearnMore: false,
