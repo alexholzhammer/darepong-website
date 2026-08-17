@@ -28,3 +28,19 @@
   --white2: var(--dp-iron);      /* toggle track, off state */
   --white3: var(--dp-bone);      /* toggle knob */
 }
+
+/* Initial banner only (not the settings modal opened via "Konfigurieren"):
+   "Alle ablehnen" becomes a plain text link, matching "Konfigurieren", so
+   "Alle akzeptieren" is the only solid button — same one-click reject,
+   just lower visual weight than accept. */
+.klaro .cookie-notice .cn-decline {
+  background-color: transparent;
+  color: var(--accent);
+  padding: 0;
+  font-size: 0.95em;
+  text-decoration: none;
+}
+
+.klaro .cookie-notice .cn-decline:hover {
+  text-decoration: underline;
+}
