@@ -208,7 +208,7 @@ module.exports = function (eleventyConfig) {
       "</div>" +
       '<a href="' +
       CTA_AMZN +
-      '" class="btn-primary inline-cta__btn" target="_blank" rel="sponsored noopener">Dare Pong ansehen &mdash; &euro;9,97</a>' +
+      '" class="btn-primary inline-cta__btn" target="_blank" rel="sponsored noopener">Dare Pong ansehen &mdash; &euro;9,99</a>' +
       "</aside>";
     return content.slice(0, at) + cta + content.slice(at);
   });

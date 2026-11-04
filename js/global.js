@@ -74,7 +74,7 @@ document.querySelectorAll('.nav-dropdown').forEach(dd => {
     var a = e.target.closest('a[href*="amzn.to"], a[href*="amazon."]');
     if (!a) return;
     var data = {
-      placement: placementOf(a),
+      placement: a.dataset.placement || placementOf(a),
       link_url: a.href,
       link_text: (a.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 100),
       page_path: location.pathname

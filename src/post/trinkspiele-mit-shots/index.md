@@ -94,7 +94,7 @@ Shots sind intensiv - der Alkohol kommt schnell und kräftig. Damit der Abend gu
 
 Und die gute Nachricht: Jedes dieser Spiele funktioniert auch komplett ohne Alkohol. Ersetze den Shot durch Wasser, Saft oder eine kleine Aufgabe - eine Liegestütze, eine peinliche Frage oder zehn Sekunden tanzen. Wie das im Detail geht, zeigen wir dir bei den [alkoholfreien Trinkspielen](/post/alkoholfreie-trinkspiele/).
 
-Genau dafür ist [Dare Pong]({{ '/' | url }}) gemacht: 120 Dares, die als Aufgabe statt Shot funktionieren - intensiv mit Kurzen, mild mit Schlucken oder ganz alkoholfrei mit Mutproben, für rund 9,97 Euro. So spielt eure ganze Runde mit, egal wie hart oder locker es werden soll.
+Genau dafür ist [Dare Pong]({{ '/' | url }}) gemacht: 120 Dares, die als Aufgabe statt Shot funktionieren - intensiv mit Kurzen, mild mit Schlucken oder ganz alkoholfrei mit Mutproben, für rund 9,99 Euro. So spielt eure ganze Runde mit, egal wie hart oder locker es werden soll.
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/trinkspiele-mit-shots-motiv.svg' | url }}","name":"Trinkspiele mit Shots","caption":"Spiele mit Kurzen – intensiv, daher mit Maß und auch alkoholfrei spielbar."}]}

@@ -240,6 +240,9 @@
   {% if pageCSS %}
   <style>{{ pageCSS | inlineCSS | safe }}</style>
   {% endif %}
+  {% if extraCSS %}
+  <style>{{ extraCSS | inlineCSS | safe }}</style>
+  {% endif %}
 
   <!-- Klaro! (self-hosted CMP) styling — vendored via `npm run sync:klaro`,
        plus our brand theme overrides. Inlined so the consent notice never
@@ -255,6 +258,17 @@
   <script src="{{ '/js/klaro.js' | url }}"></script>
 </head>
 <body>
+  {% if slimLayout %}
+  <header class="site-header site-header--slim">
+    <div class="site-header__inner">
+      <span class="site-header__brand">Dare Pong</span>
+      <a href="{{ adLanding.amazonUrl }}" class="site-header__cta" target="_blank" rel="noopener sponsored">
+        <span>Auf Amazon kaufen</span>
+        <span class="site-header__cta-dot">&#8594;</span>
+      </a>
+    </div>
+  </header>
+  {% else %}
   <header class="site-header">
     <div class="site-header__inner">
       <a href="{{ '/' | url }}" class="site-header__brand">Dare Pong</a>
@@ -334,17 +348,30 @@
       </a>
     </div>
   </header>
+  {% endif %}
 
   <main id="main">
   {{ content | safe }}
   </main>
 
+  {% if slimLayout %}
+  <footer class="lp-footer">
+    <p>Ab 18 Jahren. Bitte trinkt verantwortungsvoll. Dare Pong funktioniert auch mit alkoholfreien Getränken.</p>
+    <p>&copy; 2026 Spielleute GmbH &middot; Studentenspiele Verlag ist eine Marke der Spielleute GmbH</p>
+    <div class="lp-footer__links">
+      <a href="{{ '/impressum/' | url }}">Impressum</a>
+      <a href="{{ '/datenschutz/' | url }}">Datenschutz</a>
+      <button type="button" onclick="klaro.show()">Cookie-Einstellungen</button>
+    </div>
+  </footer>
+  {% else %}
   <footer class="site-footer">
     <div class="site-footer__inner">
       <div class="site-footer__brand-col">
         <span class="site-footer__brand">Dare Pong</span>
         <span class="site-footer__tagline">Raus aus der Komfortzone!</span>
         <span class="site-footer__legal">&copy; 2026 Spielleute GmbH &middot; Bremen, Deutschland</span>
+        <span class="site-footer__legal">Studentenspiele Verlag ist eine Marke der Spielleute GmbH</span>
       </div>
       <div class="site-footer__cols">
         <div class="site-footer__col">
@@ -403,10 +430,14 @@
       </div>
     </div>
   </footer>
+  {% endif %}
 
   <script src="{{ '/js/global.js' | url }}" defer></script>
   {% if pageJS %}
   <script src="{{ ('/js/' + pageJS) | url }}" defer></script>
+  {% endif %}
+  {% if extraJS %}
+  <script src="{{ ('/js/' + extraJS) | url }}" defer></script>
   {% endif %}
 
 </body>

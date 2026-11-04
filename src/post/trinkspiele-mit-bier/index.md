@@ -100,7 +100,7 @@ Damit eine Runde Bier-Trinkspiele lange Spaß macht, kommt es auf das richtige B
 
 **Alle Spiele gehen auch alkoholfrei.** Das ist der wichtigste Tipp: Jedes der hier genannten **Bier-Trinkspiele** funktioniert genauso gut mit alkoholfreiem Bier. Das Spielprinzip - Treffen, Tempo, Geschicklichkeit - bleibt komplett erhalten, nur der Alkohol fällt weg. So spielen Autofahrer, Schwangere und abstinente Gäste voll mit. Wie das im Detail aussieht, zeigen wir dir in unserem Guide zu [alkoholfreien Trinkspielen](/post/alkoholfreie-trinkspiele/).
 
-Und wenn du das Trinken ganz durch Aufgaben ersetzen willst, ist [Dare Pong]({{ '/' | url }}) der einfachste Einstieg: 120 wasserfeste Dare-Karten verwandeln jedes Beer-Pong-Match in ein Aufgaben-Spiel - für rund 9,97 Euro und mit jedem Getränk spielbar, ob mit oder ohne Alkohol.
+Und wenn du das Trinken ganz durch Aufgaben ersetzen willst, ist [Dare Pong]({{ '/' | url }}) der einfachste Einstieg: 120 wasserfeste Dare-Karten verwandeln jedes Beer-Pong-Match in ein Aufgaben-Spiel - für rund 9,99 Euro und mit jedem Getränk spielbar, ob mit oder ohne Alkohol.
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/trinkspiele-mit-bier-motiv.svg' | url }}","name":"Trinkspiele mit Bier","caption":"Die Klassiker rund ums Bier – auch mit alkoholfreiem Bier."}]}

@@ -3,27 +3,27 @@ title: "Wichtelgeschenk unter 10 Euro: 15 Ideen, die ankommen"
 date: 2026-06-19
 updated: 2026-06-19
 ogImage: "https://www.darepong.eu/assets/og/blog-wichtelgeschenk-unter-10-euro.jpg"
-summary: "Wichtelgeschenk unter 10 Euro gesucht? 15 günstige Ideen für Kollegen, Familie und Party – mit Punktlandung-Tipp Dare Pong für 9,97 €."
-ctaPitch: "Dare Pong für 9,97 € landet beim Wichteln eine Punktlandung: unter 10 Euro, lustig und sofort spielbereit."
-answer: "Beim Wichteln unter 10 Euro punkten Ideen, die Spaß machen und etwas hermachen: lustige Socken, ein kleines Gadget, eine süße Naschbox oder ein Mini-Spiel. Top-Tipp ist Dare Pong für 9,97 € – ein Beer-Pong-Aufgaben-Spiel, das fast jede Runde sofort mitnimmt."
+summary: "Wichtelgeschenk unter 10 Euro gesucht? 15 günstige Ideen für Kollegen, Familie und Party – mit Punktlandung-Tipp Dare Pong für 9,99 €."
+ctaPitch: "Dare Pong für 9,99 € landet beim Wichteln eine Punktlandung: unter 10 Euro, lustig und sofort spielbereit."
+answer: "Beim Wichteln unter 10 Euro punkten Ideen, die Spaß machen und etwas hermachen: lustige Socken, ein kleines Gadget, eine süße Naschbox oder ein Mini-Spiel. Top-Tipp ist Dare Pong für 9,99 € – ein Beer-Pong-Aufgaben-Spiel, das fast jede Runde sofort mitnimmt."
 tags:
   - post
   - Geschenke
   - Wichteln
 faq:
   - q: "Was ist ein gutes Wichtelgeschenk unter 10 Euro?"
-    a: "Ein gutes Wichtelgeschenk unter 10 Euro ist lustig, nützlich oder etwas, das die Runde gemeinsam erlebt. Beliebt sind Mini-Spiele wie Dare Pong für 9,97 €, lustige Socken, kleine Küchen-Gadgets oder eine selbst zusammengestellte Naschbox."
+    a: "Ein gutes Wichtelgeschenk unter 10 Euro ist lustig, nützlich oder etwas, das die Runde gemeinsam erlebt. Beliebt sind Mini-Spiele wie Dare Pong für 9,99 €, lustige Socken, kleine Küchen-Gadgets oder eine selbst zusammengestellte Naschbox."
   - q: "Welches Wichtelgeschenk kommt bei Kollegen gut an?"
     a: "Bei Kollegen kommen neutrale, humorvolle Geschenke an: eine schöne Tasse, ein nützliches Schreibtisch-Gadget oder ein lustiges Partyspiel für die nächste Weihnachtsfeier. Wichtig ist nur, dass es niemandem unangenehm ist."
   - q: "Was schenkt man beim Schrottwichteln?"
     a: "Beim Schrottwichteln darf es absichtlich kurios oder nutzlos sein, Hauptsache es bringt alle zum Lachen. Beliebt sind skurrile Gadgets, Fun-Artikel und alberne Deko. Wer trotzdem etwas Brauchbares verschenken will, wählt ein günstiges Mini-Spiel."
   - q: "Wie teuer darf ein Wichtelgeschenk sein?"
-    a: "Üblich ist ein Budget zwischen 5 und 15 Euro, am häufigsten genau 10 Euro. Damit niemand mehr ausgibt als nötig, legt die Gruppe das Limit am besten vorher fest. Ein Geschenk knapp darunter, etwa für 9,97 Euro, trifft das Budget genau."
+    a: "Üblich ist ein Budget zwischen 5 und 15 Euro, am häufigsten genau 10 Euro. Damit niemand mehr ausgibt als nötig, legt die Gruppe das Limit am besten vorher fest. Ein Geschenk knapp darunter, etwa für 9,99 Euro, trifft das Budget genau."
 ---
 
 Du suchst ein **Wichtelgeschenk unter 10 Euro**, das ankommt und nicht direkt in der Schublade verschwindet? Wir haben 15 günstige Ideen gesammelt, die zum Budget passen – für Kollegen, die Familie und die Party-Truppe. Vom lustigen Klassiker bis zum kleinen Gadget ist alles dabei.
 
-Unser klarer Top-Tipp: [Dare Pong]({{ '/' | url }}) für ca. 9,97 € – eine deutschsprachige Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten. Knapp unter 10 Euro, also eine echte Punktlandung beim Budget, und trotzdem ein Geschenk, das die ganze Gruppe gemeinsam erlebt. Damit liegst du als **Wichtelgeschenk unter 10 Euro** richtig, wenn du Spaß verschenken willst.
+Unser klarer Top-Tipp: [Dare Pong]({{ '/' | url }}) für ca. 9,99 € – eine deutschsprachige Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten. Knapp unter 10 Euro, also eine echte Punktlandung beim Budget, und trotzdem ein Geschenk, das die ganze Gruppe gemeinsam erlebt. Damit liegst du als **Wichtelgeschenk unter 10 Euro** richtig, wenn du Spaß verschenken willst.
 
 <figure>
   <img src="{{ '/assets/wichtelgeschenk-unter-10-euro-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Wichtelgeschenk unter 10 Euro: Geschenkbox mit einem Preis-Badge unter 10 Euro">
@@ -41,7 +41,7 @@ Unser klarer Top-Tipp: [Dare Pong]({{ '/' | url }}) für ca. 9,97 € – eine d
 
 | Geschenk | Für wen | Preis ca. |
 |---|---|---|
-| [Dare Pong](#top15) | Partygänger & Studis | 9,97 € |
+| [Dare Pong](#top15) | Partygänger & Studis | 9,99 € |
 | Lustige Socken | jeden, der gern grinst | 5–8 € |
 | Mini-Spiel / Kartenspiel | Spieleabend-Fans | 6–10 € |
 | Gadget für die Küche | Hobbyköche | 7–10 € |
@@ -54,7 +54,7 @@ Unser klarer Top-Tipp: [Dare Pong]({{ '/' | url }}) für ca. 9,97 € – eine d
 
 Unsere Bestenliste. Auf Platz 1 steht das Geschenk mit der besten Preis-Punktlandung, danach folgen weitere Ideen nach Kategorie, die du je nach Beschenktem auswählst.
 
-1. **Dare Pong (ca. 9,97 €)** – Unser klarer Favorit. [Dare Pong]({{ '/' | url }}) macht aus klassischem Beer Pong ein Aufgaben-Spiel: Unter die Becher kommen 120 wasserfeste Dare-Karten, und wer trifft, verteilt eine Aufgabe an die Gegenseite. Knapp unter 10 Euro, also genau im Budget, und ein Geschenk, das die ganze Runde gemeinsam erlebt statt es nur kurz auszupacken. Mehr dazu in unserem Guide zur [Beer-Pong-Erweiterung](/post/beer-pong-erweiterung/).
+1. **Dare Pong (ca. 9,99 €)** – Unser klarer Favorit. [Dare Pong]({{ '/' | url }}) macht aus klassischem Beer Pong ein Aufgaben-Spiel: Unter die Becher kommen 120 wasserfeste Dare-Karten, und wer trifft, verteilt eine Aufgabe an die Gegenseite. Knapp unter 10 Euro, also genau im Budget, und ein Geschenk, das die ganze Runde gemeinsam erlebt statt es nur kurz auszupacken. Mehr dazu in unserem Guide zur [Beer-Pong-Erweiterung](/post/beer-pong-erweiterung/).
 2. **Ein anderes Mini-Spiel** – Ein kleines Karten- oder Würfelspiel passt fast immer ins Budget und beschäftigt die Runde sofort. Inspiration findest du bei unseren [Studentenspielen](/post/studentenspiele/).
 3. **Lustige Socken** – Der Dauerbrenner unter den günstigen Geschenken: bunt, nützlich und immer für ein Schmunzeln gut.
 4. **Gadget für die Küche** – Ein praktischer Helfer wie ein Avocado-Schneider oder ein Kräuter-Roller bleibt unter 10 Euro und wird oft benutzt.
@@ -84,7 +84,7 @@ Je nachdem, wer beschenkt wird, lohnt sich ein anderer Fokus. So findest du schn
 
 Damit das Wichteln rund läuft, helfen ein paar einfache Regeln:
 
-- **Budget vorher festlegen:** Einigt euch auf ein klares Limit, zum Beispiel 10 Euro. Ein Geschenk knapp darunter, etwa für 9,97 €, trifft die Grenze genau, und niemand gibt mehr aus als nötig.
+- **Budget vorher festlegen:** Einigt euch auf ein klares Limit, zum Beispiel 10 Euro. Ein Geschenk knapp darunter, etwa für 9,99 €, trifft die Grenze genau, und niemand gibt mehr aus als nötig.
 - **An den Anlass denken:** Ein Geschenk fürs Büro sollte zurückhaltender sein als eines für die Freundesrunde.
 - **Lieber Erlebnis als Staubfänger:** Etwas, das man zusammen nutzt, etwa ein Spiel, bleibt länger im Gedächtnis als reine Deko.
 - **Beim Schrottwichteln Humor zeigen:** Hier darf das Geschenk absichtlich kurios sein, Hauptsache es bringt alle zum Lachen. Wer trotzdem etwas Brauchbares verschenken will, greift zu einem günstigen Mini-Spiel.

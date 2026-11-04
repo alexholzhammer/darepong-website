@@ -9,7 +9,7 @@ module.exports = {
   product: {
     name: "Dare Pong",
     description: "120 wasserfeste Dare-Karten für Beer Pong. 2–8 Spieler, ab 18 Jahren. Versand aus Deutschland.",
-    price: "9.97",
+    price: "9.99",
     currency: "EUR",
     availability: "https://schema.org/InStock",
     brand: "Spielleute GmbH",

@@ -16,14 +16,14 @@ faq:
   - q: "Welches Mitbringsel für Männer kommt auf Partys gut an?"
     a: "Auf Partys ziehen Spiele, die alle einbinden. Dare Pong ist als Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten ein günstiges Mitbringsel, das sofort Stimmung macht. Genau richtig für Partygänger und Studenten."
   - q: "Was kann ich einem Mann unter 10 Euro schenken?"
-    a: "Unter 10 Euro geht überraschend viel: Dare Pong kostet rund 9,97 Euro, dazu passen Spezial-Snacks, ein gutes Craft-Bier oder ein kleines Gadget. Günstig, aber mit Wow-Effekt."
+    a: "Unter 10 Euro geht überraschend viel: Dare Pong kostet rund 9,99 Euro, dazu passen Spezial-Snacks, ein gutes Craft-Bier oder ein kleines Gadget. Günstig, aber mit Wow-Effekt."
   - q: "Welches kleine Geschenk passt zum Geburtstag eines Mannes?"
     a: "Zum Geburtstag passt etwas, das den Abend besser macht: ein Partyspiel wie Dare Pong, ein Genuss-Set oder ein praktisches Gadget. So verschenkst du nicht nur ein Objekt, sondern gemeinsame Erinnerungen."
 ---
 
 Du brauchst **kleine Geschenke für Männer**, ein **Mitbringsel für Männer**, das nicht teuer ist, aber trotzdem ein Grinsen auslöst? Dann bist du hier richtig. Die besten kleinen Geschenke kosten wenig, wirken durchdacht und bringen ein Erlebnis statt einen Staubfänger fürs Regal. Diese Mischung trifft bei den meisten Männern ins Schwarze.
 
-Unser klarer Top-Tipp ist [Dare Pong]({{ '/' | url }}): eine deutschsprachige Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten, die unter die Becher kommen. Wer trifft, verteilt eine Aufgabe, und schon wird aus einer normalen Runde ein Abend, über den am nächsten Tag noch geredet wird. Für rund 9,97 € ist das ein originelles kleines Mitbringsel. Darunter findest du 15 Ideen, sortiert nach Typ und Anlass.
+Unser klarer Top-Tipp ist [Dare Pong]({{ '/' | url }}): eine deutschsprachige Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten, die unter die Becher kommen. Wer trifft, verteilt eine Aufgabe, und schon wird aus einer normalen Runde ein Abend, über den am nächsten Tag noch geredet wird. Für rund 9,99 € ist das ein originelles kleines Mitbringsel. Darunter findest du 15 Ideen, sortiert nach Typ und Anlass.
 
 <figure>
   <img src="{{ '/assets/kleines-geschenk-fuer-maenner-motiv.svg' | url }}" width="560" height="280" loading="lazy" decoding="async" eleventy:ignore alt="Kleine Geschenke für Männer: eine rote Geschenkbox">
@@ -58,7 +58,7 @@ Damit du schnell das passende **Mitbringsel für Männer** findest, hier die bel
 
 Unser Tipp Nummer eins ist [Dare Pong]({{ '/' | url }}). Die Beer-Pong-Erweiterung legt 120 wasserfeste Dare-Karten unter die Becher: Wer trifft, vergibt eine Aufgabe an die Gegenseite. So wird aus jedem Spiel ein Abend mit reichlich Lachern.
 
-Für rund 9,97 € ist Dare Pong ein günstiges, originelles **kleines Geschenk für Männer**, ideal als Mitbringsel für Partygänger und Studenten. Die Spielregeln stehen in unserer Anleitung zu [Beer Pong]({{ '/beer-pong/' | url }}). Und wer tiefer einsteigen will, schaut in unseren Beitrag zur passenden [Beer-Pong-Erweiterung]({{ '/post/beer-pong-erweiterung/' | url }}).
+Für rund 9,99 € ist Dare Pong ein günstiges, originelles **kleines Geschenk für Männer**, ideal als Mitbringsel für Partygänger und Studenten. Die Spielregeln stehen in unserer Anleitung zu [Beer Pong]({{ '/beer-pong/' | url }}). Und wer tiefer einsteigen will, schaut in unseren Beitrag zur passenden [Beer-Pong-Erweiterung]({{ '/post/beer-pong-erweiterung/' | url }}).
 
 ### 2. Bier-Tasting-Set
 

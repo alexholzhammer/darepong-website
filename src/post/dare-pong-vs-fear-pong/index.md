@@ -18,7 +18,7 @@ faq:
   - q: "Wie viele Karten haben Dare Pong und Fear Pong?"
     a: "Dare Pong enthält 120 wasserfeste Karten mit einer Dare je Karte. Fear Pong hat 100 wasserfeste Karten mit zwei Dares je Karte."
   - q: "Was kostet Dare Pong im Vergleich zu Fear Pong?"
-    a: "Dare Pong kostet zur Zeit 9,97 Euro + Transportkosten. Fear Pong kostet aktuell ca. 33,50 Euro + Transportkosten. Beide Spiele sind über Amazon erhältlich."
+    a: "Dare Pong kostet zur Zeit 9,99 Euro + Transportkosten. Fear Pong kostet aktuell ca. 33,50 Euro + Transportkosten. Beide Spiele sind über Amazon erhältlich."
   - q: "Kann man Dare Pong oder Fear Pong selber machen?"
     a: "Ja – wer sein eigenes Dare/Fear Pong basteln möchte, findet eine Anleitung im Blogbeitrag \"Dare Pong DIY für alle Bastler\" auf darepong.eu."
 ---
@@ -50,7 +50,7 @@ Wo liegen die Unterschiede konkret? Dieser Vergleich nimmt Aufgaben, Kartenanzah
 | Karten | 120 Karten, 1 Dare/Karte | 100 Karten, 2 Dares/Karte |
 | Aufgaben-Stil | partytauglich, abgestuft | teils sehr extrem |
 | Tischtennisbälle | nicht enthalten | 2 enthalten |
-| Preis (ca.) | 9,97 € + Versand | 33,50 € + Versand |
+| Preis (ca.) | 9,99 € + Versand | 33,50 € + Versand |
 | Ideal für | WG- & Hauspartys in Europa | harte Dares, Englisch-Fans |
 
 <h2 id="spielprinzip">Spielprinzip und Aufbau</h2>
@@ -75,7 +75,7 @@ Fear Pong beinhaltet 100 wasserfeste Karten mit zwei Dares je Karte. Bei Dare Po
 
 *Eine Dare Pong Karte*
 
-Der Fear Pong Verpackung liegen zusätzlich noch zwei Tischtennisbälle bei. Dafür kostet Fear Pong aktuell ca. 33,50 Euro + Transportkosten. Bei Dare Pong kommt man günstiger weg und zahlt zur Zeit 9,97 Euro + Transportkosten. Beide Spiele sind über Amazon oder diverse Onlineshops erhältlich.
+Der Fear Pong Verpackung liegen zusätzlich noch zwei Tischtennisbälle bei. Dafür kostet Fear Pong aktuell ca. 33,50 Euro + Transportkosten. Bei Dare Pong kommt man günstiger weg und zahlt zur Zeit 9,99 Euro + Transportkosten. Beide Spiele sind über Amazon oder diverse Onlineshops erhältlich.
 
 <h2 id="aufgaben-beispiele">Dare Pong & Fear Pong Aufgaben: Beispiele</h2>
 

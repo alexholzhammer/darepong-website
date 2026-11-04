@@ -124,7 +124,7 @@ Es gibt gute Gründe, eine Runde komplett ohne Alkohol zu spielen - und keiner d
 - **Schwangere und abstinente Gäste:** Niemand fühlt sich ausgeschlossen, wenn alle dieselben Regeln haben.
 - **Weniger Kater, mehr Erinnerung:** Am nächsten Morgen weißt du noch, wer bei [Ich hab noch nie](/ich-hab-noch-nie/) alles aufgeflogen ist.
 
-Die Kernbotschaft bleibt einfach: Der Spaß steckt im Spielprinzip, nicht im Alkohol. Ob ihr Saft trinkt, Schorle kippt oder Aufgaben erfüllt - gelacht wird trotzdem. Und genau dafür ist [Dare Pong]({{ '/' | url }}) gemacht: 120 Dares, die mit jedem Getränk funktionieren, für rund 9,97 Euro. Probiert es aus - alkoholfrei, aber alles andere als nüchtern.
+Die Kernbotschaft bleibt einfach: Der Spaß steckt im Spielprinzip, nicht im Alkohol. Ob ihr Saft trinkt, Schorle kippt oder Aufgaben erfüllt - gelacht wird trotzdem. Und genau dafür ist [Dare Pong]({{ '/' | url }}) gemacht: 120 Dares, die mit jedem Getränk funktionieren, für rund 9,99 Euro. Probiert es aus - alkoholfrei, aber alles andere als nüchtern.
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[{"@type":"ImageObject","contentUrl":"{{ site.url }}{{ '/assets/alkoholfreie-trinkspiele-motiv.svg' | url }}","name":"Alkoholfreie Trinkspiele","caption":"Fast jedes Trinkspiel funktioniert auch alkoholfrei – mit Mocktail, Saft oder einer Aufgabe statt Schluck."}]}
