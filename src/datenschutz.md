@@ -67,7 +67,19 @@ Sie können Ihre Einwilligung jederzeit über den Link „Cookie-Einstellungen" 
 
 Weitere Informationen: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-## 6. Kontaktformular
+## 6. Amazon-Partnerprogramm
+
+Links zu Amazon auf dieser Website sind Partner-Links. Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.
+
+Beim Aufruf unserer Seiten wird keine Verbindung zu Amazon hergestellt. Erst wenn Sie einen Amazon-Link anklicken, gelangen Sie auf die Website von Amazon. Amazon verarbeitet dabei Daten wie Ihre IP-Adresse und die Herkunftsseite und kann Cookies setzen, um einen Kauf unserem Partner-Link zuzuordnen. Von Amazon erhalten wir nur zusammengefasste Auswertungen, keine Angaben zu einzelnen Käufern. Mit Ihrer Einwilligung messen wir Klicks auf diese Links außerdem über Google Analytics (siehe Abschnitt 5).
+
+**Anbieter:** Amazon Europe Core S.à r.l., 38 avenue John F. Kennedy, L-1855 Luxemburg  
+**Zweck:** Vermarktung unseres Spiels und Abrechnung der Partnervergütung  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Vermarktung unseres Spiels)
+
+Für die Datenverarbeitung auf den Websites von Amazon ist Amazon selbst verantwortlich. Weitere Informationen: [Datenschutzerklärung von Amazon](https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010)
+
+## 7. Kontaktformular
 
 Wenn Sie uns über unser Kontaktformular kontaktieren, werden die von Ihnen eingegebenen Daten (z. B. Name, E-Mail-Adresse, Nachricht) zur Bearbeitung Ihrer Anfrage bei uns gespeichert.
 
@@ -77,7 +89,7 @@ Wenn Sie uns über unser Kontaktformular kontaktieren, werden die von Ihnen eing
 
 Eine Weitergabe dieser Daten an Dritte erfolgt nicht.
 
-## 7. Ihre Rechte
+## 8. Ihre Rechte
 
 Sie haben gegenüber uns folgende Rechte bezüglich Ihrer personenbezogenen Daten:
 
@@ -91,7 +103,7 @@ Sie haben gegenüber uns folgende Rechte bezüglich Ihrer personenbezogenen Date
 
 Zur Ausübung Ihrer Rechte wenden Sie sich an: [info@spielleute.eu](mailto:info@spielleute.eu)
 
-## 8. Beschwerderecht bei der Aufsichtsbehörde
+## 9. Beschwerderecht bei der Aufsichtsbehörde
 
 Sie haben das Recht, sich bei der zuständigen Datenschutzaufsichtsbehörde zu beschweren:
 
