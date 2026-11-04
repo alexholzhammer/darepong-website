@@ -4,6 +4,11 @@
 module.exports = {
   amazonUrl: "https://amzn.to/4nA0xYQ",
 
+  video: {
+    id: "mp1Hq2GvN0Y",
+    title: "Dare Pong in 30 Sekunden"
+  },
+
   trust: [
     "120 Dares",
     "5 Kategorien",
