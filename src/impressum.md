@@ -14,6 +14,8 @@ Spielleute GmbH
 Kiefernweg 7a  
 51503 Rösrath
 
+Studentenspiele Verlag ist eine Marke der Spielleute GmbH.
+
 ## Kontakt
 
 E-Mail: [info@spielleute.eu](mailto:info@spielleute.eu)

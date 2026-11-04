@@ -92,7 +92,7 @@ Zur Oberfläche: zum Schluss eine Schicht Klarlack drauf oder selbstklebende Fol
 
 Ob gekauft oder selbst gebaut – der Tisch ist nur die halbe Miete. Das eigentliche Upgrade ist [Dare Pong]({{ '/' | url }}), die deutschsprachige Beer-Pong-Erweiterung. Du legst 120 wasserfeste Dare-Karten unter die Becher. Wer trifft, deckt eine Aufgabe auf und drückt sie einem Mitspieler aufs Auge. Statt nur zu trinken gibt's so Mutproben und jede Menge Lacher.
 
-Mit rund 9,97 € ist Dare Pong das günstige Extra zum neuen Tisch. Für den Tisch selbst bist du schnell dreistellig dabei; die Erweiterung kostet kaum mehr als eine Runde Becher – macht aus dem Standardspiel aber sofort etwas anderes.
+Mit rund 9,99 € ist Dare Pong das günstige Extra zum neuen Tisch. Für den Tisch selbst bist du schnell dreistellig dabei; die Erweiterung kostet kaum mehr als eine Runde Becher – macht aus dem Standardspiel aber sofort etwas anderes.
 
 Suchst du nach dem Tischkauf noch mehr für deine Runde, schau dir [Bierball]({{ '/bierball/' | url }}) an – ein temporeicher Beer-Pong-Verwandter, der auf demselben Tisch bestens funktioniert.
 

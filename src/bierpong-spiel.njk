@@ -1,0 +1,193 @@
+---
+layout: layouts/base.njk
+permalink: /bierpong-spiel/
+title: Dare Pong – Das Bierpong Spiel mit 120 Dares
+description: Das Original für Eure Bierpong-Runde. 120 wasserfeste Dare-Karten, keine App nötig. Jetzt auf Amazon bestellen.
+robots: "noindex, follow"
+slimLayout: true
+pageCSS: home.css
+extraCSS: landing.css
+pageJS: home.js
+extraJS: landing.js
+---
+{% set price = site.product.price | replace(".", ",") %}
+
+  <!-- ========== HERO ========== -->
+  <section class="hero lp-hero" id="top">
+    <div class="hero__inner">
+      <div class="hero__content">
+        <div class="hero__pill">
+          <span class="hero__pill-dot"></span>
+          Dare Pong · Das Original
+        </div>
+        <h1 class="hero__title lp-hero__title">Das Bierpong Spiel mit <em>120 Dares.</em></h1>
+        <p class="hero__lede">Karten unter die Becher, werfen, treffen. Wer getroffen wird, deckt eine Dare auf: <strong>erfüllen und Becher retten oder trinken.</strong></p>
+        <div class="lp-buy" id="hero-cta">
+          <a href="{{ adLanding.amazonUrl }}" class="btn-primary lp-btn" data-placement="hero" target="_blank" rel="noopener sponsored">Auf Amazon ansehen &middot; {{ price }}&nbsp;&euro;</a>
+          <p class="lp-buy__note">Über 30.000 Spieler &middot; Versand durch Amazon</p>
+        </div>
+      </div>
+      <div class="hero__visual">
+        <div class="lp-hero__pack">
+          <img src="{{ '/assets/packaging-front.jpg' | url }}" alt="Dare Pong Verpackung mit runden, wasserfesten Dare-Karten" width="1500" height="1465" sizes="(max-width: 960px) 380px, 520px" loading="eager" fetchpriority="high" decoding="async">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== TRUST ========== -->
+  <section class="lp-trust" aria-label="Das Wichtigste auf einen Blick">
+    <ul class="lp-trust__list">
+      {% for item in adLanding.trust %}<li>{{ item }}</li>{% endfor %}
+    </ul>
+  </section>
+
+  <!-- ========== HOW IT WORKS ========== -->
+  <section class="how" id="how">
+    <div class="container">
+      <div class="how__head">
+        <span class="eyebrow">So geht's</span>
+        <h2 class="section-title">In 30 Sekunden erklärt.</h2>
+      </div>
+      <div class="how__grid">
+        <div class="how__card">
+          <span class="how__card-num">01</span>
+          <h3 class="how__card-title">Becher aufbauen</h3>
+          <p class="how__card-body">Klassisches Bierpong-Setup. Unter jeden Becher kommt verdeckt eine Dare-Karte.</p>
+        </div>
+        <div class="how__card">
+          <span class="how__card-num">02</span>
+          <h3 class="how__card-title">Werfen &amp; treffen</h3>
+          <p class="how__card-body">Trifft das gegnerische Team einen Eurer Becher, dreht Ihr die Karte um.</p>
+        </div>
+        <div class="how__card">
+          <span class="how__card-num">03</span>
+          <h3 class="how__card-title">Erfüllen oder trinken</h3>
+          <p class="how__card-body">Dare geschafft: Becher gerettet. Gekniffen: trinken. So einfach ist das.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== DARE DEMO ========== -->
+  <section class="dares" id="dares">
+    <div class="dares__inner">
+      <div class="dares__head">
+        <span class="eyebrow">Probier's aus</span>
+        <h2 class="dares__title">Tipp einen Becher.</h2>
+        <p class="dares__lede">Vier zufällige Dares aus dem Deck. Noch ohne Folgen.</p>
+        <div class="lp-dares__actions">
+          <a href="{{ adLanding.amazonUrl }}" class="btn-primary lp-btn" data-placement="dares" target="_blank" rel="noopener sponsored">Alle 120 Dares holen</a>
+          <button class="dares__reset" onclick="resetDares()">&#8635; Neue Runde</button>
+        </div>
+      </div>
+      <div class="dares__grid" id="dare-grid">
+        {% for i in [0, 1, 2, 3] %}
+        <button class="dare-cell" onclick="flipDare({{ i }})" aria-label="Becher {{ i + 1 }} umdrehen">
+          <svg class="dare-cell__cup" width="92" height="106" viewBox="0 0 120 140" aria-hidden="true">
+            <ellipse cx="60" cy="34" rx="44" ry="8" fill="#FFF7E3"/>
+            <path d="M22 34 L98 34 L88 130 L32 130 Z" fill="#E1342B"/>
+            <path d="M22 34 L98 34 L96 42 L24 42 Z" fill="#B82822"/>
+          </svg>
+        </button>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== WHY ========== -->
+  <section class="lp-why" id="why">
+    <div class="container">
+      <div class="lp-head">
+        <span class="eyebrow">Warum Dare Pong</span>
+        <h2 class="section-title">Einfach auspacken und loslegen.</h2>
+      </div>
+      <div class="lp-why__grid">
+        {% for item in adLanding.why %}
+        <div class="lp-why__item">
+          <h3 class="lp-why__title">{{ item.title }}</h3>
+          <p class="lp-why__body">{{ item.body }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== REVIEWS ========== -->
+  <section class="lp-reviews" id="reviews">
+    <div class="container lp-reviews__inner">
+      <div class="lp-reviews__quotes">
+        <span class="eyebrow">Verifizierte Käufe auf Amazon</span>
+        {% for quote in adLanding.quotes %}
+        <figure class="lp-quote">
+          <blockquote class="lp-quote__text">&bdquo;{{ quote.text }}&ldquo;</blockquote>
+          <figcaption class="lp-quote__who">{{ quote.who }}, Rezension auf Amazon</figcaption>
+        </figure>
+        {% endfor %}
+        <a href="{{ adLanding.amazonUrl }}" class="lp-reviews__link" data-placement="reviews" target="_blank" rel="noopener sponsored">Alle Rezensionen auf Amazon lesen &rarr;</a>
+      </div>
+      <div class="lp-reviews__themes">
+        <p class="lp-reviews__label">Das heben Käufer hervor</p>
+        {% for theme in adLanding.reviewThemes %}
+        <div class="lp-theme">
+          <h3 class="lp-theme__title">{{ theme.title }}</h3>
+          <p class="lp-theme__body">{{ theme.body }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== OCCASIONS ========== -->
+  <section class="lp-occasions" id="anlaesse">
+    <div class="container">
+      <div class="lp-head">
+        <span class="eyebrow">Perfekt für</span>
+        <h2 class="section-title">Überall, wo Becher stehen.</h2>
+      </div>
+      <ul class="lp-occasions__list">
+        {% for item in adLanding.occasions %}
+        <li class="lp-occasion">
+          <span class="lp-occasion__title">{{ item.title }}</span>
+          <span class="lp-occasion__body">{{ item.body }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ========== FAQ ========== -->
+  <section class="faq" id="faq">
+    <div class="faq__inner">
+      <div class="faq__head">
+        <span class="eyebrow">FAQ</span>
+        <h2 class="section-title">Kurz beantwortet.</h2>
+      </div>
+      <div class="faq__list">
+        {% for item in adLanding.faq %}
+        <div class="faq__item{% if loop.first %} is-open{% endif %}">
+          <button class="faq__question" onclick="toggleFaq(this)">
+            <span>{{ item.q }}</span>
+            <span class="faq__chevron">+</span>
+          </button>
+          <div class="faq__answer"><p>{{ item.a }}</p></div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== FINAL CTA ========== -->
+  <section class="cta-banner" id="final-cta">
+    <div class="container">
+      <h2 class="cta-banner__title">Traut Ihr Euch?</h2>
+      <p class="cta-banner__sub">120 Dares für {{ price }}&nbsp;&euro;. Raus aus der Komfortzone, rein ins Spiel.</p>
+      <a href="{{ adLanding.amazonUrl }}" class="btn-primary lp-btn" data-placement="final" target="_blank" rel="noopener sponsored">Jetzt auf Amazon bestellen</a>
+    </div>
+  </section>
+
+  <!-- ========== MOBILE STICKY CTA ========== -->
+  <div class="lp-sticky" id="lp-sticky">
+    <span class="lp-sticky__info"><strong>Dare Pong</strong>{{ price }}&nbsp;&euro;</span>
+    <a href="{{ adLanding.amazonUrl }}" class="btn-primary" data-placement="sticky" target="_blank" rel="noopener sponsored">Auf Amazon ansehen</a>
+  </div>

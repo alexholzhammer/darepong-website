@@ -77,7 +77,7 @@ Wer öfter spielt, fährt mit dem Hartplastik-Set fast immer besser. Und falls d
 
 Becher und Bälle hast du jetzt beisammen. Was noch fehlt, ist das gewisse Etwas. Da kommt [Dare Pong]({{ '/' | url }}) ins Spiel: die deutschsprachige Beer-Pong-Erweiterung mit **120 wasserfesten Dare-Karten**, die du einfach **unter die Becher legst**. Wird ein Becher getroffen, bekommt der Gegner eine Aufgabe – statt nur zu trinken.
 
-Und das für rund **9,97 €**. Neue Becher oder Bälle brauchst du dafür nicht, die Karten kommen einfach unter dein bestehendes Setup. Mehr Action, mehr Lacher, kaum Aufwand.
+Und das für rund **9,99 €**. Neue Becher oder Bälle brauchst du dafür nicht, die Karten kommen einfach unter dein bestehendes Setup. Mehr Action, mehr Lacher, kaum Aufwand.
 
 Suchst du noch mehr für die nächste Feier? In unserem Ratgeber zu [Trinkspielen für den Geburtstag]({{ '/post/trinkspiele-geburtstag/' | url }}) findest du jede Menge Ideen – Beer Pong mit Dare Pong ist dabei selten verkehrt.
 

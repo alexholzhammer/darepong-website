@@ -14,7 +14,7 @@ faq:
   - q: "Welches Trinkspiel eignet sich am besten als Geschenk?"
     a: "Am besten eines, das man ohne Vorbereitung spielen kann und das zu vielen Leuten passt. Unser Top-Pick ist Dare Pong: eine Beer-Pong-Erweiterung mit 120 wasserfesten Dare-Karten für unter 10 Euro. Originell, günstig, passt in fast jede Runde."
   - q: "Was kostet ein gutes Trinkspiel zum Verschenken?"
-    a: "Gute Trinkspiel-Geschenke gibt es schon ab etwa 10 Euro. Dare Pong liegt bei rund 9,97 Euro. Komplette Beer-Pong-Sets oder Trinkspiel-Brettspiele kosten je nach Umfang meist zwischen 15 und 40 Euro."
+    a: "Gute Trinkspiel-Geschenke gibt es schon ab etwa 10 Euro. Dare Pong liegt bei rund 9,99 Euro. Komplette Beer-Pong-Sets oder Trinkspiel-Brettspiele kosten je nach Umfang meist zwischen 15 und 40 Euro."
   - q: "Ist ein Trinkspiel ein passendes Geschenk für Frauen und Männer?"
     a: "Ja. Die meisten Trinkspiele sind geschlechtsneutral und kommen in geselligen Runden bei allen an. Spiele mit Aufgaben und Mutproben wie Dare Pong bringen Männer wie Frauen zum Lachen und lassen sich auch alkoholfrei spielen."
   - q: "Welches Trinkspiel passt als Geschenk zum Geburtstag oder JGA?"

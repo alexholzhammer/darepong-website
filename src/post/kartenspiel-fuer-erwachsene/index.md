@@ -16,7 +16,7 @@ faq:
   - q: "Welches Kartenspiel für Erwachsene eignet sich für große Gruppen?"
     a: "Für große Gruppen sind King's Cup (Ring of Fire) und Dare Pong ideal, weil alle gleichzeitig mitspielen. Auch ein UNO-Trinkspiel läuft ab vier Personen super und ist schnell erklärt."
   - q: "Was kostet ein gutes Kartenspiel für Erwachsene?"
-    a: "Ein Skatdeck für die Klassiker gibt es schon ab wenigen Euro. Fertige Partyspiele wie Dare Pong liegen bei rund 9,97 Euro, ein guter Preis für 120 wasserfeste Karten und sofortigen Partyspaß."
+    a: "Ein Skatdeck für die Klassiker gibt es schon ab wenigen Euro. Fertige Partyspiele wie Dare Pong liegen bei rund 9,99 Euro, ein guter Preis für 120 wasserfeste Karten und sofortigen Partyspaß."
   - q: "Kann man Kartenspiele für Erwachsene auch ohne Alkohol spielen?"
     a: "Ja. Die meisten Kartenspiele für Erwachsene laufen auch mit Aufgaben oder alkoholfreien Getränken. Der Spaß am Bluffen, Treffen und an Mutproben bleibt derselbe, also trinkt einfach verantwortungsvoll."
 ---
@@ -61,7 +61,7 @@ Die beliebtesten Kartenspiele für Erwachsene im direkten Vergleich, von fertige
 
 Diese Kartenspiele für Erwachsene haben sich auf unzähligen Partys bewährt. Wir starten mit unserem Top-Pick und arbeiten uns durch die wichtigsten Klassiker.
 
-1. **Dare Pong - unser Top-Pick.** [Dare Pong]({{ '/' | url }}) ist ein deutschsprachiges Kartenspiel für Erwachsene, das Beer Pong mit Mutproben kombiniert. Die 120 wasserfesten Dare-Karten kommen unter die Becher. Wer trifft, deckt die darunterliegende Karte auf und verteilt die Aufgabe. Das Ergebnis: ein Partyspiel, das nie gleich abläuft, sofort spielbereit ist und für rund 9,97 Euro ein echtes Preis-Leistungs-Highlight ist. Passt fürs Vorglühen, den JGA oder jeden Abend, der eskalieren darf.
+1. **Dare Pong - unser Top-Pick.** [Dare Pong]({{ '/' | url }}) ist ein deutschsprachiges Kartenspiel für Erwachsene, das Beer Pong mit Mutproben kombiniert. Die 120 wasserfesten Dare-Karten kommen unter die Becher. Wer trifft, deckt die darunterliegende Karte auf und verteilt die Aufgabe. Das Ergebnis: ein Partyspiel, das nie gleich abläuft, sofort spielbereit ist und für rund 9,99 Euro ein echtes Preis-Leistungs-Highlight ist. Passt fürs Vorglühen, den JGA oder jeden Abend, der eskalieren darf.
 2. **King's Cup (Ring of Fire).** Der Klassiker schlechthin: Karten kreisförmig um einen Becher auslegen, ziehen, Regel ausführen. Jede Karte hat ihre eigene Aktion, also spielt die ganze Gruppe ständig mit. Die komplette Anleitung findest du bei [King's Cup]({{ '/kings-cup/' | url }}).
 3. **Busfahren.** Ein Mix aus Glück und Schadenfreude: erst raten, dann die Kartenpyramide aufdecken, am Ende muss der Busfahrer durch. Schnell erklärt und ideal für mittelgroße Runden, mehr dazu bei [Busfahren]({{ '/busfahrer/' | url }}).
 4. **Schwimmen (31).** Ein echtes Kartenspiel mit Spielprinzip statt reiner Trinkregeln, das auch zu dritt oder viert super läuft. Die Anleitung gibt es bei [Schwimmen]({{ '/schwimmen/' | url }}).
@@ -87,7 +87,7 @@ Bevor du ein Kartenspiel für Erwachsene kaufst, lohnt ein kurzer Blick auf dies
 - **Anlass:** Vorglühen, JGA, Spieleabend oder Geburtstag? Für laute Partys passen Becher- und Mutproben-Spiele, für gemütliche Runden eher klassische Kartenspiele.
 - **Material und Qualität:** Wasserfeste Karten sind Gold wert, sobald Getränke im Spiel sind. Genau deshalb setzt Dare Pong auf 120 abwischbare Dare-Karten.
 - **Sofort spielbar:** Ein gutes Partyspiel läuft ohne langes Regelstudium. Wer keine Lust auf Erklärungen hat, greift zum fertigen Set statt zum nackten Skatdeck.
-- **Preis-Leistung:** Rund 9,97 Euro für 120 Karten plus Beer-Pong-Action sind kaum zu schlagen.
+- **Preis-Leistung:** Rund 9,99 Euro für 120 Karten plus Beer-Pong-Action sind kaum zu schlagen.
 - **Wiederspielwert:** Achte auf genug Karten und Varianten, damit es nicht nach zwei Runden langweilig wird.
 
 Kannst du dich zwischen zwei Mutproben-Konzepten nicht entscheiden, hilft dir unser Vergleich [Dare Pong vs. Fear Pong]({{ '/post/dare-pong-vs-fear-pong/' | url }}) weiter. Für welches Kartenspiel für Erwachsene du dich am Ende auch entscheidest: Trinkt verantwortungsvoll und passt aufeinander auf.

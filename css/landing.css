@@ -1,0 +1,400 @@
+/* =========================================================
+   DARE PONG — Google Ads Landing Page
+   Loaded after home.css; only adds what the home page lacks.
+   ========================================================= */
+
+/* ---- Slim header ---- */
+
+.site-header--slim .site-header__inner {
+  grid-template-columns: 1fr auto;
+}
+
+/* ---- Hero ---- */
+
+.lp-hero {
+  padding: 40px 0 72px;
+}
+
+.lp-hero__title {
+  font-size: clamp(42px, 6.4vw, 72px);
+  line-height: .95;
+  text-wrap: balance;
+}
+
+.lp-hero__pack {
+  width: 100%;
+  max-width: 520px;
+  background: #fff;
+  border-radius: 28px;
+  padding: 24px;
+  box-shadow: 0 30px 60px -28px #0E0E1055;
+  transform: rotate(1.5deg);
+}
+
+.lp-hero__pack img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.lp-buy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.lp-btn {
+  padding: 20px 30px;
+  font-size: 17px;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.lp-buy__note {
+  font: 600 14px/1.4 var(--font-body);
+  color: var(--fg-muted);
+}
+
+/* ---- Trust strip ---- */
+
+.lp-trust {
+  background: var(--dp-black);
+  color: var(--dp-paper);
+}
+
+.lp-trust__list {
+  list-style: none;
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 18px var(--gutter);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px 28px;
+  font: 700 14px/1.3 var(--font-body);
+}
+
+.lp-trust__list li::before {
+  content: "\2713";
+  color: var(--dp-beer);
+  margin-right: 8px;
+}
+
+/* ---- Dare demo ---- */
+
+.lp-dares__actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+/* ---- Section heads ---- */
+
+.lp-head {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 36px;
+}
+
+.lp-head .eyebrow { color: var(--dp-red); }
+
+/* ---- Why ---- */
+
+.lp-why {
+  background: var(--dp-paper);
+  padding: 88px 0;
+}
+
+.lp-why__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  border-top: 2px solid var(--dp-black);
+}
+
+.lp-why__item {
+  padding: 28px 40px 32px 0;
+  border-bottom: 1px solid var(--border-strong);
+}
+
+.lp-why__item:nth-child(even) {
+  padding-left: 40px;
+  padding-right: 0;
+  border-left: 1px solid var(--border-strong);
+}
+
+.lp-why__title {
+  font: 400 clamp(22px, 2.6vw, 28px)/1.1 var(--font-display);
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.lp-why__body {
+  font: 400 17px/1.5 var(--font-body);
+  color: var(--fg-muted);
+  max-width: 46ch;
+}
+
+/* ---- Reviews ---- */
+
+.lp-reviews {
+  background: var(--dp-beer);
+  color: var(--dp-black);
+  padding: 88px 0;
+}
+
+.lp-reviews__inner {
+  display: grid;
+  grid-template-columns: 1.25fr 1fr;
+  gap: 64px;
+  align-items: center;
+}
+
+.lp-reviews__quotes {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.lp-quote {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.lp-quote__text {
+  font: 400 clamp(30px, 4.2vw, 50px)/1.05 var(--font-display);
+  text-transform: uppercase;
+  text-wrap: balance;
+}
+
+.lp-quote__who {
+  font: 600 15px/1.3 var(--font-body);
+}
+
+.lp-reviews__link {
+  font: 700 16px/1.3 var(--font-body);
+  color: var(--dp-black);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.lp-reviews__themes {
+  background: var(--dp-black);
+  color: var(--dp-paper);
+  border-radius: 24px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.lp-reviews__label {
+  font: 700 12px/1 var(--font-body);
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: var(--dp-beer);
+}
+
+.lp-theme__title {
+  font: 700 18px/1.3 var(--font-body);
+  margin-bottom: 4px;
+}
+
+.lp-theme__body {
+  font: 400 15px/1.5 var(--font-body);
+  color: var(--dp-stone);
+}
+
+/* ---- Occasions (round, like the Dare cards) ---- */
+
+.lp-occasions {
+  background: #fff;
+  padding: 88px 0;
+}
+
+.lp-occasions__list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+}
+
+.lp-occasion {
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: var(--dp-black);
+  color: var(--dp-paper);
+  outline: 1.5px dashed #ffffff66;
+  outline-offset: -10px;
+  padding: 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  text-align: center;
+}
+
+.lp-occasion:nth-child(even) {
+  background: var(--dp-red);
+}
+
+.lp-occasion__title {
+  font: 800 15px/1.2 var(--font-body);
+}
+
+.lp-occasion__body {
+  font: 400 13px/1.3 var(--font-body);
+  opacity: .85;
+}
+
+/* ---- Final CTA ---- */
+
+.cta-banner .lp-btn { min-width: min(100%, 320px); }
+
+/* ---- Sticky mobile CTA ---- */
+
+.lp-sticky {
+  display: none;
+}
+
+/* ---- Slim footer ---- */
+
+.lp-footer {
+  background: var(--dp-black);
+  color: var(--dp-stone);
+  padding: 32px var(--gutter);
+  text-align: center;
+  font: 400 13px/1.6 var(--font-body);
+}
+
+.lp-footer p { max-width: 640px; margin: 0 auto 10px; }
+
+.lp-footer__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 20px;
+}
+
+.lp-footer__links a,
+.lp-footer__links button {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: var(--dp-bone);
+  font: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ---- Responsive ---- */
+
+@media (max-width: 960px) {
+  .lp-hero .hero__visual { order: 0; }
+
+  .lp-reviews__inner {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .lp-occasions__list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .lp-sticky {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 40;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+    background: #fff;
+    border-top: 1px solid var(--border-strong);
+    box-shadow: 0 -8px 24px -12px #0E0E1055;
+    transform: translateY(110%);
+    visibility: hidden;
+    transition: transform var(--dur), visibility var(--dur);
+  }
+
+  .lp-sticky.is-visible {
+    transform: none;
+    visibility: visible;
+  }
+
+  .lp-sticky__info {
+    display: flex;
+    flex-direction: column;
+    font: 500 14px/1.25 var(--font-body);
+  }
+
+  .lp-sticky .btn-primary {
+    padding: 14px 18px;
+    white-space: nowrap;
+  }
+
+  .lp-footer { padding-bottom: 96px; }
+}
+
+@media (max-width: 600px) {
+  .lp-hero { padding: 24px 0 44px; }
+
+  .lp-hero__title { font-size: clamp(38px, 11.5vw, 56px); }
+
+  .lp-hero__pack {
+    max-width: 320px;
+    padding: 14px;
+  }
+
+  .lp-btn { width: 100%; }
+
+  .lp-buy { align-items: stretch; }
+
+  .lp-buy__note { text-align: center; }
+
+  .lp-trust__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    font-size: 13px;
+  }
+
+  .lp-why,
+  .lp-reviews,
+  .lp-occasions { padding: 60px 0; }
+
+  .lp-why__grid { grid-template-columns: 1fr; }
+
+  .lp-why__item,
+  .lp-why__item:nth-child(even) {
+    padding: 22px 0 24px;
+    border-left: 0;
+  }
+
+  .lp-occasions__list {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+
+  .lp-occasion {
+    padding: 22px;
+  }
+
+  .lp-occasion:last-child {
+    grid-column: 1 / -1;
+    width: calc(50% - 5px);
+    justify-self: center;
+  }
+
+  .lp-dares__actions { width: 100%; }
+}

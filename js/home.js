@@ -67,7 +67,7 @@ let buyQty = 1;
 function changeQty(delta) {
   buyQty = Math.max(1, buyQty + delta);
   document.getElementById('buy-qty').textContent = buyQty;
-  const total = (9.97 * buyQty).toFixed(2).replace('.', ',');
+  const total = (9.99 * buyQty).toFixed(2).replace('.', ',');
   document.getElementById('buy-price').textContent = `€${total}`;
 }
 
@@ -83,7 +83,7 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
       window.scrollTo({ top, behavior: 'smooth' });
 
       const nav = document.querySelector('.site-header__nav');
-      if (nav.classList.contains('is-open')) {
+      if (nav && nav.classList.contains('is-open')) {
         nav.classList.remove('is-open');
       }
     }
