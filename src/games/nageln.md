@@ -165,14 +165,14 @@ Wer mit der breiten Fläche schlägt, hätte es viel zu leicht. Die schmale Pinn
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Nageln + Dare Pong</span>
-      <p>Der Verlierer zieht statt zu trinken eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe.</p>
+      <p>Der Verlierer zieht statt zu trinken eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Geschick- und Outdoor-Spiele? Dann probiere diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Start:
+Du magst Geschick- und Outdoor-Spiele? Dann probiere diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Start:
 
 {% gamePreview "flunkyball" %}
 

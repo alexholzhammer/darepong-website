@@ -153,14 +153,14 @@ Edward Fortyhands ist ein **Herausforderungs-Trinkspiel**, bei dem jedem Mitspie
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Edward + Dare Pong</span>
-      <p>Wer Hilfe braucht, muss erst eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte erfüllen, bevor ihm jemand zur Hand geht.</p>
+      <p>Wer Hilfe braucht, muss erst eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte erfüllen, bevor ihm jemand zur Hand geht.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Challenge- und Tempo-Trinkspiele? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten in die Runde:
+Du magst Challenge- und Tempo-Trinkspiele? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten in die Runde:
 
 {% gamePreview "power-hour" %}
 

@@ -160,14 +160,14 @@ Wichtig: Beide Spieler nutzen **dieselbe Flotte**, und die Schiffe dürfen sich 
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Versenken + Dare Pong</span>
-      <p>Wird ein ganzes Schiff versenkt, zieht der Besitzer statt zu trinken eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte.</p>
+      <p>Wird ein ganzes Schiff versenkt, zieht der Besitzer statt zu trinken eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Duelle und gesellige Spiele zu zweit? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Duelle und gesellige Spiele zu zweit? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "beer-pong" %}
 

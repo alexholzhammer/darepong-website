@@ -154,14 +154,14 @@ Mit diesen Regeln gibt es schnell die ersten Lacher und Patzer:
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Cheers + Dare Pong</span>
-      <p>Wer einen Fehler macht, zieht statt zu trinken eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe.</p>
+      <p>Wer einen Fehler macht, zieht statt zu trinken eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst gesellige Spiele ohne Material? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten in die Runde:
+Du magst gesellige Spiele ohne Material? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten in die Runde:
 
 {% gamePreview "ich-hab-noch-nie" %}
 

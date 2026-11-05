@@ -151,7 +151,7 @@ Du willst mehr als nur Lacher? Macht eine Trinkregel daraus. Gespielt wird ganz 
 
 <h2 id="aehnliche-spiele">Ähnliche Spiele</h2>
 
-Du magst freche Party- und Kartenspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst freche Party- und Kartenspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "uno-trinkspiel" %}
 

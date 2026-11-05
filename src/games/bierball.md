@@ -176,14 +176,14 @@ Bierball und [Flunkyball]({{ '/flunkyball/' | url }}) werden oft verwechselt. De
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Bierball + Dare Pong</span>
-      <p>Wer trinken müsste, zieht eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und kann die Aufgabe statt des Schlucks erfüllen.</p>
+      <p>Wer trinken müsste, zieht eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und kann die Aufgabe statt des Schlucks erfüllen.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst schnelle Team- und Outdoor-Spiele? Dann probiere diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten in die Runde:
+Du magst schnelle Team- und Outdoor-Spiele? Dann probiere diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten in die Runde:
 
 {% gamePreview "flunkyball" %}
 

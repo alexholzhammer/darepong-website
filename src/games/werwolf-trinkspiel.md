@@ -188,7 +188,7 @@ Eine Runde besteht immer aus dem Wechsel von **Nacht** und **Tag**. In der Nacht
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst gesellige Gruppenspiele mit viel Interaktion? Dann probiere als Nächstes diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst gesellige Gruppenspiele mit viel Interaktion? Dann probiere als Nächstes diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "wer-wuerde-eher" %}
 

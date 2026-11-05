@@ -91,7 +91,7 @@ Tipp: Hier findest du viele weitere [coole Trinkspiele]({{ '/trinkspiele/' | url
 
 ![Dare Pong - Die Beerpong Erweiterung](/post/studentenspiele/darepong-beerpong-erweiterung.avif)
 
-[Dare Pong - das beste der Studenten-Spiele](https://amzn.to/4nA0xYQ)
+[Dare Pong - das beste der Studenten-Spiele](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)
 
 [Beerpong]({{ '/beer-pong/' | url }}) gehört auf jede Studentenparty. Nur wird es schnell zäh, sobald nicht alle gleich gut treffen. [Dare Pong]({{ '/' | url }}) ändert das: 120 Karten in Bierdeckelform, eine kommt unter jeden Becher. Wer getroffen wird, hat die Wahl, die Aufgabe (Dare) zu erfüllen oder den Becher auszutrinken. Damit ist auf einmal jede Runde anders.
 

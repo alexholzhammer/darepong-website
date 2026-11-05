@@ -139,11 +139,11 @@ Eine App ist bequem – hat aber auch Nachteile: Sie frisst Akku, blendet Werbun
   <figcaption>Picolo App vs. Karten – Akku &amp; Werbung gegen wasserfeste Karten ohne Strom.</figcaption>
 </figure>
 
-Wenn es auf der Party nass oder wild wird, ist ein **wasserfestes Kartenspiel** die robustere Wahl. **[Dare Pong](https://amzn.to/4nA0xYQ)** bringt 120 wasserfeste Dare-Karten mit, jeder zieht seine eigene Aufgabe – kein Akku, kein Abo, kein Risiko fürs Handy. Ideal als Ergänzung oder Alternative zur App.
+Wenn es auf der Party nass oder wild wird, ist ein **wasserfestes Kartenspiel** die robustere Wahl. **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** bringt 120 wasserfeste Dare-Karten mit, jeder zieht seine eigene Aufgabe – kein Akku, kein Abo, kein Risiko fürs Handy. Ideal als Ergänzung oder Alternative zur App.
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Aufgaben- und Geständnis-Spiele? Dann probiere diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Aufgaben- und Geständnis-Spiele? Dann probiere diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "wahrheit-oder-pflicht" %}
 

@@ -155,7 +155,7 @@ Das Herz von Activity sind die drei Arten, einen Begriff rüberzubringen. Welche
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst gesellige Partyspiele für die Gruppe? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst gesellige Partyspiele für die Gruppe? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "tabu-trinkspiel" %}
 
