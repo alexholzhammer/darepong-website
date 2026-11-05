@@ -191,10 +191,11 @@ Lieber zuschauen statt lesen? Dieses Video erklärt Aufbau und Ablauf in wenigen
 
 <div class="video-embed" data-ytid="csr4D6niqtE">
   <button type="button" class="video-embed__play" aria-label="Video abspielen: Beer Pong Regeln erklärt" onclick="loadYouTube(this)">
-    <img src="https://i.ytimg.com/vi/csr4D6niqtE/hqdefault.jpg" alt="Beer Pong Regeln erklärt – Video-Vorschau" width="480" height="360" loading="lazy" eleventy:ignore>
+    <img src="/assets/video-beer-pong.jpg" alt="Beer Pong Regeln erklärt – Video-Vorschau" width="480" height="360" loading="lazy" sizes="(max-width: 760px) 100vw, 720px">
     <span class="video-embed__btn" aria-hidden="true">▶</span>
   </button>
 </div>
+<p class="video-embed__note">Beim Abspielen wird das Video von YouTube geladen und Daten werden an Google übertragen. Mehr dazu in der <a href="/datenschutz/">Datenschutzerklärung</a>.</p>
 
 <h2 id="aufbau">Beer Pong Aufbau: Wie viele Becher und welche Aufstellung?</h2>
 
