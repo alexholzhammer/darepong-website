@@ -81,6 +81,27 @@
   margin-right: 8px;
 }
 
+/* ---- How it works: video beside the steps ---- */
+
+.lp-how {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr;
+  gap: 32px;
+  align-items: start;
+}
+
+.lp-how .video-embed {
+  max-width: none;
+  margin: 0 0 10px;
+}
+
+.lp-how__steps {
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+.lp-how__steps .how__card { padding: 18px 22px; }
+
 /* ---- Dare demo ---- */
 
 .lp-dares__actions {
@@ -297,6 +318,8 @@
 
 @media (max-width: 960px) {
   .lp-hero .hero__visual { order: 0; }
+
+  .lp-how { grid-template-columns: 1fr; }
 
   .lp-reviews__inner {
     grid-template-columns: 1fr;

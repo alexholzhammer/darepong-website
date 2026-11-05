@@ -67,7 +67,22 @@ Sie können Ihre Einwilligung jederzeit über den Link „Cookie-Einstellungen" 
 
 Weitere Informationen: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-## 6. Amazon-Partnerprogramm
+## 6. YouTube-Videos
+
+Auf einigen Seiten zeigen wir Videos von **YouTube**. Dafür nutzen wir den erweiterten Datenschutzmodus (youtube-nocookie.com) und eine Zwei-Klick-Lösung: Beim Aufruf der Seite sehen Sie nur ein Vorschaubild, das von unseren eigenen Servern geladen wird. Zu diesem Zeitpunkt besteht noch keine Verbindung zu YouTube.
+
+Erst wenn Sie auf das Vorschaubild klicken, wird der YouTube-Player geladen und das Video gestartet. Dabei wird eine Verbindung zu Servern von YouTube hergestellt, und es werden Daten wie Ihre IP-Adresse und die aufgerufene Seite an YouTube übertragen. YouTube kann dabei Cookies oder ähnliche Technologien einsetzen. Wenn Sie in Ihrem Google-Konto angemeldet sind, kann YouTube das Abspielen Ihrem Konto zuordnen. Auf diese Datenverarbeitung haben wir keinen Einfluss.
+
+**Anbieter:** Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland  
+**Zweck:** Darstellung von Videos  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung durch Klick auf das Video)  
+**Datentransfer:** Die Daten können auf Server in den USA übertragen werden. Google LLC ist nach dem EU-US Data Privacy Framework zertifiziert.
+
+Wenn Sie kein Video starten, werden keine Daten an YouTube übertragen. Die Einwilligung gilt jeweils nur für das gestartete Video.
+
+Weitere Informationen: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+## 7. Amazon-Partnerprogramm
 
 Links zu Amazon auf dieser Website sind Partner-Links. Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.
 
@@ -79,7 +94,7 @@ Beim Aufruf unserer Seiten wird keine Verbindung zu Amazon hergestellt. Erst wen
 
 Für die Datenverarbeitung auf den Websites von Amazon ist Amazon selbst verantwortlich. Weitere Informationen: [Datenschutzerklärung von Amazon](https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010)
 
-## 7. Kontaktformular
+## 8. Kontaktformular
 
 Wenn Sie uns über unser Kontaktformular kontaktieren, werden die von Ihnen eingegebenen Daten (z. B. Name, E-Mail-Adresse, Nachricht) zur Bearbeitung Ihrer Anfrage bei uns gespeichert.
 
@@ -89,7 +104,7 @@ Wenn Sie uns über unser Kontaktformular kontaktieren, werden die von Ihnen eing
 
 Eine Weitergabe dieser Daten an Dritte erfolgt nicht.
 
-## 8. Ihre Rechte
+## 9. Ihre Rechte
 
 Sie haben gegenüber uns folgende Rechte bezüglich Ihrer personenbezogenen Daten:
 
@@ -103,7 +118,7 @@ Sie haben gegenüber uns folgende Rechte bezüglich Ihrer personenbezogenen Date
 
 Zur Ausübung Ihrer Rechte wenden Sie sich an: [info@spielleute.eu](mailto:info@spielleute.eu)
 
-## 9. Beschwerderecht bei der Aufsichtsbehörde
+## 10. Beschwerderecht bei der Aufsichtsbehörde
 
 Sie haben das Recht, sich bei der zuständigen Datenschutzaufsichtsbehörde zu beschweren:
 

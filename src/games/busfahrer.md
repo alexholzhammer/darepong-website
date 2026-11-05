@@ -130,10 +130,11 @@ Lieber zuschauen statt lesen? Dieses Video erklärt den kompletten Ablauf Schrit
 
 <div class="video-embed" data-ytid="x4hT5WNDoMo">
   <button type="button" class="video-embed__play" aria-label="Video abspielen: Busfahren Regeln erklärt" onclick="loadYouTube(this)">
-    <img src="https://i.ytimg.com/vi/x4hT5WNDoMo/hqdefault.jpg" alt="Busfahren Regeln erklärt – Video-Vorschau" width="480" height="360" loading="lazy" eleventy:ignore>
+    <img src="/assets/video-busfahrer.jpg" alt="Busfahren Regeln erklärt – Video-Vorschau" width="480" height="360" loading="lazy" sizes="(max-width: 760px) 100vw, 720px">
     <span class="video-embed__btn" aria-hidden="true">▶</span>
   </button>
 </div>
+<p class="video-embed__note">Beim Abspielen wird das Video von YouTube geladen und Daten werden an Google übertragen. Mehr dazu in der <a href="/datenschutz/">Datenschutzerklärung</a>.</p>
 
 ### Phase 1 – Die Raterunde
 

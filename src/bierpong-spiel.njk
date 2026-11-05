@@ -49,21 +49,32 @@ extraJS: landing.js
         <span class="eyebrow">So geht's</span>
         <h2 class="section-title">In 30 Sekunden erklärt.</h2>
       </div>
-      <div class="how__grid">
-        <div class="how__card">
-          <span class="how__card-num">01</span>
-          <h3 class="how__card-title">Becher aufbauen</h3>
-          <p class="how__card-body">Klassisches Bierpong-Setup. Unter jeden Becher kommt verdeckt eine Dare-Karte.</p>
+      <div class="lp-how">
+        <div class="lp-how__video">
+          <div class="video-embed" data-ytid="{{ adLanding.video.id }}" data-yttitle="{{ adLanding.video.title }}">
+            <button type="button" class="video-embed__play" aria-label="Video abspielen: {{ adLanding.video.title }}" onclick="loadYouTube(this)">
+              <img src="{{ '/assets/dare-pong-video.jpg' | url }}" alt="Vier Freunde lesen gemeinsam eine Dare-Karte" width="1280" height="720" sizes="(max-width: 960px) 100vw, 680px" loading="lazy" decoding="async">
+              <span class="video-embed__btn" aria-hidden="true">&#9654;</span>
+            </button>
+          </div>
+          <p class="video-embed__note">Beim Abspielen wird das Video von YouTube geladen und Daten werden an Google übertragen. Mehr dazu in der <a href="{{ '/datenschutz/' | url }}">Datenschutzerklärung</a>.</p>
         </div>
-        <div class="how__card">
-          <span class="how__card-num">02</span>
-          <h3 class="how__card-title">Werfen &amp; treffen</h3>
-          <p class="how__card-body">Trifft das gegnerische Team einen Eurer Becher, dreht Ihr die Karte um.</p>
-        </div>
-        <div class="how__card">
-          <span class="how__card-num">03</span>
-          <h3 class="how__card-title">Erfüllen oder trinken</h3>
-          <p class="how__card-body">Dare geschafft: Becher gerettet. Gekniffen: trinken. So einfach ist das.</p>
+        <div class="how__grid lp-how__steps">
+          <div class="how__card">
+            <span class="how__card-num">01</span>
+            <h3 class="how__card-title">Becher aufbauen</h3>
+            <p class="how__card-body">Klassisches Bierpong-Setup. Unter jeden Becher kommt verdeckt eine Dare-Karte.</p>
+          </div>
+          <div class="how__card">
+            <span class="how__card-num">02</span>
+            <h3 class="how__card-title">Werfen &amp; treffen</h3>
+            <p class="how__card-body">Trifft das gegnerische Team einen Eurer Becher, dreht Ihr die Karte um.</p>
+          </div>
+          <div class="how__card">
+            <span class="how__card-num">03</span>
+            <h3 class="how__card-title">Erfüllen oder trinken</h3>
+            <p class="how__card-body">Dare geschafft: Becher gerettet. Gekniffen: trinken. So einfach ist das.</p>
+          </div>
         </div>
       </div>
     </div>
