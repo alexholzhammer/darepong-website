@@ -9,6 +9,31 @@ ctaPitch: "Auch zu zweit ein echtes Duell: Dare Pong macht aus 1-gegen-1-Beer-Po
 answer: "Zu zweit laufen Mäxchen, Beer Pong (1 gegen 1), Wahrheit oder Pflicht, 17+4 und Schwimmen besonders gut. Meist reichen Karten oder Würfel – und alkoholfrei spielen lässt sich alles davon."
 image: /post/trinkspiele-zu-zweit/trinkspiele-zu-zweit-klassiker-neuheiten.avif
 imageAlt: "Trinkspiele zu zweit - Klassiker und Neuheiten für Pärchen und beste Freunde"
+itemList:
+  - Beer Pong
+  - Mäxchen
+  - Schiffe versenken
+  - Bierjunge
+  - Beer Darts
+  - Kniffel-Trinkspiel
+  - Würfelpoker
+  - Bierdeckel
+  - Nageln
+  - Trink-Roulette
+  - Ich hab noch nie
+  - Buffalo
+  - Cheers to the Governor
+  - Schnick-Schnack-Schnuck
+  - Was würdest du eher
+  - Busfahrer
+  - Schwimmen
+  - 17 und 4
+  - Höher oder niedriger
+  - UNO-Trinkspiel
+  - Wahrheit oder Pflicht
+  - Picolo
+  - Stadt-Land-Fluss
+  - Skribbl
 tags:
   - post
   - Trinkspiele
