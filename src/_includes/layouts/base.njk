@@ -229,11 +229,14 @@
   </script>
   <!-- End Google Tag Manager -->
 
-  <!-- Google Fonts — async to avoid render-blocking -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Graduate&family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Graduate&family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap"></noscript>
+  <!-- Self-hosted fonts: no request to Google before consent. Preload only what is above the fold. -->
+  <link rel="preload" href="{{ '/assets/fonts/graduate-regular.woff2' | url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ '/assets/fonts/inter-latin-variable.woff2' | url }}" as="font" type="font/woff2" crossorigin>
+  <style>
+    @font-face { font-family: 'Graduate'; font-style: normal; font-weight: 400; font-display: swap; src: url({{ '/assets/fonts/graduate-regular.woff2' | url }}) format('woff2'); }
+    @font-face { font-family: 'Inter'; font-style: normal; font-weight: 400 900; font-display: swap; src: url({{ '/assets/fonts/inter-latin-variable.woff2' | url }}) format('woff2'); }
+    @font-face { font-family: 'JetBrains Mono'; font-style: normal; font-weight: 400; font-display: swap; src: url({{ '/assets/fonts/jetbrains-mono-latin-400.woff2' | url }}) format('woff2'); }
+  </style>
 
   <!-- Critical styles inlined to remove the render-blocking CSS requests -->
   <style>{{ "global.css" | inlineCSS | safe }}</style>
