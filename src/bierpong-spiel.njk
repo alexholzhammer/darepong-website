@@ -124,28 +124,12 @@ extraJS: landing.js
     </div>
   </section>
 
-  <!-- ========== REVIEWS ========== -->
+  <!-- ========== REVIEWS LINK ========== -->
   <section class="lp-reviews" id="reviews">
     <div class="container lp-reviews__inner">
-      <div class="lp-reviews__quotes">
-        <span class="eyebrow">Verifizierte Käufe auf Amazon</span>
-        {% for quote in adLanding.quotes %}
-        <figure class="lp-quote">
-          <blockquote class="lp-quote__text">&bdquo;{{ quote.text }}&ldquo;</blockquote>
-          <figcaption class="lp-quote__who">{{ quote.who }}, Rezension auf Amazon</figcaption>
-        </figure>
-        {% endfor %}
-        <a href="{{ adLanding.amazonUrl }}" class="lp-reviews__link" data-placement="reviews" target="_blank" rel="noopener sponsored">Alle Rezensionen auf Amazon lesen &rarr;</a>
-      </div>
-      <div class="lp-reviews__themes">
-        <p class="lp-reviews__label">Das heben Käufer hervor</p>
-        {% for theme in adLanding.reviewThemes %}
-        <div class="lp-theme">
-          <h3 class="lp-theme__title">{{ theme.title }}</h3>
-          <p class="lp-theme__body">{{ theme.body }}</p>
-        </div>
-        {% endfor %}
-      </div>
+      <h2 class="section-title">Noch nicht überzeugt?</h2>
+      <p class="lp-reviews__sub">Lest auf Amazon, was andere Käufer schreiben.</p>
+      <a href="{{ adLanding.amazonUrl }}" class="btn-primary lp-btn" data-placement="reviews" target="_blank" rel="noopener sponsored">Rezensionen auf Amazon lesen</a>
     </div>
   </section>
 

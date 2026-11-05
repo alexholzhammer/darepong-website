@@ -157,7 +157,7 @@ Der Ablauf ist in Sekunden erklärt: Kategorie wählen, Handy an die Stirn, Time
 
 <h2 id="aehnliche-spiele">Ähnliche Partyspiele</h2>
 
-Du magst schnelle Partyspiele für die Gruppe? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst schnelle Partyspiele für die Gruppe? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "picolo" %}
 

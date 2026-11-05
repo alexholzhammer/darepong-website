@@ -168,7 +168,7 @@ Dir fällt spontan nichts ein? Such dir etwas aus – von harmlos bis pikant. Ei
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Frage- und Geständnis-Spiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Frage- und Geständnis-Spiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "wahrheit-oder-pflicht" %}
 

@@ -171,7 +171,7 @@ Die Reihenfolge der Pokerhände zu kennen, ist beim Würfelpoker alles – von o
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Würfelpoker + Dare Pong</span>
-      <p>Wer die niedrigste Hand hat, zieht statt zu trinken eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe.</p>
+      <p>Wer die niedrigste Hand hat, zieht statt zu trinken eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe.</p>
     </div>
   </div>
 </div>
@@ -180,7 +180,7 @@ Die Reihenfolge der Pokerhände zu kennen, ist beim Würfelpoker alles – von o
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Würfel- und Knobelspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Würfel- und Knobelspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "maexchen" %}
 

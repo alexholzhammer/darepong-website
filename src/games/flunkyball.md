@@ -174,7 +174,7 @@ Flunkyball lässt sich nach Lust und Laune aufpeppen – das sind die beliebtest
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Flunkyball + Dare Pong</span>
-      <p>Legt unter jede Flasche eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte. Wer trinken müsste, kann stattdessen eine Dare erfüllen, um zu passen.</p>
+      <p>Legt unter jede Flasche eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte. Wer trinken müsste, kann stattdessen eine Dare erfüllen, um zu passen.</p>
     </div>
   </div>
 </div>
@@ -192,7 +192,7 @@ Kurz gesagt: **Flunkyball** ist das klassische Spiel mit **einer** Zielflasche i
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Team- und Outdoor-Trinkspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Start:
+Du magst Team- und Outdoor-Trinkspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Start:
 
 {% gamePreview "bierball" %}
 

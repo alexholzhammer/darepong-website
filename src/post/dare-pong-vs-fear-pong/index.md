@@ -27,7 +27,7 @@ Veröffentlicht am 16.01.2022
 
 ![Dare Pong vs. Fear Pong – Überblick beider Spiele](dare-pong-vs-fear-pong-vergleich.avif)
 
-[Dare Pong](https://amzn.to/4nA0xYQ) und [Fear Pong](https://www.amazon.de/Fear-Pong-Ber%C3%BChmtes-Internet/dp/B07SK8H89W) bauen auf demselben Prinzip auf: Beer Pong mit Aufgaben. Unter jeden Becher kommt eine Dare-Karte. Wird der Becher getroffen, heißt es Aufgabe erfüllen oder Becher trinken. Im Grunde [Beer Pong]({{ '/beer-pong/' | url }}) gekreuzt mit Wahrheit oder Pflicht.
+[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE) und [Fear Pong](https://www.amazon.de/Fear-Pong-Ber%C3%BChmtes-Internet/dp/B07SK8H89W) bauen auf demselben Prinzip auf: Beer Pong mit Aufgaben. Unter jeden Becher kommt eine Dare-Karte. Wird der Becher getroffen, heißt es Aufgabe erfüllen oder Becher trinken. Im Grunde [Beer Pong]({{ '/beer-pong/' | url }}) gekreuzt mit Wahrheit oder Pflicht.
 
 Wo liegen die Unterschiede konkret? Dieser Vergleich nimmt Aufgaben, Kartenanzahl, Preis und Sprache auseinander, zeigt Beispiel-Dares und erklärt, wie du dir dein eigenes Spiel bastelst.
 
@@ -104,4 +104,4 @@ Sein eigenes Dare/Fear Pong zu basteln, ist keine große Sache. Legt unter jeden
 
 Beide Spiele heizen jede Party an: Es wird mehr getrunken, mehr geflirtet, mehr gelacht. Wer mit Englisch keine Probleme hat und sich harte Dares zutraut, kann ruhig zu Fear Pong greifen. Für die meisten Runden in Deutschland ist aber Dare Pong die bessere Wahl – die Dares sind sorgfältig ausgewählt und lassen sich über die Kategorien an die Gruppe anpassen.
 
-[Dare Pong ist hier erhältlich](https://amzn.to/4nA0xYQ)
+[Dare Pong ist hier erhältlich](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)

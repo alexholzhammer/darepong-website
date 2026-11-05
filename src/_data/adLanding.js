@@ -2,7 +2,7 @@
    amazonUrl: hier den Amazon-Attribution-Link eintragen, sobald er vorliegt.
    Alle Buttons der Seite nutzen diesen einen Wert. */
 module.exports = {
-  amazonUrl: "https://amzn.to/4nA0xYQ",
+  amazonUrl: "https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE",
 
   video: {
     id: "mp1Hq2GvN0Y",
@@ -36,30 +36,8 @@ module.exports = {
     }
   ],
 
-  /* Wörtliche Rezensionen von Amazon. Weitere Einträge erscheinen automatisch
-     auf der Seite: { text: "...", who: "Vorname N." } */
-  quotes: [
-    {
-      text: "Dare Pong ist eine super Ergänzung zu klassischem Bierpong",
-      who: "Monja D."
-    }
-  ],
-
-  /* Eigene Zusammenfassung von Amazon-Rezensionen, keine Zitate. */
-  reviewThemes: [
-    {
-      title: "Bringt Abwechslung",
-      body: "Käufer schätzen, dass aus dem bekannten Bierpong etwas Besonderes wird."
-    },
-    {
-      title: "Beliebt als Geschenk",
-      body: "Zum Beispiel zum 18. Geburtstag, für die eigene Party oder für Freunde."
-    },
-    {
-      title: "Passt zu jeder Runde",
-      body: "Wer möchte, nimmt einzelne Karten raus und stellt das Deck für die Gruppe zusammen."
-    }
-  ],
+  /* Keine Rezensionen oder Sterne von Amazon auf dieser Seite zeigen:
+     Die Programmrichtlinien des Partnerprogramms (6t) erlauben das nur über die Amazon-API. */
 
   occasions: [
     { title: "Wichteln & Geschenke", body: "Unter 10 € und garantiert kein Fehlgriff." },

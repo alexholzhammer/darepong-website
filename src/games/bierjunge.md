@@ -154,14 +154,14 @@ Der Bierjunge ist ein **Eins-gegen-eins-Trinkduell**: Einer fordert den anderen 
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Bierjunge + Dare Pong</span>
-      <p>Der Verlierer zieht eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe statt einer zweiten Runde.</p>
+      <p>Der Verlierer zieht eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe statt einer zweiten Runde.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst schnelle Duelle und Wettkampf-Trinkspiele? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Start:
+Du magst schnelle Duelle und Wettkampf-Trinkspiele? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Start:
 
 {% gamePreview "flunkyball" %}
 

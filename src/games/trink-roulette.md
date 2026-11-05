@@ -162,7 +162,7 @@ Mit ein paar Regeln wird aus reinem Glück ein abwechslungsreiches Partyspiel:
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Trink-Roulette + Dare Pong</span>
-      <p>Auf bestimmten Feldern wird eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte gezogen – Aufgabe erfüllen oder das Glas leeren.</p>
+      <p>Auf bestimmten Feldern wird eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte gezogen – Aufgabe erfüllen oder das Glas leeren.</p>
     </div>
   </div>
 </div>
@@ -179,7 +179,7 @@ So lässt sich Trink-Roulette spontan überall spielen – ähnlich flexibel wie
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Glücks- und Tischspiele? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Glücks- und Tischspiele? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "kings-cup" %}
 

@@ -169,14 +169,14 @@ Die Power Hour lässt sich beliebig skalieren, von der Einsteiger- bis zur Profi
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Power Hour + Dare Pong</span>
-      <p>Bei jedem Songwechsel zieht eine Person eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte – Aufgabe erfüllen oder zusätzlich trinken.</p>
+      <p>Bei jedem Songwechsel zieht eine Person eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte – Aufgabe erfüllen oder zusätzlich trinken.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst gesellige Spiele für die ganze Runde? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten ins Spiel:
+Du magst gesellige Spiele für die ganze Runde? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten ins Spiel:
 
 {% gamePreview "ich-hab-noch-nie" %}
 

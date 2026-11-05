@@ -174,14 +174,14 @@ Snappa und [Bierball]({{ '/bierball/' | url }}) oder Beer Die werden oft verwech
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Snappa + Dare Pong</span>
-      <p>Das Verliererteam zieht statt zu trinken eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt gemeinsam die Aufgabe.</p>
+      <p>Das Verliererteam zieht statt zu trinken eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt gemeinsam die Aufgabe.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Team- und Tischspiele? Dann probiere als Nächstes diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Team- und Tischspiele? Dann probiere als Nächstes diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "beer-pong" %}
 

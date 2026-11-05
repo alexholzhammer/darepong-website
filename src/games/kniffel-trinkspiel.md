@@ -191,7 +191,7 @@ Der Spielblock teilt sich in einen oberen und einen unteren Block. Hier die Kate
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Würfelspiele und Klassiker? Dann probiere als Nächstes diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Würfelspiele und Klassiker? Dann probiere als Nächstes diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "wuerfelpoker" %}
 

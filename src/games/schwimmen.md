@@ -180,14 +180,14 @@ Schwimmen ist ein **Karten-Glücksspiel** für 2 bis 9 Personen. Jeder Spieler h
   <div class="game__variant">
     <div class="game__variant-body">
       <span class="game__variant-name">Schwimmen + Dare Pong</span>
-      <p>Wer untergeht, zieht statt zu trinken eine <a href="https://amzn.to/4nA0xYQ" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe.</p>
+      <p>Wer untergeht, zieht statt zu trinken eine <a href="https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE" target="_blank" rel="noopener sponsored">Dare-Pong</a>-Karte und erfüllt die Aufgabe.</p>
     </div>
   </div>
 </div>
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Karten- und Glücksspiele? Dann probiere diese – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Karten- und Glücksspiele? Dann probiere diese – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "17-und-4" %}
 

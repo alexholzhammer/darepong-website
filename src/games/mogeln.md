@@ -157,7 +157,7 @@ Vor jedem neuen Zug darf jeder „Mogeln!“ rufen. Dann werden die zuletzt abge
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du magst Bluff- und Kartenspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Bluff- und Kartenspiele? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "maexchen" %}
 

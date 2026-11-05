@@ -188,7 +188,7 @@ module.exports = function (eleventyConfig) {
   // before the middle <h2> so it lands mid-article (never right at the table of
   // contents). `pitch` is a post-specific hook sentence; falls back to a generic
   // line. Returns content unchanged when there are too few headings to place it.
-  const CTA_AMZN = "https://amzn.to/4nA0xYQ";
+  const CTA_AMZN = "https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE";
   eleventyConfig.addFilter("injectCta", function (content, pitch) {
     const text =
       pitch ||

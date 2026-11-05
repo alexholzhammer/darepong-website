@@ -126,7 +126,7 @@ Buffalo lässt sich mit ein paar Hausregeln beliebig anpassen:
 
 ## Ähnliche Trinkspiele ohne Material
 
-Du magst Spiele, die ganz ohne Equipment auskommen? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du magst Spiele, die ganz ohne Equipment auskommen? Dann probiere als Nächstes diese Klassiker – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 
 <figure class="game__diagram">

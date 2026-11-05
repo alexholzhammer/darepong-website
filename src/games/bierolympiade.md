@@ -159,7 +159,7 @@ Du weißt nicht, welche Spiele du aufbauen sollst? Wähl dir 4–6 aus dieser Li
 
 <h2 id="aehnliche-spiele">Ähnliche Trinkspiele</h2>
 
-Du suchst Disziplinen für deine Bierolympiade? Diese Klassiker dürfen nicht fehlen – oder bring mit **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch:
+Du suchst Disziplinen für deine Bierolympiade? Diese Klassiker dürfen nicht fehlen – oder bring mit **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch:
 
 {% gamePreview "beer-pong" %}
 

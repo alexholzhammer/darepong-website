@@ -159,76 +159,25 @@
   max-width: 46ch;
 }
 
-/* ---- Reviews ---- */
+/* ---- Reviews link ---- */
 
 .lp-reviews {
   background: var(--dp-beer);
   color: var(--dp-black);
-  padding: 88px 0;
+  padding: 72px 0;
 }
 
 .lp-reviews__inner {
-  display: grid;
-  grid-template-columns: 1.25fr 1fr;
-  gap: 64px;
+  display: flex;
+  flex-direction: column;
   align-items: center;
-}
-
-.lp-reviews__quotes {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 24px;
-}
-
-.lp-quote {
-  display: flex;
-  flex-direction: column;
   gap: 16px;
+  text-align: center;
 }
 
-.lp-quote__text {
-  font: 400 clamp(30px, 4.2vw, 50px)/1.05 var(--font-display);
-  text-transform: uppercase;
-  text-wrap: balance;
-}
-
-.lp-quote__who {
-  font: 600 15px/1.3 var(--font-body);
-}
-
-.lp-reviews__link {
-  font: 700 16px/1.3 var(--font-body);
-  color: var(--dp-black);
-  text-decoration: underline;
-  text-underline-offset: 4px;
-}
-
-.lp-reviews__themes {
-  background: var(--dp-black);
-  color: var(--dp-paper);
-  border-radius: 24px;
-  padding: 30px;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.lp-reviews__label {
-  font: 700 12px/1 var(--font-body);
-  letter-spacing: .18em;
-  text-transform: uppercase;
-  color: var(--dp-beer);
-}
-
-.lp-theme__title {
-  font: 700 18px/1.3 var(--font-body);
-  margin-bottom: 4px;
-}
-
-.lp-theme__body {
-  font: 400 15px/1.5 var(--font-body);
-  color: var(--dp-stone);
+.lp-reviews__sub {
+  font: 500 18px/1.4 var(--font-body);
+  margin-bottom: 8px;
 }
 
 /* ---- Occasions (round, like the Dare cards) ---- */
@@ -320,11 +269,6 @@
   .lp-hero .hero__visual { order: 0; }
 
   .lp-how { grid-template-columns: 1fr; }
-
-  .lp-reviews__inner {
-    grid-template-columns: 1fr;
-    gap: 32px;
-  }
 
   .lp-occasions__list {
     grid-template-columns: repeat(3, 1fr);

@@ -352,7 +352,7 @@ Beim Re-Rack werden die übrigen Becher neu angeordnet. Je nach Restzahl haben s
   <figcaption>Typische Re-Rack-Formationen: 6 → Pyramide, 4 → Diamant, 3 → Dreieck, 2 → Linie.</figcaption>
 </figure>
 
-Wer es noch wilder mag, kombiniert Beer Pong mit verwandten Becher-Spielen wie [Flip Cup]({{ '/flip-cup/' | url }}) oder [King's Cup]({{ '/kings-cup/' | url }}). Und für die extra Portion Mut bringt **[Dare Pong](https://amzn.to/4nA0xYQ)** 120 wasserfeste Dare-Karten an den Tisch – jeder Treffer löst dann eine Aufgabe aus.
+Wer es noch wilder mag, kombiniert Beer Pong mit verwandten Becher-Spielen wie [Flip Cup]({{ '/flip-cup/' | url }}) oder [King's Cup]({{ '/kings-cup/' | url }}). Und für die extra Portion Mut bringt **[Dare Pong](https://www.amazon.de/dp/B07SQGZG9W?tag=beerpongde-21&language=de_DE)** 120 wasserfeste Dare-Karten an den Tisch – jeder Treffer löst dann eine Aufgabe aus.
 
 <h2 id="glossar">Wichtige Beer-Pong-Begriffe (Glossar)</h2>
 
