@@ -9,6 +9,17 @@ ctaPitch: "Beer Pong gehört auf jede Geburtstagsparty. Mit den 120 Dares von Da
 answer: "Die besten Trinkspiele zum Geburtstag sind King's Cup, Beer Pong, Flip Cup, das Jenga-Trinkspiel und Ich hab noch nie. Für große Runden eignen sich Flunkyball und Flip Cup, für gesellige Abende Ich hab noch nie – alle auch alkoholfrei spielbar."
 image: /post/trinkspiele-geburtstag/trinkspiele-geburtstag-beste-spiele.avif
 imageAlt: "Die 10 besten Trinkspiele für Geburtstage - Spaßgarantie für jede Party"
+itemList:
+  - King's Cup
+  - Beer Pong
+  - Flip Cup
+  - Jenga Trinkspiel
+  - Ich hab noch nie
+  - Quarters
+  - Buzz
+  - Most Likely
+  - Flunkyball
+  - Nageln
 tags:
   - post
   - Trinkspiele

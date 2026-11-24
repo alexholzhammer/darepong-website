@@ -9,6 +9,32 @@ ctaPitch: "Wie gemacht für 2 gegen 2: Dare Pong bringt 120 Dares an den Beer-Po
 answer: "Zu viert sind Beer Pong (2 gegen 2), King's Cup, Flip Cup und Busfahren ideal. Mit vier Leuten klappen Team-Spiele genauso wie Karten- und Würfelrunden – und alkoholfrei geht alles davon auch."
 image: /post/trinkspiele-zu-viert/trinkspiele-zu-viert.avif
 imageAlt: "Trinkspiele zu viert - die besten 25 Spiele für 4 Personen"
+itemList:
+  - Kings Cup
+  - Beer Pong
+  - Jenga Trinkspiel
+  - Ring of Fire
+  - Never Have I Ever
+  - Quarters
+  - Civil War
+  - Flip Cup
+  - Picolo App
+  - Hochstapler
+  - Wizard
+  - Ich hab noch nie
+  - Most Likely
+  - Speed Facts
+  - Busfahrer
+  - Medusa
+  - Zwei Wahrheiten, eine Lüge
+  - Trinkroulette
+  - Battleship
+  - Power Hour
+  - Thumper
+  - Arschloch
+  - Slap Cup
+  - Cup Stack
+  - Wizard's Staff
 tags:
   - post
   - Trinkspiele
