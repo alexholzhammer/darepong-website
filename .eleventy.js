@@ -66,6 +66,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("fonts");
   // Favicons + web manifest, served from the site root (/favicon.ico, etc.)
   eleventyConfig.addPassthroughCopy({ "favicons": "/" });
+  // Google Search Console verification file, served from the site root
+  eleventyConfig.addPassthroughCopy("google6187f8996d978bc8.html");
   // Cloudflare redirects (e.g. /partyspiele/ -> /trinkspiele/), served from root
   eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
   eleventyConfig.addPassthroughCopy({ "src/_headers": "_headers" });
